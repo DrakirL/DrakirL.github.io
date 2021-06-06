@@ -10,7 +10,7 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Dual Operation](/pdf/sample_presentation.pdf)
+[Dual Operation](https://drive.google.com/file/d/1LFYAVFDFm7m9Op3bN05J7dILKCGaxqve/view?usp=sharing)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
