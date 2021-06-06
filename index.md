@@ -10,7 +10,7 @@
 <img src="images/DOWN_1.png?raw=true"/>
 
 ---
-[Dual Operation](https://drive.google.com/file/d/1LFYAVFDFm7m9Op3bN05J7dILKCGaxqve/view?usp=sharing)
+[Dual Operation](/dual_operations_page)
 <img src="images/DO.png?raw=true"/>
 
 ---
