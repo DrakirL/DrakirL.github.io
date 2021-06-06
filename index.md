@@ -7,7 +7,7 @@
 //(/pdf/sample_presentation.pdf)
 
 [DOWN](https://drive.google.com/file/d/1V7ngUk-L0xeTcyrCg0qIF14bSrtISk1i/view?usp=sharing)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/DOWN_1.jpg?raw=true"/>
 
 ---
 [Dual Operation](https://drive.google.com/file/d/1LFYAVFDFm7m9Op3bN05J7dILKCGaxqve/view?usp=sharing)
