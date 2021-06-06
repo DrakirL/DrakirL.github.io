@@ -3,8 +3,10 @@
 ---
 
 ### University Projects
+//(/sample_page)
+//(/pdf/sample_presentation.pdf)
 
-[DOWN](/sample_page)
+[DOWN](https://drive.google.com/file/d/1V7ngUk-L0xeTcyrCg0qIF14bSrtISk1i/view?usp=sharing)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
