@@ -2,7 +2,7 @@
 
 ---
 ### Bachelor Thesis
-[Action in Reading Comprehension](http://example.com/)
+[Action in Reading Comprehension](/pdf/a18rikla_projektarbete.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ### University Projects
