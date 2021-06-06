@@ -1,6 +1,6 @@
 ## DOWN
 <img src="images/DOWN_1.png?raw=true"/>
-**Project description:** DOWN is a 2D platformer.
+DOWN is a 2D platformer.
 
 ### X
 <img src="images/DOWN_2.png?raw=true"/>
