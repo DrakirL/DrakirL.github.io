@@ -6,9 +6,6 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ### University Projects
-//(/sample_page)
-//(/pdf/sample_presentation.pdf)
-
 [DOWN](/down_page)
 <img src="images/DOWN_1.png?raw=true"/>
 
