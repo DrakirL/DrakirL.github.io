@@ -11,7 +11,7 @@
 
 ---
 [Dual Operations](/dual_operations_page)
-<img src="images/DO.png?raw=true"/>
+<img src="images/DO.jpg?raw=true"/>
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
