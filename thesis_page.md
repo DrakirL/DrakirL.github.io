@@ -25,7 +25,9 @@ if (isAwesome){
 
 <img src="images/Thesis_1.png?raw=true"/>
 [Version VN Download](https://drive.google.com/file/d/1r5PEB-YGWYgxHo1u0d7FEzhzTF7iefP4/view?usp=sharing)
+
 [Version PW Download](https://drive.google.com/file/d/1x1dM35KjZCDRAhcZo0tb3HSHaqisEhbx/view?usp=sharing)
+
 [Version DR Download](https://drive.google.com/file/d/1A16HJglTMUUKzd7as2_bp8MHJNwielVK/view?usp=sharing)
 
 ### 4. Provide a basis for further data collection through surveys or experiments
