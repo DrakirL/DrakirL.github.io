@@ -2,7 +2,7 @@
 
 ---
 ### Bachelor Thesis (in progress)
-[Action in Reading Comprehension](/pdf/a18rikla_projektarbete.pdf)
+[Action in Reading Comprehension](/thesis_page)
 <img src="images/HiS.png?raw=true"/>
 
 ### University Projects
