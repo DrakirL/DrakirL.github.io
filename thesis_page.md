@@ -18,7 +18,7 @@ Instead, it may reduce the students' overall performance by serving as a distrac
 [Version VN Download](https://drive.google.com/file/d/1r5PEB-YGWYgxHo1u0d7FEzhzTF7iefP4/view?usp=sharing) <br>
 [Version PW Download](https://drive.google.com/file/d/1x1dM35KjZCDRAhcZo0tb3HSHaqisEhbx/view?usp=sharing) <br>
 [Version DR Download](https://drive.google.com/file/d/1A16HJglTMUUKzd7as2_bp8MHJNwielVK/view?usp=sharing)
-<br>
+<br> <br>
 The dialogue manager used in all versions is overdevelloped, and has support for more characters and dialogue choices.
 ```javascript
 if (isAwesome){
