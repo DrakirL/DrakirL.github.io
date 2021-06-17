@@ -16,7 +16,7 @@ blablabla
 <img src="images/DO_3.png?raw=true"/>
 blablabla
 
-[Click Here to Watch the Trailer](https://drive.google.com/file/d/1cgWPX_1l5-SUCnhm9ML_PIRVdCxnt-gk/view?usp=sharing)
+[Click Here to Watch the Trailer](https://drive.google.com/file/d/1cgWPX_1l5-SUCnhm9ML_PIRVdCxnt-gk/view?usp=sharing) <br>
 [Click Here to Download the Game](https://drive.google.com/file/d/1LFYAVFDFm7m9Op3bN05J7dILKCGaxqve/view?usp=sharing)
 
 ### Instructions for playing the game
