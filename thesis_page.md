@@ -22,7 +22,6 @@ Instead, it may reduce the students' overall performance by serving as a distrac
 Games such as *Phoenix Wright: Ace Attorney* or *Danganronpa: Trigger Happy Havoc* are popular examples of games where comprehending text is a critical part of being able to complete the challenges they provide the player, and have therefore been used as inpiration for the games made for this study. <br>
 The script used among the games is ispired by the game *Among Us*, as it's theme of basic murder mysteries match a simplified version of the other sources of inspiration. It was also chosen because of it already being well known amongst a large portion of the potential participants, and easy to grasp for others.<br>
 The games were made using Unity 3D for its ease of use when rendering objects and sprites as well as when exporting and editing the different versions.
-Läsförståelsetexten i denna studie i form av en mordgåta inspirerades av DR (2014) och har adapterats från Among Us (2018).
 
 <img src="images/Thesis_1.png?raw=true"/>
 [Version VN Download](https://drive.google.com/file/d/1r5PEB-YGWYgxHo1u0d7FEzhzTF7iefP4/view?usp=sharing) <br>
