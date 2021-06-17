@@ -1,7 +1,11 @@
 ## Bachelor Thesis - Action in Reading Comprehension
 [Click here for the Full PDF](/pdf/a18rikla_projektarbete.pdf)
 
-**Project description:** Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+**Project description:** Läsförståelse är att kunna ta till sig betydelsen av lästa texter, och är en förutsättning för att kunna lära sig genom det skrivna ordet. Om man inte kan ta till sig texter eller förstå frågor relaterade till en text är det svårt att ge rätt svar även om man sitter inne med kunskaperna. Eftersom det i dagens samhälle är viktigt med en god läsförståelse är det ett viktigt område inom skolundervisningen.
+
+Engagemang och motivation är viktiga drivkrafter för inlärning. Dataspel är konstruerade för att skapa engagemang (Jennett et al. 2008). Förhoppningen är att dataspel anpassade för undervisning ska kunna användas för att höja studiengagemang. 
+
+Detta arbete kommer undersöka ifall spelmekaniken bidrar med en noterbar påverkan på spelarens förmåga att ta till sig textens innehåll. En mordgåta kommer att skrivas och implementeras i olika spelsystem som passar för ett rättegångsscenario. Dessa system ska framställas i Unity 3D (Unity Technologies 2005) och använda mekaniker från PW och DR. Sedan kommer försökspersoner att delas in i grupper och få försöka lösa mordgåtan via ett av dessa mekaniksystem eller att bara läsa mordgåtan som text. Effekten på spelarens läsförståelse som beror på systemens skillnader kommer mätas genom spelarnas antal försök per fråga och genom deras svar på ett läsförståelsetest de får fylla i efter att de löst gåtan.
 
 ### 1. Summary
 Not yet available, as this study is still in progress.
