@@ -11,9 +11,9 @@ Dual Operations is a the result of a game project course where students from dif
  - Making sure everybody contributed to the project
  - Scheduling and administration
 
-<img src="images/DOWN_2.png?raw=true"/>
+<img src="images/DO_2.png?raw=true"/>
 blablabla
-<img src="images/DOWN_3.png?raw=true"/>
+<img src="images/DO_3.png?raw=true"/>
 blablabla
 
 [Click Here to Watch the Trailer](https://drive.google.com/file/d/1cgWPX_1l5-SUCnhm9ML_PIRVdCxnt-gk/view?usp=sharing)
