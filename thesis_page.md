@@ -17,18 +17,16 @@ I also speculate that if students are made to engage with a text through action 
 Instead, it may reduce the students' overall performance by serving as a distraction.
 
 ### 3. Tools and techniques
+Flera versioner PW (2001) och DR (2014) är kända exempel på visual novel-spel där läsförståelse är en avgörande komponent för att klara sig vidare i spelet. Båda dessa spel är relevanta för denna studie eftersom det utöver elementen av läsförståelse är görbart att utveckla spel liknande dessa inom ramen för ett examensarbete. DR har ett mera komplext spelsystem än PW. Utgångspunkten för designen var att göra ett spel som till sitt upplägg liknar DR, och sedan modifiera till version PW och VN.
+
+För att presentera en och samma text på olika sätt, inklusive som “visual novel”-spel, har spelmotorn Unity 3D (Unity Technologies 2005) använts eftersom den erbjuder ett användarvänligt sätt att rendera text och bilder. Läsförståelsetexten i denna studie i form av en mordgåta inspirerades av DR (2014) och har adapterats från Among Us (2018). Läsförståelsetestet som har använts i denna studie är inspirerat framför allt av QRI-metoden (Leslie & Caldwell 2021).
 
 <img src="images/Thesis_1.png?raw=true"/>
 [Version VN Download](https://drive.google.com/file/d/1r5PEB-YGWYgxHo1u0d7FEzhzTF7iefP4/view?usp=sharing) <br>
 [Version PW Download](https://drive.google.com/file/d/1x1dM35KjZCDRAhcZo0tb3HSHaqisEhbx/view?usp=sharing) <br>
 [Version DR Download](https://drive.google.com/file/d/1A16HJglTMUUKzd7as2_bp8MHJNwielVK/view?usp=sharing)
 <br> <br>
-The dialogue manager used in all versions is overdevelloped, and has support for more characters and dialogue choices.
-```javascript
-if (isAwesome){
-  return true
-}
-```
+The dialogue manager used in all versions is overdevelloped for the purpose of the current study. It has support for including more characters and dialogue options intended for creating complete visual novel experiences. Read the full report for a detailed overveiw.
 
 ### 4. Provide a basis for further data collection through surveys or experiments
 
