@@ -28,6 +28,5 @@ För att presentera en och samma text på olika sätt, inklusive som “visual n
 <br> <br>
 The dialogue manager used in all versions is overdevelloped for the purpose of the current study. It has support for including more characters and dialogue options intended for creating complete visual novel experiences. Read the full report for a detailed overveiw.
 
-### 4. Provide a basis for further data collection through surveys or experiments
-
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
+### 4. Data collection
+Not yet available, as collection is currently ongoing.
