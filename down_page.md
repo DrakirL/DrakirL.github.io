@@ -6,12 +6,5 @@ On their way towards the top of the tower in this charming first game project, t
 <img src="images/DOWN_2.png?raw=true"/>
 <img src="images/DOWN_3.png?raw=true"/>
 
+[Click Here to Watch the Trailer](https://drive.google.com/file/d/1zki7kvMJ9mQfKTBASoiMq_2EsmbdPe-I/view?usp=sharing)
 [Click Here to Download](https://drive.google.com/file/d/1V7ngUk-L0xeTcyrCg0qIF14bSrtISk1i/view?usp=sharing)
-
-### X
-
-```javascript
-if (isAwesome){
-  return true
-}
-```
