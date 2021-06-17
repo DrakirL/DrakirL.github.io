@@ -1,11 +1,13 @@
 ## Bachelor Thesis - Action in Reading Comprehension
 [Click here for the Full PDF](/pdf/a18rikla_projektarbete.pdf)
 
-**Project description:** Läsförståelse är att kunna ta till sig betydelsen av lästa texter, och är en förutsättning för att kunna lära sig genom det skrivna ordet. Om man inte kan ta till sig texter eller förstå frågor relaterade till en text är det svårt att ge rätt svar även om man sitter inne med kunskaperna. Eftersom det i dagens samhälle är viktigt med en god läsförståelse är det ett viktigt område inom skolundervisningen.
-
-Engagemang och motivation är viktiga drivkrafter för inlärning. Dataspel är konstruerade för att skapa engagemang (Jennett et al. 2008). Förhoppningen är att dataspel anpassade för undervisning ska kunna användas för att höja studiengagemang. 
-
-Detta arbete kommer undersöka ifall spelmekaniken bidrar med en noterbar påverkan på spelarens förmåga att ta till sig textens innehåll. En mordgåta kommer att skrivas och implementeras i olika spelsystem som passar för ett rättegångsscenario. Dessa system ska framställas i Unity 3D (Unity Technologies 2005) och använda mekaniker från PW och DR. Sedan kommer försökspersoner att delas in i grupper och få försöka lösa mordgåtan via ett av dessa mekaniksystem eller att bara läsa mordgåtan som text. Effekten på spelarens läsförståelse som beror på systemens skillnader kommer mätas genom spelarnas antal försök per fråga och genom deras svar på ett läsförståelsetest de får fylla i efter att de löst gåtan.
+**Project description:** Reading comprehension is one's the ability to absorb and understand the contents of a text whilst reading it, and is the basis for education in the modern day. Even if one has the right knowledge, giving the right answers becomes difficult without properly understanding the texts and questions. Because education is so important, reading comprehension is as well, and there is merit in putting effort into researching ways to increase student engagement and ability regarding the subject.
+<br>
+Engagement and motivation are important driving factors in getting students to learn. Videogames are designed with the purpose of keeping the user engaged in mind. Ergo, videogames could be designed as aid meant to keep students egaged in subjects such as reading comprehension.
+<br><br>
+This studie is mean to test if engaging with a text through logical puzzles can improve the reader's corehension of the text, as well as if specific game mechanics used in a text-reliant game can noticably affect the player's ability to comprehend the content of text long term. <br>
+This is accomplished by develloping three different versions of a murder mystery visual novel game, each using the same script and having the same puzzles, but adding or removing other factors which make the different version more or less similar to games from the Ace Attorney and Danganronpa series. <br>
+Each participant played one of the three versions of the visual novel before taking a test quizzing them about the content of the games' dialogue. The intent is to spot any correlations between the version played, and the time spent playing between all participants.
 
 ### 1. Summary
 Not yet available, as this study is still in progress.
@@ -17,9 +19,8 @@ I also speculate that if students are made to engage with a text through action 
 Instead, it may reduce the students' overall performance by serving as a distraction.
 
 ### 3. Tools and techniques
-Flera versioner PW (2001) och DR (2014) är kända exempel på visual novel-spel där läsförståelse är en avgörande komponent för att klara sig vidare i spelet. Båda dessa spel är relevanta för denna studie eftersom det utöver elementen av läsförståelse är görbart att utveckla spel liknande dessa inom ramen för ett examensarbete. DR har ett mera komplext spelsystem än PW. Utgångspunkten för designen var att göra ett spel som till sitt upplägg liknar DR, och sedan modifiera till version PW och VN.
-
-För att presentera en och samma text på olika sätt, inklusive som “visual novel”-spel, har spelmotorn Unity 3D (Unity Technologies 2005) använts eftersom den erbjuder ett användarvänligt sätt att rendera text och bilder. Läsförståelsetexten i denna studie i form av en mordgåta inspirerades av DR (2014) och har adapterats från Among Us (2018). Läsförståelsetestet som har använts i denna studie är inspirerat framför allt av QRI-metoden (Leslie & Caldwell 2021).
+Games such as *Phoenix Wright: Ace Attorney* or *Danganronpa: Trigger Happy Havoc* are popular examples of games where comprehending text is a critical part of being able to complete the challenges they provide the player, and have therefore been used as inpiration for the games made for this study. <br>
+The games were made using Unity 3D for its ease of use for rendering objects and sprites as well as För att presentera en och samma text på olika sätt, inklusive som “visual novel”-spel, har spelmotorn Unity 3D (Unity Technologies 2005) använts eftersom den erbjuder ett användarvänligt sätt att rendera text och bilder. Läsförståelsetexten i denna studie i form av en mordgåta inspirerades av DR (2014) och har adapterats från Among Us (2018).
 
 <img src="images/Thesis_1.png?raw=true"/>
 [Version VN Download](https://drive.google.com/file/d/1r5PEB-YGWYgxHo1u0d7FEzhzTF7iefP4/view?usp=sharing) <br>
