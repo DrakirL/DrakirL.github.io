@@ -20,8 +20,11 @@ blablabla
 [Click Here to Download the Game](https://drive.google.com/file/d/1LFYAVFDFm7m9Op3bN05J7dILKCGaxqve/view?usp=sharing)
 
 ### Instructions for playing the game
-Dual operations är tänkt att spelas med två datorer som befinner sig inom samma lokala nätverk, har spelet installerat och att porten som spelet kommunicerar genom är tillåtet att både skicka in och ut signaler genom båda datorernas brandväggar; porten som spelet använder är “7777”.
-Det går också att testa spelet för sig själv med en dator genom att ha två körande program samtidigt och ansluta via IP-adressen localhost, men då kommer man bara kunna styra den karaktär som är i det fönster man har öppet för tillfället.
-Är man på olika nätverk kan man använda  Hamachi och ansluta varandras datorer genom deras nätverk. Man loggar in och startar Hamachi, där kan man skapa ett nätverk som den andra personen kan ansluta sig till. När båda är inne i nätverket så kan en börja hosta och den andra spelaren kan höger klicka på den spelarens som hostars namn och sedan kopiera dennes IP4-adress. Spelaren kan sedan kopiera in IP4-adressen där det står localhost och trycka på Join Game. Viktigt att tänka på är att man måste ha ett konto på Hamachi och att det kan vara bra att sätta upp det innan man börjar spela.
-
-Den som HOSTar spelet kommer att spela som hacker och den som trycker på JOIN är Agent. Som ni ser har vi lämnat in två olika versioner av spelet. Den som heter Agent har mer ljussättning då agenten kan gå in i alla rum. Den som heter hacker har mindre ljussättning då hackern bara kan se ut ur kameror. Anledningen till att vi har två är för att vi har haft stora problem med fps och performance så det är rekommenderat att spela på den version som matchar den roll man spelar!
+Dual operations is meant to be played useing two computers on the same local network, so that the players can be within earshot of each other. <br>
+Each computer needs to have the game installed and running, and they both need to have granted the game access to send and recieve signals through port '7777' to allow the games to communicate through the computer's firewalls.
+<br><br>
+If both players are on the same network, one of them can host the game by clicking the 'HOST GAME'-button and the other join the game the first player is hosting by writing the host's IP4-address in place of where it says 'localhost' and then clicking the 'JOIN GAME'-button. <br>
+The game can start after both players have clicked the 'READY'-button and does start when the hosting player clicks the 'START'. <br>
+The hosting player will take the roll as operator and the one that joins will become their agent.
+<br><br>
+It is possible to test run the game on one computer by running the program twice and using "localhost" as the address, but since player control is restricted to the window that is currently open, actually playing this way is not feasible.
