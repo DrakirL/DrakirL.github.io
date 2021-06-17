@@ -10,4 +10,4 @@ DOWN is a the result of a game project course where students from different area
 <img src="images/DOWN_3.png?raw=true"/>
 
 [Click Here to Watch the Trailer](https://drive.google.com/file/d/1zki7kvMJ9mQfKTBASoiMq_2EsmbdPe-I/view?usp=sharing)<br>
-[Click Here to Download](https://drive.google.com/file/d/1V7ngUk-L0xeTcyrCg0qIF14bSrtISk1i/view?usp=sharing)
+[Click Here to Download the Game](https://drive.google.com/file/d/1V7ngUk-L0xeTcyrCg0qIF14bSrtISk1i/view?usp=sharing)
