@@ -2,7 +2,10 @@
 <img src="images/DO_1.png?raw=true"/>
 Dual Operations is a cooperative two-player stealth game where one player takes the role of a secret agent infliltrating a heavily guarded facility. The other player takes the role of the agent's operator, having access to a map of the facility and the ability to mess with facility's security systems.
 The players will have to work together if they are to succeed in their mission to steal the enemy's secret plan and escape undetected.
-<br><br>
+<br>
+<img src="images/DO_2.png?raw=true"/>
+<img src="images/DO_3.png?raw=true"/>
+<br>
 Dual Operations is a the result of a game project course where students from different areas of study at the University of Skövde collaborate. In this project I worked as a programmer as well as the project manager for the team of 15 people. My duties included:
  - Debugging
  - Optimization
@@ -10,11 +13,6 @@ Dual Operations is a the result of a game project course where students from dif
  - Coordinating output from the different discipline subteams
  - Making sure everybody contributed to the project
  - Scheduling and administration
-
-<img src="images/DO_2.png?raw=true"/>
-blablabla
-<img src="images/DO_3.png?raw=true"/>
-blablabla
 
 [Click Here to Watch the Trailer](https://drive.google.com/file/d/1cgWPX_1l5-SUCnhm9ML_PIRVdCxnt-gk/view?usp=sharing) <br>
 [Click Here to Download the Game](https://drive.google.com/file/d/1LFYAVFDFm7m9Op3bN05J7dILKCGaxqve/view?usp=sharing)
