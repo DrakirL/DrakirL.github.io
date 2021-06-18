@@ -15,7 +15,8 @@ Dual Operations is a the result of a game project course where students from dif
  - Scheduling and administration
 
 [Click Here to Watch the Trailer](https://drive.google.com/file/d/1cgWPX_1l5-SUCnhm9ML_PIRVdCxnt-gk/view?usp=sharing) <br>
-[Click Here to Download the Game](https://drive.google.com/file/d/1LFYAVFDFm7m9Op3bN05J7dILKCGaxqve/view?usp=sharing)
+[Click Here to Download the Game](https://drive.google.com/file/d/1LFYAVFDFm7m9Op3bN05J7dILKCGaxqve/view?usp=sharing) <br>
+[Click Here to View the Repository](https://github.com/DrakirL/Dual-Operations)
 
 ### Instructions for playing the game
 Dual operations is meant to be played using two computers on the same local network, so that the players can be within earshot of each other. <br>
