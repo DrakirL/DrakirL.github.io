@@ -1,7 +1,7 @@
 ## Portfolio
 
 ---
-### Bachelor Thesis (in progress)
+### Bachelor Thesis
 [Action in Reading Comprehension](/thesis_page)
 <img src="images/HiS.png?raw=true"/>
 
