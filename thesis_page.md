@@ -11,7 +11,20 @@ This is performed by developing three different versions of a murder mystery vis
 Each participant is playing one of the three versions of the visual novel before taking a test quizzing them about the content of the games' dialogue. The intent is to spot any correlations between the version played and the performance on a reading comprehension test, as well as the time spent playing.
 
 ### 1. Summary
-Not yet available, as this study is still in progress.
+Denna  studie  syftade  till  att  kvantitativt  jämföra  hur  dataspelmekaniska  skillnader 
+påverkar  spelares  förmåga  att  förstå  en  text.  Hypotesen  var  att  försökspersoner  som 
+engagerat sig i texten via spel innehållande logikpussel presterar bättre på ett 
+efterföljande läsförståelsetest om innehållet än de som läst texten utan pusselelement. 
+För  att  testa  hypotesen  skapades  tre  spelversioner  för  presentation  av  samma  text:  
+Visual Novel (VN) utan pusselelement, samt Phoenix Wright- (PW) och 
+Danganronpainspirerade (DR) versioner med pusselelement. Ett bekvämlighetsurval på 
+29  försökspersoner  rekryterades.  8,  11  respektive  10  försökspersoner  slumpades  att 
+spela  version  VN,  PW  eller  DR,  följt  av  läsförståelsetestet.  Av  maxpoängen  23  på 
+läsförståelsetestet  var  medelvärde  och  standardavvikelse  för  respektive  grupp:  VN 
+10.6±4.7, PW 11.3±2.9, DR 13.4±4.0. Vid parvis jämförelse mellan grupperna 
+identifierades  inga  signifikanta  skillnader.  Poweranalys  visade  att  studien  hade  krävt 
+fler försökspersoner för statistiskt relevant hypotesprövning. Studien kan fungera som 
+pilot för liknande framtida större undersökningar.
 
 ### 2. Hypothesis
 The hypothesis is that if students are made to engage with a text through puzzles, their ability to recall and reflect over its contents will be greater than if they had simply read it.
@@ -30,6 +43,3 @@ The games were made using Unity 3D for its ease of use when rendering objects an
 [Version DR Download](https://drive.google.com/file/d/1A16HJglTMUUKzd7as2_bp8MHJNwielVK/view?usp=sharing)
 <br> <br>
 Note that the dialogue manager used in all versions is overdeveloped for the purpose of the current study. It has support for including more characters and dialogue options intended for creating complete visual novel experiences. Read the full report for a more detailed overveiw.
-
-### 4. Data collection
-Not yet available, as collection is currently ongoing.
