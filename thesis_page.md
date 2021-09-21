@@ -11,20 +11,13 @@ This is performed by developing three different versions of a murder mystery vis
 Each participant is playing one of the three versions of the visual novel before taking a test quizzing them about the content of the games' dialogue. The intent is to spot any correlations between the version played and the performance on a reading comprehension test, as well as the time spent playing.
 
 ### 1. Summary
-Denna  studie  syftade  till  att  kvantitativt  jämföra  hur  dataspelmekaniska  skillnader 
-påverkar  spelares  förmåga  att  förstå  en  text.  Hypotesen  var  att  försökspersoner  som 
-engagerat sig i texten via spel innehållande logikpussel presterar bättre på ett 
-efterföljande läsförståelsetest om innehållet än de som läst texten utan pusselelement. 
-För  att  testa  hypotesen  skapades  tre  spelversioner  för  presentation  av  samma  text:  
-Visual Novel (VN) utan pusselelement, samt Phoenix Wright- (PW) och 
-Danganronpainspirerade (DR) versioner med pusselelement. Ett bekvämlighetsurval på 
-29  försökspersoner  rekryterades.  8,  11  respektive  10  försökspersoner  slumpades  att 
-spela  version  VN,  PW  eller  DR,  följt  av  läsförståelsetestet.  Av  maxpoängen  23  på 
-läsförståelsetestet  var  medelvärde  och  standardavvikelse  för  respektive  grupp:  VN 
-10.6±4.7, PW 11.3±2.9, DR 13.4±4.0. Vid parvis jämförelse mellan grupperna 
-identifierades  inga  signifikanta  skillnader.  Poweranalys  visade  att  studien  hade  krävt 
-fler försökspersoner för statistiskt relevant hypotesprövning. Studien kan fungera som 
-pilot för liknande framtida större undersökningar.
+This study made quantitative comparisons between the impact on different game mechanics on players understanding and recollection of a given text. The hypothesis was that participants that engaged with a text through the logic puzzles of a game would fair better on a proceeding reading comprehension test about the contents of that text compare to those who read the text without any puzzle element. <br>
+Three distinct versions of a game made to present the same text were made to test the hypothesis: Version VN (Visual Novel) without any puzzle element, and versions PW (Phoenix Wright) and DR  (Danganronpa) with puzzle elements. <br>
+In total, 29 participants were recruited to play and take the reading comprehension test. The version each participant played was randomized, resulting in 8, 11, and 10 participants playing versions VN, PW, and DR respectively. Out of the maximum score of 23 points on the reading comprehension test, the average score and standard deviation for each group was as follows: <br>
+VN; 10.6±4.7 <br> PW; 11.3±2.9 <br> DR; 13.4±4.0 <br>
+When compared pair by pair, no statisticly significant differance was found between the scores corresponding to any two versions. <br>
+A retroactive power analysis of the study showed that more participants would be required for the hypothesis test to be statisticly significant.
+This studien could be used as pilot for a similar larger study in the future.
 
 ### 2. Hypothesis
 The hypothesis is that if students are made to engage with a text through puzzles, their ability to recall and reflect over its contents will be greater than if they had simply read it.
