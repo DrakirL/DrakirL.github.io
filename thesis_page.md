@@ -1,4 +1,3 @@
-## ONGOING
 ## Bachelor Thesis - Action in Reading Comprehension
 [Click here for the Full PDF](/pdf/Action i läsförståelse.pdf)
 
