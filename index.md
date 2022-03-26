@@ -13,6 +13,9 @@
 [Dual Operations](/dual_operations_page)
 <img src="images/DO_1.png?raw=true"/>
 
+### Passion Project
+[D&D 5.25e](https://drive.google.com/drive/folders/1YIGAw_KUb3ypHMQmmDF5FIXfSucCXqry?usp=sharing) <br>
+(WIP)
 
 ### Algorithm Tests
 A project containing small generic console solutions I've handled in my free time <br>
