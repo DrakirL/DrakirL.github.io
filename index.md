@@ -1,10 +1,11 @@
 ## Portfolio
 
----
+--
 ### Bachelor Thesis
 [Action in Reading Comprehension](/thesis_page)
 <img src="images/HiS.png?raw=true"/>
 
+--
 ### University Projects
 [DOWN](/down_page)
 <img src="images/DOWN_1.png?raw=true"/>
@@ -13,10 +14,12 @@
 [Dual Operations](/dual_operations_page)
 <img src="images/DO_1.png?raw=true"/>
 
+--
 ### Passion Project
 [D&D 5.25e](https://drive.google.com/drive/folders/1YIGAw_KUb3ypHMQmmDF5FIXfSucCXqry?usp=sharing) <br>
 (WIP)
 
+--
 ### Algorithm Tests
 A project containing small generic console solutions I've handled in my free time <br>
 [Click here to download](https://drive.google.com/file/d/1AAiH4BnhP6MvRvFwzGZWxhAqMwQgM2ch/view?usp=sharing)
