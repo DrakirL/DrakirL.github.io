@@ -1,24 +1,27 @@
-## This can be your internal website page / project page
+## Welcome to "Project 10"
+In the wake of the WotC/OGL chaos, D&D as a system and brand has been in rough shape. Other systems have been eager to swoop in and adopt promising a classic dungeoncrawling experience. I have no interest in DMing a dungeon crawl. I want to tell the stories that are only possible to tell in the world the game system suggests, leaning more towards something like the Legend of Vox Machina animated series.
 
-**Project description:** Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+**Character Creation** 
+<br>
+[Attributes](https://example.com)
+<br>
+[Ancestry](https://example.com)
+<br>
+[Background](https://example.com)
+<br>
+[Class](/p10/classes_page)
 
-### 1. Suggest hypotheses about the causes of observed phenomena
+### Gameplay Rules
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
+<br>
+[General](https://example.com)
+<br>
+[Combat](https://example.com)
+<br>
+[Travel](https://example.com)
+<br>
+[Downtime](https://example.com)
 
-```javascript
-if (isAwesome){
-  return true
-}
-```
-
-### 2. Assess assumptions on which statistical inference will be based
-
-```javascript
-if (isAwesome){
-  return true
-}
-```
 
 ### 3. Support the selection of appropriate statistical tools and techniques
 
