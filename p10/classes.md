@@ -1,5 +1,6 @@
 ## Pick your class
 Your class is the way you are an adventurer. It defines most of your features.
+<br>
 
 **Warriors**
 As an adventurer, combat against monsters is inevitable. The warrior classes are always as ready they can be to throw down.
