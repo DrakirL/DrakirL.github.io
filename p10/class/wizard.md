@@ -8,25 +8,38 @@ Powerful sages that bend reality to their wims. <br>
 **Hit Die:** d6 <br>
 <br>
 **Saves:** Intelligence. Charisma. <br>
-**Skills:** Three of choice? <br>
+**Skills:** Three of choice. <br>
 **Weapons:** Only the basics. <br>
 <br>
 **Armor:** None. <br>
 **Shields:** None. <br>
 **Focus:** Arcane. <br>
-**Education:** Calligraphy. <br>
+**Training:** Calligraphy. <br>
 
 ## Wizard Class Features
-These are the core features granted for the Fighter Class.
+These are the core features granted for the Wizard Class.
 
 ### Level 1: Spellcasting
 You can cast spells!
 #### Casting Method
 Your Intelligence becomes your Spellcasting Ability.
 #### Learned Spells
-You 4 Arcane Spells of your choice.
+At each Level, you learn 4 Arcane Spells of your choice. <br>
+No spell learned this way may be of a Rank higher than your level.
 #### Spell Slots
-(INSERT TABLE HERE)
+The number of Spell Slots you have of each Rank depends on your Level according to the table below. <br>
+LEVEL: | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 
+---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:
+Rank 1: | 3 | 4 | 5 | 5 | 5 | 5 | 5 | 5 | 5 | 5 
+Rank 2: | | 2 | 3 | 4 | 5 | 5 | 5 | 5 | 5 | 5
+Rank 3: | | | 1 | 2 | 3 | 3 | 4 | 4 | 4 | 4
+Rank 4: | | | | 1 | 2 | 2 | 3 | 4 | 4 | 4
+Rank 5: | | | | | 1 | 2 | 2 | 2 | 3 | 3
+Rank 6: | | | | | | 1 | 1 | 2 | 2 | 3
+Rank 7: | | | | | | | 1 | 1 | 2 | 2 
+Rank 8: | | | | | | | | 1 | 1 | 2
+Rank 9: | | | | | | | | | 1 | 1
+Rank 10: | | | | | | | | | | 1
 
 ### Level 1: Taker of Notes
 On your adventures, you might find written notes about spells. For example, you could discover a magic Spell Scroll in an ancient library or steal a tome from an evil mage’s chest. If you spare the time and resources to decode the notes and practice a such a spell, you can add it to your own repetoir. <br>

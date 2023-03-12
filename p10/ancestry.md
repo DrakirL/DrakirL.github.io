@@ -89,7 +89,7 @@ Choose one of the following benefits:
 
 ## Changelings
 Changelings, in their true forms, are blank, in every sense of the word. Like a marble statues of the humans they could have been. <br>
-As changelings are rare, they generally live in other cultures. <br>
+As changelings are rare, they generally live in other cultures by disguising themselves as whatever race is relevant. <br>
 ???
 **Increased Attributes**
 +2 to your Charisma Attribute. <br>
