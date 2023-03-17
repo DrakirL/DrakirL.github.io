@@ -14,7 +14,7 @@ Powerful sages that bend reality to their wims. <br>
 **Armor:** None. <br>
 **Shields:** None. <br>
 **Focus:** Arcane. <br>
-**Training:** Calligraphy. <br>
+**Training:** An education of choice? Calligraphy. <br>
 
 ## Wizard Class Features
 These are the core features granted for the Wizard Class.
@@ -82,11 +82,11 @@ Choose one Rank 5 Arcane Spell you know. That spell counts as a Cantrip for you.
 THEME: Magic is chaotic by default, and spells are just ways to tame its power. But it would SURELY be more effective to just let it loose, right?
 
 ### Level 1: Imbue/Overload? with Potential
-??? Spend some time and resources (real cheap compare to spell scroll) to expend a Spell Slot and store a spark in an object. DETAILS?
-<br> When a creature uses the infused object, it causes a Wild Magic Surge with a Surge Value equal to the Rank of the expended Spell Slot. DETAILS?
+??? Spend some time and resources (real cheap compare to spell scroll) to expend a Spell Slot and store a spark in an object. DETAILS? <br>
+When a creature uses the infused object, it causes a Wild Magic Surge with a Surge Value equal to the Rank of the expended Spell Slot. DETAILS?
 ### Level 1: Arcane Flux
-You can use 1 Action on your turn and expend a Spell Slot to cause Wild Magic Surge with a Surge Value equal to the Rank of the expended Spell Slot.
-<br> After doing so, you may regain one Spell Slot of a lower rank than the one you expended.
+You can use 1 Action on your turn and expend a Spell Slot to cause Wild Magic Surge with a Surge Value equal to the Rank of the expended Spell Slot. <br>
+After doing so, you may regain one Spell Slot of a lower rank than the one you expended.
 
 ### Level 3: Reflexive Flux
 After you take damage, you can use your *Arcane Flux* feature regardless of whose turn it is, even if the damage is lethal.

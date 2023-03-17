@@ -19,10 +19,14 @@ Conniving experts that can find and exploit any weakness in a foe or their plans
 ## Rogue Class Features
 These are the core features granted for the Rogue Class.
 
-### Level 1: Opportunist/Multitasking?
-More ways to get Advantage? More actions?
 ### Level 1: Sneak Attack!
-If you hit a creature with a Weapon Attack and you have advantage on the roll, you add a number of d6 equal to your Level to the weapon damage dealt.
+If you hit a creature with a Weapon Attack and you have advantage on the roll, you add a number of d6 equal to your Level to the weapon damage dealt. <br>
+After you've dealt this extra damage, you can't do so again until you regain your Actions.
+### Level 1: Opportunist
+You gain Advantage on a Weapon Attack you make against a creature in the following situations:
+ + If the Attack is a Sudden Strike.
+ + If the target creature is downed or ??? (DETAILS?)
+ + If you have an allied creature within 5 feet of the target creature on the opposite side from where you are attacking it.
 ### Level 1: Rogue Subclass
 You choose a Rogue Subclass and gain its Level 1 Features.
 

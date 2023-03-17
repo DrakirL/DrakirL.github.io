@@ -9,7 +9,6 @@ Paragons of talent exploring all kinds of fields in all kinds of ways. <br>
 <br>
 **Saves:** Agility. Charisma. <br>
 **Skills:** Three of choice, and Expertise in two. <br>
-**Expertise:** <br>
 **Weapons:** Only the basics. <br>
 <br>
 **Armor:** Light. <br>
@@ -98,8 +97,8 @@ In addition, you learn one common language of your choice and gain Training in o
 When another creature within 60 feet of you succeed on a Test, you may use 1 Action to give that creature a Flair Die, expending a use of your *Inspiring Flair*. <br>
 Provided that creature can see or hear you, you roll the Flair Die and subtract the result to their total roll, potentially turning the success into a failure. If the outcome is not changed, you don't expend a use of your *Inspiring Flair*.
 
-### Level 3: Countercharm/Artistic Integrity?
-Be immune to the Charmed and/or Frightened conditions? Maybe just stop them proactively? Just you or whole party?
+### Level 3: Countercharm? Artistic Integrity?
+Be immune to the Charmed and/or Frightened conditions? Maybe just stop them proactively? Just you or whole party? (DETAILS?)
 
 ### Level 5: Silver Tongue
 When your Flair die would be rolled, you roll it twice and choose which of the results you want to use.

@@ -16,26 +16,26 @@ For this test, the [Wizard](/p10/class/wizard) is a purebred mage, and the [Cler
 
 **Planned Classes**
 <br>
-[Barbarian](https://example.com)
+[Barbarian](/p10/class/barbarian)
 <br>
-[Fighter](https://example.com)
+[Fighter](/p10/class/fighter)
 <br>
-[Exorcist](https://example.com)
+[Exorcist](/p10/class/exorcist)
 <br>
 [Monk](https://example.com)
 <br>
-[Bard](https://example.com)
+[Bard](/p10/class/bard)
 <br>
-[Ranger](https://example.com)
+[Ranger](/p10/class/ranger)
 <br>
-[Rogue](https://example.com)
+[Rogue](/p10/class/rogue)
 <br>
 [Shaman](https://example.com)
 <br>
-[Cleric](https://example.com)
+[Cleric](/p10/class/cleric)
 <br>
-[Druid](https://example.com)
+[Druid](/p10/class/druid)
 <br>
-[Sorcerer](https://example.com)
+[Sorcerer](/p10/class/sorcerer)
 <br>
-[Wizard](https://example.com)
+[Wizard](/p10/class/wizard)
