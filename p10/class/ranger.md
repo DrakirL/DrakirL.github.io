@@ -6,7 +6,7 @@ Ruthless hunters that could track down any foe to the edge of the earth. <br>
 ## Traits
 **Class Group:** Expert <br>
 **Hit Die:** d10 <br>
-**Skill Points:** 5 <br>
+**Skill Points:** 5 per level <br>
 <br>
 **Weapons:** Simple Melee. Simple Ranged. Advanced Ranged. <br>
 **Armor:** Light. <br>
@@ -35,7 +35,7 @@ Gain either Climb Speed or Swim Speed equal to your Speed.
 **Weathered** <br>
 Become Resistant to either Poison, Sonic, Acid, Cold, Fire, or Lightning damage?
 ### Level 1: Hunter's Mark
-You can use 1 Action on your turn to focus your attention on a creature you can see. Make an Intelligence Test against that creature's Defence. <br>
+You can use 1 Action on your turn to focus your attention on a creature you can see. Make an Intelligence Test/Magic Check? against that creature's Defence. <br>
 If you succeed, that creature is Marked by you for up to an hour, requiring your Concentration. <br>
 Whenever you make a Weapon Attack against a creature you have Marked in this way, you roll a Mark Die (which is a d4) and add the result to your Attack Roll and to the Weapon Damage if you hit.
 ### Level 1: Ranger Subclass
@@ -72,8 +72,11 @@ In addition, your Mark Die is now a d10.
 You gain the Level 9 Feature of your chosen Ranger Subclass. <br>
 In addition, your Mark Die is now a d12.
 
-### Level 10: ???
-???
+### Level 10: Eternal Hunter?
+Provided you aren't Blinded, Deafened, or Incapacitated, you have Blindsight out to a range of 30/60? feet. <br>
+No Attack you make against a creature within your Blindsight can gain Disadvantage. <br>
+<br>
+In addition, your Concentration on your *Ranger's Mark* cannot be broken by damage?
 
 ## Ranger Subclass: Beastmaster
 THEME: You have a trusted animal by your side, and it is as much a trained warrior and expert explorer as you are.

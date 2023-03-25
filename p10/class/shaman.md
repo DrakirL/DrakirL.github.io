@@ -6,7 +6,7 @@
 ## Traits
 **Class Group:** Expert <br>
 **Hit Die:** d10 <br>
-**Skill Points:** 5/6? <br>
+**Skill Points:** 5/6? per level <br>
 <br>
 **Weapons:** Simple Melee. Simple Ranged. Advanced Melee? <br>
 **Armor:** Light. Heavy? <br>

@@ -6,7 +6,7 @@ Conniving experts that can find and exploit any weakness in a foe or their plans
 ## Traits
 **Class Group:** Expert <br>
 **Hit Die:** d8 <br>
-**Skill Points:** 6 <br>
+**Skill Points:** 6 per level <br>
 <br>
 **Weapons:** Simple Melee. Simple Ranged. <br>
 **Armor:** Light. <br>
@@ -33,6 +33,7 @@ You gain Advantage on a Weapon Attack you make against a creature in the followi
  + Your Attack is a Sudden Strike.
  + The target creature is Downed or Grappled. (DETAILS?)
  + You have an allied creature within 5 feet of the target creature on the opposite side from where you are attacking it.
+#### <br>
 ### Level 1: Rogue Subclass
 You choose a Rogue Subclass and gain its Level 1 Features.
 
@@ -52,7 +53,7 @@ If you would make a Save to halve incoming damage, you may use 1 Action to inste
 You gain the Level 5 Feature of your chosen Rogue Subclass.
 
 ### Level 6: Reliable Talent?
-When you make a Skill Check using a Skill and roll a number on the die that is lower than that Skill, you may treat it as if it had rolled that number instead.
+When you make a Skill Check and roll a number on the die that is lower than that Skill, you may treat it as if it had rolled that number instead.
 
 ### Level 7: Subclass Feature
 You gain the Level 7 Feature of your chosen Rogue Subclass.

@@ -25,17 +25,19 @@ Here are some guidelines if you need to improvise:
 + If it's on your turn and a Test is required, it should probably use an Action.
 + 1 Action = about a second or two of effort. If it takes longer than that, it should use more than 1 Action and probably be Distracting.
 + Reactions aren’t improvised. Use prepared actions instead.
-<br><br>
+
+#### <br>
 As part of any Action, you may either use a free hand to grab hold of an easily attainable item, or stow away some items you are holding to free your hands. You may not do both with the same action. 
 ### Pre-Defined Actions
 
 **Attack Action** <br>
-Make an Unarmed Strike or a Weapon Attack with a weapon you are holding. <br>
-If your hand is free, you may draw/ready weapon and/or shields as part of this action, but not sheath/stow them away?
+Make an Unarmed Strike or one Weapon Attack with a weapon you are holding (or as you draw it, since that is allowed as normal). <br>
+If you are holding a weapon in each hand and they both have the Light property, you can make one attack with each (but you don't add your Martial Skill to the off-hand attack as normal). <br>
+If the Attack is made using a Ranged Weapon, it is Distracting?
 <br><br>
 **Brace Action** <br>
 Until the start of your next turn, add a +1 bonus to your Defence and any Save you make. <br> 
-*Note: This CAN stack with itself.*
+*Note: This CAN stack with itself. Super Brace Tank!*
 <br><br>
 **Care Action** <br>
 Make a Medicine Check to try and stabilize a creature on Death's Door (Difficulty = 10 + Exhaustion). <br>
@@ -66,27 +68,28 @@ Move exactly 5 feet. Is unaffected by difficult terrain etc. (PHRASING? DETAILS?
 
 ### Pre-Defined Reactions
 
-**Strikes Reaction**
+**Strike Reaction**
 When a creature within your reach takes a Distracting Action, you may make a Sudden Strike against it.<br>
 A Sudden Strike is a single Unarmed Strike or Melee Weapon Attack using an already equipped weapon. If the attack hits, the triggering Action(s) is interrupted and does not occur. <br>
-*Note: This doesn't waste resources. Only the Actions themselves. Your Spell Slots and components are safe.*
+*Note: This doesn't waste resources. Only the Actions themselves. Spell Slots, components, and equipment are all safe.*
 
 ### Reserving/Delaying Actions
-To reserve Actions, you spend them on your turn (PHRASING? DETAILS? NEEDED AT ALL?)
+To reserve Actions, you first spend the amount of actions needed on your turn and specify a trigger.
+Then, if the trigger occurs before your next turn, you spend that many actions again to do the thing.
 
 ## Conditions & Common Situations
 ???
 
 ### Cover
-Terrain is seldom just an empty floor.
+Terrain is seldom just an empty floor. So you could be "behind something" or "obscured by something" as viewed from a creature's perspective. <br>
+What counts as cover depends on a lot of circumstances regarding both a target and an observer. For example: A Small creature may be Fully Covered by an object that a Medium creature is only Partially Covered by. A creature may be obscured by darkness, fog, or an *Invisibility* Spell and thus fully obscured to a commoner, but just plainly out in the open to a dragon with no need to just *see* its target.
 <br> <br>
-**Partial Cover**
-Able to be targeted with Disadvantage.<br>
-Not an allegable target if you already have Disadvantage for other reasons?<br>
-*Note: This is mainly meant to be a slight nerf for ranged weapons, limiting their use at extreme ranges in harsh conditions.*
+**Partially Covered**
+A partially covered creature may be targeted with Disadvantage, unless you already have Disadvantage for other reasons. <br>
 <br><br>
-**Full Cover**
-Flatout "Not an allegable target".
+**Fully Covered**
+Flatout "Not an allegable target".<br>
+Creatures can still tell where you are (due to other senses or a basic sense of object permanence) unless you actively attempt to *hide*.
 
 ### Defined Conditions
 <br><br>

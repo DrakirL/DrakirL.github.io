@@ -6,7 +6,7 @@
 ## Traits
 **Class Group:** Warrior <br>
 **Hit Die:** d12 <br>
-**Skill Points:** 3 <br>
+**Skill Points:** 3 per level <br>
 <br>
 **Weapons:** Simple Melee. Advanced Melee. <br>
 **Armor:** None. <br>
@@ -27,13 +27,13 @@ While your Rage is active, the following rules apply:
  + You can't cast Spells.
  + You are unable to maintain Concentration.
  + You are Resistant to Bludgeoning, Piercing, and Slashing damage.
- + You gain Advantage on any Check or Save you make using your Strength
+ + You gain Advantage on any Test you make using your Strength or a Strength-based Skill.
  + You may add your Rage Die (which is a d4) to the Weapon Damage you deal with a Melee Attack (using your primary hand?). <br>
- <br>
- Your Rage lasts until the end of your next turn. You may immedietly use 1 of the Actions you gain then to seemlessly exter your Rage until your next turn. (PHRASING? IS THIS NEEDED?)
+ #### <br>
+ Your Rage lasts until the end of your next turn. You may immedietly use 1 of the Actions you gain then to seemlessly enter your Rage until your next turn. (PHRASING? IS THIS NEEDED?)
 
-### Level 1: Danger Sense? "Half-Light"/Fight or Flight?
-New source for Defense and Awareness, provided you aren't wearing armor: 6 + Max value of Rage Die.
+### Level 1: Danger Sense? Fight or Flight?
+New source for Defense and Awareness, provided you aren't wearing armor: 6 + Max value of Rage Die? Passive Martial Skill?
 ### Level 1: Barbarian Subclass
 You choose a Barbarian Subclass and gain its Level 1 Features.
 

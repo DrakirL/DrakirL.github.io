@@ -7,10 +7,11 @@ The value will often be predetermined and already written on someone's character
 5 | 10 | 15 | 20 | 25 | 30
 :---|:---|:---|:---|:---|:---
 Trivial | Easy | Moderate | Challenging | Formidable | Essentially Impossible
-<br><br>
+
+#### <br>
 Then, the charcter being tested rolls a d20 and add any relevant modifiers. If the total for the roll matches or exceeds the Difficulty, the attempt is a success. Otherwise, it's a failure. <br>
-Since Tests are made when both succeess and failure are acceptable outcomes, rolling a natural 1 is always a failure and a natural 20 is always a success. <br>
-If you are forced to make a Test, you can always choose to fail it if so wish.
+Because Tests are made when success and failure are both equally acceptable outcomes, rolling a natural 1 is always a failure and a natural 20 is always a success. <br>
+If you are forced to make a Test, you can always choose to fail if so wish.
 
 ## Attribute/Skill Bonuses
 You will essentially never be asked to just "make a Test" without any additional information. <br>
@@ -30,14 +31,15 @@ Attacks are exclusively made using either the Martial or Magic Skill.
 
 **Checks**<br>
 Checks are Tests that you make to see if some task sits within your skillset. (PHRASING?) <br>
-On a success, you will successfully complete the task, however long it happens to take, provided you're using the right tools/materials. On a fail, the time or resources used may be wasted, you suffer any consequences for failure, and you may be unable to try that specific Check again for a while (the circumstances must be changed in some way). <br>
+On a success, you will successfully complete the task, however long it happens to take, provided you're using the right tools/materials. On a fail, you suffer whatever the consequences of failure are in the given context. <br>
+For example: The time or resources used to attempt crafting an item could be wasted. That glass of poisoned wine is too much, so you take Poison damage and fall unconscious. The bartender may not let you question him any further until you change your approach. <br>
 Checks will specify a Skill much more often than an Attribute.
 
 **Saves**<br>
-Saves are Tests that you are *forced* to make by some external influence actively attempting to hit/inflict you with some kind of effect. <br>
-The Difficulty of the Test should be pre-determined by the source's Attributes and Level?. <br>
+Saves are Tests that you are *forced* to make by some external influence actively attempting to directly hit/affect you with some kind of effect. <br>
+The Difficulty of the Test should be pre-determined by the source's Passive Skills. <br>
 On a success, the incoming effect may be negated (or at least partially mitigated). On a fail, you suffer the full extend of the effect. <br>
-Saves most often specify an Attribute, but Skills are not that rare.
+Saves prefer to specify an Attribute rather than a specific Skill.
 
 ## Advantage & Disadvantage
 The surrounding circumstances for a Test may be either helpful or hurtful. This is represented by giving the roll either Advantage or Disadvantage. <br>

@@ -6,7 +6,7 @@ Wellsprings of true magical potential. <br>
 ## Traits
 **Class Group:** Mage <br>
 **Hit Die:** d6 <br>
-**Skill Points:** 3 <br>
+**Skill Points:** 3 per level <br>
 <br>
 **Weapons:** Simple Melee. <br>
 **Armor:** None. <br>

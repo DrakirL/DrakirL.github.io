@@ -6,7 +6,7 @@ Paragons of talent exploring all kinds of fields in all kinds of ways. <br>
 ## Traits
 **Class Group:** Expert <br>
 **Hit Die:** d8 <br>
-**Skill Points:** 5 <br>
+**Skill Points:** 5 per level <br>
 <br>
 **Weapons:** Simple Melee. Simple Ranged. <br>
 **Armor:** Light. <br>
@@ -49,15 +49,14 @@ Rank 10: | | | | | | | | | | 1
 When another creature within 60 feet of you fails a Test, you may use 1 Action to give that creature a Flair Die (which is a d4). <br>
 Provided that creature can see or hear you, you roll the Flair Die and add the result to their total roll, potentially turning the failure into a success. If the outcome is not changed, you don't expend a use of this feature.
 <br><br>
-You can use this feature a number of times equal to your Charisma.
+You can use this feature a number of times equal to your Level.
 You regain any expended uses after you finish a Rest.
 
 ### Level 1: Bard Subclass
 You choose a Bard Subclass and gain its Level 1 Features.
 
 ### Level 2: Jack of All Trades
-OLD: [When you make a Check using a Skill you lack Proficiency in, you may add half of your Level to your roll anyways]
-Use Magic Skill in place of other checks? Set a "Minimum Skill Value"? <br>
+Use Magic Skill in place of other checks, setting a "Minimum Skill Value"? <br>
 Gain 1 Skill point, learn 1 Spell, and gain Training?
 
 ### Level 2: Song of Rest?
@@ -75,21 +74,21 @@ In addition, your Flair Die is now a d6.
 You gain the Level 5 Feature of your chosen Bard Subclass. <br>
 In addition, your Flair Die is now a d8.
 
-### Level 6: Magical Secrets/Untapped Potential/Improvise?
+### Level 6: Magical Secrets/Untapped Potential/Improvise/Versatile Virtuoso?
 After you finish a Rest, you may replace one of the Spells you know with a different Spell of the same Rank.
 
 ### Level 7: Subclass Feature
 You gain the Level 7 Feature of your chosen Bard Subclass. <br>
 In addition, your Flair Die is now a d10.
 
-### Level 8: Jag of All Trades?
+### Level 8: Jack of All Trades?
 ???
 
 ### Level 9: Subclass Feature
 You gain the Level 9 Feature of your chosen Bard Subclass. <br>
 In addition, your Flair Die is now a d12.
 
-### Level 10: True Virtuoso/Versatile Virtuoso?
+### Level 10: Improved Magical Secrets/Untapped Potential/Improvise/Versatile Virtuoso? Something Else?
 ???
 
 ## Bard Subclass: College of Lore/Eloquence/Culture?

@@ -15,7 +15,7 @@
 
 ---
 ### Passion Project
-[D&D 5.25e](https://drive.google.com/drive/folders/1YIGAw_KUb3ypHMQmmDF5FIXfSucCXqry?usp=sharing) <br>
+["Project 10"](/p10) <br>
 (WIP)
 
 ---

@@ -6,7 +6,7 @@ Fierce combatants who could take on armies by themselves. <br>
 ## Traits
 **Class Group:** Warrior <br>
 **Hit Die:** d10 <br>
-**Skill Points:** 3 <br>
+**Skill Points:** 3 per level <br>
 <br>
 **Weapons:** Simple Melee. Simple Ranged. Advanced Melee. Advanced Ranged. <br>
 **Armor:** Light. Heavy. <br>
@@ -89,25 +89,25 @@ THEME: Combat is a simple sport, and you are a world class athlete.
 
 ### Level 1: Martial Prodigy
 Your Martial Skill is always equal to your Level + 1. <br>
-Redistribute any Skill Points you've put into it (NEEDED? This is a Level 1 feature after all).
+Redistribute any Skill Points you've put into it (NEEDED? This is a Level 1 feature after all, so maybe this is implied?).
 ### Level 1: ???
-Increase one of your Attributes by 1. <br>
+Increase one of your Attributes by 1 (up to 10). <br>
 Gain 1 Skill Point to spend.
 
 ### Level 3: ???
-Increase one of your Attributes by 1. <br>
+Increase one of your Attributes by 1 (up to 10). <br>
 Gain 1 Skill Point to spend.
 
 ### Level 5: ???
-Increase one of your Attributes by 1. <br>
+Increase one of your Attributes by 1 (up to 10). <br>
 Gain 1 Skill Point to spend.
 
 ### Level 7: ???
-Increase one of your Attributes by 1. <br>
+Increase one of your Attributes by 1 (up to 10). <br>
 Gain 1 Skill Point to spend.
 
 ### Level 9: ???
-Increase one of your Attributes by 1. <br>
+Increase one of your Attributes by 1 (up to 10). <br>
 Gain 1 Skill Point to spend.
 
 # OLD & UNUSED (for now)

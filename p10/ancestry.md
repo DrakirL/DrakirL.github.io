@@ -30,7 +30,7 @@ You have one additional Hit Die.
 ## Jotun
 Jotun are known to be tall and muscular with next to no hair, except for lucious locks in the areas of their head where "the gods intended". <br>
 Their ancestors fought alongside the Giants in their wars against the Dragons, but since the wars ended their lives' purpose is up in the air. <br>
-Today, most Jotun lead a nomadic lives in large wandering herds not too different from marching plutoons
+Today, most Jotun lead a nomadic lives in large wandering herds not too dissimilar from marching plutoons.
 ### Increased Attributes
 +2 to your Strength Attribute.
 ### Towering Build
@@ -66,12 +66,11 @@ You start with an additional 5 gp worth of equipment and learn a Standard Langua
 You have one additional Hit Die.
 
 ## Gnome
-Gnomes are known to be short and thin... <br>
+Gnomes are known to be short and ??? <br>
 ??? <br>
 ???
 ### Increased Attributes
-+2 to your Agility Attribute. <br>
-+1 to two other Attributes.
++2 to your Agility Attribute.
 ### Lithe & Nimble
 You are considered to be Small rather than Medium. <br>
 You can attempt to hide by using another creature as cover, providing that creature is larger than you. <br>
@@ -88,7 +87,7 @@ You gain 5 additional Skill Points to spend.
 You learn one Cantrip Spell of your choice from any Spell List.
 
 ## Elves
-Elves are known to be fair and have pointed features, including a set of highly recognizable ears. <br>
+Elves are known to be fair and have pointed features, including a set of recognizably long ears. <br>
 ??? <br>
 ???
 ### Increased Attributes
@@ -131,7 +130,7 @@ You gain 5 additional Skill Points to spend.
 
 ## Drakkar?
 Drakkar are known to be large and scaley? and what else??? <br>
-??? <br>
+A territory watched by a clan of Drakkar is not something many would dare visit, as they are (with good reason) highly protective of what little is left of their kind. <br>
 Reproduce asexually?
 ### Increased Attributes
 +1 to each of your Attributes.
@@ -139,9 +138,9 @@ Reproduce asexually?
 You have Darkvision out to a range of 30 feet?
 ### Elemental Heritage
 Choose one of the following Damage types: Acid, Cold, Fire, or Lightning. You gain the following benefits:
-- You are Resistant to damage of your chosen type.
-- You can use your Action to exhale a torrent of energy in a 15-foot Blast originating from you. Each creature within the area must make an Agility Save against your Charisma, taking to 1d8 damage of the chosen type per Level, or half as much on a successful one.
-<br><br>
++ You are Resistant to damage of your chosen type.
++ You can use your Action to exhale a torrent of energy in a 15-foot Blast originating from you. Each creature within the area must make an Agility Save against your Passive Magic Skill, taking to 1d8 damage of the chosen type per Level on a fail, or half as much on a success.
+#### <br>
 ### Archetypical Adventurer
 Choose one of the following benefits:
 <br><br>
