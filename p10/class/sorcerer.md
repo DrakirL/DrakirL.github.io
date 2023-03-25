@@ -1,20 +1,21 @@
 # Sorcerer
-Skilled magicians hurling bolts of lightning and balls of fire across the battlefield. <br>
-Wise sages preparing magical solutions to complex problems. <br>
-Powerful sages that bend reality to their wims. <br>
+??? <br>
+??? <br>
+Wellsprings of true magical potential. <br>
 
 ## Traits
 **Class Group:** Mage <br>
 **Hit Die:** d6 <br>
+**Skill Points:** 3 <br>
 <br>
-**Saves:** Fortitude? Charisma. <br>
-**Skills:** two of choice. <br>
-**Weapons:** Only the basics. <br>
-<br>
+**Weapons:** Simple Melee. <br>
 **Armor:** None. <br>
 **Shields:** None. <br>
 **Focus:** None. <br>
 **Training:** None. <br>
+
+## Starting Equipment
++ ???
 
 ## Sorcerer Class Features
 These are the core features granted for the Sorcerer Class.
@@ -22,10 +23,10 @@ These are the core features granted for the Sorcerer Class.
 ### Level 1: Spellcasting
 You can cast spells!
 #### Casting Method
-Your Charisma becomes your Spellcasting Ability. <br>
-Choose a Spell List to be your chosen Sorceror Spell List. You can cast Spells you know from that list without using a focus.
+Choose a Spell List to be your Sorcery List. <br>
+You can cast Spells you know from your Sorcery List without using a focus.
 #### Learned Spells
-At each Level, you learn 3 Spells of your choice from your chosen Sorceror Spell List. <br>
+At each Level, you learn 3 Spells of your choice from your Sorcery List. <br>
 No spell learned this way may be of a Rank higher than your level.
 #### Spell Slots
 The number of Spell Slots you have of each Rank depends on your Level according to the table below. <br>
@@ -42,16 +43,23 @@ Rank 8: | | | | | | | | 1 | 1 | 2
 Rank 9: | | | | | | | | | 1 | 1
 Rank 10: | | | | | | | | | | 1
 
-### Level 1: Font of Magic
+### Level 1: Font of Magic/Mana?
 You have a number of Mana Points equal to your Level. <br>
+You can use 1 Action on your turn to spend any number of Mana Points and regain a Spell Slot with a Rank equal to the number of points spent? <br>
+OR... After you expend a Spell Slot, you can spend a number of Mana Points equal to its Rank to regain it. <br>
+OR... Maybe you should only be able to spend remaining Mana Points to regain Spell Slots as you take a Rest? <br>
+<br>
+No Spell Slot regained this way may be of a Rank higher than 5. <br>
 You regain any spent Mana Points after you finish a Rest.
-### Level 1: Sorcerer Subclass
-You choose a Sorcerer Subclass and gain its Level 1 Features.
 
-### Level 2: Metamagic
-???
+### Level 1: Sorcerer Subclass
+You choose a Sorcerer Subclass and gain its Level 1 Features. <br>
+Your subclass comes with a list of Origin Spells?
 
 ### Level 2: ???
+???
+
+### Level 2: Metamagic
 ???
 
 ### Level 3: Subclass Feature

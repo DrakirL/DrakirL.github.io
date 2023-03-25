@@ -6,15 +6,19 @@ Ruthless hunters that could track down any foe to the edge of the earth. <br>
 ## Traits
 **Class Group:** Expert <br>
 **Hit Die:** d10 <br>
+**Skill Points:** 5 <br>
 <br>
-**Saves:** Fortitude. Intelligence. <br>
-**Skills:** Three of choice, and Expertise in two. <br>
-**Weapons:** ALL <br>
-<br>
-**Armor:** Light. Medium. <br>
+**Weapons:** Simple Melee. Simple Ranged. Advanced Ranged. <br>
+**Armor:** Light. <br>
 **Shields:** Small. <br>
 **Focus:** None. <br>
-**Education:** Herbalism. <br>
+**Training:** Herbalism? Nature/Survival? More? <br>
+
+## Starting Equipment
++ A Simple Melee Weapon of your choice.
++ An Advanced Ranged Weapon of your choice.
++ A quiver containing 20 pieces of ammunition of your choice.
++ Hide Armor.
 
 ## Ranger Class Features
 These are the core features granted for the Ranger Class.
@@ -31,7 +35,7 @@ Gain either Climb Speed or Swim Speed equal to your Speed.
 **Weathered** <br>
 Become Resistant to either Poison, Sonic, Acid, Cold, Fire, or Lightning damage?
 ### Level 1: Hunter's Mark
-You can use 1 Action on your turn to focus your attention on a creature you can see. Make an Intelligence Test against that creature's Defence. You add a bonus to your roll equal to 5 + your Level, as if you had Proficiency and Expertise. <br>
+You can use 1 Action on your turn to focus your attention on a creature you can see. Make an Intelligence Test against that creature's Defence. <br>
 If you succeed, that creature is Marked by you for up to an hour, requiring your Concentration. <br>
 Whenever you make a Weapon Attack against a creature you have Marked in this way, you roll a Mark Die (which is a d4) and add the result to your Attack Roll and to the Weapon Damage if you hit.
 ### Level 1: Ranger Subclass

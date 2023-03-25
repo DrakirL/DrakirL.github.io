@@ -15,27 +15,19 @@ Magic is the ability to turn imagination real and make the impossible possible. 
 For this test, the [Wizard](/p10/class/wizard) is a purebred mage, and the [Cleric](/p10/class/cleric) is a mage/warrior hybrid.
 
 **Planned Classes**
-<br>
-[Barbarian](/p10/class/barbarian)
-<br>
-[Fighter](/p10/class/fighter)
-<br>
-[Exorcist](/p10/class/exorcist)
-<br>
-[Monk](https://example.com)
-<br>
-[Bard](/p10/class/bard)
-<br>
-[Ranger](/p10/class/ranger)
-<br>
-[Rogue](/p10/class/rogue)
-<br>
-[Shaman](https://example.com)
-<br>
-[Cleric](/p10/class/cleric)
-<br>
-[Druid](/p10/class/druid)
-<br>
-[Sorcerer](/p10/class/sorcerer)
-<br>
-[Wizard](/p10/class/wizard)
+[Barbarian](/p10/class/barbarian)<br>
+[Fighter](/p10/class/fighter)<br>
+[Exorcist](/p10/class/exorcist)<br>
+[Monk](/p10/class/monk)<br><br>
+
+[Bard](/p10/class/bard)<br>
+[Ranger](/p10/class/ranger)<br>
+[Rogue](/p10/class/rogue)<br>
+[Shaman](/p10/class/shaman)<br><br>
+
+[Cleric](/p10/class/cleric)<br>
+[Druid](/p10/class/druid)<br>
+[Sorcerer](/p10/class/sorcerer)<br>
+[Wizard](/p10/class/wizard) <br><br>
+
+[Warlock](/p10/class/warlock)

@@ -6,26 +6,27 @@ Powerful sages that bend reality to their wims. <br>
 ## Traits
 **Class Group:** Mage <br>
 **Hit Die:** d6 <br>
+**Skill Points:** 5 <br>
 <br>
-**Saves:** Intelligence. Charisma. <br>
-**Skills:** Three of choice. <br>
-**Weapons:** Only the basics. <br>
-<br>
+**Weapons:** Simple Melee. <br>
 **Armor:** None. <br>
 **Shields:** None. <br>
 **Focus:** Arcane. <br>
-**Training:** An education of choice? Calligraphy. <br>
+**Training:** Calligraphy. An education of your choice. <br>
+
+## Starting Equipment
++ A Simple Melee Weapon of your choice.
++ A component pouch containing ?? gp worth of materials of your choice.
++ An Arcane Focus of your choice.
 
 ## Wizard Class Features
 These are the core features granted for the Wizard Class.
 
 ### Level 1: Spellcasting
 You can cast spells!
-#### Casting Method
-Your Intelligence becomes your Spellcasting Ability.
 #### Learned Spells
-At each Level, you learn 4 Arcane Spells of your choice. <br>
-No spell learned this way may be of a Rank higher than your level.
+At each Level, you learn 5 Arcane Spells of your choice. <br>
+No spell learned this way may be of a Rank higher than your Level.
 #### Spell Slots
 The number of Spell Slots you have of each Rank depends on your Level according to the table below. <br>
 LEVEL: | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 

@@ -6,15 +6,21 @@ Conniving experts that can find and exploit any weakness in a foe or their plans
 ## Traits
 **Class Group:** Expert <br>
 **Hit Die:** d8 <br>
+**Skill Points:** 6 <br>
 <br>
-**Saves:** Agility. Intelligence. <br>
-**Skills:** Four of choice, and Expertise in two. <br>
-**Weapons:** ??? <br>
-<br>
+**Weapons:** Simple Melee. Simple Ranged. <br>
 **Armor:** Light. <br>
 **Shields:** None. <br>
 **Focus:** None. <br>
-**Training:** Two of choice. <br>
+**Training:** Three (toolsets?) of your choice. <br>
+
+## Starting Equipment
++ A Simple Melee Weapon of your choice.
++ A Simple Ranged Weapon of your choice.
++ A quiver containing 20 pieces of ammunition of your choice.
++ Leather Armor.
++ Thieves' Tools? A Toolset of your choice?
++ Extra gp as a treat?
 
 ## Rogue Class Features
 These are the core features granted for the Rogue Class.
@@ -24,30 +30,29 @@ If you hit a creature with a Weapon Attack and you have advantage on the roll, y
 After you've dealt this extra damage, you can't do so again until you regain your Actions.
 ### Level 1: Opportunist
 You gain Advantage on a Weapon Attack you make against a creature in the following situations:
- + If the Attack is a Sudden Strike.
- + If the target creature is downed or ??? (DETAILS?)
- + If you have an allied creature within 5 feet of the target creature on the opposite side from where you are attacking it.
+ + Your Attack is a Sudden Strike.
+ + The target creature is Downed or Grappled. (DETAILS?)
+ + You have an allied creature within 5 feet of the target creature on the opposite side from where you are attacking it.
 ### Level 1: Rogue Subclass
 You choose a Rogue Subclass and gain its Level 1 Features.
 
 ### Level 2: Cunning Action/Multitasking?
-An extra action to use each turn? Regain one used action on your turn?
+An extra action to use each turn? Regain one used Action on your turn? One time "use at any time to regain your spent Actions"?
 
 ### Level 2: Uncanny Dodge
-When you are hit by an incoming Weapon Attack, you can use 1 Action to reduce the weapon damage dealt by half.
+When you are hit by a Weapon Attack, you can use 1 Action to reduce the weapon damage dealt by half.
 
 ### Level 3: Subclass Feature
 You gain the Level 3 Feature of your chosen Rogue Subclass.
 
 ### Level 4: Evasion/Prepared for the worst?
-If you would make a Save to halve incoming damage, you instead take the halved damage if you fail, and no damage if you succeed. <br>
-Agility Only? Requires 1 Action?
+If you would make a Save to halve incoming damage, you may use 1 Action to instead take the halved damage if you fail, and no damage if you succeed.
 
 ### Level 5: Subclass Feature
 You gain the Level 5 Feature of your chosen Rogue Subclass.
 
 ### Level 6: Reliable Talent?
-When you make a Skill Check using a Skill you are Proficienct in and roll a 9 or lower on the die, you may replace it with a natural 10 instead?
+When you make a Skill Check using a Skill and roll a number on the die that is lower than that Skill, you may treat it as if it had rolled that number instead.
 
 ### Level 7: Subclass Feature
 You gain the Level 7 Feature of your chosen Rogue Subclass.

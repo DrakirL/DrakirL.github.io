@@ -6,23 +6,27 @@ Preachers of ??? <br>
 ## Traits
 **Class Group:** Mage <br>
 **Hit Die:** d8 <br>
+**Skill Points:** 4 <br>
 <br>
-**Saves:** Fortitude? Charisma. <br>
-**Skills:** Two of choice. <br>
-**Weapons:** Only the basics. <br>
-<br>
-**Armor:** Light. Medium. <br>
+**Weapons:** Simple Melee. Simple Ranged. <br>
+**Armor:** Light. <br>
 **Shields:** Small. <br>
 **Focus:** Divine. <br>
 **Training:** None. <br>
+
+## Starting Equipment
++ A Simple Melee Weapon of your choice.
++ A Simple Ranged Weapon of your choice.
++ A quiver containing 20 pieces of ammunition of your choice.
++ Chain Shirt armor.
++ A Divine Focus of your choice *(You may paint it on/forge it into some other piece of equipment)*.
++ Extra gp as a treat?
 
 ## Cleric Class Features
 These are the core features granted for the Cleric Class.
 
 ### Level 1: Spellcasting
 You can cast spells!
-#### Casting Method
-Your Charisma becomes your Spellcasting Ability.
 #### Learned Spells
 At each Level, you learn 3 Divine Spells of your choice. <br>
 No spell learned this way may be of a Rank higher than your level.
@@ -41,7 +45,7 @@ Rank 8: | | | | | | | | 1 | 1 | 2
 Rank 9: | | | | | | | | | 1 | 1
 Rank 10: | | | | | | | | | | 1
 
-### Level 1: Channel Divinity
+### Level 1: Channel Divinity/Divine Spark?
 You can use any Channel Divinity Ability you have once per Rest. *PHRASING?
 If a Channel Divinity Ability forces a creature to make a Save, it is made against your Spell Save DC.
 <br><br>
@@ -52,18 +56,23 @@ You present your holy symbol to a creature within 30? feet of you. It either reg
 A creature takes Radiant or Infernal damage (your choice) equal to 1d10 + your Level on a failed Save, or half as much on a success.
 
 ### Level 1: Cleric Subclass
-You choose a Cleric Subclass and gain its Level 1 Features.
+You choose a Cleric Subclass and gain its Level 1 Features. <br>
+Your subclass comes with a list of Domain Spells?
 
 ### Level 2: Holy Order
 Choose one of the following benefits:
 <br><br>
 **Crusader** <br>
-You gain Proficiency with ALL weapons. <br>
-You gain Training with Heavy Armor and Large Shields.
+Add 2 Skill Points to your Martial Skill. <br>
+You gain Proficiency with Advanced Melee Weapons, Advanced Ranged Weapons, Heavy Armor, and Large Shields.
 <br><br>
 **Herald** <br>
-Learn additional Spells? Extra proficiencies? Both? Something else? <br>
+Add 2 Skill Points to your Magic Skill. <br>
 You can use *Channel Divinity* as a Spell Slot with a Rank equal to half your Level?
+<br><br>
+**Mentor/Preacher?** <br>
+You gain 6? Skill Points to spend. <br>
+You gain one Training of your choice. (PHRASING?)
 
 ### Level 2: Divine Wrath/Blessed Strike?
 When you deal damage to one or more creatures with an attack or Spell, you can deal an additional 1d8 damage to one of those creatures. <br>
@@ -74,13 +83,13 @@ The damage dealt this way is either Infernal or Radiant. You choose which when y
 ### Level 3: Subclass Feature
 You gain the Level 3 Feature of your chosen Cleric Subclass.
 
-### Level 4: Improved Channel Divinity
+### Level 4: Improved Channel Divinity? Divine Invervention as *Channel Divinity* Option?
 You can now use up to two abilities with your *Channel Divinity* per Rest.
 
 ### Level 5: Subclass Feature
 You gain the Level 5 Feature of your chosen Cleric Subclass.
 
-### Level 6: Divine Intervention?
+### Level 6: Divine Intervention? Improved Channel Divinity?
 You can use 3 Actions on your turn to say a prayer and try call on your deity to intervene on your behalf. Describe the assistance you seek and roll a D20. If you roll a natural 1 or 20?, the deity you pray to intervenes, providing the assistance you prayed for. <br>
 The DM decides the nature of the intervention. Usually, the effects of any one Spell you know or any Spell they choose from the Divine Spell List is appropriate.
 <br><br>
@@ -104,7 +113,7 @@ THEME: Combat. Battle. Warfare. All are variations of the concept of conflict an
 
 ### Level 1: War Priest?
 After casting a Spell, you may make a single Weapon Attack as part of the same action? <br>
-Once per round? Only on your turn? Limited number of times per Rest?
+Once per round? Only on your turn? Up to CHA times per Rest?
 ### Level 1: Improved Channel Divinity???
 You gain the following Channel Divinity Ability:
 #### Guided Strike?
