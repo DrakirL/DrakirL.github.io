@@ -22,7 +22,7 @@ You start with an additional 5 gp worth of equipment and learn a Standard Langua
 You gain 5 additional Skill Point.
 <br><br>
 **Mage** <br>
-You learn one Cantrip Spell of your choice from any Spell List.
+You learn one Rank 1 Cantrip Spell of your choice from any Spell List.
 <br><br>
 **Warrior** <br>
 You have one additional Hit Die.
@@ -84,7 +84,7 @@ Choose one of the following benefits:
 You gain 5 additional Skill Points to spend.
 <br><br>
 **Mage** <br>
-You learn one Cantrip Spell of your choice from any Spell List.
+You learn one Rank 1 Cantrip Spell of your choice from any Spell List.
 
 ## Elves
 Elves are known to be fair and have pointed features, including a set of recognizably long ears. <br>
@@ -105,7 +105,7 @@ Choose one of the following benefits:
 You start with an additional 5 gp worth of equipment and learn a Standard Language of your choice.
 <br><br>
 **Mage** <br>
-You learn one Cantrip Spell of your choice from any Spell List.
+You learn one Rank 1 Cantrip Spell of your choice from any Spell List.
 
 ## Changelings
 Changelings, in their true forms, are blank, in every sense of the word. Like a marble statues of the humans they could have been. <br>
@@ -145,7 +145,7 @@ Choose one of the following Damage types: Acid, Cold, Fire, or Lightning. You ga
 Choose one of the following benefits:
 <br><br>
 **Mage** <br>
-You learn one Cantrip Spell of your choice from any Spell List.
+You learn one Rank 1 Cantrip Spell of your choice from any Spell List.
 <br><br>
 **Warrior** <br>
 You have one additional Hit Die.

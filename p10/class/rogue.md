@@ -37,8 +37,9 @@ You gain Advantage on a Weapon Attack you make against a creature in the followi
 ### Level 1: Rogue Subclass
 You choose a Rogue Subclass and gain its Level 1 Features.
 
-### Level 2: Cunning Action/Multitasking?
-An extra action to use each turn? Regain one used Action on your turn? One time "use at any time to regain your spent Actions"?
+### Level 2: Cunning Action/Multitasking? Expertise?
+An extra action to use each turn? Regain one used Action on your turn? One time "use at any time to regain your spent Actions"? <br>
+Choose an Attribute-based Skill, you may add the Skill Bonus for that Skill twice to any check you make using it? Choose more of them (One every other level)?
 
 ### Level 2: Uncanny Dodge
 When you are hit by a Weapon Attack, you can use 1 Action to reduce the weapon damage dealt by half.

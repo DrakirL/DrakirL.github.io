@@ -71,44 +71,47 @@ If you fail a Save, you can spend 1 Prowess Point to reroll it and use the new r
 ### Level 5: Subclass Feature
 You gain the Level 5 Feature of your chosen Fighter Subclass.
 
-### Level 6: Improved Second Wind?
-When you use your Second Wind feature, you may also cure yourself of one disease or neutralize one poison that is affecting you?
+### Level 6: Improved Second Wind? Survivor?
+When you use your Second Wind feature, you may also cure yourself of one disease or neutralize one poison that is affecting you? *Too boring/Too late?* <br>
+If you have no more current HP than half of your Maximum HP, you can spend 1 Prowess Point on your turn to regain 1d10 HP? *Too early? Should also take Action?*
 
 ### Level 7: Subclass Feature
 You gain the Level 7 Feature of your chosen Fighter Subclass.
 
 ### Level 8: ???
+???
 
 ### Level 9: Subclass Feature
 You gain the Level 9 Feature of your chosen Fighter Subclass.
 
 ### Level 10: ???
+???
 
 ## Fighter Subclass: Champion
 THEME: Combat is a simple sport, and you are a world class athlete.
 
 ### Level 1: Martial Prodigy
-Your Martial Skill is always equal to your Level + 1. <br>
-Redistribute any Skill Points you've put into it (NEEDED? This is a Level 1 feature after all, so maybe this is implied?).
-### Level 1: ???
+Your Martial Skill is always equal to your Level + 1 (exceeding your normal limit). <br>
+Redistribute any Skill Points you've already put into it (NEEDED? This is a Level 1 feature after all, so maybe this is implied?).
+### Level 1: Superiority?
 Increase one of your Attributes by 1 (up to 10). <br>
 Gain 1 Skill Point to spend.
 
-### Level 3: ???
+### Level 3: Superiority?
 Increase one of your Attributes by 1 (up to 10). <br>
-Gain 1 Skill Point to spend.
+You gain 1 Skill Point to spend.
 
-### Level 5: ???
+### Level 5: Superiority?
 Increase one of your Attributes by 1 (up to 10). <br>
-Gain 1 Skill Point to spend.
+You gain 1 Skill Point to spend.
 
-### Level 7: ???
+### Level 7: Superiority?
 Increase one of your Attributes by 1 (up to 10). <br>
-Gain 1 Skill Point to spend.
+You gain 1 Skill Point to spend.
 
-### Level 9: ???
+### Level 9: Superiority?
 Increase one of your Attributes by 1 (up to 10). <br>
-Gain 1 Skill Point to spend.
+You gain 1 Skill Point to spend.
 
 # OLD & UNUSED (for now)
 You gain one of the following benefits of your choice:

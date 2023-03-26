@@ -17,11 +17,11 @@ If you are forced to make a Test, you can always choose to fail if so wish.
 You will essentially never be asked to just "make a Test" without any additional information. <br>
 Instead, the instructions will specify more information regarding the Test's Attribute, Skill, and/or Type. For example: "Make a Charisma Test", "Make a Martial Attack", "Make an Acrobatics Check?", "Make an Intelligence Save".
 <br><br>
-If you make a Test with a specified Attribute, you add the value you have for that Attribute to your roll. <br>
-If you make a Test with a specified Skill, you add the value you have for that Skill to your roll. <br>
+If you make a Test with a specified Attribute (for example a "Strength Save"), you add the value you have for that Attribute to your roll. <br>
+If you make a Test with a specified Skill (for example a "Tolerance Check"), you add the value you have for that Skill to your roll. <br>
 
 ### Types of Tests
-Tests are often referred to with other names to designate the Type. They are performed in the exact same way (Fail if roll is lower than Difficulty, succeed is roll equal or higher), but these names explains the context where certain Tests are often made. They also act as identifiers, which may make them allegable for special features/benefits that don't apply to All
+Tests are often referred to with other names to designate the Type. They are performed in the exact same way (Fail if roll is lower than Difficulty, succeed if roll equal or higher), but these names explains the context where certain Tests are often made. They also act as identifiers, which may make them allegable for special features/benefits that don't apply to ALL Tests, only ones of a specific type.
 
 **Attacks**<br>
 Attacks are Tests that you make when you are trying to harm a creature or damage an object.
@@ -41,25 +41,37 @@ The Difficulty of the Test should be pre-determined by the source's Passive Skil
 On a success, the incoming effect may be negated (or at least partially mitigated). On a fail, you suffer the full extend of the effect. <br>
 Saves prefer to specify an Attribute rather than a specific Skill.
 
+### Increasing Bonuses: Skill Points.
+As a base, your Skill Bonus for every Skill is 0. You increase them by spending Skill Points (1 Skill Point spent on a Skill = +1 to your Skill Bonus for that Skill). <br>
+Your Skill Bonus for each Skill is limited by your capabilities! You can't increase an Attribute-based Skill to be higher than that Attribute, and you can't increase either of the Adventuring Skills, Martial & Magic, to be higher than your Level. Exceptions to this rule have to be specified by features! <br>
+You gain Skill Points to spend in a variety of ways, including from your Background and at each Class Level. If you would gain enough Skill Points in a specific Skill to exeed its limit, you may redistribute the excess as you wish between your other Skills. <br>
+
 ## Advantage & Disadvantage
 The surrounding circumstances for a Test may be either helpful or hurtful. This is represented by giving the roll either Advantage or Disadvantage. <br>
 If a Test is made in circumstances that reasonably increase the chance of success, it is made with Advantage: Roll the d20 twice and use the *higher* of the two rolls as the natural result. <br>
 If a Test is made in circumstances that reasonably impede the chance of success, it is made with Disadvantage: Roll the d20 twice and use the *lower* of the two rolls as the natural result. <br>
 If a Test is with both Advantage and Disadvantage, roll the d20 once, as though it had neither.
 
-## Training & Proficiency
-???
+## Proficiency & Training
+Sometimes you can be more than just skilled, and sometimes merely being skilled is not enough to gain a benefit.
 ### Proficiency: Weapons, Shields, & Armor.
 If you lack Proficiency with a type weapon, you may not add your Martial Skill to any Attack you make using a weapon of that type. <br>
-If you lack Proficiency with a type of armor, your speed is halved and you can't cast spells while you're wearing it. <br>
-If you lack Proficiency with a type of shield, it does not help increase your Defence.
+If you lack Proficiency with a type of armor, your speed is halved and you can't cast Spells while you're wearing it. <br>
+If you lack Proficiency with a type of shield, it does not help increase your Defence. <br>
+If you lack Proficiency with a type of focus, you can't use a focus of that type to cast spells. <br>
 ### Training: Tools?, Vehicles, Games, Instruments, & Education
-If you are Trained in a subject, ham it up! If you can describe how your training would help you make a Check, you gain Advantage on that Check. <br>
-*Example: Gain adventage on a Performance Check by playing an instrument you have practiced with, on a Handling Check for a vehicle you can drive well, or on a Lore Check regarding a subject you are educated in.*
+If you have any Training in some area, ham it up! If you can describe how your training would help you make a Check, you gain Advantage on that Check for free! <br>
+*Examples: Gain adventage on a Performance Check by playing an instrument you've practiced, on a Handling Check for controlling a machine you've designed, or on a Lore Check regarding a subject you are educated in.*
 
 # Spellcasting
-There is one more Skill that is not treated like the rest: Spellcasting. It is only accessable to characters that know at least 1 Spell. <br>
-If a character knows no Spells or has no defined Spellcasting Ability, treat their Spellcasting Skill bonus as a 0 should the need arise. <br>
+To cast a Spell, you need to be holding a focus. If the Spell is contained within an item (like a scroll or magic weapon), that item doubles as the focus. If you know the Spell yourself, you must hold a special item that works as a focus for one Spell List that Spell belongs to.
+If a Spell forces a Save to be made, the Difficulty of that Save is equal to the caster's Passive Magic Skill. A lot of Spells might require Magic Checks or Magic Attacks, but those are self-explanatory. <br>
 
 ## Spell Slots
-???
+If you know a Spell, you can cast it by expending a Spell Slot of a Rank no lower that the Spell's Rank. <br>
+If you cast a Spell by expending a Spell Slot of a greater Rank than is needed, the Spell's Rank increases to match (which matters for Counterspell etc). A lot of Spells also have additional benefits if cast at greater Ranks, keep an eye out for those! <br>
+You regain any expended Spell Slots after you finish an adventure (aka Long Rest?).
+
+### Cantrips
+If a Spell has the "Cantrip"-tag, it is really simple and non-taxing to cast compared to other spells of that Rank. <br>
+If you know a Cantrip Spell, you can cast that Spell without using a focus or expending a Spell Slot.

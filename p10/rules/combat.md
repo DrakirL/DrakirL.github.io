@@ -16,18 +16,21 @@ A creature is not defeated (whether killed or "taken out") until it gains its si
 
 ## Actions
 During combat, every second counts, and it is important to know how every moment of every round is spent. <br>
-To do this, we use Actions. An adventurer gets 3 Actions at the start of the combat, and regains them after finishing their turn. <br>
+To do this, we use Actions. An adventurer gets 3 Actions at the start of the combat, and regains them *AFTER* finishing their turn. <br>
 You may spend these Actions on your turn for whatever task you decide to spend your time on attempting. The details regarding the most common choices have been pre-defined.
 <br><br>
 If someone wants to do something not covered by any of the defined actions below, it may still be done, either as part of another action or as an Action on its own. <br>
 Here are some guidelines if you need to improvise:
 + Doing a thing one time = Using one action. It doesn't matter how much the thing could affect.
 + If it's on your turn and a Test is required, it should probably use an Action.
-+ 1 Action = about a second or two of effort. If it takes longer than that, it should use more than 1 Action and probably be Distracting.
-+ Reactions aren’t improvised. Use prepared actions instead.
++ 1 Action = about a second or two of active effort. If it takes longer than that, it should use more than 1 Action and probably be Distracting.
++ Reactions aren’t improvised. Use "Prepared Actions" instead.
 
 #### <br>
-As part of any Action, you may either use a free hand to grab hold of an easily attainable item, or stow away some items you are holding to free your hands. You may not do both with the same action. 
+Examples:
++ As part of any Action, you may either use a free hand to grab hold of an easily attainable item, or stow away some items you are holding to free your hands. You may not do both with the same action, as that is covered by the Fetch/Search/Equip? Action.
++ As part of any Action where you move between spaces, you may open a door as you pass through it, or close it if it was already opened (but not both?). If the door is locked, or you want to lock it behind you, you can't just "move through" without dealing with the situation, which takes 1 Action.
+#### <br>
 ### Pre-Defined Actions
 
 **Attack Action** <br>
@@ -37,7 +40,7 @@ If the Attack is made using a Ranged Weapon, it is Distracting?
 <br><br>
 **Brace Action** <br>
 Until the start of your next turn, add a +1 bonus to your Defence and any Save you make. <br> 
-*Note: This CAN stack with itself. Super Brace Tank!*
+*Note: This CAN stack with itself. Brace-tanking is a valid strategy!*
 <br><br>
 **Care Action** <br>
 Make a Medicine Check to try and stabilize a creature on Death's Door (Difficulty = 10 + Exhaustion). <br>

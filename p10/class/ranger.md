@@ -32,9 +32,13 @@ Increase your Speed by 5/10? feet.
 **Terrain Traverser?** <br>
 Gain either Climb Speed or Swim Speed equal to your Speed.
 <br><br>
+**???** <br>
+Gain a "Develloped Sense" of your choice?
+<br><br>
 **Weathered** <br>
 Become Resistant to either Poison, Sonic, Acid, Cold, Fire, or Lightning damage?
-### Level 1: Hunter's Mark
+
+### Level 1: Hunter's/Ranger's Mark?
 You can use 1 Action on your turn to focus your attention on a creature you can see. Make an Intelligence Test/Magic Check? against that creature's Defence. <br>
 If you succeed, that creature is Marked by you for up to an hour, requiring your Concentration. <br>
 Whenever you make a Weapon Attack against a creature you have Marked in this way, you roll a Mark Die (which is a d4) and add the result to your Attack Roll and to the Weapon Damage if you hit.
@@ -65,8 +69,9 @@ In addition, your Mark Die is now a d8.
 You gain the Level 7 Feature of your chosen Ranger Subclass. <br>
 In addition, your Mark Die is now a d10.
 
-### Level 8: ???
-???
+### Level 8: Eternal Hunter?
+Provided you aren't Blinded, Deafened, or Incapacitated, you have Blindsight out to a range of 30/60? feet. <br>
+No Attack you make against a creature within your Blindsight can gain Disadvantage. <br>
 
 ### Level 9: Subclass Feature
 You gain the Level 9 Feature of your chosen Ranger Subclass. <br>
@@ -76,13 +81,14 @@ In addition, your Mark Die is now a d12.
 Provided you aren't Blinded, Deafened, or Incapacitated, you have Blindsight out to a range of 30/60? feet. <br>
 No Attack you make against a creature within your Blindsight can gain Disadvantage. <br>
 <br>
-In addition, your Concentration on your *Ranger's Mark* cannot be broken by damage?
+In addition, your Concentration on your *Ranger's Mark* cannot be broken by damage.
 
 ## Ranger Subclass: Beastmaster
 THEME: You have a trusted animal by your side, and it is as much a trained warrior and expert explorer as you are.
 
 ### Level 1: Animal Companion
-??? You can tame an animal as an additional member of your party. DETAILS?
+??? You can tame an animal as an additional member of your party. DETAILS? <br>
+Its Attacks deal Mark Die damage.
 ### Level 1: Special Bond?
 ??? You and your Animal Companion can do special signature moves together, including for example... *DETAILS? <br>
 Taking hits for each other?

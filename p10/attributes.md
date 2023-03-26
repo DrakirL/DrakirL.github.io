@@ -1,6 +1,10 @@
 # Attributes
-Every creature has four different attributes; Strength, Agility, Intelligence, and Charisma, expressed as a value between 0 and 10. <br>
-To determine these values for your character, shuffle 8 cards (two 1s, two 2s, two 3s, & two 4s,) and divide into them into 4 piles. <br>
+Every creature has four different Attributes; Strength, Agility, Intelligence, and Charisma, expressed as a value between 0 and 10. <br>
+To determine these values for your character, shuffle 8 cards (two 1s, two 2s, two 3s, & two 4s,) and divide into them into 4 paires. <br>
+The value you have for an attribute determines your potential. When comparing creatures' stats to each other, just remember that this system is meant to put "people" and "monstrous creatures" on the same scale.<br>
+0-1 | 2-3 | 4-5 | 6-7 | 8-9 | 10+
+:---: | :---: | :---: | :---: | :---: | :---:
+"Not better than anyone really" | "Pretty good" | "Pretty *damn* good" | "Truly epic" | "Worthy of legends" | "Unparalleled" or "Monstrous"
 
 ## Strength
 Your physique. Used to lift, damage, and withstand physical objects and creatures. <br>
@@ -16,12 +20,12 @@ Other benefits: Your Agility Score determines your base Defence (Defence = 5 + A
 
 ## Intelligence
 Your Used to recall information or solve problems with reasoning or intuition. <br>
-Skills: Crafting, Lore, Insight?, Investigation, Medicine. <br>
+Skills: Crafting, Lore, Investigation, Medicine. <br>
 Save: Snap out of effects that alter how you percieve your surroundings or your sense of self. <br>
-Other benefits: Your Intelligence Score determines your base Awareness (Awareness = 5 + Intelligence).
+Other benefits: Your Intelligence Score determines your base Awareness (Awareness = 5 + Intelligence). Maybe also +INT Skill Points at character creation?
 
 ## Charisma
 Your ability to influence, manipulate, and inspire friends and foes. <br>
-Skills: Deception, Intimidation, Persuasion, Performance/Drama?. <br>
+Skills: Deception, Intimidation, Persuasion, Performance. <br>
 Save: Push back against detrimental effects through sheer willpower alone. <br>
 Other benefits: Your Charisma Score determines the power of your Attunement (Whatever that could mean... TBD)?

@@ -56,12 +56,12 @@ You regain any expended uses after you finish a Rest.
 You choose a Bard Subclass and gain its Level 1 Features.
 
 ### Level 2: Jack of All Trades
-Use Magic Skill in place of other checks, setting a "Minimum Skill Value"? <br>
+Use Magic Skill in place of other checks, setting a "Minimum Skill Value"? Too powerful? Not Relevant? <br>
 Gain 1 Skill point, learn 1 Spell, and gain Training?
 
 ### Level 2: Song of Rest?
 During a Rest, you may soothe or entertain your party through some form of performance. <br>
-After you finish the Rest, you and each creature who enjoyed your performance may roll your Flair Die and add it to their Rest HP. (PHRASING?)
+After you finish the Rest, you and each creature who enjoyed your performance may roll your Flair Die and add it to their Rest HP.
 
 ### Level 3: Subclass Feature
 You gain the Level 3 Feature of your chosen Bard Subclass. <br>
