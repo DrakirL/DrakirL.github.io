@@ -35,12 +35,13 @@ Your experience as an adventurer is represented by your Level; A rough scale mea
 You can expect your party to have to fight at least 1 creature with a CR equal to your level by the time an adventure is finished. <br>
 0-1 | 2-3 | 4-5 | 6-7 | 8-9 | 10+ ?
 :---: | :---: | :---: | :---: | :---: | :---:
-Your friend! | Your home! | Your  | Your people! | Your kind! | Your world as you know it!
-The whole building! | The whole town! | The Kingdom! | The entire kingdom! | The continent! | The universe itself!
+Personal | Local | National | International | Global | Universal
+Your family! | Your village! | Your country! | Your continent! | Your world! | Everything!
+The whole building! | The whole city! | The whole Kingdom! | The whole realm! | Civilization as you know it! | Existence as you know it!
 
 ## Character Progression
 After you finish an Adventure, your character should be rewarded with significantly refreshing downtime and have gained significant experience, depending of the "level" of the adventure. <br>
-At the very least, everyone should get a "long rest" where they regain all expending class resources, including things like Spell Slots that aren't regained on Rests. <br>
+At the very least, everyone should get a "long rest" where they regain all or their lost HP and expended class resources, including things like Spell Slots that can be used X times per Adventure. <br>
 Then, the GM decides whether you characters should progress to a greater level, or if there are more stories to tell on the current scale. <br>
 If it's the former, you level up! <br>
 If it's the latter, you gain a feat with a level no higher than the adventure. <br>
@@ -49,7 +50,7 @@ With a generous GM running a campaign with fast scaling of stakes, you might get
 ### Feats
 Your character can have up to 11 feats, because that's how many rows there are to write them on. <br>
 Each row has a number, ranging from 0 to 10. You can't write down a feat with a level that is higher than the number on the line. <br>
-If you feel like it, you can replace previously earned feats with a new one as you gain it (but with my campaign style, that shouldn't become necessary).
+If you feel like it, you can replace previously earned feats with a new one as you gain it (but with my campaign style, that shouldn't become necessary). When you lose a feat, you have to revert the benefit it granted you.
 <br><br>
 **Attribute Increase** <br>
 Level: 0 <br>
@@ -59,7 +60,7 @@ Choose an Attribute. It is increased by 1. <br>
 **Advanced Melee Martial?** <br>
 Level: 1 <br>
 Prerequisites: Martial Skill (1). <br>
-You become Proficient with Advanced Melee Weapons. <br>
+You are Proficient with Advanced Melee Weapons. <br>
 <br>
 **Magic Adept** <br>
 Level: 1 <br>
@@ -70,7 +71,13 @@ If you don't have Spell Slots, you can cast that spell once per Adventure withou
 **Melee Weapon Master?** <br>
 Level: 2 <br>
 Prerequisites: Martial Skill (2). Proficiency with Advanced Melee Weapons. <br>
-You become Proficient with Advanced Melee Weapons. <br>
+You can deal extra damage with Melee Weapon Attacks sometimes? (DETAILS?) <br>
+<br>
+**Elemental Adept** <br>
+Level: 2 <br>
+Prerequisites: Magic Skill (2). ??? <br>
+Choose Acid, Cold, Fire, or Lightning damage. When you deal damage of the chosen type, you may reroll any damage dice that show a 1. (PHRASING?) <br>
+In addition, any Spell you cast that deals damage of the chosen type ignores Resistance to that damage type. <br>
 <br>
 **Sentinel** <br>
 Level: 3? <br>
