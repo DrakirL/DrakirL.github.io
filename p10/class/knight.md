@@ -34,82 +34,81 @@ Add a +2 bonus to any Martial Attack you make against a target outside your Reac
 Add a +2 bonus to the damage you deal with any Martial Attack against a target within your Reach.
 <br><br>
 **Two-Weapon Fighting** <br>
-When you make an Attack using a weapon wielded in your off-hand, you add your Martial Skill as you would for your primary hand.
+When you make an Attack using a weapon wielded in your off-hand, you add your Martial Skill to the roll as you would for your primary hand.
 <br><br>
 **Great-Weapon Fighting** <br>
 When you deal damage with an Attack using a weapon wielded using both hands, you roll the Weapon Damage Dice twice and choose which result to use.
 <br><br>
-**Defence?** <br>
+**Defence/Guard?** <br>
 If you are wearing armor, add a +1 bonus to your Defence.
 <br><br>
 **Protection** <br>
 If a creature within your reach would be hit by an incoming Attack, you can use 1 Action to become the target of the attack instead, using the same roll. <br>
 You must be wielding a shield to use this action.
 
-### Level 1: Second Wind
-If your current HP is no higher than half of your Maximum HP, you may at any point choose to regain HP equal to 1d10 + your Level. <br>
-Also end the Charmed or Frightened Conditions on yourself? Also curse yourself from poison/Disease? <br>
-You can use this feature even if you are Incapacitated or Dying? <br>
-You can use this feature once per Rest.
+### Level 1: Second Wind/Bravery/Adrenaline Rush?
+You may at any point choose to regain HP equal to half of your Maximum HP. <br>
+You can use this feature once per Rest. <br>
+*Note: This feature is meant to be usable even if you are Incapacitated, so you can pick yourself up from death's door* <br>
 ### Level 1: Fighter Subclass
 You choose a Fighter Subclass and gain its Level 1 Features.
 
 ### Level 2: Prowess
 During combat, you gain a number of Prowess Points equal to half your level at the end of each of your turns. <br>
-After you take the Attack Action on your turn, you may spend 1 Prowess Point to regain your spent Action? <br>
-After you spend an Action outside your turn, you may spend 1 Prowess Point to regain your spent Action?
+After you take the Attack Action on your turn, you may spend 1 Prowess Point to regain your spent Action. <br>
+After you spend an Action outside your turn, you may spend 1 Prowess Point to regain 1 of the spent Actions.
 
-### Level 2: Improved Critical?
-You score a Critical Hit if you roll a natural 19 or 20 on a Weapon Attack?
+### Level 2: Bold Fortune? Bravery?
+If you would roll a natural 1 on a Weapon Attack, you may reroll it and use the new roll instead.
 
 ### Level 3: Subclass Feature
 You gain the Level 3 Feature of your chosen Fighter Subclass.
 
-### Level 4: Indomitable?
-If you fail a Save, you can spend 1 Prowess Point to reroll it and use the new result instead.
+### Level 4: Indomitable
+If you would fail a Save, you can spend 1 Prowess Point to reroll it and use the new result instead.
 
 ### Level 5: Subclass Feature
 You gain the Level 5 Feature of your chosen Fighter Subclass.
 
-### Level 6: Improved Second Wind? Survivor?
-When you use your Second Wind feature, you may also cure yourself of one disease or neutralize one poison that is affecting you? *Too boring/Too late?* <br>
-If you have no more current HP than half of your Maximum HP, you can spend 1 Prowess Point on your turn to regain 1d10 HP? *Too early? Should also take Action?*
+### Level 6: ???
+When you use your Second Wind feature, you may also cure yourself of one disease or neutralize one poison that is affecting you? Also end the Charmed or Frightened Conditions on yourself?
 
 ### Level 7: Subclass Feature
 You gain the Level 7 Feature of your chosen Fighter Subclass.
 
-### Level 8: ???
-???
+### Level 8: Survivor?
+If your current HP is no higher than half of your Maximum HP, you can use 1 Action on your turn and spend 1 Prowess point to regain 1d10 HP. <br>
+*Note: Still applies out of combat, so you can ALWAYS be at half health as a minimum before a fight.*
 
 ### Level 9: Subclass Feature
 You gain the Level 9 Feature of your chosen Fighter Subclass.
 
 ### Level 10: ???
-???
+When you use your *Second Wind* feature, you also regain all Prowess Points you've spent that round.
 
-## Fighter Subclass: Champion
+## Fighter Subclass: Paragon
 THEME: Combat is a simple sport, and you are a world class athlete.
 
 ### Level 1: Martial Prodigy
 Your Martial Skill is always equal to your Level + 1 (exceeding your normal limit). <br>
 Redistribute any Skill Points you've already put into it (NEEDED? This is a Level 1 feature after all, so maybe this is implied?).
-### Level 1: Superiority?
+### Level 1: Simply Superior
 Increase one of your Attributes by 1 (up to 10). <br>
 Gain 1 Skill Point to spend.
 
-### Level 3: Superiority?
+### Level 3: Simply Superior
 Increase one of your Attributes by 1 (up to 10). <br>
 You gain 1 Skill Point to spend.
 
-### Level 5: Superiority?
+### Level 5: Simply Superior
 Increase one of your Attributes by 1 (up to 10). <br>
 You gain 1 Skill Point to spend.
 
-### Level 7: Superiority?
+### Level 7: Simply Superior
 Increase one of your Attributes by 1 (up to 10). <br>
 You gain 1 Skill Point to spend.
 
-### Level 9: Superiority?
+### Level 9: Simply Superior
 Increase one of your Attributes by 1 (up to 10). <br>
 You gain 1 Skill Point to spend.
 

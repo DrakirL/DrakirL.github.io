@@ -48,7 +48,8 @@ When you are hit by a Weapon Attack, you can use 1 Action to reduce the weapon d
 You gain the Level 3 Feature of your chosen Rogue Subclass.
 
 ### Level 4: Evasion/Prepared for the worst?
-If you would make a Save to halve incoming damage, you may use 1 Action to instead take the halved damage if you fail, and no damage if you succeed.
+If you would make a Save to halve incoming damage, you may use 1 Action to instead take the halved damage if you fail, and no damage if you succeed? <br>
+If you would make a Save against incoming damage, you may use 1 Action to instead take half as much damage. If the damage is already halved by you succeeding on the save, you instead take no damage?
 
 ### Level 5: Subclass Feature
 You gain the Level 5 Feature of your chosen Rogue Subclass.
@@ -72,16 +73,16 @@ You can use this feature once per Rest.
 ## Rogue Subclass: Thief
 THEME: You have all the tools needed to make a quick entry without being noticed, or even quicker exit if you happen to get noticed anyway.
 
-### Level 1: Second Story Work
+### Level 1: Second Story Work?
 ??? Better movement, including Climb Spell equal to your Speed? DETAILS?
 ### Level 1: Swift Fingers
-??? More Actions to spend on *sneaky, thiefy* things. DETAILS?
+??? More Actions to spend on *sneaky, thiefy* thing? DETAILS?
 
-### Level 3: ???
-When you would make a Stealth Check or Sleight Check on your turn, you may use 1 additional Action to gain advantage on that Test.
+### Level 3: Supreme Sneak?
+When you would make a Stealth Check or Sleight Check on your turn, you may use 1 additional Action to gain advantage on that Check.
 
-### Level 5: ???
-???
+### Level 5: Pilferer of Trinkets?
+??? Get more magic items and use them better?
 
 ### Level 7: ???
 ???

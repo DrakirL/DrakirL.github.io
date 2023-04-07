@@ -47,30 +47,31 @@ When you hit a creature with the enhanced weapon, it takes extra damage of the c
 
 ### Level 2: ???
 You can use 1 Action on your turn to detect the location of any of your Sworn Enemies within 100? feet of you. (PHRASING? DETAILS?) <br>
-Should also let you detect its "influence", such as spells or terrain effects.
+Should also let you detect its "influence", such as spells or terrain effects. (PHRASING? DETAILS?)
 
 ### Level 3: Subclass Feature
 You gain the Level 3 Feature of your chosen Exorcist Subclass. <br>
 In addition, your Rite Die is now a d6.
 
-### Level 4: ???
-While a creature is Branded by you, ???, it can’t ???, and if it attempts to ???, it must make a Charisma Save against your Passive Magic Skill. <br>
-On a failed Save, the attempt to ??? fails and the creature is Stunned until the end of your next turn.
+### Level 4: Brand of Axiom/Unveiling? Nowhere to Hide? (GOOD ENOUGH???)
+While a creature is Branded by you, it gains no benefit from being concealed by an illusory effect (Should include disguises and invisibility. PHRASING?), it can’t take the Hide Action, and if it attempts to somehow alter its form, it must make a Charisma Save against your Passive Magic Skill. <br>
+On a failed Save, the attempt to change its form fails and the creature is Stunned until the end of your next turn. <br>
+*(Only applies to changing OUT of its true form. What happens if it is already not in its true form? Is should be forced to revert.)*
 
 ### Level 5: Subclass Feature
 You gain the Level 5 Feature of your chosen Exorcist Subclass. <br>
 In addition, your Rite Die is now a d8.
 
 ### Level 6: Hardened Heart
-You gain Advantage on any Save one of your Sworn Enemies forces you to make.
+You gain Advantage on any Save that one of your Sworn Enemies forces you to make.
 
 ### Level 7: Subclass Feature
 You gain the Level 7 Feature of your chosen Exorcist Subclass. <br>
 In addition, your Rite Die is now a d10.
 
-### Level 8: ???
-While a creature is Branded by you, ???, it can’t ???, and if it attempts to ???, it must make a Charisma Save against your Passive Magic Skill. <br>
-On a failed Save, the attempt to ??? fails and the creature is Stunned until the end of your next turn.
+### Level 8: Brand of Binding/Tethering? Nowhere to Run?
+While a creature is Branded by you, ???, it can’t take the Dash Action, and if it attempts to teleport of leave its current plane by any means, it must make a Charisma Save against your Passive Magic Skill. <br>
+On a failed Save, the attempt to teleport or leave the plane fails and the creature is Stunned until the end of your next turn.
 
 ### Level 9: Subclass Feature
 You gain the Level 9 Feature of your chosen Exorcist Subclass. <br>
@@ -83,8 +84,8 @@ Whenever you would roll your Rite Die, you may roll it twice and choose which re
 THEME: ???
 
 ### Level 1: ???
-You may choose the damage type of your Blood Rite each time you use it (unless you are able to do that normally)? <br>
-Your Blood Rite ignores Resistance?
+You may choose the damage type of your *Blood Rite* each time you use the feature. <br>
+In addition, if the target of your *Baleful Brand* is Resistant to the damage dealt by your *Blood Rite*, you can ignore that Resistance. (PHRASING?)
 ### Level 1: ???
 ???
 
@@ -92,10 +93,10 @@ Your Blood Rite ignores Resistance?
 ???
 
 ### Level 5: ???
-???
+??? Dash towards your *Baleful Brand* target, HotS-Illidan style?
 
-### Level 7: ???
-???
+### Level 7: Purify/Exorcise?
+??? Use 1 Action to end Charm, Frighten, or possession for free? Also deals source psychic damage?
 
-### Level 9: ???
-???
+### Level 9: Rite Revival?
+If you have an active *Blood Rite* when you take lethal damage, the rite ends, but the damage is not lethal? Also regain 1 HP?

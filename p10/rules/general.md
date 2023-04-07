@@ -4,12 +4,12 @@ If it is uncertain whether an attempted action should result in success or failu
 <br><br>
 To make a Test, first determine the Difficulty of the task being attempted as a value, typically 10, 15, or 20. <br>
 The value will often be predetermined and already written on someone's character sheet. If it isn't, the GM can pick a value on the spot <br>
-5 | 10 | 15 | 20 | 25 | 30
-:---|:---|:---|:---|:---|:---
-Trivial | Easy | Moderate | Challenging | Formidable | Essentially Impossible
+5 | 10 | 15 | 20 | 25 | 30 | 35 | 40 
+:---|:---|:---|:---|:---|:---|:---|:---
+Trivial | Easy | Moderate | Challenging | Severe | Formidable | Legendary | Essentially Impossible
 
 #### <br>
-Then, the charcter being tested rolls a d20 and add any relevant modifiers. If the total for the roll matches or exceeds the Difficulty, the attempt is a success. Otherwise, it's a failure. <br>
+Then, the creature being tested rolls a d20 and add any relevant modifiers. If the total for the roll matches or exceeds the Difficulty, the attempt is a success. Otherwise, it's a failure. <br>
 Because Tests are made when success and failure are both equally acceptable outcomes, rolling a natural 1 is always a failure and a natural 20 is always a success. <br>
 If you are forced to make a Test, you can always choose to fail if so wish.
 
@@ -18,7 +18,7 @@ You will essentially never be asked to just "make a Test" without any additional
 Instead, the instructions will specify more information regarding the Test's Attribute, Skill, and/or Type. For example: "Make a Charisma Test", "Make a Martial Attack", "Make an Acrobatics Check?", "Make an Intelligence Save".
 <br><br>
 If you make a Test with a specified Attribute (for example a "Strength Save"), you add the value you have for that Attribute to your roll. <br>
-If you make a Test with a specified Skill (for example a "Tolerance Check"), you add the value you have for that Skill to your roll. <br>
+If you make a Test with a specified Skill (for example a "Tolerance Check"), you add the values you have for that Skill AND the Attrubute the Skill is based on to your roll. <br>
 
 ### Types of Tests
 Tests are often referred to with other names to designate the Type. They are performed in the exact same way (Fail if roll is lower than Difficulty, succeed if roll equal or higher), but these names explains the context where certain Tests are often made. They also act as identifiers, which may make them allegable for special features/benefits that don't apply to ALL Tests, only ones of a specific type.
@@ -39,11 +39,11 @@ Checks will specify a Skill much more often than an Attribute.
 Saves are Tests that you are *forced* to make by some external influence actively attempting to directly hit/affect you with some kind of effect. <br>
 The Difficulty of the Test should be pre-determined by the source's Passive Skills. <br>
 On a success, the incoming effect may be negated (or at least partially mitigated). On a fail, you suffer the full extend of the effect. <br>
-Saves prefer to specify an Attribute rather than a specific Skill.
+Saves prefer to specify an Attribute rather than a specific Skill, and therefore generally use less extreme difficulties.
 
 ### Increasing Bonuses: Skill Points.
 As a base, your Skill Bonus for every Skill is 0. You increase them by spending Skill Points (1 Skill Point spent on a Skill = +1 to your Skill Bonus for that Skill). <br>
-Your Skill Bonus for each Skill is limited by your capabilities! You can't increase an Attribute-based Skill to be higher than that Attribute, and you can't increase either of the Adventuring Skills, Martial & Magic, to be higher than your Level. Exceptions to this rule have to be specified by features! <br>
+Your Skill Bonus for each Skill is limited by your capabilities! You can't increase an Attribute-based Skill to be higher than that Attribute, and you can't increase either of the two Adventuring Skills, Martial & Magic, to be higher than your Level. Exceptions to these rules have to be specified by features! <br>
 You gain Skill Points to spend in a variety of ways, including from your Background and at each Class Level. If you would gain enough Skill Points in a specific Skill to exeed its limit, you may redistribute the excess as you wish between your other Skills. <br>
 
 ## Advantage & Disadvantage
