@@ -6,7 +6,7 @@ Paragons of talent exploring all kinds of fields in all kinds of ways. <br>
 ## Traits
 **Class Group:** Expert <br>
 **Hit Die:** d8 <br>
-**Skill Points:** 5 per level <br>
+**Skill Points:** 6 per level <br>
 <br>
 **Weapons:** Simple Melee. Simple Ranged. <br>
 **Armor:** Light. <br>
@@ -55,40 +55,39 @@ You regain any expended uses after you finish a Rest.
 ### Level 1: Bard Subclass
 You choose a Bard Subclass and gain its Level 1 Features.
 
-### Level 2: Jack of All Trades
-Use Magic Skill in place of other checks, setting a "Minimum Skill Value"? Too powerful? Not Relevant? <br>
-Gain 1 Skill point, learn 1 Spell, and gain Training?
+### Level 2: Versatile Virtuoso/Untapped Potential?
+After you finish a Rest, you may replace one of the Spells you know with a different Spell of the same Rank.
 
 ### Level 2: Song of Rest?
-During a Rest, you may soothe or entertain your party through some form of performance. <br>
+During a Rest, you may soothe your party through some form of artistry or entertainment. (PHRASING?) <br>
 After you finish the Rest, you and each creature who enjoyed your performance may roll your Flair Die and add it to their Rest HP.
 
 ### Level 3: Subclass Feature
 You gain the Level 3 Feature of your chosen Bard Subclass. <br>
 In addition, your Flair Die is now a d6.
 
-### Level 4: Jack of All Trades?
-???
+### Level 4: Jack of All Trades? Magical Secrets?
+Gain 1 Skill point, learn 1 Spell, and gain Training? <br>
 
 ### Level 5: Subclass Feature
 You gain the Level 5 Feature of your chosen Bard Subclass. <br>
 In addition, your Flair Die is now a d8.
 
-### Level 6: Magical Secrets/Untapped Potential/Improvise/Versatile Virtuoso?
+### Level 6: Jack of All Trades? Magical Secrets?
 After you finish a Rest, you may replace one of the Spells you know with a different Spell of the same Rank.
 
 ### Level 7: Subclass Feature
 You gain the Level 7 Feature of your chosen Bard Subclass. <br>
 In addition, your Flair Die is now a d10.
 
-### Level 8: Jack of All Trades?
+### Level 8: Jack of All Trades? Magical Secrets?
 ???
 
 ### Level 9: Subclass Feature
 You gain the Level 9 Feature of your chosen Bard Subclass. <br>
 In addition, your Flair Die is now a d12.
 
-### Level 10: Improved Magical Secrets/Untapped Potential/Improvise/Versatile Virtuoso? Something Else?
+### Level 10: Improved Versatile Virtuoso? Jack of All Trades? Magical Secrets? Something Else?
 ???
 
 ## Bard Subclass: College of Lore/Eloquence/Culture?

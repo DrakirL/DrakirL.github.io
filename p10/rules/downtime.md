@@ -6,8 +6,8 @@ A Rest is a prolonged period of time with there is no straineous activities goin
 As a general GM guidline: If someone makes a Test, casts a Spell, spends some feature resource, or takes damage, it should *probably* not be considered a Rest.
 After you finish a Rest you gain the following benefits: <br>
 + Regain any spent uses for features that can be used X times per Rest.
-+ Roll your Hit Die up to a number of times equal to your level. You may replace your current HP with the rolled total, called your Rest HP. <br>
-+ Reduce your Exhaustion by the number of Hit Dice you chose to NOT roll when determining your Rest HP. <br>
++ If you have any Exhaustion, reduce your Exhaustion by 1. <br>
++ If you had no Exhaustion to remove, roll your Hit Die up to a number of times equal to your level and regain that much HP. <br>
 #### <br>
 
 ## Food, Water, & Sleep

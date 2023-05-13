@@ -6,7 +6,7 @@
 ## Traits
 **Class Group:** Warrior <br>
 **Hit Die:** d12 <br>
-**Skill Points:** 3 per level <br>
+**Skill Points:** 4 per level <br>
 <br>
 **Weapons:** Simple Melee. Advanced Melee. <br>
 **Armor:** None. <br>

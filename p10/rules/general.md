@@ -6,7 +6,7 @@ To make a Test, first determine the Difficulty of the task being attempted as a 
 The value will often be predetermined and already written on someone's character sheet. If it isn't, the GM can pick a value on the spot <br>
 5 | 10 | 15 | 20 | 25 | 30 | 35 | 40 
 :---|:---|:---|:---|:---|:---|:---|:---
-Trivial | Easy | Moderate | Challenging | Severe | Formidable | Legendary | Essentially Impossible
+Trivial | Easy | Moderate | Challenging | Intense | Formidable | Legendary | Essentially Impossible
 
 #### <br>
 Then, the creature being tested rolls a d20 and add any relevant modifiers. If the total for the roll matches or exceeds the Difficulty, the attempt is a success. Otherwise, it's a failure. <br>
@@ -30,16 +30,16 @@ On a success, you've landed a decent hit against the target, dealing it damage. 
 Attacks are exclusively made using either the Martial or Magic Skill.
 
 **Checks**<br>
-Checks are Tests that you make to see if some task sits within your skillset. (PHRASING?) <br>
-On a success, you will successfully complete the task, however long it happens to take, provided you're using the right tools/materials. On a fail, you suffer whatever the consequences of failure are in the given context. <br>
-For example: The time or resources used to attempt crafting an item could be wasted. That glass of poisoned wine is too much, so you take Poison damage and fall unconscious. The bartender may not let you question him any further until you change your approach. <br>
-Checks will specify a Skill much more often than an Attribute.
+Checks are Tests that you make to see if some defined task sits within your skillset, provided you spend the time needed to try using any required tools. <br>
+On a success, you will successfully complete the defined task to whatever degree is reasonable in the given context. After succeeding, you will not be forced to retry the same Check just to maintain the result. <br>
+On a fail, you suffer whatever the consequences of a failure would be in the given context. After failing, you may not retry the same Check in the same context. <br>
+Checks will always specify a Skill, usually one that is bound by an Attribute.
 
 **Saves**<br>
 Saves are Tests that you are *forced* to make by some external influence actively attempting to directly hit/affect you with some kind of effect. <br>
 The Difficulty of the Test should be pre-determined by the source's Passive Skills. <br>
 On a success, the incoming effect may be negated (or at least partially mitigated). On a fail, you suffer the full extend of the effect. <br>
-Saves prefer to specify an Attribute rather than a specific Skill, and therefore generally use less extreme difficulties.
+Saves prefer to specify an Attribute rather than a specific Skill. Save bonus?
 
 ### Increasing Bonuses: Skill Points.
 As a base, your Skill Bonus for every Skill is 0. You increase them by spending Skill Points (1 Skill Point spent on a Skill = +1 to your Skill Bonus for that Skill). <br>

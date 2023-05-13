@@ -6,7 +6,7 @@ Powerful sages that bend reality to their wims. <br>
 ## Traits
 **Class Group:** Mage <br>
 **Hit Die:** d6 <br>
-**Skill Points:** 4/5? per level <br>
+**Skill Points:** 5 per level <br>
 <br>
 **Weapons:** Simple Melee. <br>
 **Armor:** None. <br>

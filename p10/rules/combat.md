@@ -9,30 +9,33 @@ A creature's hardiness is determined by its Hit Die (Which is determined by Size
 As long as a creature has at least 1 remaining HP, it is not dead or dying and able to act normally. A player's Maximum HP is equal to the size of their Hit Die times their Level.
 
 ### Lethal Damage & Death's Door
-If a creature takes damage that reduces its HP to 0, that damage is considered Lethal. When a creature takes Lethal damage, the attacker decides whether to kill that creature or just "take it out", potentially leaving the target unconcious for an undetermined amount of time. <br>
-Some creatures should not be that easy to defeat however, the main example being PLAYER CHARACTERS. When a such a creature takes Lethal damage, whether the attacker intends to "take them out" or outright kill them, it instead gains 1 point of exhaustion and enter the state of "Death's Door".
-<br> <br>
-A creature on Death's Door is Incapacitated and must make a Death Roll at the start of each of its turns. To make a Death Roll, Roll your Hit Die. If the result is higher than your Exhaustion, you regain HP equal to your roll - your Exhaustion and are thus no longer on Death's Door. Otherwise, your Exhaustion increases by 1 and you remain on Death's Door. <br>
-A creature is not defeated (whether killed or "taken out") until it gains its sixth Exhaustion.
+If a creature takes damage that reduces its HP to 0, that damage is considered Lethal. When a creature takes Lethal damage, the attacker decides whether to kill that creature or just "take it out", potentially leaving the target unconcious for an undetermined amount of time. Either way, the fate of the creature is no longer up to them, but their attacker and other surrounding circumstances. <br>
+Some creatures should not be that easy to defeat however, the main example being *PLAYER CHARACTERS*. When a such a creature takes Lethal damage, it is instead left on "Death's Door".
+<br><br>
+A creature is considered to be on Death's Door as long as it has 0 HP, but is not dead or otherwise taken out. <br>
+Whilst on Death's Door, a creature gains 1 Exhaustion for every hit of damage it takes and 1 for each Action it uses. <br>
+A creature can have up to 5 points of Exhaustion without any directly adverse effects. But if a creature would gain any more, it is defeated, whether that means killed or "taken out". <br>
+*Should Death Rolls be a thing? If they are, they are made by rolling your Hit Die and needing to exceed your current Exhaustion.*
 
 ## Actions
 During combat, every second counts, and it is important to know how every moment of every round is spent. <br>
 To do this, we use Actions. An adventurer gets 3 Actions at the start of the combat, and regains them *AFTER* finishing their turn. <br>
-You may spend these Actions on your turn for whatever task you decide to spend your time on attempting. The details regarding the most common reoccuring options have been pre-defined.
+The details regarding the most common reoccuring options have been pre-defined, but if someone wants to do something not defined, it may still be done, either as part of another action or as an Action on its own. <br>
+You may spend these Actions on your turn for whatever task you decide to spend your time to attempt.
 <br><br>
-If someone wants to do something not covered by any of the defined actions below, it may still be done, either as part of another action or as an Action on its own. <br>
 Here are some guidelines if you need to improvise:
 + Doing a thing one time = Using one action. It doesn't matter how much the thing could affect.
 + If it's on your turn and a Test is required, it should probably use an Action.
 + 1 Action = about a second or two of active effort. If it takes longer than that, it should use more than 1 Action and probably be Distracting.
 + Reactions aren’t improvised. Use "Prepared Actions" instead.
-
 #### <br>
+
 Examples:
-+ As part of any Action where you move to a different space, you may open a door as you pass through it, or close it if it was already opened (but not both?). If the door is locked, or you want to lock it behind you, you can't just "move through" without dealing with the situation, which takes 1 Action.
++ As part of any Action where you move to a different space, you may open a door as you pass through it, or close it if it was already opened (but not both?). If the door is locked, or you want to lock it behind you, you can't just "move through" without dealing with the situation, so it takes 1 Action to do.
 + As part of any Action that relies on you using an object, you may use a free hand to grab hold of that object if it is easily attainable, such as on your belt or on the ground next to you. You may not both stuff away an object and grab a new one with the freed hand using same action, as that is covered by the Fetch/Search/Equip? Action.
 + As part of any Action, you may ask the GM questions about what your character knows, sees, hears, etc. If you need to make a Test to find something out, it's its own Action.
 #### <br>
+
 ### Pre-Defined Actions
 
 **Attack Action** <br>
@@ -42,14 +45,14 @@ If the Attack is a Ranged Weapon Attack, it is Distracting?
 <br><br>
 
 **Brace Action** <br>
-Until the start of your next turn, add a +1 bonus to your Defence and any Save you make. <br> 
+Until the start of your next turn, add a +1 bonus to your Defence, Awareness, and any Save you make. <br> 
 *Note: This CAN stack with itself. Brace-tanking is a valid strategy!*
 <br><br>
 
 **Care Action** <br>
 Make a Medicine Check to try and stabilize a creature on Death's Door (Difficulty = 10 + Exhaustion). <br>
 On a success, the creature is stabilized/regains 1 HP/succeeds on a Death Roll? (DETAILS?)
-Taking this Action is Distracting?
+Taking this Action is Distracting.
 <br><br>
 
 **Dash** <br>
@@ -72,7 +75,7 @@ Your Hiding can end in a *LOT* of different ways. (DETAILS?)
 <br><br>
 
 **Spell Action** <br>
-Begin casting a Spell you know. Casting a Spell requires you putting your whole body into it. It is loud, clear, and obvious when a Spell is cast (and often also what spell it is). <br>
+Begin to cast a Spell you have some access to. Casting a Spell requires you putting your whole body into it. It is loud, clear, and obvious when a Spell is cast (and often also what spell it is). <br>
 If the Spell requires more than 1 Action to cast, doing so is Distracting. If the casting time is even longer (Minute = 10 rounds, Hour = 600 rounds), it requires all of your actions *every round* that entire time.
 <br><br>
 
@@ -83,8 +86,8 @@ Is unaffected by difficult terrain etc. (PHRASING? DETAILS?)
 ### Pre-Defined Reactions
 
 **Strike Reaction**
-When a creature within your reach takes a Distracting Action, you may make a Sudden Strike against it.<br>
-A Sudden Strike is a single Unarmed Strike or Melee Weapon Attack using an already equipped weapon. If the attack hits, the triggering Action(s) is interrupted and does not occur. <br>
+When a creature within your reach takes a Distracting Action, you may make a Sudden Strike against it. <br>
+A Sudden Strike is a single Unarmed Strike or Melee Weapon Attack using an already equipped weapon. If the attack hits, the triggering Action(s) is interrupted and do not occur. <br>
 *Note: This doesn't waste resources. Only the Actions themselves. Spell Slots, components, and equipment are all safe.*
 
 ### Reserving/Delaying Actions
@@ -196,19 +199,20 @@ Needless to say, you can't wear multiple suits of armor at once.
 
 ### Light
 Light armor increases your base Defence before you add your Agility. <br>
-+ Leather: 11 + AGI Defence.
-+ Hide: 12 + AGI Defence.
-+ Chain Shirt: 13 + AGI Defence.
++ Hide: 1
++ Leather: 2
++ Gambeson: 3
++ Brigandine: 4
 
 ### Heavy
-Heavy armor sets your total Defence to a given value, but only if you meet the armor's given Strength requirement.
-+ Scale Mail: 14 Defence, 2 STR.
-+ Breastplate?: 16 Defence, 3 STR.
-+ Splint: 18 Defence, 4 STR.
-+ Plate? Full Suit?: 20 Defence, 5 STR.
+Heavy armor sets your total Defence to a given value, but only if you meet the armor's given Strength requirement, and it imposes Disadvantage on Stealth (or some less "hard-coded" situation?) regardless.
++ Chain: 2
++ Scale: 3
++ Splint: 4
++ Plate: 5
 
 ## Shields
-If you are wearing or holding a shield, your Defence increases by a little bit, provided you are Proficient with that kind of shield. <br>
+If you are using a shield, your Defence increases by a little bit, provided you are Proficient with that kind of shield. <br>
 You can only gain the benefit from one shield at a time, so there's no point to carrying multiple.
 
 ### Small

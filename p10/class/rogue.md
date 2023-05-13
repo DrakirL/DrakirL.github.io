@@ -25,24 +25,26 @@ Conniving experts that can find and exploit any weakness in a foe or their plans
 ## Rogue Class Features
 These are the core features granted for the Rogue Class.
 
+### Level 1: Skill Mastery
+Choose one of your Attribute-Based Skills. Your Learning Cap for the chosen Skill is now 10. (PHRASING?) <br>
+You also gain a number of Skill Points to put into that Skill it equal to the Attribute it is based on. (PHRASING?)
+
 ### Level 1: Sneak Attack!
 If you hit a creature with a Weapon Attack and you have advantage on the roll, you add a number of d6 equal to your Level to the weapon damage dealt. <br>
 After you've dealt this extra damage, you can't do so again until you regain your Actions.
-### Level 1: Opportunist
-You gain Advantage on a Weapon Attack you make against a creature in the following situations:
- + Your Attack is a Sudden Strike.
- + The target creature is Downed or Grappled. (DETAILS?)
- + You have an allied creature within 5 feet of the target creature on the opposite side from where you are attacking it.
-#### <br>
+
 ### Level 1: Rogue Subclass
 You choose a Rogue Subclass and gain its Level 1 Features.
 
-### Level 2: Cunning Action/Multitasking? Expertise?
-An extra action to use each turn? Regain one used Action on your turn? One time "use at any time to regain your spent Actions"? <br>
-Choose an Attribute-based Skill, you may add the Skill Bonus for that Skill twice to any check you make using it? Choose more of them (One every other level)?
+### Level 2: Opportunist?
+In addition, you may gain Advantage on any Weapon Attack you make against a creature in one of the following situations:
+ + Your Attack is a Sudden Strike. <br>
+ + The target creature is Downed or Grappled. <br>
+ + You have an allied creature within 5 feet of the target creature on the opposite side from where you are attacking it. <br>
+#### <br>
 
 ### Level 2: Uncanny Dodge
-When you are hit by a Weapon Attack, you can use 1 Action to reduce the weapon damage dealt by half.
+When you are hit by a Weapon Attack, you can use 1 Action to reduce the incoming weapon damage by half.
 
 ### Level 3: Subclass Feature
 You gain the Level 3 Feature of your chosen Rogue Subclass.
@@ -55,7 +57,7 @@ If you would make a Save against incoming damage, you may use 1 Action to instea
 You gain the Level 5 Feature of your chosen Rogue Subclass.
 
 ### Level 6: Reliable Talent?
-When you make a Skill Check and roll a number on the die that is lower than that Skill, you may treat it as if it had rolled that number instead.
+When you make a Skill Check and roll a number on the die that is lower than that Skill, you may treat it as if it had rolled that number instead. (PHRASING?)
 
 ### Level 7: Subclass Feature
 You gain the Level 7 Feature of your chosen Rogue Subclass.
@@ -71,15 +73,18 @@ If you would fail a Test, you may choose to succeed instead. <br>
 You can use this feature once per Rest.
 
 ## Rogue Subclass: Thief
-THEME: You have all the tools needed to make a quick entry without being noticed, or even quicker exit if you happen to get noticed anyway.
+THEME: You have all the tools needed to make a quick entry without being noticed, or even quicker exit if you happen to get noticed anyway. <br>
+RECOMMENDATION: Put your Mastery into either Finesse or Stealth.
 
-### Level 1: Second Story Work?
-??? Better movement, including Climb Spell equal to your Speed? DETAILS?
-### Level 1: Swift Fingers
-??? More Actions to spend on *sneaky, thiefy* thing? DETAILS?
+### Level 1: Second Story Work? Escape Artist?
+Your Speed increases by 10 feet. <br>
+You have Climb Speed equal to your Speed.
+
+### Level 1: Swift Fingers/Multitasking?
+You now gain 4 actions each Round rather than 3.
 
 ### Level 3: Supreme Sneak?
-When you would make a Stealth Check or Sleight Check on your turn, you may use 1 additional Action to gain advantage on that Check.
+When you would make a Finesse Check or Stealth Check on your turn, you may use 1 additional Action to gain advantage on that Check.
 
 ### Level 5: Pilferer of Trinkets?
 ??? Get more magic items and use them better?
