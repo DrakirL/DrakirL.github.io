@@ -12,46 +12,47 @@ Conniving experts that can find and exploit any weakness in a foe or their plans
 **Armor:** Light. <br>
 **Shields:** None. <br>
 **Focus:** None. <br>
-**Training:** Three (toolsets?) of your choice. <br>
+**Training:** An occupation of your choice. A gaming set of your choice. A common language of your choice. <br>
 
 ## Starting Equipment
 + A Simple Melee Weapon of your choice.
 + A Simple Ranged Weapon of your choice.
 + A quiver containing 20 pieces of ammunition of your choice.
 + Leather Armor.
-+ Thieves' Tools? A Toolset of your choice?
-+ Extra gp as a treat?
++ A toolset of your choice.
++ A gaming set of your choice.
 
 ## Rogue Class Features
 These are the core features granted for the Rogue Class.
 
 ### Level 1: Skill Mastery
-Choose one of your Attribute-Based Skills. Your Learning Cap for the chosen Skill is now 10. (PHRASING?) <br>
-You also gain a number of Skill Points to put into that Skill it equal to the Attribute it is based on. (PHRASING?)
+Choose one of your Attibute based Skills to master. Your learning cap for that Skill is now 10, regardless of your Attributes. <br>
+You gain 10 Skill Points to put into the chosen Skill.
 
 ### Level 1: Sneak Attack!
-If you hit a creature with a Weapon Attack and you have advantage on the roll, you add a number of d6 equal to your Level to the weapon damage dealt. <br>
+If you hit a creature with a Martial Attack and you have advantage on the roll, you add a number of d6 equal to your Level to the damage dealt. <br>
 After you've dealt this extra damage, you can't do so again until you regain your Actions.
 
 ### Level 1: Rogue Subclass
 You choose a Rogue Subclass and gain its Level 1 Features.
 
-### Level 2: Opportunist?
-In addition, you may gain Advantage on any Weapon Attack you make against a creature in one of the following situations:
- + Your Attack is a Sudden Strike. <br>
- + The target creature is Downed or Grappled. <br>
- + You have an allied creature within 5 feet of the target creature on the opposite side from where you are attacking it. <br>
+### Level 2: Opportunist
+You gain Advantage on any Attack you make against a creature in one of the following situations:
+ + Your Attack is a Sudden Strike.
+ + The target creature is Downed.
+ + The target creature is Grappled.
+ + You have an allied creature within 5 feet of the target creature on the opposite side from where you are attacking it.
 #### <br>
 
 ### Level 2: Uncanny Dodge
-When you are hit by a Weapon Attack, you can use 1 Action to reduce the incoming weapon damage by half.
+When you are hit by an Attack, you can use 1 Action to reduce any incoming damage by half.
 
 ### Level 3: Subclass Feature
 You gain the Level 3 Feature of your chosen Rogue Subclass.
 
-### Level 4: Evasion/Prepared for the worst?
-If you would make a Save to halve incoming damage, you may use 1 Action to instead take the halved damage if you fail, and no damage if you succeed? <br>
-If you would make a Save against incoming damage, you may use 1 Action to instead take half as much damage. If the damage is already halved by you succeeding on the save, you instead take no damage?
+### Level 4: Evasion/Prepared for the Worst/Slippery?
+When you make a Save against incoming damage, you can use 1 Action to instead take half as much damage. <br>
+If the damage is already halved by you succeeding on the save, you instead take no damage?
 
 ### Level 5: Subclass Feature
 You gain the Level 5 Feature of your chosen Rogue Subclass.
@@ -81,7 +82,7 @@ Your Speed increases by 10 feet. <br>
 You have Climb Speed equal to your Speed.
 
 ### Level 1: Swift Fingers/Multitasking?
-You now gain 4 actions each Round rather than 3.
+You now have 4 actions to use each Round rather than 3.
 
 ### Level 3: Supreme Sneak?
 When you would make a Finesse Check or Stealth Check on your turn, you may use 1 additional Action to gain advantage on that Check.

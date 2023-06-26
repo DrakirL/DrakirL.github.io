@@ -1,16 +1,19 @@
 # Ancestry 
-If your ancestry to belong to more than one race, just pick one and declare it the most prominent one.
+A character's ancestry is from what kind of society and culture they hail from. <br>
+The description may be as broad as "Dwarf" or as specific as "of the North-eastern Salahmaskan River Tribe" depending on what fits the setting. The options listed below, belonging to the setting of Allthelt, are of the broad variety. <br>
+If your ancestry to belong to more than one race, just pick one and declare it as "most prominent". <br>
+*NOTE: This is also the step where your Attributes are determined.*
 
 ## Humans
-Humans are found everywhere, being the most common and most widespread race by a large marigin. <br>
+Humans are found everywhere, being the most common and most widespread race by a large margin. <br>
 Their cultures are diverse, but generally value progress and commerce/interaction with other cultures.
-###Increased Attributes
+### Increased Attributes
 +1 to each of your Attributes.
 ### Cultural Ambassador
 You learn any one language of your choice. <br>
 You gain Training with one type of gaming set or musical instrument of your choice.
 ### Versatile Worker
-You gain Proficiency in one Skill you lack of your choice. <br>
+??? <br>
 You gain Training with one type of artisan's tools or an education of your choice.
 ### Archetypical Adventurer
 Choose one of the following benefits:
@@ -28,7 +31,7 @@ You learn one Rank 1 Cantrip Spell of your choice from any Spell List.
 You have one additional Hit Die.
 
 ## Jotun
-Jotun are known to be tall and muscular with next to no hair, except for lucious locks in the areas of their head where "the gods intended". <br>
+Jotun are known to be tall and muscular with next to no hair, except for lucious locks in the areas of their head where "the gods intended" (Scalp for women, chin for men). <br>
 Their ancestors fought alongside the Giants in their wars against the Dragons, but since the wars ended their lives' purpose is up in the air. <br>
 Today, most Jotun lead a nomadic lives in large wandering herds not too dissimilar from marching plutoons.
 ### Increased Attributes
@@ -53,7 +56,7 @@ Today, the greatest of these cities operate with fully independent autonomy at s
 ### Increased Attributes
 +2 to your Strength Attribute.
 ### Darkvision (Eyes of the mountain?)
-You have Darkvision out to a range of 60 feet.
+You have Darkvision.
 ### Sturdy Guts
 You are Resistant to Poison damage, and you gain Advantage on any Save you make against being Poisoned or contracting a disease.
 ### Archetypical Adventurer
@@ -135,7 +138,7 @@ Reproduce asexually?
 ### Increased Attributes
 +1 to each of your Attributes.
 ### Drake's Eyes?
-You have Darkvision out to a range of 30 feet?
+You have Perception/Darkvision?
 ### Elemental Heritage
 Choose one of the following Damage types: Acid, Cold, Fire, or Lightning. You gain the following benefits:
 + You are Resistant to damage of your chosen type.

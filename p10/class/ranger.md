@@ -33,7 +33,7 @@ As an adept at traversing all types of terrain, you gain the following benefits:
 ### Level 1: Hunter's/Ranger's Mark?
 You can use 1 Action on your turn to focus your attention on a creature you can see. Make a Martial Check against that creature's Defence. <br>
 If you succeed, that creature is Marked by you for up to an hour, requiring your Concentration. <br>
-Whenever you make a Weapon Attack against a creature you have Marked in this way, you roll a Mark Die (which is a d4) and add the result to your Attack Roll and to the Weapon Damage if you hit.
+Whenever you make a Martial Attack against a creature you have Marked in this way, you roll a Mark Die (which is a d4) and add the result to your Attack Roll and to the damage dealt if you hit.
 ### Level 1: Ranger Subclass
 You choose a Ranger Subclass and gain its Level 1 Features.
 
@@ -45,8 +45,7 @@ While you are travelling, you gain the following benefits:
 #### <br>
 
 ### Level 2: Survival of the Fittest? Primal Grit?
-If you finish a Rest with Exhaustion, you may set your exhaustion to 0 instead of reducing it by 1.
-When determining your Rest HP, you may treat each Hit Die that rolled a number lower than 5 as if it had rolled a 5. <br>
+When you recover HP from a Rest, you may treat a number lower than 5 rolled on your Hit Die as a 5.
 
 ### Level 3: Subclass Feature
 You gain the Level 3 Feature of your chosen Ranger Subclass. <br>
@@ -73,15 +72,14 @@ You gain the Level 7 Feature of your chosen Ranger Subclass. <br>
 In addition, your Mark Die is now a d10.
 
 ### Level 8: Honed Senses
-Provided you aren't Blinded, Deafened, or Incapacitated, you have Blindsight out to a range of 30 feet. <br>
-No Attack you make against a creature within your Blindsight can gain Disadvantage. <br>
+Provided you aren't Blinded, Deafened, or Incapacitated, and no Attack you make against a creature can gain Disadvantage.
 
 ### Level 9: Subclass Feature
 You gain the Level 9 Feature of your chosen Ranger Subclass. <br>
 In addition, your Mark Die is now a d12.
 
 ### Level 10: Unvavering Mark? Lethal Precision?
-When you make a Weapon Attack against a creature marked by your *Ranger's Mark* feature, you deal the damage rolled by your Mark Die even if the attack misses, provided it is an allegable target? <br>
+When you make a Martial Attack against a creature marked by your *Ranger's Mark* feature, you deal the damage rolled by your Mark Die even if the attack misses, provided it is an allegable target? <br>
 In addition, your Concentration on your *Ranger's Mark* cannot be broken by damage. <br>
 
 ## Ranger Subclass: Beastmaster
@@ -94,7 +92,7 @@ This creature is known as your Companion, and can come in any form you choose if
 + It has only 1 Action per Round, but on its turn, it can take the Dash Action and any other Action at the same time. <br>
 + The sum of its Strength and Agility equals 5 + your Level. Its Intelligence and Charisma are both 0.
 + Its Martial Skill is always equal to your Level. It has 2 extra Skill Points per Level to spend on its other Skills.
-+ It has Natrual Weapons it can make Melee Weapon Attacks with. The attack has the Finesse property, and deals 1 Mark Die damage on hit (either Bludgeoning, Piercing, or Slashing). <br>
++ It has Natrual Weapons, so its Unarmed Strike has the Finesse? property and deals 1 Mark Die damage on hit (either Bludgeoning, Piercing, or Slashing, choose which from beginning). <br>
 + Any other special abilities you want are restricted by its size. For Example: Only a tiny Companion can have a Fly Speed, and only large creatures are Ridable.
 #### <br>
 (PHRASING FOR THE WHOLE THING?)
@@ -109,7 +107,7 @@ Taking hits for each other?
 
 ### Level 5: ???
 Your Companion now has 2 Actions to use each round. <br>
-It can still Dash and Act using a single Action.
+It can still Dash and Act using a single Action?
 
 ### Level 7: ???
 ???

@@ -45,38 +45,30 @@ Rank 8: | | | | | | | | 1 | 1 | 2
 Rank 9: | | | | | | | | | 1 | 1
 Rank 10: | | | | | | | | | | 1
 
-### Level 1: Channel Divinity
+### Level 1: Divine Spark
 You can use any Channel Divinity Ability you have once per Rest. *PHRASING?
 If a Channel Divinity Ability forces a creature to make a Save, it is made against your Passive Magic Skill.
 <br><br>
 In addition, you gain the Channel Divinity Ability: *Divine Spark*.
 
 #### Divine Spark
-You present your holy symbol to a creature within 30 feet of you. It either regains HP equal to a number of d8s equal to your level or it must make a Charisma Save. <br>
-A creature takes Radiant or Infernal damage (your choice) equal to equal to a number of d8s equal to your level on a failed Save, or half as much on a success.
+You present your holy symbol to a creature within 20? 60? feet of you. It either regains HP equal to a number of d8s equal to your Level or it must make a Charisma Save (your choice). <br>
+A creature takes Radiant or Infernal damage (your choice) equal to equal to a number of d8s equal to your Level on a failed Save, or half as much on a success.
 
 ### Level 1: Cleric Subclass
 You choose a Cleric Subclass and gain its Level 1 Features. <br>
-Your subclass comes with a list of Domain Spells?
+Your subclass comes with a list of Domain Spells. You learn these Spells at the defined levels, and they count as Divine Spells for you, even if they don't normally. (PHRASING?)
 
 ### Level 2: Holy Order
 Choose one of the following benefits:
 <br><br>
 **Crusader** <br>
-Add 2 Skill Points to your Martial Skill? <br>
 You gain Proficiency with Advanced Melee Weapons, Advanced Ranged Weapons, Heavy Armor, and Large Shields.
 <br><br>
 **Herald** <br>
-Add 2 Skill Points to your Magic Skill? <br>
-You can use your *Channel Divinity* as a Spell Slot with a Rank equal to half your Level? (PHRASING?) <br>
-MORE?
-<br><br>
-**Mentor?** <br>
-You gain 6? Skill Points to spend. <br>
-You gain one Training of your choice. (PHRASING?) <br>
-MORE?
+You can now use your *Divine Spark* up to 2 times per Rest. <br>
 
-### Level 2: Divine Wrath/Blessed Strike?
+### Level 2: Divine Wrath
 When you deal damage to one or more creatures with an attack or Spell, you can deal an additional 1d8 damage to one of those creatures. <br>
 After you've dealt this damage, you can't do so again until you regain your Actions.
 <br><br>
@@ -88,8 +80,8 @@ You gain the Level 3 Feature of your chosen Cleric Subclass.
 ### Level 4: Divine Invervention?
 You gain the following Channel Divinity Ability:
 #### Divine Intervention
-You can use 3 Actions on your turn to say a prayer and try call on your deity to intervene on your behalf. Describe the assistance you seek and roll your Intervention Die, which is a D10. <br>
-If you roll a 1, the prayer is immidiately answered as the deity intervenes, providing the assistance you prayed for. <br>
+You can use 3 Actions on your turn to say a prayer and try call on your deity to intervene on your behalf. Describe the assistance you seek and roll a d8. <br>
+If you roll a 1, the prayer is immidiately answered as the deity directly intervenes, briefly appearing to provide the assistance you prayed for. <br>
 The GM decides how the intervention takes form. Usually, creating the effects of any one Spell you know or a Divine Spell the GM's choice is appropriate.
 <br><br>
 If your deity does intervene, you cannot use this feature to make it intervene again for rest of the adventure.
@@ -98,40 +90,41 @@ If your deity does intervene, you cannot use this feature to make it intervene a
 You gain the Level 5 Feature of your chosen Cleric Subclass.
 
 ### Level 6: Improved Divine Intervention
-Your Intervention Die is now a d8.
+When you use your *Divine Intervention*, you may now roll up to two d8. Your prayer is answered if you roll a 1 on either die.
 
 ### Level 7: Subclass Feature
 You gain the Level 7 Feature of your chosen Cleric Subclass.
 
 ### Level 8: Improved Divine Intervention
-Your Intervention Die is now a d6.
+When you use your *Divine Intervention*, you may now roll up to three d8. Your prayer is answered if you roll a 1 on any of the dice.
 
 ### Level 9: Subclass Feature
 You gain the Level 9 Feature of your chosen Cleric Subclass.
 
 ### Level 10: Improved Divine Intervention
-Your Intervention Die is now a d4.
+When you use your *Divine Intervention*, you may now roll up to four d8. Your prayer is answered if you roll a 1 on any of the dice.
 
 ## Bard Subclass: War Domain.
-THEME: Combat. Battle. Warfare. All are variations of the concept of conflict and the resolution therof - a fundamental part of any world with more than one thinking mind.
+THEME: Combat. Battle. Warfare. All are variations of the concept of conflict and the resolution therof - a fundamental part of any world with more than one thinking mind. <br>
+**Domain Spells:** Shield of Faith?, *Rank 2*, *Rank 3*, *Rank 4*, *Rank 5*.
 
 ### Level 1: War Priest?
-After casting a Spell, you may make a single Weapon Attack as part of the same action? <br>
+After casting a Spell, you may make a single Martial Attack as part of the same action? <br>
 Once per round? Only on your turn? Up to CHA times per Rest?
 
 ### Level 1: Improved Channel Divinity???
 You gain the following Channel Divinity Ability:
 #### Guided Strike?
-When a creature you can see within 30 feet of you misses an Attack, you can use 1 Action and expend one use of your *Channel Divinity* to add a +10? bonus to its roll, potentially changing the outcome.
+When a creature you can see within 20 feet of you misses an Attack, you can use 1 Action and expend one use of your *Channel Divinity* to add a +10 bonus to its roll, potentially changing the outcome.
 
 ### Level 3: ???
 ???
 
-### Level 5: Improved Divine Wrath/Blessed Strikes?
-The damage dealt by your *???* feature becomes 2d8.
+### Level 5: Improved Divine Wrath?
+The damage dealt by your *Divine Wrath* feature is now 2d8.
 
 ### Level 7: ???
 ???
 
 ### Level 9: Avatar of Battle?
-You are resistant to all Weapon Damage.
+You are resistant to all damage dealt to you by a Martial Attack.

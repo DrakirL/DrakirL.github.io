@@ -2,8 +2,8 @@
 The game is determined by the GM narrating consequences of the actions the player's decide their character should take. <br>
 If it is uncertain whether an attempted action should result in success or failure, a Test is made to determine the result.
 <br><br>
-To make a Test, first determine the Difficulty of the task being attempted as a value, typically 10, 15, or 20. <br>
-The value will often be predetermined and already written on someone's character sheet. If it isn't, the GM can pick a value on the spot <br>
+To make a Test, first determine the Difficulty of the task being attempted as a value no higher than 40, often predetermined and noted on some character's sheet. <br>
+In cases where a value has not been determined, the GM can pick a value on the spot, typically 10, 15, or 20. <br>
 5 | 10 | 15 | 20 | 25 | 30 | 35 | 40 
 :---|:---|:---|:---|:---|:---|:---|:---
 Trivial | Easy | Moderate | Challenging | Intense | Formidable | Legendary | Essentially Impossible
@@ -21,20 +21,20 @@ If you make a Test with a specified Attribute (for example a "Strength Save"), y
 If you make a Test with a specified Skill (for example a "Tolerance Check"), you add the values you have for that Skill AND the Attrubute the Skill is based on to your roll. <br>
 
 ### Types of Tests
-Tests are often referred to with other names to designate the Type. They are performed in the exact same way (Fail if roll is lower than Difficulty, succeed if roll equal or higher), but these names explains the context where certain Tests are often made. They also act as identifiers, which may make them allegable for special features/benefits that don't apply to ALL Tests, only ones of a specific type.
-
+Tests are often referred to with other names to designate the Type. Tests are performed in the exact same way regardless of their type (Fail if roll is lower than Difficulty, succeed if roll equal or higher), but these names explains the context where certain Tests are often made. They also act as identifiers, which may make them elligable for special features/benefits that don't apply to ALL Tests, only ones of a specific type.
+<br><br>
 **Attacks**<br>
 Attacks are Tests that you make when you are trying to harm a creature or damage an object.
-The Difficulty of the Test is determined by target's Defence (or Hardness if it's an inanimate object).
-On a success, you've landed a decent hit against the target, dealing it damage. The amount of damage dealt is determined by the weapon/spell used to attack. If you're just using your fists, it's 1, but you may choose to Grapple or Shove the target instead. <br>
+The Difficulty of the Test is determined by target's Defence (or Hardness if it's an inanimate object?).
+On a success, you've landed a decent hit against the target, dealing damage and/or triggering any effects that occur on a hit. <br>
 Attacks are exclusively made using either the Martial or Magic Skill.
-
+<br><br>
 **Checks**<br>
 Checks are Tests that you make to see if some defined task sits within your skillset, provided you spend the time needed to try using any required tools. <br>
 On a success, you will successfully complete the defined task to whatever degree is reasonable in the given context. After succeeding, you will not be forced to retry the same Check just to maintain the result. <br>
 On a fail, you suffer whatever the consequences of a failure would be in the given context. After failing, you may not retry the same Check in the same context. <br>
 Checks will always specify a Skill, usually one that is bound by an Attribute.
-
+<br><br>
 **Saves**<br>
 Saves are Tests that you are *forced* to make by some external influence actively attempting to directly hit/affect you with some kind of effect. <br>
 The Difficulty of the Test should be pre-determined by the source's Passive Skills. <br>
@@ -57,15 +57,16 @@ Sometimes you can be more than just skilled, and sometimes merely being skilled 
 ### Proficiency: Weapons, Shields, & Armor.
 If you lack Proficiency with a type weapon, you may not add your Martial Skill to any Attack you make using a weapon of that type. <br>
 If you lack Proficiency with a type of armor, your speed is halved and you can't cast Spells while you're wearing it. <br>
-If you lack Proficiency with a type of shield, it does not help increase your Defence. <br>
+If you lack Proficiency with a type of shield, you can't use a shield of that type to increase your Defence. <br>
 If you lack Proficiency with a type of focus, you can't use a focus of that type to cast spells. <br>
-### Training: Tools?, Vehicles, Games, Instruments, & Education
+### Training: Occupations, Educations, Vehicles, Games, and Instruments.
 If you have any Training in some area, ham it up! If you can describe how your training would help you make a Check, you gain Advantage on that Check for free! <br>
-*Examples: Gain adventage on a Performance Check by playing an instrument you've practiced, on a Handling Check for controlling a machine you've designed, or on a Lore Check regarding a subject you are educated in.*
+*Examples: Gain adventage on a Performance Check by playing an instrument you've practiced, on a Handling Check for controlling a machine you've worked with regularily, or on a Lore Check regarding a subject you are educated in.*
 
 # Spellcasting
-To cast a Spell, you need to be holding a focus. If the Spell is contained within an item (like a scroll or magic weapon), that item doubles as the focus. If you know the Spell yourself, you must hold a special item that works as a focus for one Spell List that Spell belongs to.
-If a Spell forces a Save to be made, the Difficulty of that Save is equal to the caster's Passive Magic Skill. A lot of Spells might require Magic Checks or Magic Attacks, but those are self-explanatory. <br>
+To cast a Spell, you need to be holding a focus. If the Spell is contained within an item (like a scroll or magic weapon), that item doubles as the focus. <br>
+If you know a Spell by yourself, you must use a special item that works as a focus for one of the Spell Lists the Spell in question belongs to. To use such a focus this way, you must be Proficient with it. <br>
+If a Spell forces a Save to be made, the Difficulty for that Save is equal to the caster's Passive Magic Skill.
 
 ## Spell Slots
 If you know a Spell, you can cast it by expending a Spell Slot of a Rank no lower that the Spell's Rank. <br>

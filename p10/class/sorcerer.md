@@ -1,7 +1,7 @@
 # Sorcerer
 ??? <br>
 ??? <br>
-Wellsprings of true magical potential. <br>
+Wellsprings of magical potential in its purest form. <br>
 
 ## Traits
 **Class Group:** Mage <br>
@@ -27,7 +27,7 @@ Choose a Spell List to be your Sorcery List. <br>
 You can cast Spells you know from your Sorcery List without using a focus.
 #### Learned Spells
 At each Level, you learn 3 Spells of your choice from your Sorcery List. <br>
-No spell learned this way may be of a Rank higher than your level.
+No spell learned this way may be of a Rank higher than your Level.
 #### Spell Slots
 The number of Spell Slots you have of each Rank depends on your Level according to the table below. <br>
 LEVEL: | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 
@@ -54,7 +54,7 @@ You regain any spent Mana Points after you finish a Rest.
 
 ### Level 1: Sorcerer Subclass
 You choose a Sorcerer Subclass and gain its Level 1 Features. <br>
-Your subclass comes with a list of Origin Spells?
+Your subclass comes with a list of Origin Spells. You count Origin Spells as part of your Sorcery List, regardless of their actual Spell Lists. (PHRASING?)
 
 ### Level 2: ???
 ???
@@ -87,7 +87,8 @@ You gain the Level 9 Feature of your chosen Sorcerer Subclass.
 ???
 
 ## Wizard Subclass: Wild Magic? Rune Child? 
-THEME: ???
+THEME: Magic is an inherantly chaotic force, and most are fortunate enough to not be able to tap into it fully. You are not so lucky... <br>
+**Origin Spells:** Counterspell/Chaos Bolt?, *Rank 2*, *Rank 3*, *Rank 4*, *Rank 5*.
 
 ### Level 1: Unstable Source
 After you expend a Spell Slot, you roll a d20. If you roll a number no higher than the Rank of the expended Spell Slot, you cause a Wild Magic Surge with a Surge Value equal to your roll.

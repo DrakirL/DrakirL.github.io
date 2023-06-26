@@ -23,7 +23,8 @@ These are the core features granted for the Shaman Class.
 ### Level 1: ???
 "Lay on Hands"-esk feature.
 ### Level 1: ???
-???
+Your Save Skill is always equal to your Level + 1, exceeding your normal limit?
+
 ### Level 1: Shaman Subclass
 You choose a Shaman Subclass and gain its Level 1 Features.
 

@@ -1,5 +1,5 @@
 # Druid
-??? <br>
+Heralds of the forces of nature themselves. <br>
 ??? <br>
 ??? <br>
 
@@ -10,9 +10,9 @@
 <br>
 **Weapons:** Simple Melee. Simple Ranged. <br>
 **Armor:** None. <br>
-**Shields:** Small. <br>
+**Shields:** Small? <br>
 **Focus:** Primal. <br>
-**Training:** None? Herbalism/Survival? Druidic?. <br>
+**Training:** Druidicism? Herbalism/Survival?. <br>
 
 ## Starting Equipment
 + ???
@@ -106,12 +106,13 @@ Whilst transformed by your *Wild Shape*, you may use 1 Action on your turn and e
 ### Level 3: ???
 Whilst transformed by your *Wild Shape*, 
 
-### Level 5: Elemental Wild Shape
-Whilst transformed by your *Wild Shape*
+### Level 5: Elemental Wild Shape?
+Whilst transformed by your *Wild Shape*, your Unarmed Strikes may deal Acid, Cold, Fire, or Lightning damage instead. <br>
+You choose the type when you transform. Your form is also resitant to damage of that type. Should it be "may deal X instead" or a flatout damage boost? (PHRASING?)
 
 ### Level 7: Thousand Forms?
-You can use 1 Action on your turn to gain or lose one benefit you can. <br>
+You can use 1 Action on your turn to gain or lose one benefit available to you through your Wild Shape feature? <br>
 You can use this feature whilst transformed by your *Wild Shape* feature.
 
-### Level 9: Avatar of Battle?
-You are resistant to all Weapon Damage.
+### Level 9: ???
+???

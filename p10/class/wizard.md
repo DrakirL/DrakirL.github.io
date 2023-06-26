@@ -12,7 +12,7 @@ Powerful sages that bend reality to their wims. <br>
 **Armor:** None. <br>
 **Shields:** None. <br>
 **Focus:** Arcane. <br>
-**Training:** Calligraphy. An education of your choice. <br>
+**Training:** An education of your choice. (Or Arcana/Occultism specifically?) <br>
 
 ## Starting Equipment
 + A Simple Melee Weapon of your choice.
@@ -25,7 +25,7 @@ These are the core features granted for the Wizard Class.
 ### Level 1: Spellcasting
 You can cast spells!
 #### Learned Spells
-At each Level, you learn 5 Arcane Spells of your choice. <br>
+At each Level, you learn 4 Arcane Spells of your choice. <br>
 No spell learned this way may be of a Rank higher than your Level.
 #### Spell Slots
 The number of Spell Slots you have of each Rank depends on your Level according to the table below. <br>
@@ -42,18 +42,20 @@ Rank 8: | | | | | | | | 1 | 1 | 2
 Rank 9: | | | | | | | | | 1 | 1
 Rank 10: | | | | | | | | | | 1
 
-### Level 1: Taker of Notes
-On your adventures, you might find written notes about spells. For example, you could discover a magic Spell Scroll in an ancient library or steal a tome from an evil mage’s chest. If you spare the time and resources to decode the notes and practice a such a spell, you can add it to your own repetoir. <br>
-Learning a Spell this way takes 1 hour and costs 50 gp per Rank of the Spell. The cost represents any materials used and lost as you experiment with the spell to master it, as well as the fine inks you need to record your progress. <br>
-*Also note: Since you know a lot of spells AND have calligraphy training, the Wizard class is great for making Spell Scrolls.*
+### Level 1: Magic Mastery
+Your Magic Skill is always equal to your Level + 1, exceeding your normal limit.
+
 ### Level 1: Wizard Subclass
-You choose a Wizard Subclass and gain its Level 1 Features.
+You choose a Wizard Subclass and gain its Level 1 Features. <br>
+School Spells?
 
 ### Level 2: Signature Spell
 Choose one Rank 1 Arcane Spell you know. That spell counts as a Cantrip for you.
 
-### Level 2: ???
-???
+### Level 2: Studious? Artificery? Applied in Practice?
+You gain Training in an occupation of your choice. <br>
+If you have Training in an occupation, you can use a tool used by that occupation as a focus to cast a Spell you know. <br>
+*NOTE: If you attempt to craft a magic item, having Training with the tools you use give you advantage.*
 
 ### Level 3: Subclass Feature
 You gain the Level 3 Feature of your chosen Wizard Subclass.
@@ -96,8 +98,53 @@ After you take damage, you can use your *Arcane Flux* feature regardless of whos
 When you cause a Wild Magic Surge, you may roll on the table twice and choose which result to use.
 
 ### Level 7: ???
-When you would cause a Wild Magic Surge, you may use 1 Action to force another creature you can see within 60 feet of you the cause the surge instead of you. <br>
-You can choose this feature after you've rolled on the table.
+When you would cause a Wild Magic Surge, you can force another creature within your Reach to cause the surge instead of you? <br>
+You may choose to use this feature after you've rolled on the table and seen the result.
 
 ### Level 9: ???
 ???
+
+## Wizard Subclass: Loremaster?
+THEME: Magic is everything, and all magic is the same. People like to divide it into categories, but you can *feel* how it all REALLY fits together.
+
+### Level 1: All is Magic
+At each level, you learn one Divine Spell and one Primal Spell of a Rank equal to your Level.
+### Level 1: Interdiciplinary?
+You gain Proficiency with Divine Foci and Primal Foci, and Training with a musical instrument of your choice. <br>
+If you have Training with a musical instrument, you can use it as a focus to cast a Spell you know.
+
+### Level 3: Versatile Virtuoso?
+After you finish a Rest, you may replace up to one Spell of each Rank you know with another of the same Rank. (Except Signature Spells. PHRASING?)
+
+### Level 5: ???
+???
+
+### Level 7: ???
+???
+
+### Level 9: ???
+You can cast any Spell as if you knew it. (PHRASING?) <br>
+You can use this feature once per Adventure. (PHRASING?)
+
+## Wizard Subclass: School of Abjuration
+THEME: Sometimes you fight fire with fire. Sometimes you fight fire with a fire extinguisher.
+
+### Level 1: Abjuration Savant
+At each level, you learn one Arcane Abjuration Spell of a Rank equal to your Level. <br>
+In addition, the time and cost required to make a Spell Scroll is halved, provided the spell is an Abjuration Spell.
+### Level 1: Arcane Ward
+You have 2 * LV extra HP in a ward. Expend a Spell Slot to cast an Abjuration Spell to restore 2 * Rank HP to it. (PHRASING?)
+
+### Level 3: ???
+When a creature you can see within 30? feet of you would take damage, you may use 1 Action to extend your Ward to it, absorbing damage as if it belonged to that creature. (PHRASING?)
+
+### Level 5: Improved Abjuration? Expert Countermage?
+Advantage on any skill check you make as part of casting an Abjuration Spell? <br>
+*NOTE: May only affect COUNTERSPELL. If that's the case, you should be given it for free.*
+
+### Level 7: ???
+???
+
+### Level 9: Spell Resistance?
+You gain Advantage on any Save you make against a creature's Passive Magic Skill? Or just against spells you've seen be cast? <br>
+In addition, you are Resistant to all damage directly dealt by a Spell.

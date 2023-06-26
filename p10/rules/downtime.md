@@ -6,8 +6,8 @@ A Rest is a prolonged period of time with there is no straineous activities goin
 As a general GM guidline: If someone makes a Test, casts a Spell, spends some feature resource, or takes damage, it should *probably* not be considered a Rest.
 After you finish a Rest you gain the following benefits: <br>
 + Regain any spent uses for features that can be used X times per Rest.
-+ If you have any Exhaustion, reduce your Exhaustion by 1. <br>
-+ If you had no Exhaustion to remove, roll your Hit Die up to a number of times equal to your level and regain that much HP. <br>
++ Recover lost HP equal to one roll of your Hit Die - your Exhaustion.
++ If you regain at least 1 HP, reduce your Exhaustion by 1.
 #### <br>
 
 ## Food, Water, & Sleep
@@ -41,45 +41,11 @@ The whole building! | The whole city! | The whole Kingdom! | The whole realm! | 
 
 ## Character Progression
 After you finish an Adventure, your character should be rewarded with significantly refreshing downtime and have gained significant experience, depending of the "level" of the adventure. <br>
-At the very least, everyone should get a "long rest" where they regain all or their lost HP and expended class resources, including things like Spell Slots that can be used X times per Adventure. <br>
-Then, the GM decides whether you characters should progress to a greater level, or if there are more stories to tell on the current scale. <br>
-If it's the former, you level up! <br>
-If it's the latter, you gain a feat with a level no higher than the adventure. <br>
-With a generous GM running a campaign with fast scaling of stakes, you might get both at the same time.
+At the very least, everyone should get a "long rest" where they regain all or their lost HP and expended resources, including things like Spell Slots that can be used X times per Adventure. <br>
+Then, the GM decides whether your characters should progress to a greater Level, or if there are more stories to tell on the current scale. <br>
+Either way, each participant may jot down the finished adventure as an Experience/Saga/Memory/Feat?
 
-### Feats
-Your character can have up to 11 feats, because that's how many rows there are to write them on. <br>
-Each row has a number, ranging from 0 to 10. You can't write down a feat with a level that is higher than the number on the line. <br>
-If you feel like it, you can replace previously earned feats with a new one as you gain it (but with my campaign style, that shouldn't become necessary). When you lose a feat, you have to revert the benefit it granted you.
-<br><br>
-**Attribute Increase** <br>
-Level: 0 <br>
-Prerequisites: None. <br>
-Choose an Attribute. It is increased by 1. <br>
-<br>
-**Advanced Melee Martial?** <br>
-Level: 1 <br>
-Prerequisites: Martial Skill (1). <br>
-You are Proficient with Advanced Melee Weapons. <br>
-<br>
-**Magic Adept** <br>
-Level: 1 <br>
-Prerequisites: Magic Skill (1). <br>
-Choose a Spell List. You become Proficient with that Spell List's focus, and learn a Rank 1 Spell of your choice from that list. <br>
-If you don't have Spell Slots, you can cast that spell once per Adventure without expending one. <br>
-<br>
-**Melee Weapon Master?** <br>
-Level: 2 <br>
-Prerequisites: Martial Skill (2). Proficiency with Advanced Melee Weapons. <br>
-You can deal extra damage with Melee Weapon Attacks sometimes? (DETAILS?) <br>
-<br>
-**Elemental Adept** <br>
-Level: 2 <br>
-Prerequisites: Magic Skill (2). ??? <br>
-Choose Acid, Cold, Fire, or Lightning damage. When you deal damage of the chosen type, you may reroll any damage dice that show a 1. (PHRASING?) <br>
-In addition, any Spell you cast that deals damage of the chosen type ignores Resistance to that damage type. <br>
-<br>
-**Sentinel** <br>
-Level: 3? <br>
-Prerequisites: Martial Skill (3). <br>
-When you hit a creature with a Sudden Strike, its Speed becomes 0 for the rest of that turn.
+### Feats? Experience? Sagas? Tales?
+On your sheet, you have space enough to write down what adventures your character has completed. A newly made character starts with one; their backstory. <br>
+If you make a Test and fail, you may explain to the GM how the moment relates to one of your noted Sagas and why you MUST succeed. With the GM's permission, you may cross out the Tale to succeed on the Test. <br>
+*How should used tales be regained? Per Adventure? Even less often? Special conditions?*
