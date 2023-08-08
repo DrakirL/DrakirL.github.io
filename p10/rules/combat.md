@@ -5,18 +5,17 @@
 ???
 
 ## HP & Damage
-A creature's hardiness is determined by its Hit Die (Which is determined by Size for most monsters, but by Class for players) and expressed in the form of Hit Points, or HP for short. <br>
-As long as a creature has at least 1 remaining HP, it is not dead or dying and able to act normally. A player's Maximum HP is equal to the size of their Hit Die times their Level.
+A creature's hardiness is determined by its Strength Attribute and its Hit Die (Which is determined by Size for most monsters, but by Class for players) and expressed in the form of Hit Points, or HP for short. <br>
+As long as a creature has at least 1 remaining HP, it is healthy enough to stand up and act as normal. A player's Maximum HP is equal to the size of their Hit Die times their Level.
 
 ### Lethal Damage & Death's Door
 If a creature takes damage that reduces its HP to 0, that damage is considered Lethal. When a creature takes Lethal damage, the attacker decides whether to kill that creature or just "take it out", potentially leaving the target unconcious for an indeterminate amount of time. Either way, the fate of the creature is no longer up to it, but rather its attacker and other surrounding circumstances. <br>
 Some creatures should not be that easy to defeat however, the main example being *PLAYER CHARACTERS*. When a such a creature takes Lethal damage, it is instead left on "Death's Door".
 <br><br>
 A creature is considered to be on Death's Door as long as it has 0 HP without being dead or otherwise taken out. <br>
-A creature on Death's Door can't maintain Concentration, ??? <br>
-When a creature on Death's Door takes any amount of damage, it gains 1 Exhaustion. <br>
-When a creature on Death's Door uses Actions, it gains 1 Exhaustion for each Action used. <br>
-A creature can have up to 5 points of Exhaustion without any directly adverse effects. But if a creature would gain any more, it is defeated, whether that means killed or "taken out". <br>
+A creature on Death's Door can't maintain Concentration, ???, and has only 1 Action to take per Round. <br>
+When a creature on Death's Door takes any amount of damage, including the initial hit that reduced its HP to 0, it gains 1 Exhaustion. <br>
+A creature can have up to 5 points of Exhaustion, but if a creature would gain any more, it is defeated, whether that means killed or "taken out". <br>
 *Should Death Rolls be a thing? If they are, they are made by rolling your Hit Die and needing to exceed your current Exhaustion.*
 
 ## Actions
@@ -43,10 +42,11 @@ Examples:
 **Attack Action** <br>
 Make a Martial Attack, using either your body or an object you are holding in either hand (or drawing/picking up as part of the same action). <br>
 If the Attack is using a proper weapon the way it is intended, all rules granted by the weapon's properties apply.
-If the Attack is not using a weapon (proper or improvised) and/or using a weapon improperly, it counts an an Unarmed Strike. When you score a hit with an Unarmed Strike, you may either deal the target 1 damage (Bludgeoning/Piercing/Slashing depending on context), grapple it, or shove it out of your Reach.
+If the Attack is not using a weapon (proper or improvised) and/or using a weapon improperly, it counts an an Unarmed Strike. When you score a hit with an Unarmed Strike, you may either deal the target 1 damage (Bludgeoning/Piercing/Slashing depending on context), grapple it, shove it, or knock an object out of its grip.
 If the Attack is a Ranged Attack, this Action is Distracting. <br>
 *A thrown objects counts as an improvised weapon. Throwing it at someone counts a Ranged(20/60) Martial Attack dealing 1 die of damage on hit. Damage die and damage type (Bludgeoning/Piercing/Slashing) depends on the size and shape of the object.*<br>
 *Critical Hits: Always deals the maximum possible damage, and the user may redistribute any access damage dealt?*<br>
+*Shove: Force it to move 5 feet in a direction you choose (other than towards you). If it is no Larger than you, it must also succeed on an Agility Save against your Passive Martial Skill or be knocked down in its new position.*
 <br><br>
 
 **Brace Action** <br>
@@ -55,7 +55,7 @@ Until the start of your next turn, you add a +1 bonus to your Defence, Awareness
 <br><br>
 
 **Care Action** <br>
-Make a Medicine Check to try and stabilize a creature on Death's Door (Difficulty = 10 + Exhaustion). <br>
+Make a Medicine Check to try and get a creature that has been taken out back on their feet? (Difficulty = 10 + Exhaustion). <br>
 On a success, the creature is stabilized/regains 1 HP/succeeds on a Death Roll? (DETAILS?)
 Taking this Action is Distracting.
 <br><br>
@@ -69,14 +69,15 @@ Taking this Action is Distracting.
 **Hide Action** <br>
 Choose a creature or a group of creatures from which you are fully covered and make a Stealth Check against the highest Awareness amongst them. On a success, none of the creatures you chose will know where you went. <br>
 Your Hiding can end in a *LOT* of different ways, such as you making a noise louder than a whisper or the cover somehow being left/removed/circumvented.
-*If they want to find you with a check, such as Investigation or Intuition, what should the Difficulty be? Passive Martial Skill?*
+*If they want to find you with a check, such as Investigation or Intuition, what should the Difficulty be? Passive Martial Skill?* <br>
+*Your Stealth Check is made with Advantage if your target(s) have not yet been made aware of your presence.*
 <br><br>
 
 **Move Action** <br>
 Pick one of your speeds. Move to an unoccupied space within the distance of your chosen speed. <br>
 Your movement is dynamically affected by difficult terrain etc. (PHRASING? DETAILS?) <br>
 You can also make checks/one check? as part of this action to cover a greater distance, make a tough jump, and/or push through a blockade. Making a Check this way is Distracting. (PHRASING? DETAILS?) <br>
-*Moving greater distances: Make an Athletics Check. You add a number of feet to your movement equal to your result. The entire running distance is Distracting. If any part is made through Difficult Terrain, you gain Disadvantage.* <br>
+*Moving greater distances: Make an Athletics Check. You add a number of feet to your movement equal to your result. If any part is made through Difficult Terrain, you gain Disadvantage?* <br>
 *Making tough jumps: Make an Athletics Check. A horizontal jump covers a number of feet equal to your result. A vertical jump covers a number of feet equal to your result divided by 4. If you don't get a good running start, you gain Disadvantage.* <br>
 *Pushing through blockades: Make a Brawn Check against the blockade's Hardness (if it is an inanimate object) or Passive Martial Skill (if it is a creature). If it's at least one Size smaller than you, you gain Advantage. If it's at least one Size larger than you, you gain Disadvantage.*
 <br><br>
@@ -152,45 +153,50 @@ Upon landing, the creature takes 1 die of damage for every 10 feet it fell. The 
 If it lands on a cushoning surface, the damage is halved. If that surface consists one or more creatures, each of those creatures also take the already halved damage. (Agility Save involved for landing and/or being landed on? PHRASING?)
 **Downed/Knocked Down** <br>
 Smaller "Hitbox". Some Partial Cover can become Full Cover. (PHRASING? DETAILS?) <br>
-Whilst downed, your Speed is halved. <br>
+Whilst a creature is downed, its Speed is halved, and it can't make any checks as part of the Move Action. <br>
 A downed creature can use 1 Action to stand up. Taking this Action is Distracting. <br>
-A flying creature that is knocked down falls until it hits the ground and takes fall damage from it.
+A flying creature that is forcefully knocked down will fall until it hits the ground. It takes fall damage as normal.
 **Grappling** <br>
 If a creature has another creature grappled, the grappled creature can't move to a new space, and any attack it makes against a target other than its grappler gains Disadvantage. <br>
-The grappled creature can use 1 Action on its turn to make a Martial Check against the grappler's Passive Martial Skill, freeing itself on a success.
+The tool and/or limb used to maintain the grapple can't be used for anything else. <br>
+A grappled creature can use 1 Action on its turn to make a Martial Check against the grappler's Passive Martial Skill, freeing itself on a success.
 
 # Combat Equipment
 ???
 
 ## Weapons
-Weapons are tools meant for combat. If you hit a target with an Unarmed Attack, you can deal it 1 damage. <br>
-If you are using a weapon, the damage becomes much greater. But, you may only use your Martial Skill if you are Proficienct with that kind of weapon. <br>
-If a weapons is used to Grapple, it is not being used properly. <br>
+Weapons are tools meant for combat and therefore improve a Martial Attack you make using one, provided you are wielding it properly. <br>
+If you are wielding a weapon properly and make an Attack with it, you must be Proficient with its category, or you don't not add your Martial Skill to your roll. <br>
 Melee Weapons must use your Strength-based Martial Skill to be used properly. <br>
 Ranged Weapons must use your Agility-based Martial Skill to be used properly. <br>
+Most weapons have the property that they deal greater damage if you choose to deal damage with it. 
 
 ### Simple Weapons
+*Damage Range: d4-d8.*
+<br>
 **Melee**
-+ Dagger: d4 Piercing. Finesse? Light. Thrown (20/60).
-+ ???: d8 Slashing.
-+ Greatclub: d10 Bludgeoning. Heavy.
++ Dagger: d4 Piercing. Flexible. Light. Thrown (20/60).
++ ???: d6 Slashing.
++ Greatclub: d8 Bludgeoning. Heavy.
 #### <br>
 <br>
 
 **Ranged**
-+ ???: d4
-+ ???: d6
-+ ???: d8 Piercing. Ranged(???). Quickfire. Misfire.
++ Sling?: d4 Bludgeoning. Ranged(???). Ammunition(Any ol' junk). Light?
++ Hand Crossbow: d6 Piercing. Ranged(???). Ammunition(Bolts). Light. Loading(1).
++ Pistol?: d8 Piercing. Ranged(???). Ammunition(Bullets). Loading(1). Quickfire? Misfire.
 #### <br>
 
 ### Advanced Weapons
+*Damage Range: d8-d12.*
 **Melee**
-+ Shortsword: d6 Slashing. Finesse? Light.
-+ Longsword: d8 Slashing. Versatile (d10).
-+ Rapier: d8 Piercing. Finesse?
++ Shortsword?: d8 Slashing? Flexible. Light.
++ Longsword: d10 Slashing. Versatile (d10)/(+1)?
++ Greatsword: d12 Slashing. Heavy.
++ Rapier: d10 Piercing. Flexible.
 + Halberd?: d10 Piercing. Heavy. Reach (10 feet).
-+ Greataxe: d12 Slashing. Heavy.
-+ Whip: d4 Slashing. Light. Finesse? Reach (15 feet). Can be used to grapple and will also do damage at the same time?
++ Maul: d12 Slashing. Heavy.
++ Whip: d6 Slashing. Light. Flexible. Reach (15 feet). Can be used to grapple.
 #### <br>
 <br>
 
@@ -205,14 +211,15 @@ Ranged Weapons must use your Agility-based Martial Skill to be used properly. <b
 **Light:** If you are holding Light weapon in each hand and take the Attack Action on your turn, you may make one attack using each weapon instead of just one. <br>
 **Heavy:** To make properly use a Heavy weapon to make an Attack, you must be wielding it with both hands.<br>
 **Versatile:** If you are wielding a Versatile weapon with both hands, it uses a different (larger) damage die.<br>
-**Finesse/Flexibile/Grace?:** You may use either your Strength Martial Skill or Agility Martial Skill (your choice) to make attacks with a Finesse? weapon.<br>
+**Finesse/Flexibile/Grace?:** You may use either your Strength Martial Skill or Agility Martial Skill (your choice) to make attacks with a Flexible weapon.<br>
 **Thrown (X/Y):** This weapon can be Thrown as a Ranged Martial Attack. You may still choose to use your Melee Martial Skill.<br>
 **Misfire:** If you roll a Natural 1 on a weapon Attack with a Misfire weapon, it ceases to function until it is repaired, which may be done by using 1 Action on your turn and succeeding on a Difficulty 10 Crafting Check. <br>
 **Quickfire?:** Ranged Attacks made using a Quickfire weapon are not Distracting.
 
 ## Shields
 If you are wielding a shield when you would be hit by an Attack, you can use 1 Action to add the Shield's Defence Bonus to your Defence against that attack, potentially turning the hit into a miss. <br>
-Each type of shield is categorized as either Small or Large. If you don't have Proficiency with the category of a shield you are wielding, you can't use it this way.
+Each type of shield is categorized as either Small or Large. If you don't have Proficiency with the category of a shield you are wielding, you can't use it this way. <br>
+*Should you be able to increase anyone's defence if they are within your Reach? Should you be able to redirect it to yourself by default?*
 
 ### Small
 + Buckler: +1 Defence. ???
@@ -239,15 +246,15 @@ Every type of armor has a defined Defence Bonus and an Agility Limit. You add th
 Each type of armor is categorized as either Light or Heavy. If you don't have Proficiency with the category of the armor you are wearing, it Encumbers you? (WHATEVER THAT MEANS)
 
 ### Light
-+ Hide: Defence Bonus(3), Agility Limit(7).
-+ Gambeson: Defence Bonus(5), Agility Limit(5).
-+ Brigandine: Defence Bonus(7), Agility Limit(3).
++ Hide: +3 Protection, Agility Limit(7).
++ Gambeson: +5 Protection, Agility Limit(5).
++ Brigandine: +7 Protection, Agility Limit(3).
 #### <br>
 
 ### Heavy
-+ Chain/Scale Mail: Defence Bonus(5), Agility Limit(7). Disadvantage on Agility-based Checks (or just Stealth)?
-+ Splint: Defence Bonus(7), Agility Limit(5). Disadvantage on Agility-based Checks (or just Stealth)?
-+ Plate: Defence Bonus(9), Agility Limit(3). Disadvantage on Agility-based Checks (or just Stealth)?
++ Chain/Scale Mail: +5 Protection, Agility Limit(7). Disadvantage on Agility-based Checks. (Or just Stealth?)
++ Splint: +7 Protection, Agility Limit(5). Disadvantage on Agility-based Checks. (Or just Stealth?)
++ Plate: +9 Protection, Agility Limit(3). Disadvantage on Agility-based Checks. (Or just Stealth?)
 #### <br>
 
 ## Senses?
@@ -255,8 +262,7 @@ You use your senses to percieve the world. If you have a special sense, you can 
 There are a few specific types of equipment or spells that can grant a creature a sense, but usually it will be derived from biology. <br>
 *NOTE: The functions listed below are all VERY MUCH NOT set in stone.* <br>
 
-+ Perception: Awareness Bonus(2), Intelligence Limit(8).*Your sight, hearing, and/or smell is impeccible. You can discern accurate details of very minor hints. Doubles as Training.*.
-+ Darkvision: Awareness Bonus(4), Intelligence Limit(6).*You can see through Partial Obscurement as if it were normal and Full Obscurement as if it were partial*.
-+ Blindsight: Awareness Bonus(6), Intelligence Limit(4). *You can tell where everything around you without needing to see at all*.
-+ Truesight: Awareness Bonus(8), Intelligence Limit(2). *You can tell the exact nature of everything around you, through disguises, illusions, and transformations*.
++ Darkvision? Nightsight?: +3 Perception, Intelligence Limit(7). You can see in complete darkness as if it were only dim light, and in dim light as if it were fully lit. *NOTE: This mitigates light-based obscurement*
++ Blindsight? "vibes"?: +5 Perception, Intelligence Limit(5). You can tell what is going on at all times without needing to use your senses normally? *NOTE: This negates light-based obscurement entirely*
++ Truesight?: +7 Perception, Intelligence Limit(3). You can tell the exact nature of all things at a glance? (PHRASING?) *NOTE: This counters illusions and transformations*
 #### <br>

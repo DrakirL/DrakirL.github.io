@@ -38,6 +38,11 @@ When you make a Martial Attack using a weapon wielded in your off-hand, you add 
 <br><br>
 **Great-Weapon Fighting?** <br>
 When you score a hit with a Martial Attack using a weapon wielded with both hands, roll the damage dice twice and choose which total to use.
+<br><br>
+**Protection???** <br>
+When you use a shield to increase a creature's Defence, increase it by 1 more? Also, if that creature is not you, you may choose to become the target of the attack instead? <br>
+OR... When you use a shield to increase a creature's Defence, you may make a single Martial Strike with your other hand as part of the same action. <br>
+*The exact benefits of this style depends on what one can do with a shield by default, if I even want this to be a style...*
 
 ### Level 1: Martial Mastery
 Your Martial Skill is always equal to your Level + 1, exceeding your normal limit.
@@ -46,46 +51,50 @@ Your Martial Skill is always equal to your Level + 1, exceeding your normal limi
 You choose a Knight Subclass and gain its Level 1 Features.
 
 ### Level 2: Prowess
-During combat, you gain a number of Prowess Points equal to half your level at the end of each of your turns. <br>
-After you take the Attack Action on your turn, you may spend 1 Prowess Point to regain the used Action. <br>
-After you spend Actions outside your turn, you may spend 1 Prowess Point to regain 1 of the used Actions.
+During combat, you have 2 Prowess Points to spend each round, in addition to your regular actions. (PHRASING?) <br>
+You can use them like you would use Actions, but they are more restricted in their usage. (PHRASING?) <br>
++ You can use 1 Prowess Point to take the Move-action on your turn.
++ You can use 1 Prowess Point to properly use a shield as a reaction.
++ You can use 2 Prowess Points to take the Attack-action on your turn, provided you use a weapon properly.
++ You can use 2 Prowess Points to take the Strike-reaction, provided you use a weapon properly.
++ What else more?
+#### <br>
 
-### Level 2: Bold Fortune/Champion's Vigor? Shield Block? Riposte?
-If you would roll a natural 1 on a Martial Attack, you may reroll it and use the new roll instead? <br>
-You score a Critical Hit on a Martial Attack if your roll a 19 or 20? <br>
-You can use a shield to increase the Defence of an allied creature withing your Reach? *Should maybe be a shield function for all?* <br>
-When a creature within your Reach makes a Martial Attack against you, you may make a Sudden Strike against it as if its Action was Distracting? *But then why use a Shield? This is probably too disruptive.*
+### Level 2: Bold Fortune
+If you would roll a natural 1 on a Martial Attack, you may reroll it and use the new roll instead.
 
 ### Level 3: Subclass Feature
 You gain the Level 3 Feature of your chosen Knight Subclass.
 
 ### Level 4: Steeled Resolve
-If you would fail a Save, you can spend 1 Prowess Point to reroll it and use the new result instead.
+If you would fail a Save, you can use 1 Action or Prowess Point to reroll it.
 
 ### Level 5: Subclass Feature
 You gain the Level 5 Feature of your chosen Knight Subclass.
 
-### Level 6: ???
-???
+### Level 6: Greater Prowess? Excellence?
+MORE? <br>
+In addition, making attacks now only costs 1 Prowess point rather than 2. (PHRASING?)
 
 ### Level 7: Subclass Feature
 You gain the Level 7 Feature of your chosen Knight Subclass.
 
-### Level 8: Survivor/Second Wind/Adrenaline Rush?
-If you are not on Death's Door and your current HP is no higher than half of your Maximum HP, you can use 1 Action on your turn and spend any number of Prowess point to regain HP equal to 1d10 + the number of Prowess Points spent. <br>
-*Note: Still applies out of combat, so you can ALWAYS be at half health as a minimum before a fight.*
+### Level 8: Second Wind?
+When you would take damage, you can use 1 Action or Prowess Point to gain 1d10 Temporary HP.
 
 ### Level 9: Subclass Feature
 You gain the Level 9 Feature of your chosen Knight Subclass.
 
-### Level 10: Adrenaline Rush?
-*Once per rest: Refresh all Prowess Points?
+### Level 10: Greater Prowess? Adrenaline Rush? Mastery?
+MORE?: *Once per Rest: Refresh all Prowess Points? <br>
+In addition, you now gain 3 Prowess Points to spend each round.
 
 ## Knight Subclass: Paragon
 THEME: Combat is a simple sport, and you are a world class professional.
 
-### Level 1: Martial Prodigy? Additional Fighting Style?
-???
+### Level 1: Fighting/Weapon/Arms Prodigy? Additional Fighting Style?
+You gain a second benefit of your choice from your *Fighting Style* feature?<br>
+You can't use more than one on a single attack. Or should you be able to? (PHRASING?)
 
 ### Level 1: Simply Superior
 Increase one of your Attributes by 1 (up to 10). <br>
@@ -110,7 +119,7 @@ You gain 1 Skill Point to spend.
 # FUTURE SUBCLASSES
 
 ## Knight Subclass: Banneret
-THEME: Lead armies .
+THEME: Lead armies across scarred battlefields with a song of hope and volition in their hearts.
 
 ### Level 1: Diplomat?
 Gain 5 Skill Points to put into Authority. <br>
@@ -152,7 +161,28 @@ When a creature within your Reach makes an Attack against a creature other than 
 ### Level 9: ???
 ???
 
-## Knight Subclass: Warmaster
+## Knight Subclass: Paladin
+THEME: Charge into battle before the rest of your party and keep the enemy in place until it ends.
+
+### Level 1: Spellcasting
+*Half caster, Get Divine Focus proficiency
+
+### Level 1: Divine Smite
+When you hit a creature with an attack, you can expend a Spell Slot to deal it 1d8 Radiant or Infernal damage (your choice) per Rank od the expended Spell Slot.
+
+### Level 3: Sacred Virtue
+???
+
+### Level 5: ???
+???
+
+### Level 7: ???
+???
+
+### Level 9: ???
+???
+
+## Knight Subclass: Warmaster?
 THEME: Charge into battle before the rest of your party and keep the enemy in place until it ends.
 
 ### Level 1: Student of War
@@ -190,4 +220,4 @@ When you hit a creature with a Martial Attack, you can use 1 extra Action to add
 When a creature within your Reach makes an Attack against you, you may use 1 Action to block it with a weapon you are wielding, adding your Maneuver Die to your Defence against that attack?
 <br><br>
 **Riposte** <br>
-When a creature within your Reach makes an Attack against you, you may make a Sudden Strike against it?
+When a creature within your Reach makes an Attack against you and misses?, you may make a Sudden Strike against it?

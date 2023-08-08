@@ -44,7 +44,7 @@ Rank 9: | | | | | | | | | 1 | 1
 Rank 10: | | | | | | | | | | 1
 
 ### Level 1: Wild Shape
-You can use 3 Actions on your turn to transform into a beast. <br>
+You can use 3 Actions on your turn to transform into a beast. (Or an Animal Companion of your choice, if that's a thing?) <br>
 (DETAILS! DETAILS!! DETAILS!!!)
 <br><br>
 Your INT and CHA remain same. Your STR and AGI become = to your Magic Skill? Should skills remain the same as normal, or be = Magic Skill as well? <br>

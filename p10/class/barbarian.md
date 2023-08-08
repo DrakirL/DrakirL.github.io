@@ -16,6 +16,7 @@
 
 ## Starting Equipment
 + An Advanced Melee Weapon of your choice.
++ A musical instrument of your choice?
 + ???
 
 ## Barbarian Class Features
@@ -27,14 +28,14 @@ While your Rage is active, the following rules apply:
  + You can't cast Spells.
  + You can't maintain Concentration.
  + You are Resistant to Bludgeoning, Piercing, and Slashing damage.
- + You may add your Rage Die (which is a d4) to the damage you deal with a Martial Melee Attack.
- + You gain Advantage on any Strength-based Skill Check you make. *Anything where Rage would be beneficial? Is that too abstract?*
+ + You may add your Rage Die (which is a d4) to the damage you deal with a Martial Melee Attack. You can only add this bonus once per Action (PHRASING?)
+ + You gain Advantage on any Strength-based Skill Check you make. *Anything where Rage would be beneficial, like training? Is that too abstract?*
  #### <br>
  Your Rage lasts until you regain your actions, but you may immedietly use 1 of the Actions you gain to extend. <br>
  You can enter this Rage once per Rest? OR After your Rage ends, an hour must pass before you can enter it again?
 
 ### Level 1: Fight or Flight? Freedom of Movement? Unarmored Defence?
-Provided you are wearing no armor, your Speed is increased by 10? 20? feet and you add your Save Skill/Martial Skill? to your defence? <br>
+Provided you are wearing no armor, your Speed is increased by 10 feet and you add your Save Skill/Martial Skill? to your defence? <br>
 *This starts off fine, maybe not even good enough, but may be too crazy at the later levels, with almost guaranteed 20+ DEF.*
 ### Level 1: Barbarian Subclass
 You choose a Barbarian Subclass and gain its Level 1 Features.

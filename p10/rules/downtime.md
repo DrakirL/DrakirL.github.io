@@ -2,16 +2,15 @@
 ???
 
 ## Rests
-A Rest is a prolonged period of time with there is no straineous activities going on. <br>
-As a general GM guidline: If someone makes a Test, casts a Spell, spends some feature resource, or takes damage, it should *probably* not be considered a Rest.
+A Rest is a prolonged period of time when there are no straineous activities going on. A creature or group of creatures can take a Rest to gain the following benefits up to once per day:<br>
 After you finish a Rest you gain the following benefits: <br>
 + Regain any spent uses for features that can be used X times per Rest.
-+ Recover lost HP equal to one roll of your Hit Die - your Exhaustion.
-+ If you regain at least 1 HP, reduce your Exhaustion by 1.
++ Roll your Hit Die a number of times equal to your Level. For each die rolled, you regain lost HP your roll - your Exhaustion.
 #### <br>
+As a general GM guidline: If someone makes a Test, casts a Spell, spends some feature resource, or takes damage, it should *probably* not be considered a Rest.
 
 ## Food, Water, & Sleep
-You need a ration's worth of food (~5 cp - 5 sp) every day. If a day passes without it, succeed on an Endurance Check or gain exhaustion. <br>
+You need a ration's worth of food (~5 cp - 5 sp) every day. If a day passes without it, succeed on an Endurance Check or gain 1 Exhaustion. <br>
 You need a ??? worth of drink/water every day. If a day passes without it, succeed on an Endurance Check or gain exhaustion. <br>
 You need a night's worth of sleep every day. If a day passes without it, succeed on an Endurance Check or gain exhaustion. <br>
 The Difficulty for all these Checks = 10 + the number of days you've kept it up. <br>
@@ -43,9 +42,9 @@ The whole building! | The whole city! | The whole Kingdom! | The whole realm! | 
 After you finish an Adventure, your character should be rewarded with significantly refreshing downtime and have gained significant experience, depending of the "level" of the adventure. <br>
 At the very least, everyone should get a "long rest" where they regain all or their lost HP and expended resources, including things like Spell Slots that can be used X times per Adventure. <br>
 Then, the GM decides whether your characters should progress to a greater Level, or if there are more stories to tell on the current scale. <br>
-Either way, each participant may jot down the finished adventure as an Experience/Saga/Memory/Feat?
+Either way, each participant may jot down the finished adventure as an Experience/Saga/Tale/Memory/Feat?
 
-### Feats? Experience? Sagas? Tales?
+### Feats? Experiences? Sagas? Tales? Memories?
 On your sheet, you have space enough to write down what adventures your character has completed. A newly made character starts with one; their backstory. <br>
-If you make a Test and fail, you may explain to the GM how the moment relates to one of your noted Sagas and why you MUST succeed. With the GM's permission, you may cross out the Tale to succeed on the Test. <br>
+If you make a Test and fail, you may explain to the GM how the moment relates to one of your noted Sagas and why you MUST succeed. With the GM's permission, you may cross out the Tale to succeed on that Test instead. <br>
 *How should used tales be regained? Per Adventure? Even less often? Special conditions?*

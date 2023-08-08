@@ -43,13 +43,13 @@ Saves prefer to specify an Attribute rather than a specific Skill. Save bonus?
 
 ### Increasing Bonuses: Skill Points.
 As a base, your Skill Bonus for every Skill is 0. You increase them by spending Skill Points (1 Skill Point spent on a Skill = +1 to your Skill Bonus for that Skill). <br>
-Your Skill Bonus for each Skill is limited by your capabilities! You can't increase an Attribute-based Skill to be higher than that Attribute, and you can't increase either of the two Adventuring Skills, Martial & Magic, to be higher than your Level. Exceptions to these rules have to be specified by features! <br>
+You can't increase either of the two Adventuring Skills, Martial & Magic, to be higher than your Level, and no Skill to be higher than 10. Exceptions to these rules have to be specified by features! <br>
 You gain Skill Points to spend in a variety of ways, including from your Background and at each Class Level. If you would gain enough Skill Points in a specific Skill to exeed its limit, you may redistribute the excess as you wish between your other Skills. <br>
 
 ## Advantage & Disadvantage
 The surrounding circumstances for a Test may be either helpful or hurtful. This is represented by giving the roll either Advantage or Disadvantage. <br>
-If a Test is made in circumstances that reasonably increase the chance of success, it is made with Advantage: Roll the d20 twice and use the *higher* of the two rolls as the natural result. <br>
-If a Test is made in circumstances that reasonably impede the chance of success, it is made with Disadvantage: Roll the d20 twice and use the *lower* of the two rolls as the natural result. <br>
+If a Test is made in circumstances that could reasonably increase the chance of success, it is made with Advantage: Roll the d20 twice and use the *higher* of the two rolls as the natural result. <br>
+If a Test is made in circumstances that could reasonably impede the chance of success, it is made with Disadvantage: Roll the d20 twice and use the *lower* of the two rolls as the natural result. <br>
 If a Test is with both Advantage and Disadvantage, roll the d20 once, as though it had neither.
 
 ## Proficiency & Training

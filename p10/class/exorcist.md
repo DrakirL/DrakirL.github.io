@@ -12,9 +12,10 @@
 **Armor:** Light. Heavy. <br>
 **Shields:** Small. Large. <br>
 **Focus:** None. <br>
-**Training:** None? <br>
+**Training:** An exotic language of your choice. <br>
 
 ## Starting Equipment
++ An advanced melee weapon.
 + ???
 + A trophy from a previous hunt?
 
@@ -25,15 +26,16 @@ These are the core features granted for the Exorcist Class.
 Choose a creature type. Add it among your Training. (PHRASING?) <br>
 *Note: This means that you should get Advantage on any Check that relates to your chosen creature type. You should have a lot of experience/knowledge to draw from.*
 <br><br>
-If a creature is of the type you chose, it counts as a Sworn Enemy for you. When you hit one of your Sworn Enemies with a Martial Attack, you may add your Rite/Hate/Oath? Die (which is a d4) to the damage you deal.
+If a creature is of the type you chose, it counts as a Sworn Enemy for you. When you hit one of your Sworn Enemies with a Martial Attack, you may add your Rite? Die (which is a d4) to the damage you deal.<br>
+You can only add this bonus once per Action (PHRASING?)
 
 ### Level 1: Baleful Brand
-When you hit a creature with a Martial Attack, you may bind its essence to yours, leaving it Branded. (PHRASING?) <br>
+When you hit a creature with a Martial Attack, you may bind its essence to yours, leaving it Branded before acting on the effects of the attack. (PHRASING?) <br>
 While creature is Branded by you, you can treat that creature as if it were your Sworn Enemy regardless of its creature type. <br>
-You can also sense the direction towards the Branded creature’s location, provided it is on the same plane of existence as you.
+You also know the direction towards the Branded creature’s location at all times, provided it is on the same plane of existence as you.
 <br><br>
 Your Brand remains until you Brand a different creature, you use 1 Action on your turn to touch the creature and remove your Brand, or your Brand is dispelled (as if it were a spell with a Rank equal to your Level). <br>
-You can use this feature once per Rest? Or unlimited times?
+You can use this feature once per Rest.
 
 ### Level 1: Exorcist Subclass
 You choose a Exorcist Subclass and gain its Level 1 Features.
@@ -46,14 +48,14 @@ When you hit a creature with the enhanced weapon, it takes extra damage of the c
 
 ### Level 2: Sixth Sense?
 You can use 1 Action on your turn to detect the exact location of any of your Sworn Enemies within 100 feet of you. <br>
-Should also let you detect its "influence", such as spells or other terrain effects. (PHRASING? DETAILS?)
+Also detects its "influence", such as spells or other terrain effects. (PHRASING? DETAILS?)
 
 ### Level 3: Subclass Feature
 You gain the Level 3 Feature of your chosen Exorcist Subclass. <br>
 In addition, your Rite Die is now a d6.
 
 ### Level 4: Brand of Axiom/Unveiling? Nowhere to Hide?
-While a creature is Branded by you, it gains no benefit from being concealed by an illusory effect (Including disguises and invisibility. PHRASING?), it can’t take the Hide Action, and if it attempts to alter its form in any way except for returning to its true form, it must make a Charisma Save against your Passive Magic Skill. <br>
+While a creature is Branded by you, it gains no benefit from being concealed by an illusory effect (including disguises and invisibility. PHRASING?), it can’t make any Checks as part of the Hide Action, and if it attempts to alter its form in any way except for returning to its true form, it must make a Charisma Save against your Passive Magic Skill. <br>
 On a failed Save, the attempt to change its form fails and the creature is Stunned until the end of your next turn.
 
 ### Level 5: Subclass Feature
@@ -68,22 +70,23 @@ You gain the Level 7 Feature of your chosen Exorcist Subclass. <br>
 In addition, your Rite Die is now a d10.
 
 ### Level 8: Brand of Binding/Tethering? Nowhere to Run?
-While a creature is Branded by you, its Speeds are reduced to 5 feet, it can’t take the "Dash Action"?, and if it attempts to teleport of leave its current plane by any means, it must make a Charisma Save against your Passive Magic Skill. <br>
+While a creature is Branded by you, its Speeds are reduced to 5 feet, it can’t make any Checks as part of the Move Action, and if it attempts to teleport of leave its current plane by any means, it must make a Charisma Save against your Passive Magic Skill. <br>
 On a failed Save, the attempt to teleport or leave the plane fails and the creature is Stunned until the end of your next turn.
 
 ### Level 9: Subclass Feature
 You gain the Level 9 Feature of your chosen Exorcist Subclass. <br>
 In addition, your Rite Die is now a d12.
 
-### Level 10: Sanguine Saint
-Whenever you would roll your Rite Die, you may roll it twice and choose which result to use.
+### Level 10: Sanguine Saint? Sealed Fate?
+When you make a Martial Attack against one of your *Sworn Enemies* and miss, you may still deal half damage. (DETAILS/PHRASING?)<br>
+Also, roll your Rite Die twice and choose either number?
 
 ## Exorcist Subclass: Order of Slayers
 THEME: ???
 
 ### Level 1: ???
 You may choose the damage type of your *Blood Rite* each time you use the feature. <br>
-In addition, if the target of your *Baleful Brand* is Resistant to the damage dealt by your *Blood Rite*, you can ignore that Resistance. (PHRASING?)
+MORE?
 ### Level 1: ???
 ???
 
@@ -91,10 +94,10 @@ In addition, if the target of your *Baleful Brand* is Resistant to the damage de
 ???
 
 ### Level 5: ???
-??? Dash towards your *Baleful Brand* target, HotS-Illidan style?
+*Dash towards your *Baleful Brand* target, HotS-Illidan style?
 
 ### Level 7: Purify/Exorcise?
-??? Use 1 Action to end Charm, Frighten, or possession for free? Also deals source psychic damage?
+*Use 1 Action to end Charm, Frighten, or possession for free? Also deals source psychic damage?
 
 ### Level 9: Rite Revival?
-If you have an active *Blood Rite* when you take lethal damage, the rite ends, but the damage is not lethal? Also regain 1 HP?
+If you have an active *Blood Rite* when you take lethal damage, you may end the rite to have the damage not be lethal and set your HP to 1 instead.

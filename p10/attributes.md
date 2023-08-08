@@ -2,8 +2,8 @@
 Every creature has four different Attributes; Strength, Agility, Intelligence, and Charisma, expressed as a value between 0 and 10. <br>
 To determine these values for your character, shuffle 16 cards (four 0s, six 1s, four 2s, & two 3s) and divide into them into four piles with four cards in each. Assign the total of each pile to a different Attribute. <br>
 (Alternatively, you may just divinde 20 points as you wish, up to 10 in a stat.) <br>
-The value you have for an attribute determines the basis for you abilities, as well as your potential to learn and improve your skills that rely on that attribute. When comparing creatures' stats to each other, just remember that this system is meant to put "people" and "monstrous creatures" on the same scale. <br>
-*Note: Your attributes will be great to start, much better than any commoner, even at level 0. This is to let you act as a heroic adventurer, even at early levels. They will generally NOT increase. That kind of improvement over time, unleashing your full potential, is what Skill Points and Experience are for.*
+The value you have for an attribute determines the basis for you abilities. When comparing creatures' stats to each other, just remember that this system is meant to put "people" and "monstrous creatures" on the same standard scale. <br>
+*Note: Your attributes will start off great, much better than any commoner, even at level 0. This is to let you act as a heroic adventurer, even at early levels. They will generally NOT increase. That kind of improvement over time, unleashing your full potential, is what Skill Points and Experience are for.*
 <br>
 0-1 | 2-3 | 4-5 | 6-7 | 8-9 | 10+
 :---: | :---: | :---: | :---: | :---: | :---:
@@ -13,10 +13,10 @@ The value you have for an attribute determines the basis for you abilities, as w
 Your physical might. Used to lift, damage, and withstand force from physical objects and creatures. <br>
 Skills: Athletics, Brawn, Endurance, and Intimidation. <br>
 Save: Resist effects that would mess you up, inside or outside, by simply toughing them out.
-Other benefits: Your Strength Score contributes to your carrying capacity, Maximum Hit Points?, one of your Martial Skills, and your Passive Martial Skill.
+Other benefits: Your Strength Score contributes to your carrying capacity, Hit Point Maximum, one of your Martial Skills, and your Passive Martial Skill.
 
 ## Agility
-Your motoric coordination. Used to move your body or interact with objects with grace or subtelty. <br>
+Your motorical coordination. Used to move your body or interact with objects with grace or subtelty. <br>
 Skills: Acrobatics, Finesse, Handling, and Stealth. <br>
 Save: Reflexively evade from harmful effects that pass by or burst out in your vicinity.
 Other benefits: Your Agility Score contributes to your Defence, one of your Martial Skills, and your Passive Martial Skill.
@@ -41,14 +41,16 @@ Your *Passive Magic Skill* is equal to your Intelligence + your Charisma + your 
 
 # Other
 A character's base Speed is 20 feet. <br>
-A character's base Reach is 5 feet.
+A character's base Reach is 5 feet. <br>
+A character's Defence is calculated as follows: 10 + its Agility + its Protection. (Protection is boosted by specific features or by wearing armor) <br>
+A character's Awareness is calculated as follows: 10 + its Intelligence + its Perception. (Perception is boosted by specific features or using special equipment/senses?)
 
 # Skill Descriptions
 The 16 main skills are meant to be used as flexible reference points, with potential results defined for succeeding and/or failing.
 
 ## Acrobatics
 Perform gymnastic feats and impressive aerial maneuvers.
-+ A rogue caught in the grasp of a giant tries to wriggle between its fingers. He makes an Acrobatics Check against its Passive Martial Skill. On a fail, he remains grappled. On a success, he escapes its clutches. <br>
++ A rogue tries to gracefully move through a giants space without being caught. He makes an Acrobatics Check against its Passive Martial Skill. On a fail, it stops him in his tracks. On a success, he escapes its clutches unscathed. <br>
 + A knight runs across a slippery floor. He makes a Difficulty 5 Acrobatics Check with Disadvantage due to him being surprised. On a fail, he slips and stops moving. On a success, he may continue moving as normal. <br>
 + A monk uses a hanging vine to swing across a pit of spikes. She makes a Difficulty 20 Acrobatics Check. On a fail, she falls to her doom. On a success, she makes it to the other side. <br>
 #### <br>
