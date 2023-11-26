@@ -7,6 +7,9 @@
 
 ---
 ### University Projects
+[DOWN](/implico_proelium_page)
+<img src="images/IP_2.png?raw=true"/>
+<br>
 [DOWN](/down_page)
 <img src="images/DOWN_1.png?raw=true"/>
 <br>
