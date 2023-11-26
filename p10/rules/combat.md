@@ -26,73 +26,74 @@ You may spend these Actions on your turn for whatever task you decide to spend y
 <br><br>
 Here are some guidelines if you need to improvise:
 + Doing a thing one time = Using one action. It doesn't matter how much the thing could affect.
-+ If it's on your turn and a Test is required, it should probably use an Action.
-+ 1 Action = about a second or two of active effort. If it takes longer than that, it should use more than 1 Action and probably be Distracting.
-+ Reactions aren’t improvised. Use "Prepared Actions" instead.
++ If it's on your turn and any kind of Check is required, it should probably use an Action.
++ 1 Action = about a second or two of active effort. If it takes longer than that, it should use more than 1 Action and probably be Interruptible.
++ Reactions aren’t improvised. Use "Prepared Actions" instead. <br>
 #### <br>
 
 Examples:
 + As part of any Action where you move to a different space, you may open a door as you pass through it, or close it if it was already opened (but not both?). If the door is locked, or you want to lock it behind you, you can't just "move through" without dealing with the situation, so it takes 1 Action to do.
 + As part of any Action that relies on you using an object, you may use a free hand to grab hold of that object if it is easily attainable, such as on your belt or on the ground next to you. You may not both stuff away an object and grab a new one with the freed hand using same action, as that is covered by the Fetch/Search/Equip? Action.
-+ As part of any Action, you may ask the GM questions about what your character knows, sees, hears, etc. If you need to make a Test to find something out, it's its own Action.
++ As part of any Action, you may ask the GM questions about what your character knows, sees, hears, etc. If you need to make a Test to find something out, it's takes its own Action.
 #### <br>
 
 ### Pre-Defined Actions
 
 **Attack Action** <br>
-Make a Martial Attack, using either your body or an object you are holding in either hand (or drawing/picking up as part of the same action). <br>
-If the Attack is using a proper weapon the way it is intended, all rules granted by the weapon's properties apply.
-If the Attack is not using a weapon (proper or improvised) and/or using a weapon improperly, it counts an an Unarmed Strike. When you score a hit with an Unarmed Strike, you may either deal the target 1 damage (Bludgeoning/Piercing/Slashing depending on context), grapple it, shove it, or knock an object out of its grip.
-If the Attack is a Ranged Attack, this Action is Distracting. <br>
-*A thrown objects counts as an improvised weapon. Throwing it at someone counts a Ranged(20/60) Martial Attack dealing 1 die of damage on hit. Damage die and damage type (Bludgeoning/Piercing/Slashing) depends on the size and shape of the object.*<br>
-*Critical Hits: Always deals the maximum possible damage, and the user may redistribute any access damage dealt?*<br>
-*Shove: Force it to move 5 feet in a direction you choose (other than towards you). If it is no Larger than you, it must also succeed on an Agility Save against your Passive Martial Skill or be knocked down in its new position.*
+Make a Martial Attack, using either your body or an object you are holding in either hand (or drawing/picking up as part of the same action), against a target within your reach or range. <br>
+When you score a hit with a Martial Attack, you may either deal the target 1 damage (Bludgeoning/Piercing/Slashing depending on context), grapple it, shove it, or knock an object out of its grip. <br>
+If the Attack is using a weapon in the way that is "proper/intended", all rules imposed by the weapon's properties must apply. If it doesn't, it is called an Improvised Attack. <br>
+If the Attack is a Ranged Martial Attack, that attack is Interruptible. <br>
+*Critical Hits: Always deals the maximum possible damage, and the user may redistribute any access damage dealt? Let's one choose a bonus effect (at least if improvised)?* <br>
+*Shove: Force target to move up to 5 feet in a direction you choose (other than towards you). If it is no Larger than you, it must also succeed on an Agility Save against your Passive Martial Skill or be knocked down in its new position.*
 <br><br>
 
 **Brace Action** <br>
 Prepare for the worst and steel your nerves by using any number of Actions. <br>
-Until the start of your next turn, you add a +1 bonus to your Defence, Awareness, and any Save you make for each Action used.
+Until the start of your next turn, you add a +1 bonus to your Defence, Awareness, and any Save you make. <br>
+*Yes, this can be stacked with itself.*
 <br><br>
 
 **Care Action** <br>
-Make a Medicine Check to try and get a creature that has been taken out back on their feet? (Difficulty = 10 + Exhaustion). <br>
-On a success, the creature is stabilized/regains 1 HP/succeeds on a Death Roll? (DETAILS?)
-Taking this Action is Distracting.
+Make a Medicine Test to try and get a creature that has been taken out back on their feet? (Difficulty = 10 + Exhaustion). <br>
+On a success, the creature is stabilized/regains 1 HP/succeeds on a Death Roll? (DETAILS?) <br>
+Taking this Action is Interruptible.
 <br><br>
 
-**Fetch/Search/Equip/Inventory? Action** <br>
+**Fetch/Search/Equip/Inventory/Sort? Action** <br>
 Stow away and/or grab hold of any number of items you want. <br>
 You may reach into one bag or similar container to stow items into/access items from. <br>
-Taking this Action is Distracting.
+This Action is Interruptible.
 <br><br>
 
 **Hide Action** <br>
-Choose a creature or a group of creatures from which you are fully covered and make a Stealth Check against the highest Awareness amongst them. On a success, none of the creatures you chose will know where you went. <br>
-Your Hiding can end in a *LOT* of different ways, such as you making a noise louder than a whisper or the cover somehow being left/removed/circumvented.
+Choose a creature or a group of creatures from which you are fully covered and make a Stealth Test against the highest Awareness amongst them. On a success, none of the creatures you chose will know where you went. <br>
+Your Hiding can end in a *LOT* of different ways, such as you making a noise louder than a whisper or the cover somehow being left/removed/circumvented. (PHRASING?)
 *If they want to find you with a check, such as Investigation or Intuition, what should the Difficulty be? Passive Martial Skill?* <br>
-*Your Stealth Check is made with Advantage if your target(s) have not yet been made aware of your presence.*
+*Your Stealth Test is made with Advantage if your target(s) have not yet been made aware of your presence.*
 <br><br>
 
 **Move Action** <br>
 Pick one of your speeds. Move to an unoccupied space within the distance of your chosen speed. <br>
 Your movement is dynamically affected by difficult terrain etc. (PHRASING? DETAILS?) <br>
-You can also make checks/one check? as part of this action to cover a greater distance, make a tough jump, and/or push through a blockade. Making a Check this way is Distracting. (PHRASING? DETAILS?) <br>
-*Moving greater distances: Make an Athletics Check. You add a number of feet to your movement equal to your result. If any part is made through Difficult Terrain, you gain Disadvantage?* <br>
-*Making tough jumps: Make an Athletics Check. A horizontal jump covers a number of feet equal to your result. A vertical jump covers a number of feet equal to your result divided by 4. If you don't get a good running start, you gain Disadvantage.* <br>
-*Pushing through blockades: Make a Brawn Check against the blockade's Hardness (if it is an inanimate object) or Passive Martial Skill (if it is a creature). If it's at least one Size smaller than you, you gain Advantage. If it's at least one Size larger than you, you gain Disadvantage.*
+You can also make Checks as part of this action to cover a greater distance, make a tough jump, and/or push through a blockade. Making a Check this way is Interruptible. (PHRASING? DETAILS?) <br>
+*Sprinting further: Make an Athletics Test? Strength Test? You add a number of feet to your movement equal to your result.* <br>
+*Making tough jumps: Make an Athletics Test. A horizontal jump covers a number of feet equal to your result. A vertical jump covers a number of feet equal to your result divided by 4. If you don't get a good running start, you gain Disadvantage.* <br>
+*Pushing through blockades: Make a Brawn Test against the blockade's Hardness (if it is an inanimate object) or Passive Martial Skill (if it is a creature). If it's at least one Size smaller than you, you gain Advantage. If it's at least one Size larger than you, you gain Disadvantage.*
 <br><br>
 
 **Spell Action** <br>
-Begin to cast a Spell you have some access to. Casting a Spell requires you putting your whole body into it. It is loud, clear, and obvious when a Spell is cast (and often also what spell it is). <br>
-If the Spell requires more than 1 Action to cast, doing so is Distracting. If the casting time is even longer (Minute = ~10 rounds, Hour = ~100 rounds), it requires all of your actions *every round* that entire time.
+Begin to cast a Spell you have some access to. Casting a Spell requires you putting your whole body into it. It is loud, clear, and obvious when a Spell is cast (and most of the time also what spell it is). <br>
+If the Spell requires more than 1 Action to cast, the casting is Interruptible. <br>
+If the casting time is even longer (Minute = ~10 rounds, Hour = ~100 rounds), it requires all of your actions *every round* that entire time.
 <br><br>
 
 ### Pre-Defined Reactions
 
 **Strike Reaction**
-When a creature within your Reach takes a Distracting Action, you may make a Sudden Strike against it. <br>
-A Sudden Strike is a single Melee Martial Attack (Unarmed or Weapon, using whatever the attacker has available). If the attack hits, the triggering Action is interrupted and do not occur. <br>
-*Note: This doesn't waste resources. Only the Actions themselves. Spell Slots, components, and equipment are all safe.*
+When a creature within your Reach takes an Interruptible Action, you may make a Sudden Strike against it. <br>
+A Sudden Strike is a single Melee Martial Attack (Unarmed or Weapon, using whatever the attacker already has equipped). If the attack hits, the triggering Action is interrupted and does not occur, in addition to the other effects of the Attack. <br>
+*Note: This doesn't waste any resources, only the Actions themselves. Spell Slots, components, and equipment/charges are all safe.*
 
 ### Reserving/Delaying Actions
 To reserve Actions, you first spend the amount of actions needed on your turn and specify a trigger.
@@ -103,14 +104,15 @@ Then, if the trigger occurs before your next turn, you spend that many actions a
 
 ### Cover
 Terrain is seldom just an empty floor. So you could be "behind something" or "obscured by something" when viewed from a creature's perspective. <br>
-What counts as cover depends on a lot of circumstances regarding both a target and an observer. For example: A Small creature may be Fully Covered by an object that a Medium creature is only Partially Covered by. A creature may be obscured by darkness, fog, or an *Invisibility* Spell and thus fully obscured to a commoner, but just plainly out in the open to a dragon with no need to just *see* its target.
+What counts as cover depends on a lot of circumstances regarding both a target and an observer. For example: A Small creature may be Fully Covered by an object that a Medium creature is only Partially Covered by. <br>
+A creature may be obscured by darkness, fog, or an *Invisibility* Spell and thus completely obscured to a commoner, but just plainly out in the open to a dragon with no need to just *see* its target.
 <br> <br>
 **Partially Covered**
 A partially covered creature may be still be targeted, but with Disadvantage. If Disadvantage is already imposed for some other reason, it is NOT an allegable target anymore. <br>
 <br><br>
 **Fully Covered**
-Flatout "Not an allegable target".<br>
-Creatures can still tell where you are (due to other senses or a basic understanding of object permanence) unless you actively attempt to *hide*.
+Flatout "Not an allegable target". <br>
+Creatures can still tell where you are (due to other senses or a basic understanding of object permanence) unless you actively attempt to *Hide*.
 
 ### Defined Conditions
 <br><br>
@@ -120,19 +122,19 @@ A Blinded creature cannot see and automatically fails any Test made that entirel
 <br><br>
 **Charmed** <br>
 A Charmed creature is unable to make Attacks against the source of the condition. <br>
-Said source also gains Advantage on any Check it makes to socially interact with the creature.
+Said source also gains Advantage on any Test it makes to socially interact with the creature.
 <br><br>
 **Deafened** <br>
 A Deafened creature cannot hear and automatically fails any Test made that entirely relies on hearing.
 <br><br>
 **Frightened** <br>
 A Frightened creature is unable to make a move that ends in a space closer to the source of the condition than where it started. <br>
-The creature also gains Disadvantage on any Check it makes to socially interact with the source of its fear.
+The creature also gains Disadvantage on any Test it makes to socially interact with the source of its fear.
 <br><br>
 **Incapacitated** <br>
 An Incapacitated Creature can't take Actions.
 <br><br>
-**Sick** <br>
+**Sick/Sickened/Poisoned?** <br>
 A Sick creature gains Disadvantage on any Test (maybe not Saves?) it makes.
 <br><br>
 **Stunned** <br>
@@ -142,97 +144,106 @@ A Stunned creature is Incapacitated. Extra penalties?
 An Unconcious creature is Incapacitated. Extra penalties?
 
 ### Other
+<br><br>
 **Concentration** <br>
 A creature can maintain Concentration on at most one thing at a time. <br>
 When a Concentrating creature takes damage, it must make a Strength Save (Difficulty = damage taken). <br>
-On a failed Save, its Concentration is broken. <br>
+On a failed Save, its Concentration is broken.
+<br><br>
 **Falling** <br>
-If a creature that isn't suspended by standing on solid ground, or the ability to fly, it falls. <br>
+If a creature that isn't suspended by standing on solid ground or the ability to fly, it falls. <br>
 A falling creature will reach the first stable point directly below it by the end of its next turn (AKA current if you fall on your own turn?) <br>
-Upon landing, the creature takes 1 die of damage for every 10 feet it fell. The size of the die is determined by the Size of the creature (Tiny = d4, Small = d6, Medium = d8, Large = d10, Huge = d12, Gargantuan = d20). <br>
-If it lands on a cushoning surface, the damage is halved. If that surface consists one or more creatures, each of those creatures also take the already halved damage. (Agility Save involved for landing and/or being landed on? PHRASING?)
+Upon landing, the creature takes 1 die of damage for every 10 feet it fell. The size of the die is determined by the Size of the creature. <br>
+(Tiny = d4, Small = d6, Medium = d8, Large = d10, Huge = d12, Gargantuan = d20) <br>
+<br>
+If a falling creature lands on a cushoning surface, the damage is halved. <br>
+If that surface consists one or more creatures, each of those creatures also take the already halved damage. (Agility Save involved for landing and/or being landed on? PHRASING?)
+<br><br>
 **Downed/Knocked Down** <br>
 Smaller "Hitbox". Some Partial Cover can become Full Cover. (PHRASING? DETAILS?) <br>
 Whilst a creature is downed, its Speed is halved, and it can't make any checks as part of the Move Action. <br>
-A downed creature can use 1 Action to stand up. Taking this Action is Distracting. <br>
+A downed creature can use 1 Action to stand up. Taking this Action is Interruptible. <br>
 A flying creature that is forcefully knocked down will fall until it hits the ground. It takes fall damage as normal.
+<br><br>
 **Grappling** <br>
-If a creature has another creature grappled, the grappled creature can't move to a new space, and any attack it makes against a target other than its grappler gains Disadvantage. <br>
-The tool and/or limb used to maintain the grapple can't be used for anything else. <br>
-A grappled creature can use 1 Action on its turn to make a Martial Check against the grappler's Passive Martial Skill, freeing itself on a success.
+If a creature is grappled by something, it can't move into a new space, and any attack it makes against a target other than its grappler gains Disadvantage. <br>
+A creature can use 1 Action on its turn to attempt to break a grappled creature within its reach free. To do so, it must succeed on a Martial Test against the grappler's Passive Martial Skill.
+If the grappler is a creature, the tool and/or limb used to maintain the grapple can't be used for anything else without releasing the grappled creature. <br>
 
 # Combat Equipment
 ???
 
 ## Weapons
 Weapons are tools meant for combat and therefore improve a Martial Attack you make using one, provided you are wielding it properly. <br>
-If you are wielding a weapon properly and make an Attack with it, you must be Proficient with its category, or you don't not add your Martial Skill to your roll. <br>
-Melee Weapons must use your Strength-based Martial Skill to be used properly. <br>
-Ranged Weapons must use your Agility-based Martial Skill to be used properly. <br>
-Most weapons have the property that they deal greater damage if you choose to deal damage with it. 
+If you are wielding a weapon properly and make an Attack with it, you must be Proficient with its category to gain its properties. (Though some aspects, such as Loading, transcend proficiency) <br>
+Melee Weapons must use your Martial Strength Skill to be used properly. <br>
+Ranged Weapons must use your Martial Agility Skill to be used properly. <br>
+All weapons have the property that they deal a specified amount of damage if you choose to deal damage with it. 
 
 ### Simple Weapons
-*Damage Range: d4-d8.*
+*Damage Range: d4-d8. Can be easily improvised from random junk*
 <br>
+
 **Melee**
 + Dagger: d4 Piercing. Flexible. Light. Thrown (20/60).
 + ???: d6 Slashing.
 + Greatclub: d8 Bludgeoning. Heavy.
 #### <br>
-<br>
 
 **Ranged**
-+ Sling?: d4 Bludgeoning. Ranged(???). Ammunition(Any ol' junk). Light?
-+ Hand Crossbow: d6 Piercing. Ranged(???). Ammunition(Bolts). Light. Loading(1).
-+ Pistol?: d8 Piercing. Ranged(???). Ammunition(Bullets). Loading(1). Quickfire? Misfire.
++ Sling: d4 Bludgeoning. Range(???). Ammunition(Any ol' junk). Light.
++ Hand Crossbow: d6 Piercing. Range(???). Ammunition (Bolts). Light. Loading(1).
++ Pistol: d8 Piercing. Range(???). Ammunition (Bullets). Loading(1). Quickfire? Misfire.
 #### <br>
 
 ### Advanced Weapons
 *Damage Range: d8-d12.*
 **Melee**
-+ Shortsword?: d8 Slashing? Flexible. Light.
++ Shortsword?: d8 Slashing. Light.
 + Longsword: d10 Slashing. Versatile (d10)/(+1)?
 + Greatsword: d12 Slashing. Heavy.
 + Rapier: d10 Piercing. Flexible.
-+ Halberd?: d10 Piercing. Heavy. Reach (10 feet).
-+ Maul: d12 Slashing. Heavy.
-+ Whip: d6 Slashing. Light. Flexible. Reach (15 feet). Can be used to grapple.
++ Halberd?: d10 Piercing. Heavy. Reach (+5 feet).
++ Maul: d12 Bludgeoning. Heavy.
++ Whip: d8 Slashing. Flexible. Reach (+15 feet). Can be used to grapple.
 #### <br>
 <br>
 
 **Ranged**
-+ ???: d6 Piercing.
-+ ???: d10 Piercing.
-+ Longbow: d10 Piercing. Range (150/600).
-+ Rifle?: d12 Piercing. Range (150/600). Heavy. Misfire. Ammunition (bullets).
++ ???: d8 Piercing. Range (???).
++ ???: d10 Piercing. Range (???).
++ Longbow: d10 Piercing. Range (150/600). Heavy. Ammunition (Arrows).
++ Rifle?: d12 Piercing. Range (150/600). Heavy. Misfire. Ammunition (Bullets).
 #### <br>
 
 ### Weapon Properties
 **Light:** If you are holding Light weapon in each hand and take the Attack Action on your turn, you may make one attack using each weapon instead of just one. <br>
 **Heavy:** To make properly use a Heavy weapon to make an Attack, you must be wielding it with both hands.<br>
-**Versatile:** If you are wielding a Versatile weapon with both hands, it uses a different (larger) damage die.<br>
-**Finesse/Flexibile/Grace?:** You may use either your Strength Martial Skill or Agility Martial Skill (your choice) to make attacks with a Flexible weapon.<br>
-**Thrown (X/Y):** This weapon can be Thrown as a Ranged Martial Attack. You may still choose to use your Melee Martial Skill.<br>
-**Misfire:** If you roll a Natural 1 on a weapon Attack with a Misfire weapon, it ceases to function until it is repaired, which may be done by using 1 Action on your turn and succeeding on a Difficulty 10 Crafting Check. <br>
+**Versatile:** If you are wielding a Versatile weapon with both hands, it uses a different damage die?<br>
+**Flexibile:** You may use either your Strength Martial Skill or Agility Martial Skill (your choice) to make attacks with a Flexible weapon.<br>
+**Reach (X):** Your reach with this weapon extends beyond the normal reach that is determined by your Size.
+**Thrown (X/Y):** This weapon can be Thrown as a Ranged Martial Attack. You may still choose to use your Strength Martial Skill.<br>
+**Misfire:** If you roll a Natural 1 on a weapon Attack with a Misfire weapon, it ceases to function until it is repaired, which may be done by using 1 Action on your turn and succeeding on a Difficulty 10 Crafting Test. <br>
 **Quickfire?:** Ranged Attacks made using a Quickfire weapon are not Distracting.
 
 ## Shields
 If you are wielding a shield when you would be hit by an Attack, you can use 1 Action to add the Shield's Defence Bonus to your Defence against that attack, potentially turning the hit into a miss. <br>
+If you have an ally entirely within your reach that would be by an Attack, you can use 1 Action to add the Defence Bonus to their Defence against that attack, potentially turning the hit into a miss.<br>
 Each type of shield is categorized as either Small or Large. If you don't have Proficiency with the category of a shield you are wielding, you can't use it this way. <br>
 *Should you be able to increase anyone's defence if they are within your Reach? Should you be able to redirect it to yourself by default?*
 
 ### Small
-+ Buckler: +1 Defence. ???
-+ Wrist Guard: +1 Defence. Worn?
-+ Heater: +2 Defence.
-+ Targe: +3 Defence. Hefty(2 Actions)?
++ Wrist Guard: +1 Defence. Worn.
++ Buckler: +2 Defence. ???
++ Targe: +3? Defence. ???
++ Heater: +4? Defence. Downside?
 #### <br>
 
 ### Large
-+ Kite: +2 Defence. ???
-+ Arm Guard: +2 Defence. Worn?
-+ Pavise: +3 Defence.
-+ Tower: +4 Defence. Hefty(2 Actions)?
++ Arm Guard: +2 Defence. Worn. [Large Downside?]
++ Kite: +3 Defence. ??? [Large Downside?]
++ Pavise: +4 Defence. [Large Downside?]
++ Tower: +5 Defence. Hefty(2 Actions)? [Large Downside?]
 #### <br>
 
 ### Shield Properties
@@ -246,15 +257,15 @@ Every type of armor has a defined Defence Bonus and an Agility Limit. You add th
 Each type of armor is categorized as either Light or Heavy. If you don't have Proficiency with the category of the armor you are wearing, it Encumbers you? (WHATEVER THAT MEANS)
 
 ### Light
-+ Hide: +3 Protection, Agility Limit(7).
-+ Gambeson: +5 Protection, Agility Limit(5).
-+ Brigandine: +7 Protection, Agility Limit(3).
++ Hide: 11 Base Defence
++ Gambeson: 13 Base Defence
++ Brigandine: 15 Base Defence
 #### <br>
 
 ### Heavy
-+ Chain/Scale Mail: +5 Protection, Agility Limit(7). Disadvantage on Agility-based Checks. (Or just Stealth?)
-+ Splint: +7 Protection, Agility Limit(5). Disadvantage on Agility-based Checks. (Or just Stealth?)
-+ Plate: +9 Protection, Agility Limit(3). Disadvantage on Agility-based Checks. (Or just Stealth?)
++ Chain Mail: 16 Base Defence, Restrictive (Max 5 AGI)?, Hefty (3 STR)?
++ Splint: 18 Base Defence, Restrictive (Max 5 AGI)?, Hefty (4 STR)?
++ Plate: 20 Base Defence, Restrictive (Max 5 AGI)?, Hefty (5 STR)?, 
 #### <br>
 
 ## Senses?

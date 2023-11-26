@@ -12,25 +12,24 @@ Conniving experts that can find and exploit any weakness in a foe or their plans
 **Armor:** Light. <br>
 **Shields:** None. <br>
 **Focus:** None. <br>
-**Training:** An occupation of your choice. A gaming set of your choice. A common language of your choice. <br>
+**Training:** An occupation of your choice. A gaming set or vehicle of your choice. A common language of your choice. <br>
 
 ## Starting Equipment
 + A Simple Melee Weapon of your choice.
 + A Simple Ranged Weapon of your choice.
 + A quiver containing 20 pieces of ammunition of your choice.
-+ Leather Armor.
++ Hide Armor.
 + A toolset of your choice.
 + A gaming set of your choice.
 
 ## Rogue Class Features
 These are the core features granted for the Rogue Class.
 
-### Level 1: Skill Mastery
-Choose one of your Attibute based Skills to master. Your learning cap for that Skill is now 10, regardless of your Attributes. <br>
-You gain 10 Skill Points to put into the chosen Skill.
+### Level 1: Expertise
+Put 10 Skill Points into a single Attribute-based Skill of your choice.
 
 ### Level 1: Sneak Attack!
-If you hit a creature with a Martial Attack and you have advantage on the roll, you add a number of d6 equal to your Level to the damage dealt. <br>
+If you hit a creature with a Martial Attack and you have advantage on the roll, you may add a number of d6 equal to 1 + your Level to the damage dealt. <br>
 After you've dealt this extra damage, you can't do so again until you regain your Actions.
 
 ### Level 1: Rogue Subclass
@@ -57,8 +56,8 @@ If the damage is already halved by you succeeding on the save, you instead take 
 ### Level 5: Subclass Feature
 You gain the Level 5 Feature of your chosen Rogue Subclass.
 
-### Level 6: Reliable Talent?
-When you make a Skill Check and roll a number on the die that is lower than that Skill, you may treat it as if it had rolled that number instead. (PHRASING?)
+### Level 6: Reliable Talent
+When you make a Skill Test and roll a number on the die that is lower than that of the Skill Bonus, you may treat the die as if it had rolled that number instead.
 
 ### Level 7: Subclass Feature
 You gain the Level 7 Feature of your chosen Rogue Subclass.
@@ -70,7 +69,7 @@ Provided you aren't Blinded, Deafened, or Incapacitated, no Attack made against 
 You gain the Level 9 Feature of your chosen Rogue Subclass.
 
 ### Level 10: Stroke of Luck
-If you would fail a Test, you may choose to succeed instead. <br>
+If you would fail a Check, you may choose to succeed instead. <br>
 You can use this feature once per Rest.
 
 ## Rogue Subclass: Thief
@@ -82,13 +81,14 @@ Your Speed increases by 10 feet. <br>
 You have Climb Speed equal to your Speed.
 
 ### Level 1: Swift Fingers/Multitasking?
-You now have 4 actions to use each Round rather than 3.
+You now have 4 actions to use each Round rather than 3. (LIMITER? Provided you aren't encumbered, 4 or 2 Actions?)
 
 ### Level 3: Supreme Sneak?
-When you would make a Finesse Check or Stealth Check on your turn, you may use 1 additional Action to gain advantage on that Check.
+When you would make a Finesse Test or Stealth Test on your turn, you may use 1 additional Action to gain Advantage on that Test.
 
 ### Level 5: Pilferer of Trinkets?
-??? Get more magic items and use them better?
+You can use any item as a Focus to cast a Spell regardless of your Proficiencies? (PHRASING? "Any item that is storing the spell you'd cast") <br>
+More attunement slots? Better carrying capacity?
 
 ### Level 7: ???
 ???

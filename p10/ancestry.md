@@ -79,7 +79,7 @@ You are considered to be Small rather than Medium. <br>
 You can attempt to hide by using another creature as cover, providing that creature is larger than you. <br>
 You can freely move through the space of another creature, providing that creature is larger than you. <br>
 ### Bold Fortune
-If you would roll a natural 1 on a Test, you may reroll the die and use the new roll.
+If you would roll a natural 1 on a Check, you may reroll the die and use the new roll.
 ### Archetypical Adventurer
 Choose one of the following benefits:
 <br><br>

@@ -40,9 +40,9 @@ You can use 1 Action on your turn to either summon your Pact Boon to your hand o
 When you score a hit with a Martial Attack using your Pact Boon, add a Pact Die to the damage you deal.
 
 #### Boon of the Book
-Your Boon is a tome full of otherworldly knowledge that only you seem to comprehend. You can take a minute to summon a new copy of it into your hands, causing the original to disintegrate, wherever it is. <br>
+Your Boon is a tome full of otherworldly glyphs and pictures that only you seem to comprehend. You can take a minute to summon a new copy of it into your hands, causing the original to disintegrate, wherever it is. <br>
 You become a Mage! And a full-scale spellcaster at that! <br>
-Choose a Spell List to be your chosen Sorcery List? At each level, you learn 3 Spells from that List. No Spell learned this way may be of a Rank higher than your Level.
+Choose a Spell List to be your chosen Pact List. At each level, you learn 3 Spells from that List. No Spell learned this way may be of a Rank higher than your Level.
 
 ### Level 1: Eldritch Invocations
 At each Level, you learn one Spell of your choice with a Rank equal to your Level. <br>
@@ -60,7 +60,7 @@ You gain one of the following benefits, determined by the Pact Boon you chose:
 #### Boon of the Bauble
 You gain 1 point in EVERY Skill?
 #### Boon of the Blade
-You can use your Pact Boon to make a Ranged Magic Attack, dealing damage equal to your Pact Die on a hit. <br>
+You can use your Pact Boon to make a Ranged Magic? Attack, dealing damage equal to your Pact Die on a hit. <br>
 The damage is of the same type as the weapon. The range is (60/240).
 #### Boon of the Book
 After

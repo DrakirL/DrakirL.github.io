@@ -49,7 +49,7 @@ You can use 1 Action on your turn to spend any number of Mana Points and regain 
 OR... After you expend a Spell Slot, you can spend a number of Mana Points equal to its Rank to regain it. <br>
 OR... Maybe you should only be able to spend remaining Mana Points to regain Spell Slots as you take a Rest? <br>
 <br>
-No Spell Slot regained this way may be of a Rank higher than 5. <br>
+No Spell Slot regained this way may be of a Rank higher than half your Level (minimum of 1). <br>
 You regain any spent Mana Points after you finish a Rest.
 
 ### Level 1: Sorcerer Subclass
@@ -86,17 +86,17 @@ You gain the Level 9 Feature of your chosen Sorcerer Subclass.
 ### Level 10: Metamagic
 ???
 
-## Wizard Subclass: Wild Magic? Rune Child? 
+## Sorcerer Subclass: Wild Magic? Rune Child? 
 THEME: Magic is an inherantly chaotic force, and most are fortunate enough to not be able to tap into it fully. You are not so lucky... <br>
 **Origin Spells:** Counterspell/Chaos Bolt?, *Rank 2*, *Rank 3*, *Rank 4*, *Rank 5*.
 
 ### Level 1: Unstable Source
 After you expend a Spell Slot, you roll a d20. If you roll a number no higher than the Rank of the expended Spell Slot, you cause a Wild Magic Surge with a Surge Value equal to your roll.
 ### Level 1: Bend Luck
-??? <br>
+When you roll a d20, you may use this feature to reroll it before using its value? <br>
 You can use this feature once per Rest. But if you cause a Wild Magic Surge, you may use it again. (PHRASING?)
 
-### Level 3: Reflexive Flux
+### Level 3: ???
 ???
 
 ### Level 5: Controlled Chaos
@@ -105,5 +105,5 @@ When you cause a Wild Magic Surge, you may roll on the table twice and choose wh
 ### Level 7: ???
 ???
 
-### Level 9: ???
-???
+### Level 9: Spell Cascade
+When you deal damage with a Spell and roll the highest value possible on any of the dice, Explode them! (PHRASING)?

@@ -10,13 +10,13 @@
 <br>
 **Weapons:** Simple Melee. Simple Ranged. Advanced Melee. Advanced Ranged. <br>
 **Armor:** Light. Heavy. <br>
-**Shields:** Small. Large. <br>
+**Shields:** None. <br>
 **Focus:** None. <br>
 **Training:** An exotic language of your choice. <br>
 
 ## Starting Equipment
-+ An advanced melee weapon.
-+ ???
++ Either an Advanced Melee Weapon and Chain Armor?, or an Advanced Ranged Weapon, a quiver with 20 pieces of ammunition, and Gambeson armor.
++ An Weapon of your choice.
 + A trophy from a previous hunt?
 
 ## Exorcist Class Features
@@ -24,7 +24,7 @@ These are the core features granted for the Exorcist Class.
 
 ### Level 1: Sworn Enemy
 Choose a creature type. Add it among your Training. (PHRASING?) <br>
-*Note: This means that you should get Advantage on any Check that relates to your chosen creature type. You should have a lot of experience/knowledge to draw from.*
+*Note: This means that you should get Advantage on any Test that relates to your chosen creature type. You should have a lot of experience/knowledge to draw from.*
 <br><br>
 If a creature is of the type you chose, it counts as a Sworn Enemy for you. When you hit one of your Sworn Enemies with a Martial Attack, you may add your Rite? Die (which is a d4) to the damage you deal.<br>
 You can only add this bonus once per Action (PHRASING?)
@@ -84,17 +84,17 @@ Also, roll your Rite Die twice and choose either number?
 ## Exorcist Subclass: Order of Slayers
 THEME: ???
 
-### Level 1: ???
-You may choose the damage type of your *Blood Rite* each time you use the feature. <br>
-MORE?
-### Level 1: ???
-???
+### Level 1: Lord of the Rite
+You may choose the damage type of your *Blood Rite* each time you use the feature.
+
+### Level 1: Ruthless Brand
+When the target of your *Baleful Brand* is reduced to 0 HP, you regain your ability to use the feature.
 
 ### Level 3: ???
 ???
 
 ### Level 5: ???
-*Dash towards your *Baleful Brand* target, HotS-Illidan style?
+If the target of your Baleful Brand is within 100 feet of you, you can use 1 Action on your turn to teleport to an empty space where it is within your Reach.
 
 ### Level 7: Purify/Exorcise?
 *Use 1 Action to end Charm, Frighten, or possession for free? Also deals source psychic damage?

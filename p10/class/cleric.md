@@ -10,17 +10,16 @@ Preachers of ??? <br>
 <br>
 **Weapons:** Simple Melee. Simple Ranged. <br>
 **Armor:** Light. <br>
-**Shields:** Small. <br>
+**Shields:** Small. Large. <br>
 **Focus:** Divine. <br>
 **Training:** None. <br>
 
 ## Starting Equipment
 + A Simple Melee Weapon of your choice.
-+ A Simple Ranged Weapon of your choice.
-+ A quiver containing 20 pieces of ammunition of your choice.
-+ Chain Shirt armor.
-+ A Divine Focus of your choice *(You may paint it on/forge it into some other piece of equipment)*.
-+ Extra gp as a treat?
++ A Shield of your choice.
++ Brigandine armor.
++ A Component Pouch containing up to 10 gp worth of materials.
++ A Divine Focus of your choice. May be merged with your shield or worn.
 
 ## Cleric Class Features
 These are the core features granted for the Cleric Class.
@@ -52,7 +51,7 @@ If a Channel Divinity Ability forces a creature to make a Save, it is made again
 In addition, you gain the Channel Divinity Ability: *Divine Spark*.
 
 #### Divine Spark
-You present your holy symbol to a creature within 20? 60? feet of you. It either regains HP equal to a number of d8s equal to your Level or it must make a Charisma Save (your choice). <br>
+You present your holy symbol to a creature within 60 feet of you. It either regains HP equal to a number of d8s equal to your Level or it must make a Charisma Save (your choice). <br>
 A creature takes Radiant or Infernal damage (your choice) equal to equal to a number of d8s equal to your Level on a failed Save, or half as much on a success.
 
 ### Level 1: Cleric Subclass
@@ -84,7 +83,7 @@ You can use 3 Actions on your turn to say a prayer and try call on your deity to
 If you roll a 1, the prayer is immidiately answered as the deity directly intervenes, briefly appearing to provide the assistance you prayed for. <br>
 The GM decides how the intervention takes form. Usually, creating the effects of any one Spell you know or a Divine Spell the GM's choice is appropriate.
 <br><br>
-If your deity does intervene, you cannot use this feature to make it intervene again for rest of the adventure.
+If your deity does intervene, you cannot use this feature to make it intervene again for remainder of the adventure.
 
 ### Level 5: Subclass Feature
 You gain the Level 5 Feature of your chosen Cleric Subclass.
@@ -106,7 +105,7 @@ When you use your *Divine Intervention*, you may now roll up to four d8. Your pr
 
 ## Bard Subclass: War Domain.
 THEME: Combat. Battle. Warfare. All are variations of the concept of conflict and the resolution therof - a fundamental part of any world with more than one thinking mind. <br>
-**Domain Spells:** Shield of Faith?, *Rank 2*, *Rank 3*, *Rank 4*, *Rank 5*.
+**Domain Spells:** *Weapon Construct*, *Shield of Faith*, *Rank 3*, *Rank 4*, *Rank 5*.
 
 ### Level 1: War Priest?
 After casting a Spell, you may make a single Martial Attack as part of the same action? <br>
@@ -115,7 +114,7 @@ Once per round? Only on your turn? Up to CHA times per Rest?
 ### Level 1: Improved Channel Divinity???
 You gain the following Channel Divinity Ability:
 #### Guided Strike?
-When a creature you can see within 20 feet of you misses an Attack, you can use 1 Action and expend one use of your *Channel Divinity* to add a +10 bonus to its roll, potentially changing the outcome.
+When a creature you can see within 20 feet of you misses an Attack, you can use 1 Action and use of your *Divine Spark* to add a +10 bonus to its roll, potentially changing the outcome.
 
 ### Level 3: ???
 ???

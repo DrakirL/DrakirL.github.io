@@ -16,8 +16,8 @@ Powerful sages that bend reality to their wims. <br>
 
 ## Starting Equipment
 + A Simple Melee Weapon of your choice.
-+ A component pouch containing ?? gp worth of materials of your choice.
-+ An Arcane Focus of your choice.
++ A component pouch containing 20? gp worth of materials of your choice.
++ An Arcane Focus of your choice. May be merged with your weapon.
 
 ## Wizard Class Features
 These are the core features granted for the Wizard Class.
@@ -52,7 +52,7 @@ School Spells?
 ### Level 2: Signature Spell
 Choose one Rank 1 Arcane Spell you know. That spell counts as a Cantrip for you.
 
-### Level 2: Studious? Artificery? Applied in Practice?
+### Level 2: Artificery
 You gain Training in an occupation of your choice. <br>
 If you have Training in an occupation, you can use a tool used by that occupation as a focus to cast a Spell you know. <br>
 *NOTE: If you attempt to craft a magic item, having Training with the tools you use give you advantage.*
@@ -113,8 +113,8 @@ At each level, you learn one Divine Spell and one Primal Spell of a Rank equal t
 You gain Proficiency with Divine Foci and Primal Foci, and Training with a musical instrument of your choice. <br>
 If you have Training with a musical instrument, you can use it as a focus to cast a Spell you know.
 
-### Level 3: Versatile Virtuoso?
-After you finish a Rest, you may replace up to one Spell of each Rank you know with another of the same Rank. (Except Signature Spells. PHRASING?)
+### Level 3: Protean? Versatile Virtuoso?
+After you finish a Rest, you may replace up to one Spell of each Rank you know with another of the same Rank? (Except Signature Spells. PHRASING?)
 
 ### Level 5: ???
 ???
@@ -123,17 +123,17 @@ After you finish a Rest, you may replace up to one Spell of each Rank you know w
 ???
 
 ### Level 9: ???
-You can cast any Spell as if you knew it. (PHRASING?) <br>
+You may at any point call to mind any one spell you don't already know and cast it as if you did, expending a Spell Slot as normal. <br>
 You can use this feature once per Adventure. (PHRASING?)
 
 ## Wizard Subclass: School of Abjuration
-THEME: Sometimes you fight fire with fire. Sometimes you fight fire with a fire extinguisher.
+THEME: Sometimes you must fight fire with fire. Most of the time, a fire extinguisher would be better.
 
 ### Level 1: Abjuration Savant
 At each level, you learn one Arcane Abjuration Spell of a Rank equal to your Level. <br>
 In addition, the time and cost required to make a Spell Scroll is halved, provided the spell is an Abjuration Spell.
 ### Level 1: Arcane Ward
-You have 2 * LV extra HP in a ward. Expend a Spell Slot to cast an Abjuration Spell to restore 2 * Rank HP to it. (PHRASING?)
+You have 2 * LV extra HP in a ward. Expend a Spell Slot to cast an Abjuration Spell to restore *Rank HP to it. (PHRASING?)
 
 ### Level 3: ???
 When a creature you can see within 30? feet of you would take damage, you may use 1 Action to extend your Ward to it, absorbing damage as if it belonged to that creature. (PHRASING?)

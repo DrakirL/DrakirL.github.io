@@ -32,9 +32,9 @@ As an adept at traversing all types of terrain, you gain the following benefits:
 + You can ignore the effects of Difficult Terrain while you're moving through it. (PHRASING?) <br>
 #### <br>
 
-### Level 1: Hunter's/Ranger's Mark?
+### Level 1: Ranger's Mark
 You can use 1 Action on your turn to focus your attention on a creature you can see. Make a Martial Check against that creature's Defence. <br>
-If you succeed, that creature is Marked by you for up to an hour, requiring your Concentration. <br>
+If you succeed, that creature becomes Marked by you for up to a day, requiring your Concentration. <br>
 When you make a Martial Attack against a creature you have Marked in this way, you roll a Mark Die (which is a d4) and add the result to both your Attack Roll and to the damage dealt if you hit. (PHRASING?)
 ### Level 1: Ranger Subclass
 You choose a Ranger Subclass and gain its Level 1 Features.
@@ -47,18 +47,19 @@ While you are travelling, you gain the following benefits:
 + You can't become lost except by magical means. (Enforced how?) <br>
 #### <br>
 
-### Level 2: Survival of the Fittest? Primal Grit?
+### Level 2: Survival of the Fittest? Grit?
 When you recover HP from a Rest, you may treat a number lower than 5 rolled on your Hit Die as a 5.
 
 ### Level 3: Subclass Feature
 You gain the Level 3 Feature of your chosen Ranger Subclass. <br>
 In addition, your Mark Die is now a d6.
 
-### Level 4: Tracker? Outwit? Study Target? Tactical Preparations? Target Locked?
-After you finish a Rest, you may choose an individual creature (you've seen/interacted with?) and add it among your Training. (PHRASING?) <br>
+### Level 4: Informed Preparations? Target Locked?
+After you finish a Rest, you may choose an individual creature (you've seen/interacted with?) and add it amongst your Training. (PHRASING?) <br>
+You also gain Advantage on the Check you make as part of your *Ranger's Mark* feature, provided you are trying to mark that individual creature. <br>
 You can only have one individual creature named this way at a time. (PHRASING?) <br>
+*You don't have to know a creature's name. As long as you and the GM know what individual you're referring to, it's all good.* <br>
 *NOTE: Having training means you can gain Advantage on any Skill where training is relevant.* <br>
-*Also, Ranger's Mark is a check that may be made directly against the chosen creature. This feature is meant to give it advantage*
 
 ### Level 5: Subclass Feature
 You gain the Level 5 Feature of your chosen Ranger Subclass. <br>
@@ -74,14 +75,15 @@ Resistance to one or more damage types? Advantage against weather and temperatur
 You gain the Level 7 Feature of your chosen Ranger Subclass. <br>
 In addition, your Mark Die is now a d10.
 
-### Level 8: Honed Senses? Unvavering Accuracy?
-Provided you aren't Blinded, Deafened, or Incapacitated, you have Blindsight and no Attack you make against a creature can gain Disadvantage.
+### Level 8: Unvavering Accuracy
+Provided you aren't Blinded, Deafened, or Incapacitated, you have Blindsight. <br>
+No Attack you make against a creature you can see with this Blindsight can gain Disadvantage.
 
 ### Level 9: Subclass Feature
 You gain the Level 9 Feature of your chosen Ranger Subclass. <br>
 In addition, your Mark Die is now a d12.
 
-### Level 10: Unvavering Mark? Lethal Precision?
+### Level 10: Lethal Precision
 Whenever you would roll your Mark die, you may roll it twice and choose which result to use. <br>
 In addition, your Concentration on your *Ranger's Mark* cannot be broken by damage.
 
@@ -89,53 +91,58 @@ In addition, your Concentration on your *Ranger's Mark* cannot be broken by dama
 THEME: You have a trusted animal by your side, and it is as much of a trained combatant and explorer as you are.
 
 ### Level 1: Animal Companion?
-You have a tamed Beast creature as an additional member of your party. <br>
-This creature is known as your Companion, and can come in any form you choose if it obeys the following parameters: <br>
-+ It has Hit Dice equal to your Level. The size of the dice is determined by the creature's size (d4 if tiny, d10 if large). Its HP is determined by the dice as normal. <br>
-+ It has only 1 Action per Round, but on its turn, it can take the Dash Action and any other Action at the same time. <br>
-+ The sum of its Strength and Agility equals 5 + your Level. Its Intelligence and Charisma are both 0.
-+ Its Martial Skill is always equal to your Level. It has 2 extra Skill Points per Level to spend on its other Skills.
-+ It has Natrual Weapons, so its Unarmed Strike has the Finesse? property and deals 1 Mark Die damage on hit (either Bludgeoning, Piercing, or Slashing, choose which from beginning). <br>
-+ Any other special abilities you want are restricted by its size. For Example: Only a tiny Companion can have a Fly Speed, and only large creatures are Ridable.
+You have a tamed Beast creature with a CR no higher than 1/2 as an additional member of your party. *For now, the wolf has already been prepared and is recommended.* <br>
+This creature is known as your Companion, and it gains the following benefits: <br>
++ Its Martial and Magic Skills are equal to yours.
++ Its total number of Hit Dice equal to your Level, and its Maximum HP is determined by the increased pool. <br>
++ It gains 2 extra Skill Points to spend for each of your Levels.
++ It gains the Action "Special Trick": Make 1 Improvised Martial Attack and add your Mark Die to the roll. On a hit, deal damage equal to a number of Mark Die appropriate for its size (1 for Medium or smaller, +1 for each size above that). (PHRASING?) <br>
 #### <br>
-(PHRASING FOR THE WHOLE THING?)
-If your Companion would die (which should be rare, use "taken out" instead), you can get a new one by spending a day and 50 gp worth of *stuff*. (PHRASING?) <br>
+If your Companion would die (which should be rare, I'll use "taken out" instead), you can get a new one by spending a day and 50 gp worth of *stuff*. (PHRASING?) <br>
 
-### Level 1: Beastial Bond?
-??? You and your Companion can do special signature moves together, including for example... *DETAILS? <br>
-Taking hits for each other?
+### Level 1: Loyal Friend?
+Both you and your Companion gains the following feature:
++ When an ally that is entirely within your reach takes damage, you can use 1 Action to reduce that damage by half. If you do so, you must also take the resulting damage.
+#### <br>
 
-### Level 3: ???
-???
+### Level 3: Encourange Frenzy? Let Loose?
+Both you and your Companion gains the following feature:
++ *Use ALL actions to AOE?
+#### <br>
 
 ### Level 5: ???
-Your Companion now has 2 Actions to use each round. <br>
-It can still Dash and Act using a single Action?
+Both you and your Companion gains the following feature:
++ ???
+#### <br>
 
 ### Level 7: ???
-???
+Both you and your Companion gains the following feature:
++ ???
+#### <br>
 
 ### Level 9: Soulbound Companion?
-You learn a list of healing spells? You can cast them for free, provided you target your Animal Companion? DETAILS?
+Both you and your Companion gains the following feature:
++ *You learn a list of healing spells? You can cast them for free, provided you target your Animal Companion? DETAILS?
+#### <br>
 
 ## Ranger Subclass: Nomad
-THEME: You belong nowhere, everywhere, never, always, somewhere nearby, yet surprisingly far. You *exist*, in the most pure sense of the word.
+THEME: You've always/never belonged nowhere/everywhere/somewhere nearby/somewhere far away. You *exist*, in the most pure sense of the word.
 
-### Level 1: Unknown Knowledge
-*You gain a bunch of stuff, including at least one language, that you can swap out during a Rest.
+### Level 1: Unknown Knowledge? Unearned/Unleared/Hidden Wisdom?
+You learn 1 Language, gain any one Training of your choice, and learn a Rank 1 Cantrip spell. Mark them all as "Unknown". (PHRASING? NAMING??) <br>
+After you finish a Rest, you may replace your Unknown Language with another language, your Unknown Training with some other Training, and your Unknown Spell with a different Cantrip Spell of a Rank no higher than your Level.
 
-### Level 1: ???
-??? You and your Companion can do special signature moves together, including for example... *DETAILS? <br>
-Taking hits for each other?
-
-### Level 3: ???
+### Level 1: Unseen Watcher? Uninvited Guest?
 ???
 
-### Level 5: ???
+### Level 3: Take the Unmade Roads?
 ???
+
+### Level 5: Take the Unmade Roads? Hidden Paths?
+You can use 1 Action on your turn to make a Magic Check and teleport to an unoccupied space you can see no further away in feet than your result.
 
 ### Level 7: ???
 ???
 
-### Level 9: Hidden Paths? The Unmade Roads?
-*You can use 1 Action on your turn to teleport? Instead of Move Action?
+### Level 9: ???
+???

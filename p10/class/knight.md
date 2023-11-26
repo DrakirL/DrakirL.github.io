@@ -12,37 +12,29 @@ Fierce fighters who could take on armies by themselves. <br>
 **Armor:** Light. Heavy. <br>
 **Shields:** Small. Large. <br>
 **Focus:** None. <br>
-**Training:** One type of vehicle of your choice. <br>
+**Training:** One vehicle, gaming set, or musical instrument of your choice. <br>
 
 ## Starting Equipment
 + An Advanced Melee Weapon of your choice.
 + An Advanced Ranged Weapon of your choice.
 + A quiver with 20 pieces of ammunition of your choice.
-+ A Small Shield of your choice.
++ A Small Shield of your choice?
 + Either Chain Armor or a set of Light Armor of your choice.
 
 ## Knight Class Features
 These are the core features granted for the Knight Class.
 
-### Level 1: Fighting Style? Weapon of Choice?
+### Level 1: Fighting Style
 You gain one of the following benefits of your choice:
 <br><br>
-**Archery?** <br>
-When you make a Martial Attack using a weapon wielded in your primary hand against a target outside your reach, add a +2 bonus to your roll.
-<br><br>
-**Duelling?** <br>
-When you score a hit with a Martial Attack using a weapon in your primary hand against a target within your reach, add a +2 bonus to the damage you deal.
-<br><br>
-**Two-Weapon Fighting?** <br>
+**Dual Wielding** <br>
 When you make a Martial Attack using a weapon wielded in your off-hand, you add your Martial Skill to the roll as you would for your primary hand.
 <br><br>
-**Great-Weapon Fighting?** <br>
+**Hefty Strikes** <br>
 When you score a hit with a Martial Attack using a weapon wielded with both hands, roll the damage dice twice and choose which total to use.
 <br><br>
-**Protection???** <br>
-When you use a shield to increase a creature's Defence, increase it by 1 more? Also, if that creature is not you, you may choose to become the target of the attack instead? <br>
-OR... When you use a shield to increase a creature's Defence, you may make a single Martial Strike with your other hand as part of the same action. <br>
-*The exact benefits of this style depends on what one can do with a shield by default, if I even want this to be a style...*
+**Sword and Board** <br>
+When you use a shield to increase Defence, you may make a single attack using a weapon you are wielding in the other hand as part of the same action. If this attack scores a hit, you add the shield's bonus to the damage dealt.
 
 ### Level 1: Martial Mastery
 Your Martial Skill is always equal to your Level + 1, exceeding your normal limit.
@@ -51,14 +43,8 @@ Your Martial Skill is always equal to your Level + 1, exceeding your normal limi
 You choose a Knight Subclass and gain its Level 1 Features.
 
 ### Level 2: Prowess
-During combat, you have 2 Prowess Points to spend each round, in addition to your regular actions. (PHRASING?) <br>
-You can use them like you would use Actions, but they are more restricted in their usage. (PHRASING?) <br>
-+ You can use 1 Prowess Point to take the Move-action on your turn.
-+ You can use 1 Prowess Point to properly use a shield as a reaction.
-+ You can use 2 Prowess Points to take the Attack-action on your turn, provided you use a weapon properly.
-+ You can use 2 Prowess Points to take the Strike-reaction, provided you use a weapon properly.
-+ What else more?
-#### <br>
+During combat, you have 1 Prowess to use each round, in addition to your regular actions. <br>
+You can use your Prowess like you would use an Action, but it can only be used for equipping/unequipping shields or weapons, or using a shield or weapon you already have equipped for its intended purpose. (PHRASING?) <br>
 
 ### Level 2: Bold Fortune
 If you would roll a natural 1 on a Martial Attack, you may reroll it and use the new roll instead.
@@ -66,35 +52,40 @@ If you would roll a natural 1 on a Martial Attack, you may reroll it and use the
 ### Level 3: Subclass Feature
 You gain the Level 3 Feature of your chosen Knight Subclass.
 
-### Level 4: Steeled Resolve
-If you would fail a Save, you can use 1 Action or Prowess Point to reroll it.
+### Level 4: Steeled Resolve? Adrenaline Rush?
+If you would fail a Save, you can use 1 Action to reroll it and use the new result instead. <br>
+You may use Prowess instead of an Action to activate this feature. <br>
+<br>
+OR... *Once per Rest: Refresh all Prowess Points? <br>
 
 ### Level 5: Subclass Feature
 You gain the Level 5 Feature of your chosen Knight Subclass.
 
-### Level 6: Greater Prowess? Excellence?
-MORE? <br>
-In addition, making attacks now only costs 1 Prowess point rather than 2. (PHRASING?)
+### Level 6: Steeled Resolve?
+If you would fail a Save, you can use 1 Action to reroll it and use the new result instead. <br>
+You may use Prowess instead of an Action to activate this feature.
+<br><br>
+In addition, you now have 2 Prowess to use each round.
 
 ### Level 7: Subclass Feature
 You gain the Level 7 Feature of your chosen Knight Subclass.
 
 ### Level 8: Second Wind?
-When you would take damage, you can use 1 Action or Prowess Point to gain 1d10 Temporary HP.
+When you would take damage, you can use 1 Action to gain 1d10 Temporary HP. <br>
+You may use Prowess instead of an Action to activate this feature.
 
 ### Level 9: Subclass Feature
 You gain the Level 9 Feature of your chosen Knight Subclass.
 
 ### Level 10: Greater Prowess? Adrenaline Rush? Mastery?
 MORE?: *Once per Rest: Refresh all Prowess Points? <br>
-In addition, you now gain 3 Prowess Points to spend each round.
+In addition, you now have 3 Prowess to use each round.
 
 ## Knight Subclass: Paragon
 THEME: Combat is a simple sport, and you are a world class professional.
 
-### Level 1: Fighting/Weapon/Arms Prodigy? Additional Fighting Style?
-You gain a second benefit of your choice from your *Fighting Style* feature?<br>
-You can't use more than one on a single attack. Or should you be able to? (PHRASING?)
+### Level 1: Additional Fighting Style?
+You gain a second benefit of your choice from your *Fighting Style* feature?
 
 ### Level 1: Simply Superior
 Increase one of your Attributes by 1 (up to 10). <br>
@@ -119,10 +110,10 @@ You gain 1 Skill Point to spend.
 # FUTURE SUBCLASSES
 
 ## Knight Subclass: Banneret
-THEME: Lead armies across scarred battlefields with a song of hope and volition in their hearts.
+THEME: Lead armies across scarred battlefields with the song of hope and volition in their hearts.
 
 ### Level 1: Diplomat?
-Gain 5 Skill Points to put into Authority. <br>
+Put 5 Skill Points into Authority. <br>
 MORE BONUSES RELATED TO BEING INSPIRING/IMPOSING!
 
 ### Level 1: ???
@@ -144,10 +135,10 @@ MORE BONUSES RELATED TO BEING INSPIRING/IMPOSING!
 THEME: Charge into battle before the rest of your party and keep the enemy in place until it ends.
 
 ### Level 1: Born for the Saddle
-Gain 5 Skill Points to put into Handling. <br>
+Put 5 Skill Points into Handling. <br>
 *MORE BONUSES SPECIFICALLY RELATED TO MOUNTED COMBAT!
 ### Level 1: Hold the Line!
-When a creature within your Reach makes an Attack against a creature other than you (or one you are mounted on?), you treat the Action as Distracting/you may make a Sudden Strike against it. (PHRASING?)
+When a creature within your Reach makes an Attack against a creature other than you (or specifically one you are mounted on?), you treat the Attack as Interruptible.
 
 ### Level 3: ???
 ???
@@ -193,7 +184,7 @@ You can gague the potential combat abilities of any creature you observe/interac
 ### Level 1: Advanced Maneuvers
 Learn 3 different Maneuvers. <br>
 Your Maneuver Die is a d4. <br>
-If a Maneuver forces another creature to make a Test, use your Passive Martial Skill as the Difficulty.
+If a Maneuver forces another creature to make a Save, use your Passive Martial Skill as the Difficulty.
 
 ### Level 3: ???
 You learn an additional maneuver. <br>
@@ -214,10 +205,10 @@ Your Maneuver Die becomes a d12.
 #### Maneuvers
 <br><br>
 **Pushing Attack** <br>
-When you hit a creature with a Martial Attack, you can use 1 extra Action to add your Maneuver Die to the damage dealt and force the target to make a Strength Save or be pushed up to 15 feet away from you.
+When you hit a creature with a Martial Attack, you can use 1 extra Action to add your Maneuver Die to the damage dealt and force the target to make a Martial Strength Save or be pushed up to 15 feet away from you.
 <br><br>
 **Parry** <br>
-When a creature within your Reach makes an Attack against you, you may use 1 Action to block it with a weapon you are wielding, adding your Maneuver Die to your Defence against that attack?
+When a creature within your Reach makes an Attack against you, you may use 1 Action to block it with a weapon you are wielding, adding your Maneuver Die to your Defence against that attack.
 <br><br>
 **Riposte** <br>
-When a creature within your Reach makes an Attack against you and misses?, you may make a Sudden Strike against it?
+When a creature within your Reach makes an Attack against you, you may make a Sudden Strike against it. If you hit, add your Maneuver Die to any damage you deal.
