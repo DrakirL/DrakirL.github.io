@@ -6,7 +6,8 @@ On their way towards the top of the tower in this charming first game project, t
 <img src="images/DOWN_2.png?raw=true"/>
 <img src="images/DOWN_3.png?raw=true"/>
 <br>
-DOWN is a the result of a game project course where students from different areas of study at the University of Skövde collaborate. In this project I worked as one of two programmers, responsible for all of the programming aspects of the project.
+DOWN is a the result of a game project course where students from different areas of study at the University of Skövde collaborate.<br>
+In this project I worked as one of two programmers, responsible for all of the programming aspects of the project.
 
 [Click Here to Watch the Trailer](https://drive.google.com/file/d/1zki7kvMJ9mQfKTBASoiMq_2EsmbdPe-I/view?usp=sharing)<br>
 [Click Here to Download the Game](https://drive.google.com/file/d/1V7ngUk-L0xeTcyrCg0qIF14bSrtISk1i/view?usp=sharing)<br>
