@@ -6,7 +6,7 @@ Preachers of ??? <br>
 ## Traits
 **Class Group:** Mage <br>
 **Hit Die:** d8 <br>
-**Skill Points:** 5 per level <br>
+**Skill Points:** 4 per level <br>
 <br>
 **Weapons:** Simple Melee. Simple Ranged. <br>
 **Armor:** Light. <br>

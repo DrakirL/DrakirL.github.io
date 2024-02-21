@@ -14,10 +14,19 @@ The number of leagues a creature or vehicle can cover per hour is increased by 1
 When a party consisting of travellers of various Sizes, it must stick to the pace of its smallest member. (PHRASING?)
 
 # Carrying Capacity
-Every creature has room to carry some equipment. One general "Worn" space, and one space for each hand (one "Prime Hand" and one "Off Hand"). (PHRASING?)
+Every creature has room to carry equipment with them in an Inventory, which is kept track of through "slots" (PHRASING?). The amount of inventory space a creature has is based on its size (Tiny = 1 Column. Small = 2 Columns. Medium = 3 Columns. Large = 4 Columns. Huge = 5 Columns). A miniscule creature has no "slots". A colossal creature has unlimited slots. <br>
+*Each column has 6 Spaces. 1 is free, the rest are numbered 1-5.<br>
+*Each space can only carry 1 item that could be reasonably carried, or up to 10 "petty" items in a single slot.
 <br><br>
-A creature has 11 additional carrying spaces, numbered from 0 to 10 (PHRASING?). Each of these spaces may contain one item that could reasonably be carried.<br>
+In addition to these spaces, every creature has 5 additional spaces reserved for the items it is currently wearing.<br>
+Each of these slots is restricted to items of a certain type: Clothes, Armor, Accessories, Containers, and Coins.<br>
+Coins are a special case. You can carry as many as you want in this dedicated slot, provided they are "standardized currency".
 
 ## Encumberence
-If a creature is carrying more things than their Strength would allow for, it is Encumbered.<br>
-An Encumbered creature has 1 less Action to take each round and can't partake in any travelling activities.
+If a creature is carrying more things than its Strength would allow for, it is Encumbered.<br>
+When an Encumbered creature regains its actions in combat, it must either drop enough of its inventory for it to no longer be encumbered or use 1 Action to keep its bearings.<br>
+During travelling, an Encumbered creature can't partake in any travelling activities (and/or automatically fail if it tries).
+
+## "Used Hands"
+It doesn't matter if or how you are using an item. If it comes with you as you move, it is in your inventory and needs to be accounted for.<br>
+To use an item however (unless it can be used whilst worn), you must be holding/wielding it somehow (in your right hand, left hand, mouth, etc). You can't be using more than one item in the same way (Can't wield a bow and a sword with the same hand). (*PHRASING?)

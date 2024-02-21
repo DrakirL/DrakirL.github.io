@@ -6,7 +6,7 @@
 ## Traits
 **Class Group:** Warrior <br>
 **Hit Die:** d12 <br>
-**Skill Points:** 4 per level <br>
+**Skill Points:** 3 per level <br>
 <br>
 **Weapons:** Simple Melee. Advanced Melee. <br>
 **Armor:** None. <br>
@@ -28,26 +28,30 @@ You can at any point use 1 Action to enter a Rage. <br>
 While your Rage is active, the following rules apply:
  + You can't cast Spells.
  + You can't maintain Concentration.
+ + You are incapable of coherent speech?
  + You are Resistant to Bludgeoning, Piercing, and Slashing damage.
  + When you deal damage with a Martial Melee Attack, roll 1 extra damage die before choosing two? of the rolled dice to use. (PHRASING? Two works if you are always Medium, but it should really be "normal + 1")
  + You gain Advantage on any Strength-based Test you make.
+ + Being hit by a Sudden Strike doesn't interrupt your Actions.
  #### <br>
- Your Rage lasts until you regain your actions, but you may immedietly use 1 of the Actions you gain to extend. <br>
- You can enter this Rage once per Rest? OR After your Rage ends, an hour must pass before you can enter it again?
+ Your Rage lasts until you regain your actions, unless your immedietly use 1 of the Actions you gained to maintain it. <br>
+ You can enter this Rage once per Rest.
 
 ### Level 1: Unbound
 Provided you are wearing no armor, you are unbound and can utilize your freedom of movement, granting you the following benefits:
 + Your Walk Speed is increased by 10 feet.
-+ You can add your Martial Skill to your Agility as it is used to calculate your Defence, but your Agility Limit is set to 10. <br>
++ You can add your Martial Skill Grade to your Defence?
++ You can add your Strength to your Defence? <br>
 #### <br>
 
 ### Level 1: Barbarian Subclass
 You choose a Barbarian Subclass and gain its Level 1 Features.
 
 ### Level 2: Reckless Attacks
-When you take the Attack Action on your turn, you can choose to make the action Reckless. <br>
-Any Martial Melee Attack you make against a creature as part of a Reckless Attack Action gains Advantage. <br>
-The target of an Attack made this way treats the Attack as Interruptible? Each creature you Attack this way may make an attack against you afterwards, without using any actions?
+When you would take the Attack Action on your turn, you can choose to take the unique Reckless Attack Action instead. <br>
+When you take the Reckless Attack Action, you make Martial Melee Attack(s) against a single creature. Each attack is made with Advantage.<br>
+The creature treats this Action as interruptible? <br>
+OR... Then, that creature attacks you without using any actions?
 
 ### Level 2: Danger Sense
 Provided you aren't Blinded, Deafened, or Incapacitated, you gain Advantage on any Martial Save you make?
@@ -68,8 +72,8 @@ You gain the Level 5 Feature of your chosen Barbarian Subclass.<br>
 In addition, your Rage now lets you roll 3 extra damage dice to choose from.
 
 ### Level 6: Brutal Ferocity
-When you deal the highest amount of damage possible with a Martial Melee Attack, you roll 1 extra damage die before picking a die to add to the result. <br>
-If the new result is the highest amount possible with the new amount of dice, you repeat the process. <br>
+When you deal the highest amount of damage possible with a Martial Melee Attack, you roll 1 extra damage die and add it to the pool. Then, you add one more die from the pool to the result. <br>
+If the new result is the highest amount possible with the new dice pool, you repeat the process. <br>
 *NOTE: This effect works with crits dealing maxed damage and rage letting you pick the best of. Though, how do crits work with this exactly?*
 
 ### Level 7: Subclass Feature

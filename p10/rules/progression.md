@@ -19,41 +19,41 @@ Your experience as an adventurer is represented by your Level; A rough scale mea
 You can expect your party to have to fight at least 1 creature with a CR equal to your level by the time an adventure is finished. <br>
 
 <br><br>
-0-1 | 2-3 | 4-5 | 6-7 | 8-9 | 10+ ?
-:---: | :---: | :---: | :---: | :---: | :---:
-Personal | Local | National | International | Global | Universal
-Your family! | Your village! | Your country! | Your continent! | Your world! | Everything!
-The whole building! | The whole city! | The whole Kingdom! | The whole realm! | Civilization as you know it! | Existence as you know it!
+1 - 2 | 3 - 4 | 5 - 6 | 7 - 8 | 9 - 10 
+:---: | :---: | :---: | :---: | :---:
+Personal | Local | National | Global | Universal 
+Your family! | Your village! | Your country! | Your world! | Everything!
+The whole building! | The whole city! | The whole Kingdom! | Civilization as you know it! | Existence as you know it!
 
 ## Challenge Rating
 Challenge Rating (CR) is a scale used to determine how threatening a monster is to an adventuring party. <br>
 If a creature's CR = X >= 1, that means the following:
-+ HP = 0-10 + 3 * X * S
-+ Defence = 10-20 + X
-+ DPR = (1-3 + 2 * X)dW
-+ Hit = 5-10 + X
++ HP = 2 * X * Size + Margin (0 - 5)
++ DPR = X * dSize + 3 * dSize
++ Defence = 10 + X + Margin (0 - 5)
++ Hit = X + Margin (0 - 5)
 #### <br>
 
 As a general rule, a CR X monster is the greatest single threat that a trio of level X adventurers could expect to take on, or a worthy opponent for a single level 2X adventurer to take on by themselves. <br>
-If you want a greater challenge for your party, and/or have a larger party that needs greater threats to be challenged, consider having multiple sets of enemies (for example, a party of 7 can fight 3 CR X dragons, or 1 dragon, 5 CR X/2 worshippers, and an army of CR kobolds as cannon fodder) and force the players to spread out their efforts.
+If you want a greater challenge for your party, and/or have a larger party that needs greater threats to be challenged, consider having multiple sets of enemies (3 CR X = 6 CR X/2 = X CR 1) and force the players to spread out their efforts.
 
 ### Special CR values
-**0:** The ultimate cannon fodder. Its maximum output is on par with 1 basic action and it will die to a single hit. <br>
-+ HP = 1-10
+**0:** The ultimate cannon fodder. Its maximum output is on par with 1 basic action from an adventurer, and it could die from a single hit. <br>
++ HP = (0 - 5)
++ DPR = (1 - 2) * dSize
 + Defence = 10
-+ DPR = (1-2)dW
 + Hit = 0
 #### <br>
 **1/2:** The common threat. As powerful as a single baseline adventurer, in both health and damage. <br>
-+ HP = 0-10 + X * S
-+ Defence = 10-15
-+ DPR = (2-4)dW
-+ Hit = 5-10
++ HP = Size + (0 - 5)
++ DPR = 3 * dSize
++ Defence = (10 - 15)
++ Hit = (0 - 5)
 #### <br>
 
 # OATHS
 Everyone around the table should be on board with the chosen Oath, beacuse its purpose is to set the tone for a campaign. <br>
-The tenets usually follow a general pattern of "Did you gain info?", "Did you break something?", "Did you help someone?", followed by two universal tenets of "being true to your character(s)".
+The tenets usually follow a general pattern of "Did you gain info?", "Did you beat something?", "Did you help someone?", followed by two universal tenets of "being true to your character(s)".
 
 ## Oath of Adventure
 An Oath befit those who adventure purely for the sake of enjoying every moment of the journey itself.
@@ -75,15 +75,15 @@ An Oath befit those whose adventure is not a choice, but an irrefutable duty, de
 
 ## Oath of Exploration
 An Oath befit those who adventure to find and reveal places and things that are as of yet undiscovered.
-+ Did you learn something new about your?
-+ Did you aquire an item of significance.
++ Did you learn something new about your surroundings?
++ Did you aquire an item of significance?
 + Did you share a story from your adventures with someone who weren't there?
 + Did someone fulfill all their personal tenets?
 + Did EVERYONE fulfill all their personal tenets?
 #### <br>
 
 ## Oath of Glory
-An Oath befit those who adventure purely for the right to brag about their deeds.
+An Oath befit those who adventure for the simple rights of bragging about their deeds.
 + Did you ???
 + Did you ???
 + Did you ???

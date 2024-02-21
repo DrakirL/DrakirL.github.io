@@ -5,14 +5,14 @@
 ???
 
 ## HP & Damage
-A creature's hardiness is determined by its Strength Attribute and its Hit Die (Which is determined by Size for most monsters, but by Class for players) and expressed in the form of Hit Points, or HP for short. <br>
-As long as a creature has at least 1 remaining HP, it is healthy enough to stand up and act as normal. A player's Maximum HP is equal to the size of their Hit Die times their Level.
+A creature's hardiness is  expressed in the form of Hit Points, or HP for short. A player's Maximum HP is equal to their Strength Attribute plus the size of their Hit Die (determined by their class) times their Level. <br>
+As long as a creature has at least 1 remaining HP, it is healthy enough to stand up and act as normal. <br>
 
 ### Lethal Damage & Death's Door
-If a creature takes damage that reduces its HP to 0, that damage is considered Lethal. When a creature takes Lethal damage, the attacker decides whether to kill that creature or just "take it out", potentially leaving the target unconcious for an indeterminate amount of time. Either way, the fate of the creature is no longer up to it, but rather its attacker and other surrounding circumstances. <br>
-Some creatures should not be that easy to defeat however, the main example being *PLAYER CHARACTERS*. When a such a creature takes Lethal damage, it is instead left on "Death's Door".
+If a creature takes damage that reduces its HP to 0 or below, that damage is considered Lethal. When a creature takes Lethal damage, the attacker decides whether to kill that creature or just "take it out", potentially leaving the target unconcious for an indeterminate amount of time. Either way, the fate of the creature is no longer up to it, but rather its attacker and other surrounding circumstances. <br>
+Some creatures should not be that easy to fully defeat however, the main example being *PLAYER CHARACTERS*. When a such a creature takes Lethal damage, it is instead left on "Death's Door".
 <br><br>
-A creature is considered to be on Death's Door as long as it has 0 HP without being dead or otherwise taken out. <br>
+A creature is considered to be on Death's Door as long as it has 0 or fewer HP without being dead or otherwise taken out. <br>
 A creature on Death's Door can't maintain Concentration, ???, and has only 1 Action to take per Round. <br>
 When a creature on Death's Door takes any amount of damage, including the initial hit that reduced its HP to 0, it gains 1 Exhaustion. <br>
 A creature can have up to 5 points of Exhaustion, but if a creature would gain any more, it is defeated, whether that means killed or "taken out". <br>
@@ -75,15 +75,15 @@ Your Hiding can end in a *LOT* of different ways, such as you making a noise lou
 
 **Move Action** <br>
 Pick one of your speeds. Move to an unoccupied space within the distance of your chosen speed. <br>
-Your movement is dynamically affected by difficult terrain etc. (PHRASING? DETAILS?) <br>
-You can also make Checks as part of this action to cover a greater distance, make a tough jump, and/or push through a blockade. Making a Check this way is Interruptible. (PHRASING? DETAILS?) <br>
-*Sprinting further: Make an Athletics Test? Strength Test? You add a number of feet to your movement equal to your result.* <br>
-*Making tough jumps: Make an Athletics Test. A horizontal jump covers a number of feet equal to your result. A vertical jump covers a number of feet equal to your result divided by 4. If you don't get a good running start, you gain Disadvantage.* <br>
-*Pushing through blockades: Make a Brawn Test against the blockade's Hardness (if it is an inanimate object) or Passive Martial Skill (if it is a creature). If it's at least one Size smaller than you, you gain Advantage. If it's at least one Size larger than you, you gain Disadvantage.*
+You may choose to double the speed as you use it, but doing so limits you to move in a straight line and makes the Action Interruptible.<br>
+Your movement you spend is dynamically affected by difficult terrain etc. (PHRASING? DETAILS?) <br>
+You can also make one Check as part of this action to make a tough jump or push through a blockade. <br>
+*Making tough jumps: Make an Athletics Test. A horizontal jump covers a number of feet equal to your result. A vertical jump covers a number of feet equal to your result divided by 4. If you make the jump from doubled movement, you gain Advantaqge. If you make the jump from standing, you gain Disadvantage.* <br>
+*Pushing through blockades: Make a Brawn Test against the blockade's Hardness (if it is an inanimate object) or Martial Might (if it is a creature). If it's at least one Size smaller than you, you gain Advantage. If it's at least one Size larger than you, you gain Disadvantage.*
 <br><br>
 
 **Spell Action** <br>
-Begin to cast a Spell you have some access to. Casting a Spell requires you putting your whole body into it. It is loud, clear, and obvious when a Spell is cast (and most of the time also what spell it is). <br>
+Begin to cast a Spell you have access to through some means. Casting a Spell requires you putting your whole body into it. It is loud, clear, and obvious when a Spell is cast (and most of the time also what spell it is). <br>
 If the Spell requires more than 1 Action to cast, the casting is Interruptible. <br>
 If the casting time is even longer (Minute = ~10 rounds, Hour = ~100 rounds), it requires all of your actions *every round* that entire time.
 <br><br>
@@ -92,8 +92,10 @@ If the casting time is even longer (Minute = ~10 rounds, Hour = ~100 rounds), it
 
 **Strike Reaction**
 When a creature within your Reach takes an Interruptible Action, you may make a Sudden Strike against it. <br>
-A Sudden Strike is a single Melee Martial Attack (Unarmed or Weapon, using whatever the attacker already has equipped). If the attack hits, the triggering Action is interrupted and does not occur, in addition to the other effects of the Attack. <br>
-*Note: This doesn't waste any resources, only the Actions themselves. Spell Slots, components, and equipment/charges are all safe.*
+A Sudden Strike is a single Melee Martial Attack (Improvised or Proper, using whatever the attacker already has equipped). <br>
+If the attack hits, the triggering Action(s) are interrupted at the point when the Strike was declared, preventing any events they would cause from that point forwards. The other effects of the Attack, such as damage, are applied as normal. <br>
+*Note: This doesn't waste any resources, only the Actions themselves. Spell Slots, components, ammunition, uses of abilities, etc. are all safe.* <br>
+*Note: Grappling and Shoving count as attacks, so you can grab or shove someone to prevent them from running.*
 
 ### Reserving/Delaying Actions
 To reserve Actions, you first spend the amount of actions needed on your turn and specify a trigger.
@@ -105,7 +107,7 @@ Then, if the trigger occurs before your next turn, you spend that many actions a
 ### Cover
 Terrain is seldom just an empty floor. So you could be "behind something" or "obscured by something" when viewed from a creature's perspective. <br>
 What counts as cover depends on a lot of circumstances regarding both a target and an observer. For example: A Small creature may be Fully Covered by an object that a Medium creature is only Partially Covered by. <br>
-A creature may be obscured by darkness, fog, or an *Invisibility* Spell and thus completely obscured to a commoner, but just plainly out in the open to a dragon with no need to just *see* its target.
+A creature may be obscured by darkness, fog, or an *Invisibility* Spell and thus completely obscured to a commoner, but just plainly out in the open to a dragon that has no need to just *see* its target.
 <br> <br>
 **Partially Covered**
 A partially covered creature may be still be targeted, but with Disadvantage. If Disadvantage is already imposed for some other reason, it is NOT an allegable target anymore. <br>
@@ -146,22 +148,22 @@ An Unconcious creature is Incapacitated. Extra penalties?
 ### Other
 <br><br>
 **Concentration** <br>
-A creature can maintain Concentration on at most one thing at a time. <br>
-When a Concentrating creature takes damage, it must make a Strength Save (Difficulty = damage taken). <br>
-On a failed Save, its Concentration is broken.
+When a creature begins concentrating, its Stress is set to 25.
+When a Concentrating creature takes damage, it must add the damage taken to its current Stress and roll a d100. If the roll is no higher than its current Stress, its Concentration is broken. <br>
+A creature can maintain Concentration on no more than one thing at a time. <br>
 <br><br>
 **Falling** <br>
 If a creature that isn't suspended by standing on solid ground or the ability to fly, it falls. <br>
-A falling creature will reach the first stable point directly below it by the end of its next turn (AKA current if you fall on your own turn?) <br>
+A falling creature will reach the first stable point directly below it by the time it regains its Actions. <br>
 Upon landing, the creature takes 1 die of damage for every 10 feet it fell. The size of the die is determined by the Size of the creature. <br>
-(Tiny = d4, Small = d6, Medium = d8, Large = d10, Huge = d12, Gargantuan = d20) <br>
+(Miniscule = 1, Tiny = d4, Small = d6, Medium = d8, Large = d10, Huge = d12, Gargantuan = d20) <br>
 <br>
 If a falling creature lands on a cushoning surface, the damage is halved. <br>
 If that surface consists one or more creatures, each of those creatures also take the already halved damage. (Agility Save involved for landing and/or being landed on? PHRASING?)
 <br><br>
 **Downed/Knocked Down** <br>
 Smaller "Hitbox". Some Partial Cover can become Full Cover. (PHRASING? DETAILS?) <br>
-Whilst a creature is downed, its Speed is halved, and it can't make any checks as part of the Move Action. <br>
+Whilst a creature is downed, its Speeds are halved, and it can't choose to extend its movement as part of the Move Action. <br>
 A downed creature can use 1 Action to stand up. Taking this Action is Interruptible. <br>
 A flying creature that is forcefully knocked down will fall until it hits the ground. It takes fall damage as normal.
 <br><br>
@@ -174,11 +176,9 @@ If the grappler is a creature, the tool and/or limb used to maintain the grapple
 ???
 
 ## Weapons
-Weapons are tools meant for combat and therefore improve a Martial Attack you make using one, provided you are wielding it properly. <br>
-If you are wielding a weapon properly and make an Attack with it, you must be Proficient with its category to gain its properties. (Though some aspects, such as Loading, transcend proficiency) <br>
-Melee Weapons must use your Martial Strength Skill to be used properly. <br>
-Ranged Weapons must use your Martial Agility Skill to be used properly. <br>
-All weapons have the property that they deal a specified amount of damage if you choose to deal damage with it. 
+Weapons are tools meant for combat and therefore improve any Martial Attack you make were you are using it properly. The exact requirements for what counts as "wielding a weapon properly" are determined by the weapon. <br>
+If you lack the Proficiency that a given weapon is classified under, you are entirely unable to use the weapon properly. <br>
+If you are using a weapon properly, but are not using your main hand to wield it, you gain Disadvantage on any attack you make with it.
 
 ### Simple Weapons
 *Damage Range: d4-d8. Can be easily improvised from random junk*
@@ -217,14 +217,13 @@ All weapons have the property that they deal a specified amount of damage if you
 #### <br>
 
 ### Weapon Properties
-**Light:** If you are holding Light weapon in each hand and take the Attack Action on your turn, you may make one attack using each weapon instead of just one. <br>
+**Light:** If you are holding Light weapon in each hand and take the Attack Action on your turn, you may make one attack using each weapon instead of just one. You must be Proficient with both weapons to use this property.<br>
 **Heavy:** To make properly use a Heavy weapon to make an Attack, you must be wielding it with both hands.<br>
-**Versatile:** If you are wielding a Versatile weapon with both hands, it uses a different damage die?<br>
-**Flexibile:** You may use either your Strength Martial Skill or Agility Martial Skill (your choice) to make attacks with a Flexible weapon.<br>
+**Versatile?:** If you are wielding a Versatile weapon with both hands, it uses a different damage die?<br>
+**Flexibile?:** You may use either your Strength Martial Skill or Agility Martial Skill (your choice) to make attacks with a Flexible weapon.<br>
 **Reach (X):** Your reach with this weapon extends beyond the normal reach that is determined by your Size.
 **Thrown (X/Y):** This weapon can be Thrown as a Ranged Martial Attack. You may still choose to use your Strength Martial Skill.<br>
-**Misfire:** If you roll a Natural 1 on a weapon Attack with a Misfire weapon, it ceases to function until it is repaired, which may be done by using 1 Action on your turn and succeeding on a Difficulty 10 Crafting Test. <br>
-**Quickfire?:** Ranged Attacks made using a Quickfire weapon are not Distracting.
+**Quickfire?:** Ranged Attacks made using a Quickfire weapon are not Interruptible.
 
 ## Shields
 If you are wielding a shield when you would be hit by an Attack, you can use 1 Action to add the Shield's Defence Bonus to your Defence against that attack, potentially turning the hit into a miss. <br>
@@ -233,14 +232,12 @@ Each type of shield is categorized as either Small or Large. If you don't have P
 *Should you be able to increase anyone's defence if they are within your Reach? Should you be able to redirect it to yourself by default?*
 
 ### Small
-+ Wrist Guard: +1 Defence. Worn.
 + Buckler: +2 Defence. ???
 + Targe: +3? Defence. ???
 + Heater: +4? Defence. Downside?
 #### <br>
 
 ### Large
-+ Arm Guard: +2 Defence. Worn. [Large Downside?]
 + Kite: +3 Defence. ??? [Large Downside?]
 + Pavise: +4 Defence. [Large Downside?]
 + Tower: +5 Defence. Hefty(2 Actions)? [Large Downside?]
@@ -263,9 +260,9 @@ Each type of armor is categorized as either Light or Heavy. If you don't have Pr
 #### <br>
 
 ### Heavy
-+ Chain Mail: 16 Base Defence, Restrictive (Max 5 AGI)?, Hefty (3 STR)?
-+ Splint: 18 Base Defence, Restrictive (Max 5 AGI)?, Hefty (4 STR)?
-+ Plate: 20 Base Defence, Restrictive (Max 5 AGI)?, Hefty (5 STR)?, 
++ Chain Mail: 16 Base Defence, Restrictive, (-1 AGI)
++ Splint: 18 Base Defence, Restrictive, (-2 AGI)
++ Plate: 20 Base Defence, Restrictive, (-3 AGI)
 #### <br>
 
 ## Senses?

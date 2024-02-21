@@ -26,7 +26,8 @@ Conniving experts that can find and exploit any weakness in a foe or their plans
 These are the core features granted for the Rogue Class.
 
 ### Level 1: Expertise
-Put 10 Skill Points into a single Attribute-based Skill of your choice.
+Choose one of your Skills, other than Martial or Magic. You gain a number of additional Skill Points this level equal to your Grade for that Skill. <br>
+Then, set your Grade for that Skill to 5.
 
 ### Level 1: Sneak Attack!
 If you hit a creature with a Martial Attack and you have advantage on the roll, you may add a number of d6 equal to 1 + your Level to the damage dealt. <br>
@@ -74,14 +75,14 @@ You can use this feature once per Rest.
 
 ## Rogue Subclass: Thief
 THEME: You have all the tools needed to make a quick entry without being noticed, or even quicker exit if you happen to get noticed anyway. <br>
-RECOMMENDATION: Put your Mastery into either Finesse or Stealth.
+RECOMMENDATION: Put your Expertise into either Finesse or Stealth.
 
 ### Level 1: Second Story Work? Escape Artist?
 Your Speed increases by 10 feet. <br>
 You have Climb Speed equal to your Speed.
 
 ### Level 1: Swift Fingers/Multitasking?
-You now have 4 actions to use each Round rather than 3. (LIMITER? Provided you aren't encumbered, 4 or 2 Actions?)
+You now have 4 actions to use each Round rather than 3. (LIMITER? Provided you aren't encumbered = 4 or 2 Actions)
 
 ### Level 3: Supreme Sneak?
 When you would make a Finesse Test or Stealth Test on your turn, you may use 1 additional Action to gain Advantage on that Test.

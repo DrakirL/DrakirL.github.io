@@ -6,7 +6,7 @@ Ruthless hunters that could track down any foe to the edge of the earth. <br>
 ## Traits
 **Class Group:** Expert <br>
 **Hit Die:** d10 <br>
-**Skill Points:** 6 per level <br>
+**Skill Points:** 5 per level <br>
 <br>
 **Weapons:** Simple Melee. Simple Ranged. Advanced Ranged. <br>
 **Armor:** Light. <br>

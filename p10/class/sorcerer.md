@@ -6,7 +6,7 @@ Wellsprings of magical potential in its purest form. <br>
 ## Traits
 **Class Group:** Mage <br>
 **Hit Die:** d6 <br>
-**Skill Points:** 5 per level <br>
+**Skill Points:** 4 per level <br>
 <br>
 **Weapons:** Simple Melee. <br>
 **Armor:** None. <br>
@@ -43,7 +43,7 @@ Rank 8: | | | | | | | | 1 | 1 | 2
 Rank 9: | | | | | | | | | 1 | 1
 Rank 10: | | | | | | | | | | 1
 
-### Level 1: Font of Magic/Mana?
+### Level 1: Font of Magic? Source of Mana?
 You have a number of Mana Points equal to your Level. <br>
 You can use 1 Action on your turn to spend any number of Mana Points and regain a Spell Slot with a Rank equal to the number of points spent? <br>
 OR... After you expend a Spell Slot, you can spend a number of Mana Points equal to its Rank to regain it. <br>

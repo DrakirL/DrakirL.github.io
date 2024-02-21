@@ -43,11 +43,12 @@ Rank 9: | | | | | | | | | 1 | 1
 Rank 10: | | | | | | | | | | 1
 
 ### Level 1: Magic Mastery
-Your Magic Skill is always equal to your Level + 1, exceeding your normal limit.
+At each level, if the Grade of your Magic Skill is not yet at its limit, you gain 1 additional Skill Point that you must use to increase your Magic Skill. <br>
+In addition, the Grade of your Magic Skill is always 1 higher than the number of Skill Points you've put into it, potentially exceeding the normal limit.
 
 ### Level 1: Wizard Subclass
 You choose a Wizard Subclass and gain its Level 1 Features. <br>
-School Spells?
+School/Tradition Spells?
 
 ### Level 2: Signature Spell
 Choose one Rank 1 Arcane Spell you know. That spell counts as a Cantrip for you.
@@ -127,7 +128,7 @@ You may at any point call to mind any one spell you don't already know and cast 
 You can use this feature once per Adventure. (PHRASING?)
 
 ## Wizard Subclass: School of Abjuration
-THEME: Sometimes you must fight fire with fire. Most of the time, a fire extinguisher would be better.
+THEME: Sometimes, one must fight fire with fire. Most of the time, one can easily fight fire with a fire extinguisher.
 
 ### Level 1: Abjuration Savant
 At each level, you learn one Arcane Abjuration Spell of a Rank equal to your Level. <br>

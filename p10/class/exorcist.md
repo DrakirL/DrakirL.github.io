@@ -24,7 +24,7 @@ These are the core features granted for the Exorcist Class.
 
 ### Level 1: Sworn Enemy
 Choose a creature type. Add it among your Training. (PHRASING?) <br>
-*Note: This means that you should get Advantage on any Test that relates to your chosen creature type. You should have a lot of experience/knowledge to draw from.*
+*Note: This means that you should get Advantage on Tests that relates to your chosen creature type. You have lots of experience/knowledge to draw from.*
 <br><br>
 If a creature is of the type you chose, it counts as a Sworn Enemy for you. When you hit one of your Sworn Enemies with a Martial Attack, you may add your Rite? Die (which is a d4) to the damage you deal.<br>
 You can only add this bonus once per Action (PHRASING?)

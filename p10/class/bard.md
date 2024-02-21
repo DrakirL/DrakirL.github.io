@@ -68,8 +68,8 @@ In addition, your Flair Die is now a d6.
 
 ### Level 4: Jack of All Trades
 You gain the following benefits:
-+ You gain 3 additional Skill Points to spend. You must spend 1 on your Martial Skill and 1 on your Magic Skill. <br>
-+ You gain Training with a musical instrument or a gaming set of your choice.
++ You gain 1 additional Skill Point this level. <br>
++ You gain Training with a musical instrument or a gaming set of your choice. <br>
 + Your Versatile Spell may now be replaced with a Rank 2 or lower Spell. (PHRASING?)
 #### <br>
 
@@ -79,8 +79,8 @@ In addition, your Flair Die is now a d8.
 
 ### Level 6: Jack of All Trades
 You gain the following benefits:
-+ You gain 3 additional Skill Points to spend. You must spend 1 on your Martial Skill and 1 on your Magic Skill. <br>
-+ You gain Training with a musical instrument or a gaming set of your choice.
++ You gain 2 additional Skill Point this level. <br>
++ You gain Training with a musical instrument or a gaming set of your choice. <br>
 + Your Versatile Spell may now be replaced with a Rank 3 or lower Spell. (PHRASING?)
 #### <br>
 
@@ -90,8 +90,8 @@ In addition, your Flair Die is now a d10.
 
 ### Level 8: Jack of All Trades
 You gain the following benefits:
-+ You gain 3 additional Skill Points to spend. You must spend 1 on your Martial Skill and 1 on your Magic Skill. <br>
-+ You gain Training with a musical instrument or a gaming set of your choice.
++ You gain 1 additional Skill Point this level. <br>
++ You gain Training with a musical instrument or a gaming set of your choice. <br>
 + Your Versatile Spell may now be replaced with a Rank 4 or lower Spell. (PHRASING?)
 #### <br>
 
@@ -101,8 +101,8 @@ In addition, your Flair Die is now a d12.
 
 ### Level 10: Jack of All Trades
 You gain the following benefits:
-+ You gain 3 additional Skill Points to spend. You must spend 1 on your Martial Skill and 1 on your Magic Skill. <br>
-+ You gain Training with a musical instrument or a gaming set of your choice.
++ You gain 1 additional Skill Point this level. <br>
++ You gain Training with a musical instrument or a gaming set of your choice. <br>
 + Your Versatile Spell may now be replaced with a Rank 5 or lower Spell. (PHRASING?)
 #### <br>
 
