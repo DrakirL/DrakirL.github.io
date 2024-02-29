@@ -3,12 +3,14 @@
 ??? <br>
 ??? <br>
 
-## Traits
+## Bonuses
 **Class Group:** Warrior <br>
-**Hit Die:** d10 <br>
-**Skill Points:** 4 per level <br>
-<br>
-**Weapons:** Simple Melee. <br>
+**Hit Points per Level:** 3 <br>
+**Mana Points per Level** 3 <br>
+**Skill Points per Level:** 2? <br>
+
+## Proficiencies
+**Weapons:** Simple Melee. Specific: Darts/Shuriken?<br>
 **Armor:** None. <br>
 **Shields:** None. <br>
 **Focus:** None. <br>
@@ -23,27 +25,26 @@ These are the core features granted for the Monk Class.
 
 ### Level 1: Martial Arts
 You have advanced control and understanding of your physical body, granting you the following benefits:
- + When you deal damage with an Improvised Martial Attack, you may add your Balance Die (which is a d4) to the damage dealt.*
- + When you take the Attack Action on your turn, you can use it to make 2 Improvised Martial Attacks instead.
- + When you take any Action other than the Attack Action on your turn, you may make a single Improvised Martial Attack as part of the same Action?
- + If you are wearing no armor, you can add your Martial Skill Grade to your defence.
+ + You have a Balance Bonus that somehow varies between +1 and +5, averaging +3?
+ + When you make an Improvised Martial Attack, add your Balance Bonus to your roll.
+ + You can use 1 Action to make 2 Improvised Martial Attacks. Both Attacks share the same Repeat Penalty and you only impose 1 Repeat Pentalty on subsequent Martial Attacks. (PHRASING?)
+ + If you are wearing no armor, you can add your Balance Bonus to your Defence?
 #### <br>
 
 ### Level 1: Magic Discipline
-You have advanced control and understanding of your spiritual self, granting you a number of Ki Points equal to your Level. <br>
-You regain any spent Ki Points after you finish a Rest.
+You have advanced control and understanding of your spiritual self, granting you the following benefits:
 <br><br>
-**Brace as a Mountain**: When you take the Brace Action, you can spend 1 ki to roll your Balance Die and add its result to the bonus you gain. <br>
-**Move as a Breeze**: When you take the Move Action, you can spend 1 ki to double the speed. If you do so, your movement is unaffected by difficult terrain during the action. <br>
-**Rapid Attack?**: When you take the Attack Action, you can spend 1 ki to ??? <br>
+**Mountain Stace?**: When you take the Brace Action, you can spend 1 MP to add your Balance Bonus to the bonus you granted by the Action. <br>
+**Galewind Sprint?**: When you take the Move Action, you can spend 1 MP to double the speed. If you do so, your movement is unaffected by difficult terrain during the action. <br>
+**Lightning Strikes?**: When you take the Attack Action, you can spend 1 MP to increase the damage by 1? <br>
 <br>
-In addition, you can add your Magic Skill Grade to your Awareness.
+In addition, you can add your Balance Bonus to your Awareness.
 
 ### Level 1: Monk Subclass
 You choose a Monk Subclass and gain its Level 1 Features.
 
 ### Level 2: Deflection
-When you would be dealt damage by a Martial Attack, you can use 1 Action and spend 1 Ki Point to deflect, reducing the damage you take by an amount equal to your Balance Die + your Level. <br>
+When you would be dealt damage by a Martial Attack, you can use 1 Action to reduce the damage you take by 1/your Balance Bonus? You can also spend MP, up to your Mana Spend Limit, to reduce prevent 1 additional damage per MP spent.<br>
 If you reduce the damage to 0 this way, you may instead redirect the Attack to a different target by making an Improvised Strike as part of the same Action. <br>
 A Melee Attack redirected this way must be aimed at a target, other than the original attacker, within their Reach. <br>
 A Ranged Attack redirected this way must be aimed at a target within your Throwing Range. <br>

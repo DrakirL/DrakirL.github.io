@@ -3,11 +3,13 @@
 ??? <br>
 ??? <br>
 
-## Traits
+## Bonuses
 **Class Group:** Expert <br>
-**Hit Die:** d10 <br>
-**Skill Points:** 6 per level <br>
-<br>
+**Hit Points per Level:** 3 <br>
+**Mana Points per Level** 3? <br>
+**Skill Points per Level:** 3 <br>
+
+## Proficiencies
 **Weapons:** Simple Melee. Simple Ranged. Advanced Melee? <br>
 **Armor:** Light. Heavy? <br>
 **Shields:** Small. Large? <br>

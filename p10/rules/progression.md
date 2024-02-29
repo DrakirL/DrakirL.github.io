@@ -25,30 +25,34 @@ Personal | Local | National | Global | Universal
 Your family! | Your village! | Your country! | Your world! | Everything!
 The whole building! | The whole city! | The whole Kingdom! | Civilization as you know it! | Existence as you know it!
 
-## Challenge Rating
+## Challenge Rating? "Monster Attributes"?
 Challenge Rating (CR) is a scale used to determine how threatening a monster is to an adventuring party. <br>
-If a creature's CR = X >= 1, that means the following:
-+ HP = 2 * X * Size + Margin (0 - 5)
-+ DPR = X * dSize + 3 * dSize
-+ Defence = 10 + X + Margin (0 - 5)
-+ Hit = X + Margin (0 - 5)
+If a creature's Level = X >= 1, that means the following:
++ HP = [2 - 7] + X * Size[1 - 5]
++ Defence = X + [5 - 10]
++ Hit = X + [0 - 5]
++ Burst = ~5 + 2 * X
++ DPR? = ~5 + X?
 #### <br>
 
-As a general rule, a CR X monster is the greatest single threat that a trio of level X adventurers could expect to take on, or a worthy opponent for a single level 2X adventurer to take on by themselves. <br>
+As a general rule, A level X monster will put up a fair fight against a single level X adventurer.<br>
+The greatest single threat that a trio of level X adventurers could expect to take on, is a level X+5 monster. <br>
 If you want a greater challenge for your party, and/or have a larger party that needs greater threats to be challenged, consider having multiple sets of enemies (3 CR X = 6 CR X/2 = X CR 1) and force the players to spread out their efforts.
 
 ### Special CR values
-**0:** The ultimate cannon fodder. Its maximum output is on par with 1 basic action from an adventurer, and it could die from a single hit. <br>
-+ HP = (0 - 5)
-+ DPR = (1 - 2) * dSize
-+ Defence = 10
+**0:** Basic cannon fodder, like a commoner or a goblin. Its maximum output in a round is on par with 1 Action from an adventurer, and it could die from a single hit. <br>
++ HP = 2 + Size[1 - 5]
++ Defence = [5 - 10]?
 + Hit = 0
++ Burst = ~5
++ DPA = 1
 #### <br>
-**1/2:** The common threat. As powerful as a single baseline adventurer, in both health and damage. <br>
-+ HP = Size + (0 - 5)
-+ DPR = 3 * dSize
-+ Defence = (10 - 15)
-+ Hit = (0 - 5)
+**1/2:** The commoners greatest threat, such as a wolf or a LotR orc. As powerful as a Level 0 adventurer. <br>
++ HP = [2 - 7] + Size[1 - 5]
++ Defence = ~10
++ Hit = [0 - 5]
++ Burst = ~7?
++ DPA = ~2
 #### <br>
 
 # OATHS

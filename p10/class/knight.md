@@ -3,11 +3,13 @@ Valiant warriors ready to face any creature with determination. <br>
 Stalwart soldiers prepared to come to blows at a moment's notice. <br>
 Fierce fighters who could take on armies by themselves. <br>
 
-## Traits
+## Bonuses
 **Class Group:** Warrior <br>
-**Hit Die:** d10 <br>
-**Skill Points:** 3 per level <br>
-<br>
+**Hit Points per Level:** 3 <br>
+**Mana Points per Level** 3? <br>
+**Skill Points per Level:** 2 <br>
+
+## Proficiencies
 **Weapons:** Simple Melee. Simple Ranged. Advanced Melee. Advanced Ranged. <br>
 **Armor:** Light. Heavy. <br>
 **Shields:** Small. Large. <br>
@@ -28,27 +30,30 @@ These are the core features granted for the Knight Class.
 You gain one of the following benefits of your choice:
 <br><br>
 **Dual Wielding** <br>
-When you make a Martial Attack using a weapon properly wielded in your off-hand, you gain no Disadvantage on the Test, as though it was your main hand.
+When you would take the Attack Action on your turn whilst properly wielding two different weapons, you can instead take the Action twice, provided you attack use a different weapon for each. <br>
+After doing so, you can't do so again until you've regained your Actions.
 <br><br>
-**Hefty Strikes** <br>
-When you score a hit with a Martial Attack using a weapon wielded using both hands, roll the damage dice twice and choose which total to use.
+**Mighty/Hefty/Powerful/Two-Handed? Strikes** <br>
+When you make a Martial Attack using a weapon you are properly wielding using both hands, you can grant yourself Advantage on that attack. <br>
+After doing so, you can't do so again until you've regained your Actions.
 <br><br>
-**Sword and Board** <br>
-When you use a shield to increase Defence, you may make a single attack using a weapon you are wielding in the other hand as part of the same action. If this attack scores a hit, you add the shield's Defence Bonus to the damage dealt.
+**Sword and Board? Best Offence?** <br>
+When you use a shield you are properly wielding in one hand to increase Defence, you can make an attack using a weapon you are properly wielding in the other hand. <br>
+OR... When you use a shield to increase Defence or to bash a creature, you can regain 1 used Action afterwards. <br>
+After doing so, you can't do so again until you've regained your Actions.
 
-### Level 1: Martial Mastery
-At each level, if the Grade of your Martial Skill is not yet at its limit, you gain 1 additional Skill Point that you must use to increase your Martial Skill. <br>
-In addition, the Grade of your Martial Skill is always 1 higher than the number of Skill Points you've put into it, potentially exceeding the normal limit.
+### Level 1: Second Wind
+You can use 1 Action on your turn to spend MP, up to double your Mana Spending Limit, and regain 1 HP for each MP spent.
 
 ### Level 1: Knight Subclass
 You choose a Knight Subclass and gain its Level 1 Features.
 
-### Level 2: Prowess
-During combat, you have 1 Prowess to use each round, in addition to your regular actions. <br>
-You can use your Prowess like you would use an Action, but it can only be used for equipping/unequipping shields or weapons, or for properly using a shield or weapon you already have equipped. <br>
+### Level 2: Prowess? Momentum?
+???
 
-### Level 2: Bold Fortune
-If you would roll a natural 1 on a Martial Attack, you may reroll it and use the new roll instead.
+### Level 2: Bold Fortune? Steeled Resolve?
+If you would fail a Save, you can use 1 Action to reroll it and use the new result instead. <br>
+You may use Prowess instead of an Action to activate this feature. <br>
 
 ### Level 3: Subclass Feature
 You gain the Level 3 Feature of your chosen Knight Subclass.
@@ -60,21 +65,20 @@ You may use Prowess instead of an Action to activate this feature. <br>
 ### Level 5: Subclass Feature
 You gain the Level 5 Feature of your chosen Knight Subclass.
 
-### Level 6: Greater Prowess
-You now have 2 Prowess to use each round.
+### Level 6: ???
+???
 
 ### Level 7: Subclass Feature
 You gain the Level 7 Feature of your chosen Knight Subclass.
 
-### Level 8: Second Wind? Adrenaline Rush? Momentum? Action Surge?
-You can at any point use this feature to regain your expended Prowess. <br>
-You can use this feature once per Rest.
+### Level 8: ???
+???
 
 ### Level 9: Subclass Feature
 You gain the Level 9 Feature of your chosen Knight Subclass.
 
-### Level 10: Greater Prowess
-In addition, you now have 3 Prowess to use each round.
+### Level 10: ???
+???
 
 ## Knight Subclass: Paragon
 THEME: Combat is a simple sport, and you are a world class professional.
@@ -84,30 +88,30 @@ You gain a second benefit of your choice from your *Fighting Style* feature.
 
 ### Level 1: Simply Superior
 You gain 1 additional Skill Point this level. <br>
-Increase one of your Attributes by 1 (up to 5).
+Increase one of your Attributes by 1, up to 5.
 
 ### Level 3: Simply Superior
 You gain 1 additional Skill Point this level. <br>
-Increase one of your Attributes by 1 (up to 5).
+Increase one of your Attributes by 1, up to 5.
 
 ### Level 5: Simply Superior
 You gain 1 additional Skill Point this level. <br>
-Increase one of your Attributes by 1 (up to 5).
+Increase one of your Attributes by 1, up to 5.
 
 ### Level 7: Simply Superior
 You gain 1 additional Skill Point this level. <br>
-Increase one of your Attributes by 1 (up to 5).
+Increase one of your Attributes by 1, up to 5.
 
 ### Level 9: Simply Superior
 You gain 1 additional Skill Point this level. <br>
-Increase one of your Attributes by 1 (up to 5).
+Increase one of your Attributes by 1, up to 5.
 
 # FUTURE SUBCLASSES
 
 ## Knight Subclass: Banneret
 THEME: Lead armies across scarred battlefields with the song of hope and volition in their hearts.
 
-### Level 1: Diplomat? Embassador? Carry the Flag?
+### Level 1: Diplomat? Ambassador? Carry the Flag?
 Increase your Authority Skill Level by 1. <br>
 *MORE BONUSES RELATED TO BEING INSPIRING/IMPOSING!
 

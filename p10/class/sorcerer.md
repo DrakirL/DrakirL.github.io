@@ -3,11 +3,13 @@
 ??? <br>
 Wellsprings of magical potential in its purest form. <br>
 
-## Traits
+## Bonuses
 **Class Group:** Mage <br>
-**Hit Die:** d6 <br>
-**Skill Points:** 4 per level <br>
-<br>
+**Hit Points per Level:** 2 <br>
+**Mana Points per Level** 4 <br>
+**Skill Points per Level:** 2 <br>
+
+## Proficiencies
 **Weapons:** Simple Melee. <br>
 **Armor:** None. <br>
 **Shields:** None. <br>
@@ -21,43 +23,19 @@ Wellsprings of magical potential in its purest form. <br>
 These are the core features granted for the Sorcerer Class.
 
 ### Level 1: Spellcasting
-You can cast spells!
-#### Casting Method
-Choose a Spell List to be your Sorcery List. <br>
-You can cast Spells you know from your Sorcery List without using a focus.
-#### Learned Spells
-At each Level, you learn 3 Spells of your choice from your Sorcery List. <br>
-No spell learned this way may be of a Rank higher than your Level.
-#### Spell Slots
-The number of Spell Slots you have of each Rank depends on your Level according to the table below. <br>
-LEVEL: | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 
----:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:
-Rank 1: | 3 | 4 | 5 | 5 | 5 | 5 | 5 | 5 | 5 | 5 
-Rank 2: | | 2 | 3 | 4 | 5 | 5 | 5 | 5 | 5 | 5
-Rank 3: | | | 1 | 2 | 3 | 3 | 4 | 4 | 4 | 4
-Rank 4: | | | | 1 | 2 | 2 | 3 | 4 | 4 | 4
-Rank 5: | | | | | 1 | 2 | 2 | 2 | 3 | 3
-Rank 6: | | | | | | 1 | 1 | 2 | 2 | 3
-Rank 7: | | | | | | | 1 | 1 | 2 | 2 
-Rank 8: | | | | | | | | 1 | 1 | 2
-Rank 9: | | | | | | | | | 1 | 1
-Rank 10: | | | | | | | | | | 1
+Choose a Spell List to be your Sorcery List and learn 8? Spells of your choice. <br>
+If you know a Spell from your chosen Sorcery List, you can cast it without using a focus.
 
-### Level 1: Font of Magic? Source of Mana?
-You have a number of Mana Points equal to your Level. <br>
-You can use 1 Action on your turn to spend any number of Mana Points and regain a Spell Slot with a Rank equal to the number of points spent? <br>
-OR... After you expend a Spell Slot, you can spend a number of Mana Points equal to its Rank to regain it. <br>
-OR... Maybe you should only be able to spend remaining Mana Points to regain Spell Slots as you take a Rest? <br>
-<br>
-No Spell Slot regained this way may be of a Rank higher than half your Level (minimum of 1). <br>
-You regain any spent Mana Points after you finish a Rest.
+### Level 1: Font of Mana? Recover Mana?
+Increase your Maximum MP by 5? MORE? OR... After you cast a Spell, refund some of the spent MP?
 
 ### Level 1: Sorcerer Subclass
 You choose a Sorcerer Subclass and gain its Level 1 Features. <br>
 Your subclass comes with a list of Origin Spells. You count Origin Spells as part of your Sorcery List, regardless of their actual Spell Lists. (PHRASING?)
 
-### Level 2: ???
-???
+### Level 2: "Spammable Sorcery"? Second Nature?
+When you cast a Spell, you can reduce its Casting Time by 1 Action. <br>
+After doing so, you can't do so again until you've regained your Actions.
 
 ### Level 2: Metamagic
 ???

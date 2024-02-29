@@ -1,57 +1,64 @@
 # Attributes
 Every creature has four different Attributes; Strength, Agility, Intelligence, and Charisma, expressed as a value between 0 and 10. <br>
-To determine these values for your character, shuffle 16 cards (four 0s, six 1s, four 2s, & two 3s) and divide into them into four piles with four cards in each. Assign the total of each pile to a different Attribute. <br>
-(Alternatively, you may just divinde 20 points as you wish, up to 10 in a stat.) <br>
+To determine these values for your character, shuffle 8 cards (two 0s, three 1s, two 2s, & one 3) and divide into them into four pairs. Assign the total of each pile to a different Attribute. <br>
+(Alternatively, you may just divinde 10 points as you wish, up to 5 in a stat. Or use ancestries?) <br>
 The value you have for an attribute determines the basis for your abilities. When comparing creatures' stats to each other, just remember that this system is meant to put "people" and "monstrous creatures" on the same standardized scale. <br>
-*Note: Your attributes will start off great, much better than any commoner, even at level 0. This is to let you act as a heroic adventurer, even at early levels. They will generally NOT increase. That kind of improvement over time, unleashing your full potential, is what Skill Points and Experience are for.*
+*Note: Your attributes will start off great, much better than any commoner, even at level 0. This is to let you act as a heroic adventurer, even at early levels. They will generally NOT increase. That kind of improvement over time, unleashing the full potential of your Attributes, is what Skill Points and Experience are for.*
 <br>
 0 | 1 | 2 | 3 | 4 | 5 | 6+
 :---: | :---: | :---: | :---: | :---: | :---:
 "Not better than average" | "Quite decent" | "Very* good" | "Truly great" | "Amazing" | "Legendary" | "Monstrous" or "Supernatural"
 
-## Strength/Might?
-Your physical might. Used to lift, damage, and withstand force from physical objects and creatures. <br>
+## Strength
+Your physical power. Used to lift, damage, and withstand force from physical objects and creatures. <br>
 Skills: Athletics, Brawn, Endurance, and Intimidation. <br>
 Save: Resist effects that would mess you up, inside or outside, by simply toughing them out.
-Other benefits: Your Strength Score contributes to your carrying capacity, Hit Point Maximum, one of your Martial Skills, and your Passive Martial Skill.
+Other benefits: Your Strength Value contributes to your carrying capacity, Hit Point Maximum, one of your Martial Skills, and your Martial Might.
 
-## Agility/Grance?
+## Agility
 Your motorical coordination. Used to move your body or interact with objects with grace or subtelty. <br>
 Skills: Acrobatics, Finesse, Handling, and Stealth. <br>
 Save: Reflexively evade from harmful effects that pass by or burst out in your vicinity.
-Other benefits: Your Agility Score contributes to your Defence, one of your Martial Skills, and your Passive Martial Skill.
+Other benefits: Your Agility Value contributes to your Defence, one of your Martial Skills, and your Martial Might.
 
-## Charisma/Will?
+## Will
 Your force of personality. Used to influence, manipulate, and inspire friends and foes alike. <br>
 Skills: Authority, Intuition, Performance, Suggestion. <br>
-Save: Push back against detrimental effects through sheer willpower alone. <br>
-Other benefits: Your Charisma Score contributes to your sanity? Attunement? Maximum Hit Points? Something else?, one of your Magic Skills, and your Passive Magic Skill. 
+Save: Push back against detrimental effects through sheer volition. <br>
+Other benefits: Your Will Value contributes to your sanity? Attunement? Maximum Hit Points? Something else?, one of your Magic Skills, and your Magic Might.
 
-## Intelligence/Intellect?
+## Intelligence
 Your sharpness of mind. Used to recall information or solve problems with reason or wisdom. <br>
 Skills: Crafting, Lore, Investigation, Medicine. <br>
 Save: Snap out of effects that alter how you percieve your surroundings or your sense of self. <br>
-Other benefits: Your Intelligence Score contributes to your Awareness, one of your Magic Skills, and your Passive Magic Skill.
+Other benefits: Your Intelligence Value contributes to your Awareness, one of your Magic Skills, and your Magic Might.
 
-# Adventuring Skills
-Your Martial Skill and Magic Skill are not directly connected to any one of your Attributes, but your capabilities as an adventurer in general. <br>
+# Derived Values
+A character's Maximum HP (at level 0 without bonuses) is equal to 5 + Strength. <br>
+A character's Maximum MP (at level 0 without bonuses) is 5 + Will. <br>
 <br>
-Your *Passive Martial Skill* is equal to your 5 + Strength + Agility + your Martial Skill Grade. <br>
-Your *Passive Magic Skill* is equal to your 5 + Charisma + Intelligence + your Magic Skill Grade.
+A character's Starting Stress is 10 - Intelligence. (Unless Stress is not needed? Might not be if the Repeat Penalty feels OK.) <br>
+A character's Death Threshold is equal to 0 - Will? Starting HP? 5? - Level.
 
-# Other
-A character's base Speed is 20 feet. <br>
-A character's base Reach is equal to their width on a battle map (5 feet). <br>
-A character's base Throwing Range is equal to 4 times their reach, or up to 3 times that with Disadvantage. (20/60 feet). <br>
-A character's Defence is calculated as follows: 10 + its Agility + its Protection. (Protection is boosted by specific features or by wearing armor) <br>
-A character's Awareness is calculated as follows: 10 + its Intelligence + its Perception. (Perception is boosted by specific features or using special equipment/senses?)
+## Martial & Magic
+A character's *Martial Might* is equal to 10 + Strength + Agility + Level. <br>
+A character's *Magic Might* is equal to 10 + Will + Intelligence + Level.
+
+## Defence & Awareness
+A character's Defence is equal to 10 + Agility + Level + Protection. (Protection is gained from specific features or by wearing armor. If you have multiple available values, you must pick one.) <br>
+A character's Awareness is equal to 10 + Intelligence + Level + Perception. (Perception is gained from specific features or by having acute senses? If you have multiple available values, you must pick one.)
+
+## Based on Size
+A character's base Speed is 4 Paces. <br>
+A character's base Reach is equal to their width on a battle map (1 Pace). <br>
+A character's base Throwing Range is equal to 4 times their reach, or up to 3 times that with Disadvantage (4/12 steps). <br>
 
 # Skill Descriptions
 The 16 main skills are meant to be used as flexible reference points, with potential results defined for succeeding and/or failing.
 
 ## Acrobatics
 Perform gymnastic feats and impressive aerial maneuvers.
-+ A rogue tries to gracefully move through a giants space and past it. He makes a Test of Acrobatics (Difficulty = the giant's Passive Martial Skill). On a fail, the giant blocks the path. On a success, he slips unhindered between its legs. <br>
++ A rogue tries to gracefully move through a giants space and past it. He makes a Test of Acrobatics (Difficulty = the giant's Martial Might). On a fail, the giant blocks the path and stops him. On a success, the giant slips up and he slips by unhindered. <br>
 + A knight runs across an unexpectedly slippery floor. He makes a Test of Acrobatics (Diffuculty = 5) with Disadvantage due to him being surprised. On a fail, he slips and stops moving. On a success, he may continue moving as normal. <br>
 + A monk uses a hanging vine to swing across a pit of spikes. She makes a Test of Acrobatics (Difficulty = 20). On a fail, she falls to her doom. On a success, she makes it to the other side. <br>
 #### <br>
@@ -141,7 +148,7 @@ Herbs, poisons, first aid, anatomy... ???
 #### <br>
 
 ## Performance
-Be the star in captivating shows and believably act out different roles.
+Be the star in captivating shows and believably act out defined roles.
 + A <br>
 + A <br>
 + A <br>
@@ -155,7 +162,7 @@ Evade detection... ???
 #### <br>
 
 ## Suggestion
-Influence the ways people think and how they might act on their thoughts.
+Influence the ways people think and how they decide to act on their thoughts.
 + A <br>
 + A <br>
 + A <br>

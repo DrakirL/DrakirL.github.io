@@ -3,11 +3,13 @@ Versatile freelancers and adept wielders of both swords and sorcery. <br>
 Inspiring leaders embodying the spirit of adventure. <br>
 Paragons of talent exploring all kinds of fields in all kinds of ways. <br>
 
-## Traits
+## Bonuses
 **Class Group:** Expert <br>
-**Hit Die:** d8 <br>
-**Skill Points:** 6 per level <br>
-<br>
+**Hit Points per Level:** 2 <br>
+**Mana Points per Level** 2 <br>
+**Skill Points per Level:** 4 <br>
+
+## Proficiencies
 **Weapons:** Simple Melee. Simple Ranged. <br>
 **Armor:** Light. <br>
 **Shields:** None. <br>
@@ -23,30 +25,13 @@ Paragons of talent exploring all kinds of fields in all kinds of ways. <br>
 ## Bard Class Features
 These are the core features granted for the Bard Class.
 
-### Level 1: Spellcasting
-You can cast spells! <br>
-If you have Training with a musical instrument, you can use it as a focus to cast a Spell you know.
-#### Learned Spells
-At each Level, you learn 3 Spells of your choice. <br>
-No spell learned this way may be of a Rank higher than your Level.
-#### Spell Slots
-The number of Spell Slots you have of each Rank depends on your Level according to the table below. <br>
-LEVEL: | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 
----:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:
-Rank 1: | 3 | 4 | 5 | 5 | 5 | 5 | 5 | 5 | 5 | 5 
-Rank 2: | | 2 | 3 | 4 | 5 | 5 | 5 | 5 | 5 | 5
-Rank 3: | | | 1 | 2 | 3 | 3 | 4 | 4 | 4 | 4
-Rank 4: | | | | 1 | 2 | 2 | 3 | 4 | 4 | 4
-Rank 5: | | | | | 1 | 2 | 2 | 2 | 3 | 3
-Rank 6: | | | | | | 1 | 1 | 2 | 2 | 3
-Rank 7: | | | | | | | 1 | 1 | 2 | 2 
-Rank 8: | | | | | | | | 1 | 1 | 2
-Rank 9: | | | | | | | | | 1 | 1
-Rank 10: | | | | | | | | | | 1
+### Level 1: "Spellcasting Core"? Talented Troubadour? Magical Secrets?
+You learn any 6 Spells of your choice. <br>
+If you have Training with a musical instrument, you can use such an instrument as a focus to cast any Spell you know. <br>
 
 ### Level 1: Inspiring Flair
-When another creature within 60 feet of you fails a Check, you may use 1 Action to give that creature a Flair Die (which is a d4). <br>
-Provided that the creature can either see or hear you, you roll the Flair Die and add the result to their total roll, potentially turning the failure into a success. If the outcome is not changed, you don't expend a use of this feature.
+When another creature within 10 paces of you makes a Test, you can use 1 Action to roll a Flair Die (which is a d4). <br>
+Provided that the creature can either see or hear you, add your Flair Die to their total roll, potentially changing the outcome. <br> If the outcome is not changed, you don't expend a use of this feature.
 <br><br>
 You can use this feature a number of times equal to your Charisma Attribute?
 You regain any expended uses after you finish a Rest.
@@ -55,12 +40,11 @@ You regain any expended uses after you finish a Rest.
 You choose a Bard Subclass and gain its Level 1 Features.
 
 ### Level 2: Versatile Virtuoso
-You learn one Rank 1 Spell of your choice, and mark it as your Versatile Spell. <br>
-After you finish a Rest, you may replace your Spell with any other Rank 1 Spell you don't already know.
+After you finish a Rest, you learn any 1 Spell of your choice until you finish another Rest. (PHRASING? Restriction?)
 
 ### Level 2: Song of Rest?
-During a Rest, you may soothe your party through some form of artistry or entertainment. (PHRASING?) <br>
-After you finish the Rest, you and each creature who enjoyed your performance regains HP equal to one roll of your Flair Die.
+During a Rest, you may soothe yourself or your party through entertainment or artistry. (PHRASING?) <br>
+After you finish the Rest, restore a total of 5? Flair Die? HP and/or MP divided as you choose between all Rested creatures? (PHRASING?)
 
 ### Level 3: Subclass Feature
 You gain the Level 3 Feature of your chosen Bard Subclass. <br>
@@ -68,9 +52,9 @@ In addition, your Flair Die is now a d6.
 
 ### Level 4: Jack of All Trades
 You gain the following benefits:
++ Increase your Maximum HP and MP by 1.
 + You gain 1 additional Skill Point this level. <br>
 + You gain Training with a musical instrument or a gaming set of your choice. <br>
-+ Your Versatile Spell may now be replaced with a Rank 2 or lower Spell. (PHRASING?)
 #### <br>
 
 ### Level 5: Subclass Feature
@@ -79,9 +63,9 @@ In addition, your Flair Die is now a d8.
 
 ### Level 6: Jack of All Trades
 You gain the following benefits:
-+ You gain 2 additional Skill Point this level. <br>
++ Increase your Maximum HP and MP by 1.
++ You gain 1 additional Skill Point this level. <br>
 + You gain Training with a musical instrument or a gaming set of your choice. <br>
-+ Your Versatile Spell may now be replaced with a Rank 3 or lower Spell. (PHRASING?)
 #### <br>
 
 ### Level 7: Subclass Feature
@@ -90,9 +74,9 @@ In addition, your Flair Die is now a d10.
 
 ### Level 8: Jack of All Trades
 You gain the following benefits:
++ Increase your Maximum HP and MP by 1.
 + You gain 1 additional Skill Point this level. <br>
 + You gain Training with a musical instrument or a gaming set of your choice. <br>
-+ Your Versatile Spell may now be replaced with a Rank 4 or lower Spell. (PHRASING?)
 #### <br>
 
 ### Level 9: Subclass Feature
@@ -101,9 +85,9 @@ In addition, your Flair Die is now a d12.
 
 ### Level 10: Jack of All Trades
 You gain the following benefits:
++ Increase your Maximum HP and MP by 1.
 + You gain 1 additional Skill Point this level. <br>
 + You gain Training with a musical instrument or a gaming set of your choice. <br>
-+ Your Versatile Spell may now be replaced with a Rank 5 or lower Spell. (PHRASING?)
 #### <br>
 
 ## Bard Subclass: College of Eloquence

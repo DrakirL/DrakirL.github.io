@@ -9,35 +9,42 @@ In cases where a value has not been determined, the GM can pick a value on the s
 Trivial | Easy | Moderate | Challenging | Formidable | Legendary | Impossible (NOT FOR USE)
 
 #### <br>
-Then, the creature being tested rolls a d20 and add any relevant modifiers. If the total for the roll matches or exceeds the Difficulty, the attempt is a success. Otherwise, it's a failure. You can also choose to fail a Test, if so wish.<br>
+Then, the creature being tested rolls a d20 and add any relevant modifiers. If the total for the roll matches or exceeds the Difficulty, the attempt is a success. Otherwise, it's a failure. You can also decline to make Test without if so wish. Doing so counts as an automatic failure
+<br><br>
 Because Tests are made when either a success or failure would be an acceptable outcome, rolling a natural 1 is always a failure and a natural 20 is always a success. <br>
 
-## Attributes/Skill Bonuses
-You will essentially never be asked to just "make a Test" without any additional information. <br>
-Instead, the instructions will specify more information regarding the Check's Attribute or Skill. For example: "Test of Strength", "Test of Acrobatics", "Martial Attack", or "Magic Intelligence Save".
-<br><br>
-If you make a Check with a specified Attribute (for example a "Martial Strength Save"), you add the value you have for that Attribute to your roll. <br>
-If you make a Check with a specified Skill (for example a "Test of Brawn" or "Martial Agility Attack"), you add the values you have for that Skill AND the Attribute the Skill is listed under on to your roll. <br>
+## Grades/Degrees? of Success
+There are situations where a successful result is graded. In there situations, the grade is increased by 1 for each increment of 5 the result exceeds the difficulty (For example: 23 on an attack against 10 defence is a "grade 2" success, because 23 - 10 = 13 and 13/5 = 2, the remainer is ignored).
 
-### Named Types of Tests: Attacks & Saves
+## Relevant Modifiers
+You will essentially never be asked to just "make a Test" without any additional information. <br>
+Instead, the instructions will specify more information regarding the Check's Attribute or Skill. For example: "Test of Might", "Test of Acrobatics", "Magic Attack", or "Intelligence Save".
+<br><br>
+If you make a Check where a specific Attribute is implied, you add the value you have for that Attribute to your roll.
+
+### Skills & Skill Grades?
+There are 16 Skills, 4 assigned under each Attribute. When you make a Test of Skill (for example a "Test of Brawn", "Test of Lore", or "Test of Intuition"), you treat the Attribute the given Skill is assigned under as the specified Attribute and add it to the result as normal.
+<br><br>
+You have a defined Grade for each of your Skills. When you make a Test of Skill you add a modifier equal to two times your Grade for the given Skill. <br>
+At each level, you gain a number of Skill Points determined by your Class. You can use each point to increase your Grade for a given Skill by 1, up to a maxmimum of 5. You cannot use more than 1 Skill Point on the same Skill at any given Level.
+
+### Attacks & Saves
 Tests can be referred to with other names to designate a specific type, but all types of Tests are performed in the exact same way: Roll a d20, add modifiers, compare to difficulty. <br>
 These names do not affect the Test's function, but is only meant to explain the context where certain Checks are often made. There are however certain features/benefits that exclude or excludingly include which Tests they apply to based on these names.
 <br><br>
 **Attacks**<br>
-An Attack is a Test made to land a hit on a creature or break an object.<br>
+An Attack is a Test made to "score a hit" on a target. They are declared as either Martial or Magic attacks, letting your choose one of two Attributes to add.  <br>
 The Difficulty of the Test is generally determined by target's Defence (or "Hardness" if it's inanimate).<br>
-On a success, you land a decent hit on the target, dealing damage and/or triggering any effects that occur on a hit.<br>
-Attacks are exclusively made using either the Martial or Magic Skill, but often don't specify an Attribute (meaning that you get to pick one of the appropriate two).
+On a success, you land a decent hit on the target, dealing damage and/or triggering any effects that occur on a hit. On greater degrees of success, increase the damage/effects. (DETAILS? PHRASING?) <br>
+There is no Skill associated with Attacks. Instead, you add your Level to any Attack you make.
 <br><br>
 **Saves**<br>
-A Save is a Test that you are *forced* to make by some external influence. As such, you don't decide when to attempt them and don't need to use any Actions to do so.<br>
-The Difficulty of the Test is often pre-determined by one of the source's Passive Skills, but may also be improvised by the GM on occation. <br>
+A Save is a Test that you are *forced* to make by some external influence. As such, you don't decide when to attempt them and you don't need to use any Actions to do so.<br>
+The Difficulty of the Test is often pre-determined by the source's Martial Might or Magic Might, but may also be improvised by the GM on occation. <br>
 On a success, the incoming effect may be negated (or at least partially mitigated). On a fail, you suffer the full extend of the effect. <br>
-Saves are exclusively made using either the Martial or Magic Skill, usually with a specified Attribute.
-
-### Increasing Bonuses: Skill Points.
-You have a defined Grade for each of your Skills. The bonus you apply to any Test that uses a Skill is equal to two times your Grade for that given Skill. <br>
-At each level, you gain a number of Skill Points determined by your Class. You can use each point to increase your Grade for a given Skill by 1, up to a maxmimum of 5. You cannot use more than 1 Skill Point on the same Skill at any given Level.
+There is no Skill associated with Saves. Instead, you add your Level to any Save you make.
+<br><br>
+*(Should it be ANY, or should there be a need for proficiency? For now, we allow ANY)*
 
 ## Advantage & Disadvantage
 When a Test is made, the surrounding context and circumstances may be either helpful or hurtful to it. This is represented by giving the roll either Advantage or Disadvantage. <br>
@@ -50,7 +57,7 @@ If a Test is made with both Advantage and Disadvantage, roll the d20 once, as th
 Sometimes you can be more than just skilled, and sometimes merely being skilled is not enough to gain a benefit or avoid a penalty.
 ### Proficiency: Weapons, Shields, & Armor.
 If you lack Proficiency with a type of weapon, you gain Disadvantage on any Test made to properly use a weapon of that type. <br>
-If you lack Proficiency with a type of armor, you are Encumbered whilst wearing armor of tht type. <br>
+If you lack Proficiency with a type of armor, you are Encumbered whilst wearing armor of that type. <br>
 If you lack Proficiency with a type of shield, you can't use a shield of that type to increase Defence. <br>
 If you lack Proficiency with a type of focus, you can't use a focus of that type to cast any Spell. <br>
 ### Training: Occupations, Educations, Vehicles, Games, and Instruments.

@@ -3,12 +3,14 @@ Skilled magicians hurling bolts of lightning and balls of fire across the battle
 Wise sages preparing magical solutions to complex problems. <br>
 Powerful sages that bend reality to their wims. <br>
 
-## Traits
+## Bonuses
 **Class Group:** Mage <br>
-**Hit Die:** d6 <br>
-**Skill Points:** 5 per level <br>
-<br>
-**Weapons:** Simple Melee. <br>
+**Hit Points per Level:** 2 <br>
+**Mana Points per Level** 3 <br>
+**Skill Points per Level:** 3 <br>
+
+## Proficiencies
+**Weapons:** Simple Melee. Simple Ranged. <br>
 **Armor:** None. <br>
 **Shields:** None. <br>
 **Focus:** Arcane. <br>
@@ -23,28 +25,11 @@ Powerful sages that bend reality to their wims. <br>
 These are the core features granted for the Wizard Class.
 
 ### Level 1: Spellcasting
-You can cast spells!
-#### Learned Spells
-At each Level, you learn 4 Arcane Spells of your choice. <br>
-No spell learned this way may be of a Rank higher than your Level.
-#### Spell Slots
-The number of Spell Slots you have of each Rank depends on your Level according to the table below. <br>
-LEVEL: | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 
----:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:
-Rank 1: | 3 | 4 | 5 | 5 | 5 | 5 | 5 | 5 | 5 | 5 
-Rank 2: | | 2 | 3 | 4 | 5 | 5 | 5 | 5 | 5 | 5
-Rank 3: | | | 1 | 2 | 3 | 3 | 4 | 4 | 4 | 4
-Rank 4: | | | | 1 | 2 | 2 | 3 | 4 | 4 | 4
-Rank 5: | | | | | 1 | 2 | 2 | 2 | 3 | 3
-Rank 6: | | | | | | 1 | 1 | 2 | 2 | 3
-Rank 7: | | | | | | | 1 | 1 | 2 | 2 
-Rank 8: | | | | | | | | 1 | 1 | 2
-Rank 9: | | | | | | | | | 1 | 1
-Rank 10: | | | | | | | | | | 1
+You learn 10 Arcane Spells of your choice.
 
-### Level 1: Magic Mastery
-At each level, if the Grade of your Magic Skill is not yet at its limit, you gain 1 additional Skill Point that you must use to increase your Magic Skill. <br>
-In addition, the Grade of your Magic Skill is always 1 higher than the number of Skill Points you've put into it, potentially exceeding the normal limit.
+### Level 1: Magic Mastery? Pushing the Limit? Border of Reality?
+When you cast a Spell, you can increase your Mana Spend Limit for that casting by 1. <br>
+After you do so, you can't do so again until you've finished a Rest.
 
 ### Level 1: Wizard Subclass
 You choose a Wizard Subclass and gain its Level 1 Features. <br>

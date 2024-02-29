@@ -3,11 +3,13 @@
 ??? <br>
 ??? <br>
 
-## Traits
+## Bonuses
 **Class Group:** Warrior <br>
-**Hit Die:** d12 <br>
-**Skill Points:** 3 per level <br>
-<br>
+**Hit Points per Level:** 4 <br>
+**Mana Points per Level** 2 <br>
+**Skill Points per Level:** 2 <br>
+
+## Proficiencies
 **Weapons:** Simple Melee. Advanced Melee. <br>
 **Armor:** None. <br>
 **Shields:** Small. Large. <br>
@@ -26,73 +28,63 @@ These are the core features granted for the Barbarian Class.
 ### Level 1: Rage!
 You can at any point use 1 Action to enter a Rage. <br>
 While your Rage is active, the following rules apply:
- + You can't cast Spells.
+ + You can't cast or contribute to Spells.
  + You can't maintain Concentration.
- + You are incapable of coherent speech?
- + You are Resistant to Bludgeoning, Piercing, and Slashing damage.
- + When you deal damage with a Martial Melee Attack, roll 1 extra damage die before choosing two? of the rolled dice to use. (PHRASING? Two works if you are always Medium, but it should really be "normal + 1")
- + You gain Advantage on any Strength-based Test you make.
- + Being hit by a Sudden Strike doesn't interrupt your Actions.
+ + Any Bludgeoning, Piercing, and Slashing damage you take is halved.
+ + When you deal damage with a Martial Melee Attack, double it.
+ + Being hit by a Sudden Strike doesn't interrupt your Actions? (Unless the severity is high enough?)
+ + You can use "Rage" as Training? (PHRASING? Examples? Too vague?)
  #### <br>
- Your Rage lasts until you regain your actions, unless your immedietly use 1 of the Actions you gained to maintain it. <br>
- You can enter this Rage once per Rest.
+ Your Rage lasts until you regain your actions, unless your immediately use 1 of the Actions you gained to maintain it, which you can do even if you can't use Actions otherwise. <br>
+ After your Rage ends, you can't enter it again until you've finished a Rest.
 
 ### Level 1: Unbound
 Provided you are wearing no armor, you are unbound and can utilize your freedom of movement, granting you the following benefits:
-+ Your Walk Speed is increased by 10 feet.
-+ You can add your Martial Skill Grade to your Defence?
-+ You can add your Strength to your Defence? <br>
++ Your Walk Speed is increased by 2 paces.
++ You gain Protection equal to your Strength. <br>
 #### <br>
 
 ### Level 1: Barbarian Subclass
 You choose a Barbarian Subclass and gain its Level 1 Features.
 
-### Level 2: Reckless Attacks
-When you would take the Attack Action on your turn, you can choose to take the unique Reckless Attack Action instead. <br>
-When you take the Reckless Attack Action, you make Martial Melee Attack(s) against a single creature. Each attack is made with Advantage.<br>
-The creature treats this Action as interruptible? <br>
-OR... Then, that creature attacks you without using any actions?
+### Level 2: Furious Strikes? Ferocious Insticts?
+When you make Martial Melee Attack against a creature, you can spend 1 MP to grant yourself Advantage on that Attack? <br>
+When you make a Strength or Agility Save, you can spend 1 MP to grant yourself Advantage on that Save?
 
 ### Level 2: Danger Sense
-Provided you aren't Blinded, Deafened, or Incapacitated, you gain Advantage on any Martial Save you make?
+Provided you aren't Blinded, Deafened, or Incapacitated, you gain Advantage on any Strength or Agility Save you make?
 
 ### Level 3: Subclass Feature
-You gain the Level 3 Feature of your chosen Barbarian Subclass.<br>
-In addition, your Rage now lets you roll 2 extra damage dice to choose from.
+You gain the Level 3 Feature of your chosen Barbarian Subclass.
 
 ### Level 4: Relentlessness
-If you would take lethal damage while your Rage is active, make a Strength Save with a Difficulty of 10. <br>
-If you succeed, the damage is not considered lethal, and you are reduced to 1 HP instead.
+If you would take lethal damage, make a Strength Save against a Difficulty of 10. <br>
+If you succeed, the damage is not considered lethal, and you are put to 1 HP instead.
 <br><br>
-Each time you succeed on this Save, the Difficulty of this Save increases by 2.
-After you finish the Adventure, the Difficulty is reset to 10.
+Each time you succeed on this Save, the Difficulty of this Save increases by 5.
+After you finish a Rest, the Difficulty is reset to 10.
 
 ### Level 5: Subclass Feature
-You gain the Level 5 Feature of your chosen Barbarian Subclass.<br>
-In addition, your Rage now lets you roll 3 extra damage dice to choose from.
+You gain the Level 5 Feature of your chosen Barbarian Subclass.
 
-### Level 6: Brutal Ferocity
-When you deal the highest amount of damage possible with a Martial Melee Attack, you roll 1 extra damage die and add it to the pool. Then, you add one more die from the pool to the result. <br>
-If the new result is the highest amount possible with the new dice pool, you repeat the process. <br>
-*NOTE: This effect works with crits dealing maxed damage and rage letting you pick the best of. Though, how do crits work with this exactly?*
+### Level 6: Brutal Finisher
+When you deal damage to a creature with a Martial Melee Attack and its remaining HP is no higher than the damage it took, you can use 1 additional Action to immidiately set its HP to 0.
 
 ### Level 7: Subclass Feature
-You gain the Level 7 Feature of your chosen Barbarian Subclass.<br>
-In addition, your Rage now lets you roll 4 extra damage dice to choose from.
+You gain the Level 7 Feature of your chosen Barbarian Subclass.
 
-### Level 8: Unfaltering Might
-If you make a Test (or Save?) using a Strength-based Skill and roll a number on the die that is lower than your Strength, you may treat it as if it had rolled that number instead? <br>
+### Level 8: Unfaltering Strength
+If you make a Test using a Strength-based Skill and roll a number on the die that is lower than your Strength, you may treat it as if it had rolled that number instead? <br>
 OR... <br>
 You now always have Advantage on any Strength Test you make, even without Raging?
 
 ### Level 9: Subclass Feature
-You gain the Level 9 Feature of your chosen Barbarian Subclass. <br>
-In addition, your Rage now lets you roll 5 extra damage dice to choose from.
+You gain the Level 9 Feature of your chosen Barbarian Subclass.
 
 ### Level 10: Primal Champion?
-Increase your Strength Attribute by 5, potentially exceeding the normal limit of 10? <br>
-In addition, you now can enter your Rage an unlimited number of times per rest? <br>
-After your Rage ends, a minute must pass before you can enter it again?
+Increase your Strength Attribute by 2, up to 7. <br>
+In addition, you now can enter your Rage an unlimited number of times per Rest. <br>
+After your Rage ends, a Minute must pass before you can enter it again.
 
 ## Barbarian Subclass: Berserker
 THEME: ???

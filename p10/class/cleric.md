@@ -3,11 +3,13 @@ Heralds of higher powers. <br>
 Crusaders in service to grand plans. <br>
 Preachers of ??? <br>
 
-## Traits
+## Bonuses
 **Class Group:** Mage <br>
-**Hit Die:** d8 <br>
-**Skill Points:** 4 per level <br>
-<br>
+**Hit Points per Level:** 2 <br>
+**Mana Points per Level** 4? <br>
+**Skill Points per Level:** 2 <br>
+
+## Proficiencies
 **Weapons:** Simple Melee. Simple Ranged. <br>
 **Armor:** Light. <br>
 **Shields:** Small. Large. <br>
@@ -25,24 +27,7 @@ Preachers of ??? <br>
 These are the core features granted for the Cleric Class.
 
 ### Level 1: Spellcasting
-You can cast spells!
-#### Learned Spells
-At each Level, you learn 3 Divine Spells of your choice. <br>
-No spell learned this way may be of a Rank higher than your level.
-#### Spell Slots
-The number of Spell Slots you have of each Rank depends on your Level according to the table below. <br>
-LEVEL: | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 
----:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:
-Rank 1: | 3 | 4 | 5 | 5 | 5 | 5 | 5 | 5 | 5 | 5 
-Rank 2: | | 2 | 3 | 4 | 5 | 5 | 5 | 5 | 5 | 5
-Rank 3: | | | 1 | 2 | 3 | 3 | 4 | 4 | 4 | 4
-Rank 4: | | | | 1 | 2 | 2 | 3 | 4 | 4 | 4
-Rank 5: | | | | | 1 | 2 | 2 | 2 | 3 | 3
-Rank 6: | | | | | | 1 | 1 | 2 | 2 | 3
-Rank 7: | | | | | | | 1 | 1 | 2 | 2 
-Rank 8: | | | | | | | | 1 | 1 | 2
-Rank 9: | | | | | | | | | 1 | 1
-Rank 10: | | | | | | | | | | 1
+You learn 9? Divine Spells of your choice.
 
 ### Level 1: Divine Spark
 You can use any Channel Divinity Ability you have once per Rest. *PHRASING?
@@ -62,10 +47,12 @@ Your subclass comes with a list of Domain Spells. You learn these Spells at the 
 Choose one of the following benefits:
 <br><br>
 **Crusader** <br>
-You gain Proficiency with Advanced Melee Weapons, Advanced Ranged Weapons, Heavy Armor, and Large Shields.
+You gain Proficiency with Advanced Melee Weapons, Advanced Ranged Weapons, Heavy Armor, and Large Shields. <br>
+Starting this Level, you gain 1 additional Hit Point per Level?
 <br><br>
 **Herald** <br>
-You can now use your *Divine Spark* up to 2 times per Rest. <br>
+You can now use your *Divine Spark* up to 2 times per Rest? <br>
+Starting this Level, you learn 1 additional Spell every Level?<br>
 
 ### Level 2: Divine Wrath
 When you deal damage to one or more creatures with an attack or Spell, you can deal an additional 1d8 damage to one of those creatures. <br>

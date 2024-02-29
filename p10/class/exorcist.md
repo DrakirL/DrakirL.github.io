@@ -3,11 +3,13 @@
 ??? <br>
 ??? <br>
 
-## Traits
+## Bonuses
 **Class Group:** Warrior <br>
-**Hit Die:** d12 <br>
-**Skill Points:** 4 per level <br>
-<br>
+**Hit Points per Level:** 4 <br>
+**Mana Points per Level** 2 <br>
+**Skill Points per Level:** 2 <br>
+
+## Proficiencies
 **Weapons:** Simple Melee. Simple Ranged. Advanced Melee. Advanced Ranged. <br>
 **Armor:** Light. Heavy. <br>
 **Shields:** None. <br>
@@ -26,11 +28,10 @@ These are the core features granted for the Exorcist Class.
 Choose a creature type. Add it among your Training. (PHRASING?) <br>
 *Note: This means that you should get Advantage on Tests that relates to your chosen creature type. You have lots of experience/knowledge to draw from.*
 <br><br>
-If a creature is of the type you chose, it counts as a Sworn Enemy for you. When you hit one of your Sworn Enemies with a Martial Attack, you may add your Rite? Die (which is a d4) to the damage you deal.<br>
-You can only add this bonus once per Action (PHRASING?)
+If a creature is of the type you chose, it counts as a Sworn Enemy for you. When you hit one of your Sworn Enemies with a Martial Attack, you add 2 to the Attack's Degree. (PHRASING?)
 
 ### Level 1: Baleful Brand
-When you hit a creature with a Martial Attack, you may bind its essence to yours, leaving it Branded before acting on the effects of the attack. (PHRASING?) <br>
+When you hit a creature with a Martial Attack, you can choose to Brand it before applying any of the attack's effects. (PHRASING?) <br>
 While creature is Branded by you, you can treat that creature as if it were your Sworn Enemy regardless of its creature type. <br>
 You also know the direction towards the Branded creature’s location at all times, provided it is on the same plane of existence as you.
 <br><br>
@@ -40,14 +41,12 @@ You can use this feature once per Rest.
 ### Level 1: Exorcist Subclass
 You choose a Exorcist Subclass and gain its Level 1 Features.
 
-### Level 2: Blood Rite?
-You can use 1 Action on your turn to enhance a weapon you are holding by choosing a damage type (Sonic, Acid, Cold, Fire, Lightning, Infernal, Radiant, or Necrotic) and taking damage of that type equal to your Rite Die. This damage cannot be prevented or reduced in any way.
-<br><br>
-The enhancement lasts for up to a minute, until you let go of the weapon, or use this feature again. <br>
-When you hit a creature with the enhanced weapon, it takes extra damage of the chosen type equal to your Rite Die.
+### Level 2: Blood Rite? Weapon Bond?
+You can use 1 Action on your turn and spend 1 MP to enhance a weapon you are holding. You can use a weapon you have enhanced this way as a focus to cast any spell you know. The enhancement lasts for up to a minute, until you let go of the weapon, or use this feature again. <br>
+When you enhance the weapon, choose one of the following damage types: Sonic, Acid, Cold, Fire, Lightning, Infernal, Radiant, or Necrotic. When you deal damage with the enhaced weapon, you may change the type of the damage dealt to the type you chose.
 
 ### Level 2: Sixth Sense?
-You can use 1 Action on your turn to detect the exact location of any of your Sworn Enemies within 100 feet of you. <br>
+You can use 1 Action on your turn to detect the exact location of any of your Sworn Enemies within 100? paces of you. <br>
 Also detects its "influence", such as spells or other terrain effects. (PHRASING? DETAILS?)
 
 ### Level 3: Subclass Feature
@@ -55,7 +54,7 @@ You gain the Level 3 Feature of your chosen Exorcist Subclass. <br>
 In addition, your Rite Die is now a d6.
 
 ### Level 4: Brand of Axiom/Unveiling? Nowhere to Hide?
-While a creature is Branded by you, it gains no benefit from being concealed by an illusory effect (including disguises and invisibility. PHRASING?), it can’t make any Checks as part of the Hide Action, and if it attempts to alter its form in any way except for returning to its true form, it must make a Charisma Save against your Passive Magic Skill. <br>
+While a creature is Branded by you, it gains no benefit from being concealed by an illusory effect (including disguises and invisibility. PHRASING?), it can’t make any Checks as part of the Hide Action, and if it attempts to alter its form in any way except for returning to its true form, it must make a Will Save against your Magic Might. <br>
 On a failed Save, the attempt to change its form fails and the creature is Stunned until the end of your next turn.
 
 ### Level 5: Subclass Feature
@@ -70,7 +69,7 @@ You gain the Level 7 Feature of your chosen Exorcist Subclass. <br>
 In addition, your Rite Die is now a d10.
 
 ### Level 8: Brand of Binding/Tethering? Nowhere to Run?
-While a creature is Branded by you, its Speeds are reduced to 5 feet, it can’t make any Checks as part of the Move Action, and if it attempts to teleport of leave its current plane by any means, it must make a Charisma Save against your Passive Magic Skill. <br>
+While a creature is Branded by you, any Speed it has is reduced to 1 pace, it can’t sprint as part of the Move Action, and if it attempts to teleport of leave its current plane by any means, it must make a Will Save against your Magic Might. <br>
 On a failed Save, the attempt to teleport or leave the plane fails and the creature is Stunned until the end of your next turn.
 
 ### Level 9: Subclass Feature

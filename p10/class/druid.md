@@ -3,12 +3,14 @@ Heralds of the forces of nature themselves. <br>
 ??? <br>
 ??? <br>
 
-## Traits
+## Bonuses
 **Class Group:** Mage <br>
-**Hit Die:** d8 <br>
-**Skill Points:** 5 per level <br>
-<br>
-**Weapons:** Simple Melee. Simple Ranged. <br>
+**Hit Points per Level:** 2 <br>
+**Mana Points per Level** 3 <br>
+**Skill Points per Level:** 3 <br>
+
+## Proficiencies
+**Weapons:** Simple Melee. Specific (Slings) <br>
 **Armor:** None. <br>
 **Shields:** Small. <br>
 **Focus:** Primal. <br>
@@ -24,38 +26,18 @@ Heralds of the forces of nature themselves. <br>
 These are the core features granted for the Druid Class.
 
 ### Level 1: Spellcasting
-You can cast spells!
-#### Casting Method
-Your Intelligence becomes your Spellcasting Ability.
-#### Learned Spells
-At each Level, you learn 3 Primal Spells of your choice. <br>
-No spell learned this way may be of a Rank higher than your level.
-#### Spell Slots
-The number of Spell Slots you have of each Rank depends on your Level according to the table below. <br>
-LEVEL: | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 
----:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:
-Rank 1: | 3 | 4 | 5 | 5 | 5 | 5 | 5 | 5 | 5 | 5 
-Rank 2: | | 2 | 3 | 4 | 5 | 5 | 5 | 5 | 5 | 5
-Rank 3: | | | 1 | 2 | 3 | 3 | 4 | 4 | 4 | 4
-Rank 4: | | | | 1 | 2 | 2 | 3 | 4 | 4 | 4
-Rank 5: | | | | | 1 | 2 | 2 | 2 | 3 | 3
-Rank 6: | | | | | | 1 | 1 | 2 | 2 | 3
-Rank 7: | | | | | | | 1 | 1 | 2 | 2 
-Rank 8: | | | | | | | | 1 | 1 | 2
-Rank 9: | | | | | | | | | 1 | 1
-Rank 10: | | | | | | | | | | 1
+You learn 9? Primal Spells of your choice.
 
 ### Level 1: Wild Shape
 You learn the forms of three different creatures of your choice; One Small or smaller, one Medium, and one Large or larger. <br>
-Each form learned this way must be of a beast with a CR no higher than 1/2. <br>
-You can use 3 Actions on your turn and to transform into any one form you have learned this way.<br>
+Each form learned this way must be of a beast with a Level no higher than 1. <br>
+You can use 3 Actions on your turn and spend 1 MP to regain 3 HP and transform into one of the forms you have learned this way.<br>
 <br>
 *After transforming, your actions are now unused! (*PHRASING?) <br>
 *Inventory & Carrying Capacity? <br>
 replacing your attributes, skills, speeds, senses, training, proficiencies, features, and abilities with those of the new form. <br>
 <br>
-This feature has 10? uses per Rest. (*PHRASING?) <br>
-Whenever you regain your actions whilst transformed this way, you must either expend one use or return to your true form. (*PHRASING?) <br>
+Whenever you regain your actions whilst transformed this way, you must either spend 1 MP and reg one use or return to your true form. (*PHRASING?) <br>
 <br>
 *NOTE: Tranformation doesn't affect your HP at all*
 *For this test, the Mountain Owl, Wolf, and Giant Viper have already been prepared and are recommended.*<br>
