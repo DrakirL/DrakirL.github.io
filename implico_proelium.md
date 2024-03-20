@@ -1,6 +1,6 @@
 # IMPLICO PROELIUM
 <img src="images/IP_2.png?raw=true"/>
-Implico Proelium is a puzzleing turn based score attack game where you, as a gladiator, fight against ever increasing waves of opponents to the impressed cheers of the colosseum's judges and audience.<br>
+Implico Proelium is a puzzling turn based score attack game where you, as a gladiator, fight against ever increasing waves of opponents to the impressed cheers of the colosseum's judges and audience.<br>
 The more efficient you are with your moves, the more weapon options you'll be offered by the judges as a reward, and these weapons will help you survive the onslaught!
 <br>
 <img src="images/IP_1.png?raw=true"/>
