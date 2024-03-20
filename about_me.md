@@ -1,8 +1,7 @@
-# Bachelor Thesis - Action in Reading Comprehension
+## Bachelor Thesis - Action in Reading Comprehension
 [Click here for the Full PDF](/pdf/Action i läsförståelse.pdf)
 
-## Project description
-Reading comprehension is a persons ability to absorb and understand the contents of a text whilst reading it, and is the basis for education in the modern day. Even if one has the right knowledge, giving the right answers becomes difficult without properly understanding the texts and questions. Because education is so important, reading comprehension is as well, and there is merit in putting effort in researching ways to increase student engagement and ability regarding the subject.
+**Project description:** Reading comprehension is a persons ability to absorb and understand the contents of a text whilst reading it, and is the basis for education in the modern day. Even if one has the right knowledge, giving the right answers becomes difficult without properly understanding the texts and questions. Because education is so important, reading comprehension is as well, and there is merit in putting effort in researching ways to increase student engagement and ability regarding the subject.
 <br>
 Engagement and motivation are important driving factors in getting students to learn. Videogames are designed with the purpose of keeping the user engaged in mind. Ergo, videogames could be designed to keep students engaged in subjects such as reading comprehension.
 <br><br>

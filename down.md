@@ -1,4 +1,4 @@
-## DOWN
+# DOWN
 <img src="images/DOWN_1.png?raw=true"/>
 DOWN is a 2D puzzle-platformer where Casey, our protaganist, ascends a weird tower where the direction of gravity can be changed at a whim.<br>
 On their way towards the top of the tower in this charming first game project, the player will be presented with several challenges where the way to open and access a door requires creative use of gravity control.

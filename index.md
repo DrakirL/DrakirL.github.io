@@ -1,30 +1,37 @@
-## Portfolio
+# Portfolio
 
+<!--
 ---
 ### Bachelor Thesis
-[Action in Reading Comprehension](/thesis_page)
+[Action in Reading Comprehension](/thesis)
 <img src="images/HiS.png?raw=true"/>
+-->
 
 ---
-### University Projects
-[Implico Proelium](/implico_proelium_page)
+## Packaged Projects (Ready for Download)
+<p style="font-size:32px">[Implico Proelium](/implico_proelium)
 <img src="images/IP_2.png?raw=true"/>
 <br>
-[DOWN](/down_page)
+
+<p style="font-size:32px">[DOWN](/down)
 <img src="images/DOWN_1.png?raw=true"/>
 <br>
-[Dual Operations](/dual_operations_page)
+
+<!--
+[Dual Operations](/dual_operations)
 <img src="images/DO_1.png?raw=true"/>
+-->
 
 ---
-### Passion Project
-["Project 10"](/p10) <br>
-(WIP)
+## Living Projects (Work in Progress)
+[Tales of Tests](/p10) <br>
 
+<!--
 ---
 ### Algorithm Tests
 A project containing small generic console solutions I've handled in my free time <br>
 [Click here to download](https://drive.google.com/file/d/1AAiH4BnhP6MvRvFwzGZWxhAqMwQgM2ch/view?usp=sharing)
+-->
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
