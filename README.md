@@ -1,51 +1,11 @@
-## Developer Portfolio Landing Page Template
-
-### Introduction
-
-Use this template if you need a quick developer / data science portfolio! Based on a Minimal Jekyll theme for GitHub Pages.
-
-<img src="images/demo.gif?raw=true"/>
-
-### Installation
-
-See full step by step tutorial [on Medium](https://medium.com/@evanca/set-up-your-portfolio-website-in-less-than-10-minutes-with-github-pages-d0efa8ff56fd).
-___
-
-You can use the editor on GitHub to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Roadmap
-
-See the [open issues](https://github.com/evanca/machine-learning_optimizing-app-offers-with-starbucks/issues) for a list of proposed features (and known issues).
-___
-
-### References
-
-[1] Jekyll theme "Minimal" for GitHub Pages: https://github.com/pages-themes/minimal (CC0 1.0 Universal License)
-<br>[2] Dummy photo via: https://pixabay.com/photos/man-male-adult-person-caucasian-1209494/ (Pixabay License)
-<br>[3] Dummy thumbnail image created by rawpixel.com: https://www.freepik.com/free-vector/set-elements-infographic_2807573.htm (Standard Freepik License)
+# About Me - Rikard Larsson
+---
+When I was a young child back in the early 2000s, we would remain at the school in a sort of "daycare" after the lessons were over whilst wainting for our parents to come pick us up. <br>
+At this daycare, we had access to an old computer for everyone to share, complete with the old cubic foot of bumpy white plastic that were the standard monitor of the day. <br>
+There was a game we played on this computer, a Monopoly-esk shovelware game promoting Jurassic Park. The cool thing about it was that you would sometimes be forced to play minigames if you landed on certain spaces, such as an on-rails shooter where you hunted the dinosaurs for points or a punch-out-esk duel where players would become raptors and fight each other for different benefits. <br>
+Needless to say, the pre-teen me was ecstatic, but looking back I was also in awe of the newfound possibilities. I mean, if you can just add fully interactive raptor battles to monopoly and have it work, there not much you CAN'T do ;)
+<br><br>
+Since then, I've grown into a capable programmer. [INSERT CONCRETE EXAMPLES HERE] <br>
+What drove me to do learn all of this is the same thing that's been driving me since I was a kid fighting raptors on a digital monopoly board: I have ideas to explore, and I want to make people really feel these experiences themselves.
+<br><br>
+To summarize, I am nothing but a man who likes making games :)

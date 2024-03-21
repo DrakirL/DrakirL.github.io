@@ -9,12 +9,12 @@
 
 ---
 ## Packaged Projects (Ready for Download)
-[Implico Proelium](/implico_proelium)
+[Implico Proelium](/implico_proelium) <br>
 <img src="images/IP_2.png?raw=true"/>
 <br>
 <br>
 
-[DOWN](/down)
+[DOWN](/down)<br>
 <img src="images/DOWN_1.png?raw=true"/>
 <br>
 
