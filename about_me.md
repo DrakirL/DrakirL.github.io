@@ -7,4 +7,17 @@ Needless to say, the pre-teen me was ecstatic, but looking back I was also in aw
 Since then, I've grown into a capable programmer. [INSERT CONCRETE EXAMPLES HERE] <br>
 What drove me to do learn all of this is the same thing that's been driving me since I was a kid fighting raptors on a digital monopoly board: I have ideas to explore, and I want to make people really feel these experiences themselves.
 <br><br>
-To summarize, I am nothing but a man who likes making games :)
+The way I design games, I like to start with something small and/or specific, like a certain mood or a key mechanic, and extrapolating from that to decide what kind of tools, challenges, and scenarios the game should include to best spotlight that core. <br>
+[INSERT CONCRETE EXAMPLES HERE] <br>
+[Say something about *"The Structuring"*]
+<br><br>
+To summarize; I am just a guy, and I just like making games :)
+
+## My Capabilities
+[INSERT TABLE HERE]
+For now:
++ Great with C#
++ Decent with C++
++ Novice with Java
++ Great with Unity 3D
++ Novice with Unreal

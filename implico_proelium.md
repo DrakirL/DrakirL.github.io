@@ -10,3 +10,6 @@ First, I developed a fully functional demo and prototype by myself over about tw
 Second, I worked together with a single artist to develop the current version over about five weeks. I was the sole programmer and responsible for all desicions regarding game's design.<br>
 
 [Click Here to Download the Game](https://drive.google.com/file/d/1Z9oeFaXli8mzh_VKcStjMZLlESPXGq78/view?usp=drive_link)
+
+## Development Process
+[Coming Soon...]
