@@ -30,11 +30,8 @@ You learn any 6 Spells of your choice. <br>
 If you have Training with a musical instrument, you can use such an instrument as a focus to cast any Spell you know. <br>
 
 ### Level 1: Inspiring Flair
-When another creature within 10 paces of you makes a Test, you can use 1 Action to roll a Flair Die (which is a d4). <br>
-Provided that the creature can either see or hear you, add your Flair Die to their total roll, potentially changing the outcome. <br> If the outcome is not changed, you don't expend a use of this feature.
-<br><br>
-You can use this feature a number of times equal to your Charisma Attribute?
-You regain any expended uses after you finish a Rest.
+When another creature within 10 paces of you makes a Test, you can use 1 Action to roll a Flair Die (which is a d6). <br>
+Provided that the creature can either see or hear you, add your Flair Die to their total roll, potentially changing the outcome. <br>
 
 ### Level 1: Bard Subclass
 You choose a Bard Subclass and gain its Level 1 Features.
@@ -44,47 +41,47 @@ After you finish a Rest, you learn any 1 Spell of your choice until you finish a
 
 ### Level 2: Song of Rest?
 During a Rest, you may soothe yourself or your party through entertainment or artistry. (PHRASING?) <br>
-After you finish the Rest, restore a total of 5? Flair Die? HP and/or MP divided as you choose between all Rested creatures? (PHRASING?)
+After you finish the Rest, each rested creature regains 1 additional MP (or HP? your choice?).
 
 ### Level 3: Subclass Feature
-You gain the Level 3 Feature of your chosen Bard Subclass. <br>
-In addition, your Flair Die is now a d6.
+You gain the Level 3 Feature of your chosen Bard Subclass.
 
 ### Level 4: Jack of All Trades
 You gain the following benefits:
++ Your Flair Die is now a d8.
 + Increase your Maximum HP and MP by 1.
 + You gain 1 additional Skill Point this level. <br>
 + You gain Training with a musical instrument or a gaming set of your choice. <br>
 #### <br>
 
 ### Level 5: Subclass Feature
-You gain the Level 5 Feature of your chosen Bard Subclass. <br>
-In addition, your Flair Die is now a d8.
+You gain the Level 5 Feature of your chosen Bard Subclass.
 
 ### Level 6: Jack of All Trades
 You gain the following benefits:
++ Your Flair Die is now a d10.
 + Increase your Maximum HP and MP by 1.
 + You gain 1 additional Skill Point this level. <br>
 + You gain Training with a musical instrument or a gaming set of your choice. <br>
 #### <br>
 
 ### Level 7: Subclass Feature
-You gain the Level 7 Feature of your chosen Bard Subclass. <br>
-In addition, your Flair Die is now a d10.
+You gain the Level 7 Feature of your chosen Bard Subclass.
 
 ### Level 8: Jack of All Trades
 You gain the following benefits:
++ Your Flair Die is now a d10.
 + Increase your Maximum HP and MP by 1.
 + You gain 1 additional Skill Point this level. <br>
 + You gain Training with a musical instrument or a gaming set of your choice. <br>
 #### <br>
 
 ### Level 9: Subclass Feature
-You gain the Level 9 Feature of your chosen Bard Subclass. <br>
-In addition, your Flair Die is now a d12.
+You gain the Level 9 Feature of your chosen Bard Subclass.
 
 ### Level 10: Jack of All Trades
 You gain the following benefits:
++ Your Flair Die is now a d12.
 + Increase your Maximum HP and MP by 1.
 + You gain 1 additional Skill Point this level. <br>
 + You gain Training with a musical instrument or a gaming set of your choice. <br>

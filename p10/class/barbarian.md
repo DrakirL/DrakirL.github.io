@@ -30,9 +30,9 @@ You can at any point use 1 Action to enter a Rage. <br>
 While your Rage is active, the following rules apply:
  + You can't cast or contribute to Spells.
  + You can't maintain Concentration.
- + Any Bludgeoning, Piercing, and Slashing damage you take is halved.
+ + Any Bludgeoning, Piercing, or Slashing damage you take is halved.
  + When you deal damage with a Martial Melee Attack, double it.
- + Being hit by a Sudden Strike doesn't interrupt your Actions? (Unless the severity is high enough?)
+ + Being hit by a Sudden Strike without an additional degree of success doesn't interrupt your Actions.
  + You can use "Rage" as Training? (PHRASING? Examples? Too vague?)
  #### <br>
  Your Rage lasts until you regain your actions, unless your immediately use 1 of the Actions you gained to maintain it, which you can do even if you can't use Actions otherwise. <br>
@@ -41,24 +41,25 @@ While your Rage is active, the following rules apply:
 ### Level 1: Unbound
 Provided you are wearing no armor, you are unbound and can utilize your freedom of movement, granting you the following benefits:
 + Your Walk Speed is increased by 2 paces.
-+ You gain Protection equal to your Strength. <br>
++ You gain Protection equal to your Strength.
++ **Danger Sense?*
 #### <br>
 
 ### Level 1: Barbarian Subclass
 You choose a Barbarian Subclass and gain its Level 1 Features.
 
-### Level 2: Furious Strikes? Ferocious Insticts?
-When you make Martial Melee Attack against a creature, you can spend 1 MP to grant yourself Advantage on that Attack? <br>
-When you make a Strength or Agility Save, you can spend 1 MP to grant yourself Advantage on that Save?
+### Level 2: Reckless Fury
+When you make Martial Melee Attack against a creature, you can do so with reckless abandon to gain Advantage on that Attack. <br>
+When you do so, the target treats that Attack as Interruptible.
 
-### Level 2: Danger Sense
-Provided you aren't Blinded, Deafened, or Incapacitated, you gain Advantage on any Strength or Agility Save you make?
+### Level 2: Danger Sense?
+Provided you aren't Blinded, Deafened, or Incapacitated, you gain Advantage on any Strength or Agility Save you make against an effect you see coming, such as a spell being cast or a trap being triggered? (PHRASING? DETAILS?)
 
 ### Level 3: Subclass Feature
 You gain the Level 3 Feature of your chosen Barbarian Subclass.
 
-### Level 4: Relentlessness
-If you would take lethal damage, make a Strength Save against a Difficulty of 10. <br>
+### Level 4: Unrelenting
+If you would take lethal damage, you can make a Strength Save against a Difficulty of 10. <br>
 If you succeed, the damage is not considered lethal, and you are put to 1 HP instead.
 <br><br>
 Each time you succeed on this Save, the Difficulty of this Save increases by 5.
@@ -90,10 +91,10 @@ After your Rage ends, a Minute must pass before you can enter it again.
 THEME: ???
 
 ### Level 1: Frenzy
-Whenever you use an Action to enter or extend your Rage, you may make a single Martial Attack.
+You can spend 1 MP instead of using 1 Action to extend your Rage?
 
 ### Level 1: Intimidating Presence?
-*Use 1 Action on your turn to force Intelligence Save against your Passive Martial Skill.
+When you enter your Rage, choose any number of creatures within 10 paces of you. Provided a creature can see or hear you, it must make a Will Save against your Martial Might
 
 ### Level 3: Mindless Rage
 While your Rage is active, you are immune to the Charmed and Frightened conditions. <br>
@@ -103,7 +104,30 @@ If you are already Charmed or Frightened, it is surpressed for the duration. (PH
 Bonus damage against Frightened creatures?
 
 ### Level 7: Ruthless Chase?
-When a creature from within your Reach moves out of your Reach, you may use 1 Action to move to the space they left and make a Sudden Strike against it? (EARLIER?)
+When a creature from within your Reach moves out of your Reach, you can use 1 Action to move to the space they left and make a Sudden Strike against it? (EARLIER?)
+
+### Level 9: ???
+???
+
+## Barbarian Subclass: Ancestral Guardian
+THEME: ???
+
+### Level 1: Commune with Spirits? Ascentral Aid?
+You learn the
+
+### Level 1: Intimidating Presence?
+*Use 1 Action on your turn to force Will Save against your Passive Martial Skill? <br>
+When you enter your Rage
+
+### Level 3: Mindless Rage
+While your Rage is active, you are immune to the Charmed and Frightened conditions. <br>
+If you are already Charmed or Frightened, it is surpressed for the duration. (PHRASING?)
+
+### Level 5: ???
+Bonus damage against Frightened creatures?
+
+### Level 7: Ruthless Chase?
+When a creature from within your Reach moves out of your Reach, you can use 1 Action to move to the space they left and make a Sudden Strike against it? (EARLIER?)
 
 ### Level 9: ???
 ???

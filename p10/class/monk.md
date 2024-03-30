@@ -25,69 +25,62 @@ These are the core features granted for the Monk Class.
 
 ### Level 1: Martial Arts
 You have advanced control and understanding of your physical body, granting you the following benefits:
- + You have a Balance Bonus that somehow varies between +1 and +5, averaging +3?
- + When you make an Improvised Martial Attack, add your Balance Bonus to your roll.
- + You can use 1 Action to make 2 Improvised Martial Attacks. Both Attacks share the same Repeat Penalty and you only impose 1 Repeat Pentalty on subsequent Martial Attacks. (PHRASING?)
- + If you are wearing no armor, you can add your Balance Bonus to your Defence?
+ + You can use 1 Action on your turn to make 2 Improvised Martial Attacks.
+ + You may use your Martial Might in place of your Defence.
+ + You may use your Magic Might in place of your Awareness.
 #### <br>
 
 ### Level 1: Magic Discipline
 You have advanced control and understanding of your spiritual self, granting you the following benefits:
 <br><br>
-**Mountain Stace?**: When you take the Brace Action, you can spend 1 MP to add your Balance Bonus to the bonus you granted by the Action. <br>
-**Galewind Sprint?**: When you take the Move Action, you can spend 1 MP to double the speed. If you do so, your movement is unaffected by difficult terrain during the action. <br>
+**Mountain's Stance**: When you take the Brace Action, you can spend 1 MP to double the bonus granted for you by the Action. <br>
+**Galewind's Sprint**: When you take the Move Action, you can spend 1 MP to double the movement granted for you by the Action. If you do so, your movement is unaffected by difficult terrain during the action. <br>
 **Lightning Strikes?**: When you take the Attack Action, you can spend 1 MP to increase the damage by 1? <br>
-<br>
-In addition, you can add your Balance Bonus to your Awareness.
 
 ### Level 1: Monk Subclass
 You choose a Monk Subclass and gain its Level 1 Features.
 
 ### Level 2: Deflection
-When you would be dealt damage by a Martial Attack, you can use 1 Action to reduce the damage you take by 1/your Balance Bonus? You can also spend MP, up to your Mana Spend Limit, to reduce prevent 1 additional damage per MP spent.<br>
+When you would be dealt damage by a Martial Attack, you can use 1 Action to reduce the damage you take by 1. You can also spend MP, up to your Mana Spend Limit, to reduce prevent 1 additional damage per MP spent.<br>
 If you reduce the damage to 0 this way, you may instead redirect the Attack to a different target by making an Improvised Strike as part of the same Action. <br>
-A Melee Attack redirected this way must be aimed at a target, other than the original attacker, within their Reach. <br>
+A Melee Attack redirected this way must be aimed at a target within the original attacker's Reach. <br>
 A Ranged Attack redirected this way must be aimed at a target within your Throwing Range. <br>
 
 ### Level 2: Parkour?
 Provided you are wearing no armor, you gain the following benefits:
-+ Your Walk Speed is increased by 10 feet.
++ Your Walk Speed is increased by 2 paces.
 + You can walk across liquid surfaces, only starting to sink once your movement ends.
 + You can walk up walls, only starting to fall once your movement ends.
-+ You can use movmement to move 1 foot horizontally for every foot you fall.
-+ If you would take damage from a fall, you can use 1 Action when you land to reduce the damage you take by 5 times your Level.
++ You can use movmement to move 1 pace horizontally for every pace you fall.
++ If you would take damage from a fall, you can use 1 Action when you land to reduce the damage you take by 2 times your Level.
 #### <br>
 
 ### Level 3: Subclass Feature
-You gain the Level 3 Feature of your chosen Monk Subclass.<br>
-In addition, your Balance die is now a d6.
+You gain the Level 3 Feature of your chosen Monk Subclass.
 
 ### Level 4: Purity of Body
 When you would become Sick or Stunned, you can spend 1 ki to prevent the Condition.<br>
 In addition, you are now Resistant to Poison damage.
 
 ### Level 5: Subclass Feature
-You gain the Level 5 Feature of your chosen Monk Subclass.<br>
-In addition, your Balance die is now a d8.
+You gain the Level 5 Feature of your chosen Monk Subclass.
 
 ### Level 6: Stillness of Mind
 When you would become Charmed and Frightened, you can spend 1 ki to prevent the Condition.<br>
 In addition, you are now Resistant to Psychic damage.
 
 ### Level 7: Subclass Feature
-You gain the Level 7 Feature of your chosen Monk Subclass.<br>
-In addition, your Balance die is now a d10.
+You gain the Level 7 Feature of your chosen Monk Subclass.
 
 ### Level 8: Freedom of Spirit
 Ki Feature: Works like the special Action granted by an *Astral Projection* spell: <br>
-Become Invisible, Resistant to everything but Psychic, Radiant, & Infernal, and able to planeshift.
+Become Invisible, take halved damage, and able to planeshift.
 
 ### Level 9: Subclass Feature
-You gain the Level 9 Feature of your chosen Monk Subclass. <br>
-In addition, your Balance die is now a d12.
+You gain the Level 9 Feature of your chosen Monk Subclass.
 
 ### Level 10: Perfect Self
-When you regain your Actions, if you've spent at least 1 Ki since the end of your last turn, you regain 1 Ki.<br>
+??? <br>
 In addition, you no longer need to eat, drink, or sleep.
 
 ## Monk Subclass: Way of the Open Hand
@@ -102,8 +95,6 @@ You can use 3 Actions on your turn to regain HP equal to half your Maximum HP? <
 You can use this feature once per Rest/Adventure?
 
 ### Level 3: Energy Block
-When you hit a creature with an Improvised Strike, it must succeed a Strength Save against your Passive Martial Skill or lose one of its Actions/use 1 Action doing nothing but reel from the blow? (PHRASING?) <br>
-OR... <br>
 When you hit a creature with an Improvised Strike on your turn, you can use 1 additional Action to force that creature to make a Strength Save against your Passive Martial Skill. On a failed Save, the creature is Stunned until the start of your next turn.
 
 ### Level 5: ???
@@ -144,10 +135,54 @@ When yo
 #### "Maneuvers"
 <br><br>
 **Elemental Redirection** <br>
-When you take Acid, Cold, Fire, or Lightning damage, you can use 1 Action and spend 1 Ki to reduce it by 1d12. You may then make a Magic Attack against a target within 20 feet, dealing that much damage on a hit.
+When you take Acid, Cold, Fire, or Lightning damage, you can use 1 Action to reduce the damage you take by 1 for each MP spent. You may then make a Magic Attack against a target within your Throwing Range, dealing that much damage on a hit.
 <br><br>
 **Phoenix Flare** <br>
-When you hit a creature with an Unarmed Strike on your turn, you can use 1 additional Action and spend 3 Ki to force it to make an Agility Save, taking 4d8 Fire damage on a failed Save, or half as much on a success.
+When you hit a creature with an Unarmed Strike on your turn, you can use 1 additional Action to force it to make an Agility Save, taking 2 Fire damage per MP spent on a failed Save, or half as much on a success.
 <br><br>
 **Cloak of Chaos** <br>
-You can spend 5 Ki Points to cast one of the following Spells: Investiture of Ice, Investiture of Flame, Investiture of Stone, Investiture of Wind. 
+You can cast any one of the following Spells: Investiture of Ice, Investiture of Flame, Investiture of Stone, Investiture of Wind. After you do so, you can't do so again until you've finished a Rest?
+
+## Monk Subclass: Way of the Kensei
+THEME: ???
+
+### Level 1: Deft Strokes?
+Gain Training as a Calligrapher or Painter? More?
+
+### Level 1: Kensei Weapons
+Choose one specific kind of Advanced Melee Weapon and one specific kind of Advanced Ranged Weapon to be your chosen Kensei Weapons. You become Proficient with them.<br>
+You can use 1 Action on your turn to make 1 Martial Attack properly using a Kensei Weapon and 1 Improvised Strike in any order.
+
+### Level 3: ???
+???
+
+### Level 5: ???
+???
+
+### Level 7: ???
+???
+
+### Level 9: ???
+You
+
+## Monk Subclass: Way of the Drunken Master
+THEME: ???
+
+### Level 1: The Small Joys of Life?
+Gain Training as a Brewmaster? More?
+
+### Level 1: Swaying Technique?
+If you are targeted by an Attack and you are not downed, you can down yourself to impose Disadvantage on the imcoming attack.<br>
+If you are downed on your turn, you can use 1 Action to stand up without it being interruptible. When you do so, you may also make an Improvised Martial Attack against a target within your reach. (PHRASING?)
+
+### Level 3: ???
+???
+
+### Level 5: ???
+???
+
+### Level 7: ???
+???
+
+### Level 9: Flurry?
+You can use 1 Action on your turn to make up to 4 Improvised Martial Attacks, provided each attack is made against a different target.

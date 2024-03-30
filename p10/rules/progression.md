@@ -19,7 +19,7 @@ Your experience as an adventurer is represented by your Level; A rough scale mea
 You can expect your party to have to fight at least 1 creature with a CR equal to your level by the time an adventure is finished. <br>
 
 <br><br>
-1 - 2 | 3 - 4 | 5 - 6 | 7 - 8 | 9 - 10 
+1 | 2 | 3 | 4 | 5
 :---: | :---: | :---: | :---: | :---:
 Personal | Local | National | Global | Universal 
 Your family! | Your village! | Your country! | Your world! | Everything!

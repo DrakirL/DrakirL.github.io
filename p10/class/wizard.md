@@ -29,14 +29,16 @@ You learn 10 Arcane Spells of your choice.
 
 ### Level 1: Magic Mastery? Pushing the Limit? Border of Reality?
 When you cast a Spell, you can increase your Mana Spend Limit for that casting by 1. <br>
-After you do so, you can't do so again until you've finished a Rest.
+After you do so, you can't do so again until you've regained your Actions? (Too often? Makes spells too small? "Finished a Rest" instead?)
 
 ### Level 1: Wizard Subclass
 You choose a Wizard Subclass and gain its Level 1 Features. <br>
 School/Tradition Spells?
 
-### Level 2: Signature Spell
-Choose one Rank 1 Arcane Spell you know. That spell counts as a Cantrip for you.
+### Level 2: Signature Spell? Deepened Studies? Rigorous Research?
+Choose one Arcane Spell you know and mark it as your Signature Spell. <br>
+After you cast your Signature Spell, you can regain some of the MP you spent to cast it, up to half your level? <br>
+OR... Learn 2 Arcane Spells of your choice?
 
 ### Level 2: Artificery
 You gain Training in an occupation of your choice. <br>
@@ -46,26 +48,26 @@ If you have Training in an occupation, you can use a tool used by that occupatio
 ### Level 3: Subclass Feature
 You gain the Level 3 Feature of your chosen Wizard Subclass.
 
-### Level 4: Signature Spell
-Choose one Rank 2 Arcane Spell you know. That spell counts as a Cantrip for you.
+### Level 4: Signature Spell? Rigorous Research?
+Learn 2 Arcane Spells of your choice?
 
 ### Level 5: Subclass Feature
 You gain the Level 5 Feature of your chosen Wizard Subclass.
 
-### Level 6: Signature Spell
-Choose one Rank 3 Arcane Spell you know. That spell counts as a Cantrip for you.
+### Level 6: Signature Spell? Rigorous Research?
+Learn 2 Arcane Spells of your choice?
 
 ### Level 7: Subclass Feature
 You gain the Level 7 Feature of your chosen Wizard Subclass.
 
-### Level 8: Signature Spell
-Choose one Rank 4 Arcane Spell you know. That spell counts as a Cantrip for you.
+### Level 8: Signature Spell? Rigorous Research?
+Learn 2 Arcane Spells of your choice?
 
 ### Level 9: Subclass Feature
 You gain the Level 9 Feature of your chosen Wizard Subclass.
 
-### Level 10: Signature Spell
-Choose one Rank 5 Arcane Spell you know. That spell counts as a Cantrip for you.
+### Level 10: Signature Spell? Rigorous Research?
+Learn 2 Arcane Spells of your choice?
 
 ## Wizard Subclass: Chaos Theory
 THEME: Magic is chaotic by default, and spells are just ways to tame its power. But it would SURELY be more effective to just let it loose, right?
@@ -118,8 +120,8 @@ THEME: Sometimes, one must fight fire with fire. Most of the time, one can easil
 ### Level 1: Abjuration Savant
 At each level, you learn one Arcane Abjuration Spell of a Rank equal to your Level. <br>
 In addition, the time and cost required to make a Spell Scroll is halved, provided the spell is an Abjuration Spell.
-### Level 1: Arcane Ward
-You have 2 * LV extra HP in a ward. Expend a Spell Slot to cast an Abjuration Spell to restore *Rank HP to it. (PHRASING?)
+### Level 1: Counterspell? Arcane Ward?
+When you see a creature within 10 paces of you attempt to cast a Spell, you can use 1 Action to attempt Interrupting it. To do so, you must succeed on a Magic Test (Difficulty = 10 + the MP spent on the Spell).
 
 ### Level 3: ???
 When a creature you can see within 30? feet of you would take damage, you may use 1 Action to extend your Ward to it, absorbing damage as if it belonged to that creature. (PHRASING?)
@@ -132,5 +134,5 @@ Advantage on any skill check you make as part of casting an Abjuration Spell? <b
 ???
 
 ### Level 9: Spell Resistance?
-You gain Advantage on any Save you make against a creature's Passive Magic Skill? Or just against spells you've seen be cast? <br>
+You gain Advantage on any Save you make against a creature's Magic Might? Or just against spells you've seen be cast? <br>
 In addition, you are Resistant to all damage directly dealt by a Spell.

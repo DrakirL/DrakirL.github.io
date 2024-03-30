@@ -1,9 +1,9 @@
 # Attributes
-Every creature has four different Attributes; Strength, Agility, Intelligence, and Charisma, expressed as a value between 0 and 10. <br>
-To determine these values for your character, shuffle 8 cards (two 0s, three 1s, two 2s, & one 3) and divide into them into four pairs. Assign the total of each pile to a different Attribute. <br>
-(Alternatively, you may just divinde 10 points as you wish, up to 5 in a stat. Or use ancestries?) <br>
+Every creature has four different Attributes; Strength, Agility, Will, and Intelligence, expressed as a value between 0 and 5. <br>
+When you create your character, assign each of the following values to a different Attribute: 4, 3, 2, 1 <br>
+(Alternatively, you may just divinde 10 points as you wish (or randomly?), up to 5 in a stat. Or use 4 "d6-1"?) <br>
 The value you have for an attribute determines the basis for your abilities. When comparing creatures' stats to each other, just remember that this system is meant to put "people" and "monstrous creatures" on the same standardized scale. <br>
-*Note: Your attributes will start off great, much better than any commoner, even at level 0. This is to let you act as a heroic adventurer, even at early levels. They will generally NOT increase. That kind of improvement over time, unleashing the full potential of your Attributes, is what Skill Points and Experience are for.*
+*Note: Your attributes will start off great, much better than any commoner, even at level 0. This is to let you act as a heroic adventurer, even at early levels. They will generally NOT increase. That kind of improvement over time is what Skill Points and Experience are for.*
 <br>
 0 | 1 | 2 | 3 | 4 | 5 | 6+
 :---: | :---: | :---: | :---: | :---: | :---:
@@ -11,34 +11,34 @@ The value you have for an attribute determines the basis for your abilities. Whe
 
 ## Strength
 Your physical power. Used to lift, damage, and withstand force from physical objects and creatures. <br>
-Skills: Athletics, Brawn, Endurance, and Intimidation. <br>
+Skills: Athletics, Brawn, Endurance, and Guts. <br>
 Save: Resist effects that would mess you up, inside or outside, by simply toughing them out.
-Other benefits: Your Strength Value contributes to your carrying capacity, Hit Point Maximum, one of your Martial Skills, and your Martial Might.
+Other benefits: Your Strength Value contributes to your carrying capacity, Hit Point Maximum, and Martial Might.
 
 ## Agility
 Your motorical coordination. Used to move your body or interact with objects with grace or subtelty. <br>
 Skills: Acrobatics, Finesse, Handling, and Stealth. <br>
 Save: Reflexively evade from harmful effects that pass by or burst out in your vicinity.
-Other benefits: Your Agility Value contributes to your Defence, one of your Martial Skills, and your Martial Might.
+Other benefits: Your Agility Value contributes to your Defence and Martial Might.
 
 ## Will
 Your force of personality. Used to influence, manipulate, and inspire friends and foes alike. <br>
 Skills: Authority, Intuition, Performance, Suggestion. <br>
 Save: Push back against detrimental effects through sheer volition. <br>
-Other benefits: Your Will Value contributes to your sanity? Attunement? Maximum Hit Points? Something else?, one of your Magic Skills, and your Magic Might.
+Other benefits: Your Will Value contributes to your Attunement capacity, Mana Point Maximum, and Magic Might.
 
 ## Intelligence
 Your sharpness of mind. Used to recall information or solve problems with reason or wisdom. <br>
 Skills: Crafting, Lore, Investigation, Medicine. <br>
 Save: Snap out of effects that alter how you percieve your surroundings or your sense of self. <br>
-Other benefits: Your Intelligence Value contributes to your Awareness, one of your Magic Skills, and your Magic Might.
+Other benefits: Your Intelligence Value contributes to your total Skill Points, Awareness, and Magic Might.
 
 # Derived Values
 A character's Maximum HP (at level 0 without bonuses) is equal to 5 + Strength. <br>
 A character's Maximum MP (at level 0 without bonuses) is 5 + Will. <br>
 <br>
-A character's Starting Stress is 10 - Intelligence. (Unless Stress is not needed? Might not be if the Repeat Penalty feels OK.) <br>
-A character's Death Threshold is equal to 0 - Will? Starting HP? 5? - Level.
+A character's Starting Stress is 10 - Intelligence. <br>
+A character's Death Threshold is equal to 0 - Starting HP (5 + STR + background bonus).
 
 ## Martial & Magic
 A character's *Martial Might* is equal to 10 + Strength + Agility + Level. <br>
@@ -51,7 +51,7 @@ A character's Awareness is equal to 10 + Intelligence + Level + Perception. (Per
 ## Based on Size
 A character's base Speed is 4 Paces. <br>
 A character's base Reach is equal to their width on a battle map (1 Pace). <br>
-A character's base Throwing Range is equal to 4 times their reach, or up to 3 times that with Disadvantage (4/12 steps). <br>
+A character's base Throwing Range is equal to four times their reach, or up to double that with Disadvantage (4/8 Paces). <br>
 
 # Skill Descriptions
 The 16 main skills are meant to be used as flexible reference points, with potential results defined for succeeding and/or failing.

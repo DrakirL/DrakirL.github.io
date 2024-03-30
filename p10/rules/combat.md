@@ -6,16 +6,19 @@
 
 ## HP & Damage
 A creature's hardiness is  expressed in the form of Hit Points, or HP for short. A player's Maximum HP is equal to their Strength Attribute plus the size of their Hit Die (determined by their class) times their Level. <br>
-As long as a creature has at least 1 remaining HP, it is healthy enough to stand up and act as normal. <br>
+As long as a creature has at least 1 HP, it is healthy enough to stand up and act as normal. <br>
+As long as a creature has HP at least equal to its Death Threshold, it is able to fully recover if given enough rest. *(FYI: At this point we're using negative numbers)* <br>
+A creature with fewer HP than its Death Threshold is *DEAD*.
 
 ### Lethal Damage & Death's Door
-If a creature takes damage that reduces its HP to 0 or below, that damage is considered Lethal. When a creature takes Lethal damage, the attacker decides whether to kill that creature or just "take it out", potentially leaving the target unconcious for an indeterminate amount of time. Either way, the fate of the creature is no longer up to it, but rather its attacker and other surrounding circumstances. <br>
-Some creatures however need a greater margin before being fully defeat, the main example being *PLAYER CHARACTERS*. When a such a creature takes Lethal damage, it is instead left on "Death's Door".
-<br><br>
+If a creature takes damage that reduces its HP to 0 or below, that damage is considered Lethal. When a creature takes Lethal damage, its controller decides whether to relinquish their control (by dying or falling unconcious for an indeterminate amount of time, depending on context and the attacker's intent) or remain active on Death's Door. <br>
 A creature is considered to be on Death's Door as long as it has 0 or fewer HP without being dead or otherwise taken out. <br>
 A creature on Death's Door can't maintain Concentration, ???, and has only 1 Action to take per Round. <br>
-When a creature on Death's Door takes any amount of damage, including the initial hit that reduced its HP to 0, it gains 1 Exhaustion. <br>
-A creature can have an amount of Exhaustion up to their Death Threshold, but if it ever has any more, it dies (or is taken out, if the circumstances are more forgiving).
+
+### Lasting Damage: Exhaustion
+When a creature takes damage that reduces its HP below 0, its Exhaustion is set to reflect it. (PHRASING? -5 HP = 5 Exhaustion. 2 more damage = 7 Exhastion. Healed = still 7 Exhaustion)<br>
+A creature can have an amount of Exhaustion up to their Death Threshold and remain active. *Penalty from having exhaustion? <br>
+If it ever has any more, its controller must relinquish their control (death/unconciousness).
 
 ## Actions
 During combat, every second counts, and it is important to know how every moment of every round is spent. <br>
@@ -36,13 +39,6 @@ Examples:
 + As part of any Action, you may ask the GM questions about what your character knows, sees, hears, etc. If you need to make a Test to find something out, it's takes its own Action.
 #### <br>
 
-### Repeat Penalty (Core feature being tested)
-If a creature makes the same Test more than once in a single one of its turns, apply a -5 Repeat Penalty to their roll for each preceeding attempt. <br>
-(Example: First Attack, normal! Second Attack, -5! Third Attack, -10!)
-<br><br>
-You can use 1 additional Action to reduce the applied penalty on a single roll by one stage, but you can't gain a bonus. <br>
-*CLARIFICATION: 'The same Test" means 'Using an "identical" identifier'. Example: A Martial Attack has no effect on a Magic Attack, because Martial is different from Magic, even if both are Attacks. However a Martial Attack using a pistol will impose a penalty on a Martial Attack using an axe, because both use the same identifier (Martial Attack), even if they end up using different attributes.*
-
 ### Pre-Defined Actions
 
 **Attack Action** <br>
@@ -56,6 +52,7 @@ When you score a hit with a Martial Attack, you may do one of the following thin
 #### <br>
 
 *If the Attack is Ranged, it is Interruptible. (PHRASING?)* <br>
+*Range Increments: The lower value is the base range and used as one would expect. The greater value is made with an innately imposed Disadvantage. If the attack also has Disadvantage from external circumstances, the greater value can't be used.*
 *Crits: Add +2 to the Success Grade on a Natural 20?* <br>
 *Shove: You can stack distance for a single shove, but it must all be in a single direction.*
 <br><br>
@@ -67,8 +64,8 @@ Until the start of your next turn, you add a +1 bonus to your Defence, Awareness
 <br><br>
 
 **Care Action** <br>
-Make a Medicine Test to try and get a creature that has been taken out back on their feet? (Difficulty = 10 + Exhaustion). <br>
-On a success, the creature is regains 1 HP (+1 per Stage), up to 0. (PHRASING?) <br>
+Make a Medicine Test to try and mitigate the damage a severly hurt creature has taken (Difficulty = 10 + target's Exhaustion). <br>
+On a success, the creature is regains 1 HP (+1 per Stage), but not over 0. (PHRASING?) <br>
 This Action is Interruptible.
 <br><br>
 
@@ -170,31 +167,40 @@ A Stunned creature is Incapacitated. Extra penalties?
 An Unconcious creature is Incapacitated. Extra penalties?
 
 ### Other
-<br><br>
 **Concentration** <br>
 When a creature begins concentrating, its Stress is set to its Starting Stress. <br>
 When a Concentrating creature takes damage, it must add the damage taken to its Stress and make a Will Save against the new value. <br>
-OR... This is not needed, and we just make a Will Save against 10 + damage taken each time? <br>
 A creature can maintain Concentration on no more than one thing at a time. <br>
 <br><br>
+
 **Falling** <br>
 If a creature that isn't suspended by standing on solid ground or the ability to fly, it falls. <br>
 A falling creature will reach the first stable point directly below it by the time it regains its Actions. <br>
-Upon landing, the creature takes 1 damage per pace it fell.<br>
+Upon landing, the creature takes 1 damage for each pace it fell, ignoring ones that are "covered by a jump". ()<br>
 <br>
-If a falling creature lands on a cushoning surface, the damage is halved. <br>
-If that surface consists one or more creatures, each of those creatures also take the already halved damage. (Agility Save involved for landing and/or being landed on? PHRASING?)
+If a falling creature lands on a more cushoning surface, the damage is halved. <br>
+Landing on other creatures counts as landing on a cushioning surface. Each creature involved takes resulting damage.
 <br><br>
+
 **Downed/Knocked Down** <br>
-Smaller "Hitbox". Some Partial Cover can become Full Cover. (PHRASING? DETAILS?) <br>
-Whilst a creature is downed, its Speeds are halved, and it can't choose to extend its movement as part of the Move Action. <br>
+A creature can "Down itself" as part of any other action. Smaller "Hitbox". Some Partial Cover can become Full Cover. (PHRASING? DETAILS?) <br>
+Whilst a creature is downed, its Speeds are halved. <br>
 A downed creature can use 1 Action to stand up. Taking this Action is Interruptible. <br>
 A flying creature that is forcefully knocked down will fall until it hits the ground. It takes fall damage as normal.
 <br><br>
+
+**Pushing/Throwing** <br>
+When a creature is moved by force, it instantly travels the appropriate number of paces in a straight line determined by said force. (PHRASING? horizontal only)<br>
+If the intended path of travel is blocked by an obstacle, the creature stops in the last empty space it occupied before the collision and takes 1 damage for each pace of the intended path it didn't travel.<br>
+Being forcefully pushed into another creature counts as being blocked by an obstacle, but the damage is halved and dealt to both creatures.
+<br><br>
+
 **Grappling** <br>
 If a creature is grappled by something, it can't move into a new space, and any attack it makes against a target other than its grappler gains Disadvantage. <br>
-A creature can use 1 Action on its turn to attempt to break a grappled creature within its reach free. To do so, it must succeed on a Martial Test against the grappler's Passive Martial Skill.
-If the grappler is a creature, the tool and/or limb used to maintain the grapple can't be used for anything else without releasing the grappled creature. <br>
+Whatever is being used to maintain the grapple (such as a tool or a limb) can't be used for anything else without releasing the grappled creature. <br>
+A creature can use 1 Action on its turn to attempt breaking itself or another creature within its Reach free from a grapple. To do so, it must succeed on a Martial Test against the grappler's Martial Might. <br>
+A creature can use 1 Action on its turn to attempt throwing a creature it is grappling up to its base throwing range. To do so, it must succeed on a Martial Test against the grappled creature's Martial Might (Advantage if thrower is bigger, Disadvantage if thrower is smaller). Each degree of success increases the maximum distance by 1 pace. Successful or not, the creature is released from the grapple.
+<br><br>
 
 # Combat Equipment
 ???
@@ -205,60 +211,58 @@ Most commonly, weapons do state that is uses a specific Attribute, in which case
 If you lack the Proficiency needed for a given weapon, you gain Disadvantage on any Attack you make trying to properly use it.<br>
 
 ### Simple Weapons
-*Damage Range: 1 with some bonus, or 2*
+*Damage Range: 1 with some bonus and/or flexibility, or 2*
 <br>
 
 **Melee**
 + Club/Mace: Uses Strength. Base Damage (2 Bludgeoning).
-+ Spear/Javelin: Uses Strength. Base Damage (2 Piercing). Thrown (6/18).
-+ ???: Uses Strength. Base Damage (2 Slashing).
++ Spear/Javelin: Uses Strength. Base Damage (2 Piercing). Thrown (6/12)?
++ Shortsword/Sickle: Uses Strength. Base Damage (2 Slashing).
 
-+ Hammer?: Uses Strength. Base Damage (1 Piercing). Light. Thrown (4/12).
-+ Dagger: Base Damage (1 Piercing). Light. Thrown (4/12).
-+ Hatchet/Sickle?: Uses Strength? Base Damage (1 Slashing). Light. Thrown (4/12)?
++ Hammer: Base Damage (1 Bludgeoning). Thrown (4/8 paces).
++ Dagger: Base Damage (1 Piercing). Thrown (4/8 paces).
++ Hatchet: Base Damage (1 Slashing). Thrown (4/8 paces).
 #### <br>
 
 **Ranged**
-+ Dart/Shuriken: Base Damage (1 Piercing). Thrown (4/12). Light.
-+ Sling: Base Damage (1 Bludgeoning). Ranged (4/16). Ammunition (Rocks/"Bullets"/"Junk").
-+ Hand Crossbow: Uses Agility. Base Damage (1 Piercing). Ranged (4/16 paces). Light. Ammunition (Bolts). Loading (1).
-+ Crossbow: Uses Agility. Base Damage (1 Piercing). Rangde (10/40 paces). Ammunition (Bolts). Loading (1).
-+ Large Crossbow: Uses Agility. Base Damage (2 Piercing). Ranged (20/80 paces). Heavy. Ammunition (Bolts). Loading (1).
++ Dart/Shuriken: Base Damage (1 Piercing). Thrown (4/8 paces).
++ Sling: Base Damage (1 Bludgeoning). Ranged (4/16 paces). Ammunition (Rocks/"Bullets"/"Junk").
++ Hand? Crossbow: Uses Agility. Base Damage (1 Piercing). Ranged (10/40 paces). Ammunition (Bolts). Loading (1).
++ Large Crossbow: Uses Agility. Base Damage (2 Piercing). Ranged (20/80 paces). Two-Handed. Ammunition (Bolts). Loading (1).
 #### <br>
 
 ### Advanced Weapons
 *Damage Range: 2 with some bonus, or 3 with some restriction*
 **Melee**
 + Flail: Base Damage (2 Bludgeoning).
-+ Rapier: Base Damage (2 Piercing).
++ Rapier/Trident/Pick?: Base Damage (2 Piercing).
 + Longsword: Base Damage (2 Slashing).
 
-+ ???: Base Damage (2 Bludgeoning). Light.
-+ ???: Base Damage (2 Piercing). Light.
-+ Shortsword?: Base Damage (2 Slashing). Light.
++ Maul: Uses Strength. Base Damage (3 Bludgeoning). Two-Handed.
++ Morningstar?: Uses Strength. Base Damage (3 Piercing). Two-Handed.
++ Axe: Uses Strength. Base Damage (3 Slashing). Two-Handed.
 
-+ Maul: Uses Strength. Base Damage (3 Bludgeoning). Heavy.
-+ Lance?: Uses Strength. Base Damage (3 Piercing). Heavy.
-+ Axe: Uses Strength. Base Damage (3 Slashing). Heavy.
++ ???: Uses Strength. Base Damage (2 Bludgeoning). Two-Handed. Reach (2 paces).
++ Pike: Uses Strength. Base Damage (2 Piercing). Two-Handed. Reach (2 paces).
++ Glaive: Uses Strength. Base Damage (2 Slashing). Two-Handed. Reach (2 paces).
 
-+ Halberd?: Uses Strength. Base Damage (2 Piercing). Heavy. Reach (2 paces).
++ Lance: Uses Strength. Base Damage (2 Piercing). Reach (4 paces).
 + Whip: Base Damage (1 Slashing). Reach (4 paces). On hit, you may also grapple the target.
 #### <br>
 <br>
 
 **Ranged**
 + Shortbow: Uses Agility. Base Damage (2 Piercing). Range (10/40 paces). Ammunition (Arrows).
-+ Longbow: Uses Agility. Base Damage (3 Piercing). Range (20/80 paces). Heavy. Ammunition (Arrows).
-+ Pistol: Uses Agility. Base Damage (2 Piercing). Range (10/40 paces). Light. Ammunition (Bullets). Loading (1). Quickfire.
-+ Rifle: Uses Agility. Base Damage (3 Piercing). Range (20/80 paces). Heavy. Ammunition (Bullets). Loading (1). Quickfire.
++ Longbow: Uses Agility. Base Damage (3 Piercing). Range (20/80 paces). Two-Handed. Ammunition (Arrows).
++ Pistol: Uses Agility. Base Damage (2 Piercing). Range (10/40 paces). Ammunition (Bullets). Loading (1). Quickfire.
++ Rifle: Uses Agility. Base Damage (3 Piercing). Range (20/80 paces). Two-Handed. Ammunition (Bullets). Loading (1). Quickfire.
 #### <br>
 
 ### Weapon Properties
-**Light:** Properly using a Light weapon to make a Martial Attack imposes no Repeat Penalty on any Martial Attack made by properly using a different Light weapon. (PHRASING?)<br>
-**Heavy:** To make properly use a Heavy weapon to make an Attack, you must be wielding it with both hands.<br>
+**Two-Handed:** To make properly use a Heavy weapon to make an Attack, you must be wielding it with both hands.<br>
 **Reach (X):** Your reach for Martial Melee Attacks attacks properly using a Reach weapon extends to become no shorter than the given value. (PHRASING?) *(Double the range for each size increase)*.
-**Thrown (X/Y):** You can throw a Thrown weapon at a target within the given range and it will still count as using it properly. A creature that lacks any needed Proficiency can only use the shorter range. *(Double the range for each size increase)*
-**Ranged (X/Y):** To use a Ranged weapon properly, you must use it to make a Ranged Martial Attack against a target within the given range. A creature that lacks any needed Proficiency can only use the shorter range. *(Double the range for each size increase)*
+**Thrown (X/Y):** You can throw a Thrown weapon at a target within the given range and it will still count as using it properly. *(Double the range for each size increase)*
+**Ranged (X/Y):** To use a Ranged weapon properly, you must use it to make a Ranged Martial Attack against a target within the given range. *(Double the range for each size increase)*
 **Ammunition (X)** To use an Ammunition weapon properly, you must provide a of the specified type of ammunition. After the attack is made, the used piece of ammunition is lost.
 **Loading (X):** To use a Loading weapon properly, it must've been loaded beforehand. After being loaded, it can be used to make up to the given number of Attacks before it must be loaded again. To load a weapon takes 1 Action. We can assume that all weapons are fully loaded before entering a new combat scene.
 **Quickfire:** Ranged Attacks made properly using a Quickfire weapon are not Interruptible.
@@ -266,25 +270,25 @@ If you lack the Proficiency needed for a given weapon, you gain Disadvantage on 
 ## Shields
 If you are wielding a shield when an Attack is made against you or a target entirely within your reach, you can use 1 Action to add the Shield's Defence Bonus to the target's Defence against that attack, potentially changing the outcome. <br>
 Each type of shield is categorized as either Small or Large. If you don't have Proficiency with the category of a shield you are wielding, you can't use it to increase Defence in this way. <br>
-You can also use a shield as a weapon, following the rules of weapon usage as normal. *(You gain disadvantage on if you don't)* <br>
+You can also use a shield as a weapon, following the rules of weapon usage as normal. *(Disadvantage on if you lack proficiency)* <br>
+A Martial Attack made properly using a shield has the following properties: Uses Strength. Base Damage (1 Bludgeoning). On hit, you may also shove the target 1 pace and move up to 1 pace in the same direction.
 
 ### Small
-+ Buckler: +2 Defence. [Smooth Bonus?]. Bash [Base Damage (1 Bludgeoning). Light]
-+ Targe: +3 Defence. Bash [Base Damage (1 Bludgeoning). On hit, you may also shove the target 1 pace and move up to 1 pace in the same direction]
-+ Heater: +4 Defence. Hefty. Bash [Base Damage (1 Bludgeoning). On hit, you may also shove the target 1 pace and move up to 1 pace in the same direction]
++ Buckler: +1d6 Defence. [Smooth Bonus?].
++ Targe: +1d8 Defence.
++ Heater: +1d10 Defence. Hefty.
 #### <br>
 
 ### Large
-+ Kite: +3 Defence. [Smooth Bonus?]. Bash [Uses Strength. Base Damage (2 Bludgeoning). On hit, you may also shove the target 1 pace and move up to 1 pace in the same direction].
-+ Pavise: +4 Defence. Bash [Uses Strength. Base Damage (2 Bludgeoning). On hit, you may also shove the target 1 pace and move up to 1 pace in the same direction].
-+ Tower: +5 Defence. Hefty. Bash [Uses Strength. Base Damage (2 Bludgeoning). On hit, you may also shove the target 1 pace and move up to 1 pace in the same direction].
++ Kite: +2d6 Defence. Bulky. [Smooth Bonus?].
++ Pavise: +2d8 Defence. Bulky.
++ Tower: +2d10 Defence. Bulky. Hefty.
 #### <br>
 
 ### Shield Properties
-**[Small Benefit]:** Properly using a ??? shield to make a Martial Attack (aka "Bashing") imposes no Repeat Penalty on any Martial Attack using anything other than a shield. (PHRASING?)
-**[Smooth Bonus?]:** When you knock a creature back using a ??? shield, you can move with them? <br>
-**Hefty/Bulky?:** Takes 2 Actions to use instead of 1? Reduces speed whilst held? <br>
-**Bash []:** A creature properly wielding a Bash shield can make a Martial Attack with it, as though it was a weapon with the given properties. To do so without Disadvantage, one must be proficient with the shield. (PHRASING?) <br>
+**[Smooth Bonus?]:** ?? <br>
+**Hefty:** To use a Hefty shield to Attack or increase Defence takes 2 Actions instead. Also increases the shield's Base Damage by 1.<br>
+**Bulky:** Whilst wielding a Bulky shield, your Speed is reduced by 1. Also increases the shield's Base Damage by 1.
 
 ## Armor
 Each type of armor has a defined Protection Value that you add to the Defence of anyone who is weaing it. <br>
@@ -292,20 +296,21 @@ Characters have an inventory slot for the armor they are wearing. Needless to sa
 Any given set of armor is categorized as either Light or Heavy. If you don't have Proficiency with the category of the armor you are wearing, it Encumbers you.
 
 ### Light
-+ Hide (Novice): 2 Protection, Resistance (One of Bludgeoning, Piercing, or Slashing).
++ Hide (Novice): 1 Protection, Resistance (One of Bludgeoning, Piercing, or Slashing).
 + Gambeson (Regular): 3 Protection, Resistance (One of Bludgeoning, Piercing, or Slashing).
-+ Brigandine (Grand): 4 Protection, Resistance (One of Bludgeoning, Piercing, or Slashing).
++ Brigandine (Grand): 5 Protection, Resistance (One of Bludgeoning, Piercing, or Slashing).
 #### <br>
 
 ### Heavy
-+ Chain (Novice): 7 Protection, Restrictive, (-1 AGI), Resistance (One of Bludgeoning, Piercing, or Slashing).
-+ Splint (Regular): 8 Protection, Restrictive, (-2 AGI), Resistance (One of Bludgeoning, Piercing, or Slashing).
-+ Plate (Grand): 9 Protection, Restrictive, (-3 AGI), Resistance (One of Bludgeoning, Piercing, or Slashing).
++ Chain (Novice): 6 Protection, Restrictive, Cumbersome (-1), Resistance (One of Bludgeoning, Piercing, or Slashing).
++ Splint (Regular): 8 Protection, Restrictive, Cumbersome (-2), Resistance (One of Bludgeoning, Piercing, or Slashing).
++ Plate (Grand): 10 Protection, Restrictive, Cumbersome (-3), Resistance (One of Bludgeoning, Piercing, or Slashing).
 #### <br>
 
 ### Armor Properties
+**Resistance (Damage Type):** The wearer has +1 Resistance against the listed damage type.
 **Restrictive:** The wearer doesn't add their Agility to their Defence. <br>
-**Resistance (Damage Type):** A proficient wearer of this armor has +1 Resistance against the listed damage type.
+**Cumbersome (X):** The wearer applies the given penalty to any Test of Agility they make (including Saves, Attacks, and Tests of Skill).
 
 ## Senses?
 You use your senses to percieve the world. If you have a special sense, you can use it to determine your total Awareness, along with whatever other perks it brings. <br>
