@@ -24,7 +24,7 @@
 ## Warlock Class Features
 These are the core features granted for the Warlock Class.
 
-### Level 1: Pact Boon
+### Core: Pact Boon
 You can use the Boon is a physical object. Regardless of its form, you can use it as a focus to cast any Spell you know.
 
 #### Boon of the Bauble
@@ -46,16 +46,14 @@ Your Boon is a tome full of otherworldly glyphs and pictures that only you seem 
 You become a Mage and gain 1 additional Mana Point per Level! <br>
 Choose a Spell List to be your Pact List. At each level, you learn one Spell from your chosen Pact List?
 
-### Level 1: Eldritch Invocations? Mystic Arcanum?
-You learn any 6? Spells of your choice.
+### Core: Otherworldy Patron
+Each Archetype for the Warlock Class comes with a Core Feature. <br>
+Choose your Archetype and gain its Core Feature.
 
-### Level 1: Warlock Subclass
-You choose a Warlock Subclass and gain its Level 1 Features.
+### Level 1: Magical Secrets? Mystic Arcanum?
+You learn any 6? Spells of your choice?
 
-### Level 2: Magical Secrets? Mystic Arcanum?
-???
-
-### Level 2: Improved Pact Boon?
+### Level 1: Improved Pact Boon?
 You gain one of the following benefits, determined by the Pact Boon you chose:
 
 #### Boon of the Bauble
@@ -66,32 +64,16 @@ The damage is of the same type as the weapon. The range is (10/40).
 #### Boon of the Book
 After
 
-### Level 3: Subclass Feature
-You gain the Level 3 Feature of your chosen Warlock Subclass. <br>
-In addition, your Pact Die is now a d6.
+### Level 2: Improved Pact Boon?
+???
+
+### Level 3: Improved Pact Boon?
+???
 
 ### Level 4: Improved Pact Boon?
 ???
 
-### Level 5: Subclass Feature
-You gain the Level 5 Feature of your chosen Warlock Subclass.<br>
-In addition, your Pact Die is now a d8.
-
-### Level 6: Improved Pact Boon?
-???
-
-### Level 7: Subclass Feature
-You gain the Level 7 Feature of your chosen Warlock Subclass.<br>
-In addition, your Pact Die is now a d10.
-
-### Level 8: Improved Pact Boon?
-???
-
-### Level 9: Subclass Feature
-You gain the Level 9 Feature of your chosen Warlock Subclass.<br>
-In addition, your Pact Die is now a d12.
-
-### Level 10: Improved/Greater Pact Boon?
+### Level 5: Improved/Greater Pact Boon?
 ???
 
 #### Boon of the Bauble
@@ -111,14 +93,14 @@ SUGGESTED INVOCATION SPELLS: ???
 ### Level 1: ???
 ???
 
+### Level 2: ???
+???
+
 ### Level 3: ???
 ???
 
+### Level 4: ???
+???
+
 ### Level 5: ???
-???
-
-### Level 7: ???
-???
-
-### Level 9: ???
 ???

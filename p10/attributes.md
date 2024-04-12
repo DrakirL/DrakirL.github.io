@@ -51,7 +51,7 @@ A character's Awareness is equal to 10 + Intelligence + Level + Perception. (Per
 ## Based on Size
 A character's base Speed is 4 Paces. <br>
 A character's base Reach is equal to their width on a battle map (1 Pace). <br>
-A character's base Throwing Range is equal to four times their reach, or up to double that with Disadvantage (4/8 Paces). <br>
+A character's base Throwing Range is equal to four times their reach (4 Paces). <br>
 
 # Skill Descriptions
 The 16 main skills are meant to be used as flexible reference points, with potential results defined for succeeding and/or failing.

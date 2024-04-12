@@ -25,67 +25,50 @@
 ## Barbarian Class Features
 These are the core features granted for the Barbarian Class.
 
-### Level 1: Rage!
-You can at any point use 1 Action to enter a Rage. <br>
+### Core: Rage!
+You can at any point use 1 Action and spend 1 MP to enter a Rage. <br>
 While your Rage is active, the following rules apply:
  + You can't cast or contribute to Spells.
  + You can't maintain Concentration.
  + Any Bludgeoning, Piercing, or Slashing damage you take is halved.
- + When you deal damage with a Martial Melee Attack, double it.
+ + When you deal damage with a Martial Melee Attack, increase the damage by 1.
  + Being hit by a Sudden Strike without an additional degree of success doesn't interrupt your Actions.
  + You can use "Rage" as Training? (PHRASING? Examples? Too vague?)
  #### <br>
- Your Rage lasts until you regain your actions, unless your immediately use 1 of the Actions you gained to maintain it, which you can do even if you can't use Actions otherwise. <br>
- After your Rage ends, you can't enter it again until you've finished a Rest.
+ Your Rage lasts until you regain your actions, unless you spend 1 MP to extend it until the next round. (PHRASING? It is meant to be infinitely extendable) <br>
+ After your Rage ends, you can't enter it again until you've finished a Rest?
 
-### Level 1: Unbound
+### Core: Unbound
 Provided you are wearing no armor, you are unbound and can utilize your freedom of movement, granting you the following benefits:
 + Your Walk Speed is increased by 2 paces.
 + You gain Protection equal to your Strength.
-+ **Danger Sense?*
 #### <br>
 
-### Level 1: Barbarian Subclass
-You choose a Barbarian Subclass and gain its Level 1 Features.
-
-### Level 2: Reckless Fury
+### Level 1: Reckless Fury
 When you make Martial Melee Attack against a creature, you can do so with reckless abandon to gain Advantage on that Attack. <br>
 When you do so, the target treats that Attack as Interruptible.
 
-### Level 2: Danger Sense?
+### Level 1: Danger Sense?
 Provided you aren't Blinded, Deafened, or Incapacitated, you gain Advantage on any Strength or Agility Save you make against an effect you see coming, such as a spell being cast or a trap being triggered? (PHRASING? DETAILS?)
 
-### Level 3: Subclass Feature
-You gain the Level 3 Feature of your chosen Barbarian Subclass.
-
-### Level 4: Unrelenting
+### Level 2: Unrelenting
 If you would take lethal damage, you can make a Strength Save against a Difficulty of 10. <br>
 If you succeed, the damage is not considered lethal, and you are put to 1 HP instead.
 <br><br>
 Each time you succeed on this Save, the Difficulty of this Save increases by 5.
 After you finish a Rest, the Difficulty is reset to 10.
 
-### Level 5: Subclass Feature
-You gain the Level 5 Feature of your chosen Barbarian Subclass.
-
-### Level 6: Brutal Finisher
+### Level 3: Brutal Finisher
 When you deal damage to a creature with a Martial Melee Attack and its remaining HP is no higher than the damage it took, you can use 1 additional Action to immidiately set its HP to 0.
 
-### Level 7: Subclass Feature
-You gain the Level 7 Feature of your chosen Barbarian Subclass.
-
-### Level 8: Unfaltering Strength
+### Level 4: Unfaltering Strength
 If you make a Test using a Strength-based Skill and roll a number on the die that is lower than your Strength, you may treat it as if it had rolled that number instead? <br>
 OR... <br>
 You now always have Advantage on any Strength Test you make, even without Raging?
 
-### Level 9: Subclass Feature
-You gain the Level 9 Feature of your chosen Barbarian Subclass.
-
-### Level 10: Primal Champion?
+### Level 5: Primal Champion?
 Increase your Strength Attribute by 2, up to 7. <br>
-In addition, you now can enter your Rage an unlimited number of times per Rest. <br>
-After your Rage ends, a Minute must pass before you can enter it again.
+More???
 
 ## Barbarian Subclass: Berserker
 THEME: ???
@@ -96,17 +79,17 @@ You can spend 1 MP instead of using 1 Action to extend your Rage?
 ### Level 1: Intimidating Presence?
 When you enter your Rage, choose any number of creatures within 10 paces of you. Provided a creature can see or hear you, it must make a Will Save against your Martial Might
 
-### Level 3: Mindless Rage
+### Level 2: Mindless Rage
 While your Rage is active, you are immune to the Charmed and Frightened conditions. <br>
 If you are already Charmed or Frightened, it is surpressed for the duration. (PHRASING?)
 
-### Level 5: ???
+### Level 3: ???
 Bonus damage against Frightened creatures?
 
-### Level 7: Ruthless Chase?
+### Level 4: Ruthless Chase?
 When a creature from within your Reach moves out of your Reach, you can use 1 Action to move to the space they left and make a Sudden Strike against it? (EARLIER?)
 
-### Level 9: ???
+### Level 5: ???
 ???
 
 ## Barbarian Subclass: Ancestral Guardian
@@ -119,15 +102,15 @@ You learn the
 *Use 1 Action on your turn to force Will Save against your Passive Martial Skill? <br>
 When you enter your Rage
 
-### Level 3: Mindless Rage
+### Level 2: Mindless Rage
 While your Rage is active, you are immune to the Charmed and Frightened conditions. <br>
 If you are already Charmed or Frightened, it is surpressed for the duration. (PHRASING?)
 
-### Level 5: ???
+### Level 3: ???
 Bonus damage against Frightened creatures?
 
-### Level 7: Ruthless Chase?
+### Level 4: Ruthless Chase?
 When a creature from within your Reach moves out of your Reach, you can use 1 Action to move to the space they left and make a Sudden Strike against it? (EARLIER?)
 
-### Level 9: ???
+### Level 5: ???
 ???

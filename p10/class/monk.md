@@ -23,30 +23,27 @@
 ## Monk Class Features
 These are the core features granted for the Monk Class.
 
-### Level 1: Martial Arts
+### Core: Martial Arts
 You have advanced control and understanding of your physical body, granting you the following benefits:
  + You can use 1 Action on your turn to make 2 Improvised Martial Attacks.
  + You may use your Martial Might in place of your Defence.
  + You may use your Magic Might in place of your Awareness.
 #### <br>
 
-### Level 1: Magic Discipline
+### Core: Magic Discipline
 You have advanced control and understanding of your spiritual self, granting you the following benefits:
 <br><br>
 **Mountain's Stance**: When you take the Brace Action, you can spend 1 MP to double the bonus granted for you by the Action. <br>
 **Galewind's Sprint**: When you take the Move Action, you can spend 1 MP to double the movement granted for you by the Action. If you do so, your movement is unaffected by difficult terrain during the action. <br>
 **Lightning Strikes?**: When you take the Attack Action, you can spend 1 MP to increase the damage by 1? <br>
 
-### Level 1: Monk Subclass
-You choose a Monk Subclass and gain its Level 1 Features.
-
-### Level 2: Deflection
+### Level 1: Deflection
 When you would be dealt damage by a Martial Attack, you can use 1 Action to reduce the damage you take by 1. You can also spend MP, up to your Mana Spend Limit, to reduce prevent 1 additional damage per MP spent.<br>
 If you reduce the damage to 0 this way, you may instead redirect the Attack to a different target by making an Improvised Strike as part of the same Action. <br>
 A Melee Attack redirected this way must be aimed at a target within the original attacker's Reach. <br>
 A Ranged Attack redirected this way must be aimed at a target within your Throwing Range. <br>
 
-### Level 2: Parkour?
+### Level 1: Parkour?
 Provided you are wearing no armor, you gain the following benefits:
 + Your Walk Speed is increased by 2 paces.
 + You can walk across liquid surfaces, only starting to sink once your movement ends.
@@ -55,31 +52,19 @@ Provided you are wearing no armor, you gain the following benefits:
 + If you would take damage from a fall, you can use 1 Action when you land to reduce the damage you take by 2 times your Level.
 #### <br>
 
-### Level 3: Subclass Feature
-You gain the Level 3 Feature of your chosen Monk Subclass.
-
-### Level 4: Purity of Body
+### Level 2: Purity of Body
 When you would become Sick or Stunned, you can spend 1 ki to prevent the Condition.<br>
 In addition, you are now Resistant to Poison damage.
 
-### Level 5: Subclass Feature
-You gain the Level 5 Feature of your chosen Monk Subclass.
-
-### Level 6: Stillness of Mind
+### Level 3: Stillness of Mind
 When you would become Charmed and Frightened, you can spend 1 ki to prevent the Condition.<br>
 In addition, you are now Resistant to Psychic damage.
 
-### Level 7: Subclass Feature
-You gain the Level 7 Feature of your chosen Monk Subclass.
-
-### Level 8: Freedom of Spirit
+### Level 4: Freedom of Spirit
 Ki Feature: Works like the special Action granted by an *Astral Projection* spell: <br>
 Become Invisible, take halved damage, and able to planeshift.
 
-### Level 9: Subclass Feature
-You gain the Level 9 Feature of your chosen Monk Subclass.
-
-### Level 10: Perfect Self
+### Level 5: Perfect Self
 ??? <br>
 In addition, you no longer need to eat, drink, or sleep.
 
@@ -94,16 +79,16 @@ OR... each of those options are instead given unique improvements?
 You can use 3 Actions on your turn to regain HP equal to half your Maximum HP? <br>
 You can use this feature once per Rest/Adventure?
 
-### Level 3: Energy Block
+### Level 2: Energy Block
 When you hit a creature with an Improvised Strike on your turn, you can use 1 additional Action to force that creature to make a Strength Save against your Passive Martial Skill. On a failed Save, the creature is Stunned until the start of your next turn.
 
-### Level 5: ???
+### Level 3: ???
 *Many reactions?
 
-### Level 7: ???
+### Level 4: ???
 ???
 
-### Level 9: Quivering Palm?
+### Level 5: Quivering Palm?
 When you deal damage to a creature with an Improvised strike, you may spend 1 Ki Point to leave it with a mark of imperceptible vibrations that last for a day. <br>
 You may at any point use 1 Action (or 2/3 Actions?) to have the vibrations within one creature you've marked this way suddenly intensify. <br>
 The affected creature must make a Strength Save against your Passive Martial Skill. It gains Advantage on this Save if it carries only one mark, but Disadvantage if it carries 3 or more. (PHRASING)? <br>
@@ -120,16 +105,16 @@ In addition, you "learn the Bending Spell" (a cantrip that lets you do fun thing
 *Elemental "maneuvers/disciplines?" that cast spells (without slot, focus, or materials) or have similar effects. Max Rank = half level rounded up. <br>
 *Learn two? every subclass feature, 5 new options each time: One for each element, and one mixing them/being flexible.
 
+### Level 2: ???
+???
+
 ### Level 3: ???
 ???
 
+### Level 4: ???
+???
+
 ### Level 5: ???
-???
-
-### Level 7: ???
-???
-
-### Level 9: ???
 When yo
 
 #### "Maneuvers"
@@ -153,16 +138,16 @@ Gain Training as a Calligrapher or Painter? More?
 Choose one specific kind of Advanced Melee Weapon and one specific kind of Advanced Ranged Weapon to be your chosen Kensei Weapons. You become Proficient with them.<br>
 You can use 1 Action on your turn to make 1 Martial Attack properly using a Kensei Weapon and 1 Improvised Strike in any order.
 
+### Level 2: ???
+???
+
 ### Level 3: ???
 ???
 
+### Level 4: ???
+???
+
 ### Level 5: ???
-???
-
-### Level 7: ???
-???
-
-### Level 9: ???
 You
 
 ## Monk Subclass: Way of the Drunken Master
@@ -175,14 +160,14 @@ Gain Training as a Brewmaster? More?
 If you are targeted by an Attack and you are not downed, you can down yourself to impose Disadvantage on the imcoming attack.<br>
 If you are downed on your turn, you can use 1 Action to stand up without it being interruptible. When you do so, you may also make an Improvised Martial Attack against a target within your reach. (PHRASING?)
 
+### Level 2: ???
+???
+
 ### Level 3: ???
 ???
 
-### Level 5: ???
+### Level 4: ???
 ???
 
-### Level 7: ???
-???
-
-### Level 9: Flurry?
+### Level 5: Flurry?
 You can use 1 Action on your turn to make up to 4 Improvised Martial Attacks, provided each attack is made against a different target.

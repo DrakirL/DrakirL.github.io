@@ -27,18 +27,11 @@ Conniving experts that can find and exploit any weakness in a foe or their plans
 ## Rogue Class Features
 These are the core features granted for the Rogue Class.
 
-### Level 1: Expertise
-Choose one of your Skills, other than Martial or Magic. You gain a number of additional Skill Points this Level equal to your Grade for that Skill. <br>
-Then, set your Grade for that Skill to 5.
-
-### Level 1: Sneak Attack!
-If you hit a creature with a Martial Attack and you have advantage on the roll, you can double the damage you deal. <br>
+### Core?: Sneak Attack!
+If you hit a creature with a Martial Attack and you have Advantage on the roll, you can double the damage you deal. <br>
 After doing so, you can't do so again until you regained your Actions.
 
-### Level 1: Rogue Subclass
-You choose a Rogue Subclass and gain its Level 1 Features.
-
-### Level 2: Opportunist
+### Core?: Opportunist
 You gain Advantage on any Attack you make against a creature in one of the following situations:
  + Your Attack is a Sudden Strike.
  + The target creature is Downed.
@@ -46,37 +39,29 @@ You gain Advantage on any Attack you make against a creature in one of the follo
  + You have an allied creature within 5 feet of the target creature on the opposite side from where you are attacking it.
 #### <br>
 
-### Level 2: Multitasking? Cunning Action?
+### Level 1?: Expertise
+Choose one of your Skills, other than Martial or Magic. You gain a number of additional Skill Points this Level equal to your Grade for that Skill. <br>
+Then, set your Grade for that Skill to 5.
+
+### Level 1?: Multitasking? Cunning Action?
 You now have 4 Actions to use each Round rather than 3. (LIMITER? Provided you aren't encumbered = 4 or 2 Actions)
 
-### Level 3: Subclass Feature
-You gain the Level 3 Feature of your chosen Rogue Subclass.
-
-### Level 4: Uncanny Dodge? Evasion? Prepared for the Worst? Slippery?
+### Level 2: Uncanny Dodge? Evasion? Prepared for the Worst? Slippery?
 When you are hit by an Attack, you can use 1 Action to reduce any incoming damage by half. <br>
 When you make a Save against incoming damage, you can use 1 Action to instead take half as much damage. <br>
 If the damage is already halved by you succeeding on the save, you instead take no damage?
 
-### Level 5: Subclass Feature
-You gain the Level 5 Feature of your chosen Rogue Subclass.
-
-### Level 6?: Easy Does It? Measure Twice? Careful Deliberation?
+### Level 3?: Easy Does It? Measure Twice? Careful Deliberation?
 When you make a Test of Skill, you may use 1 additional Action to grant yourself Advantage on that Test. <br>
 If you do so, that Test cannot be Interrupted.
 
-### Level 6?: Reliable Talent?
+### Level 3?: Reliable Talent?
 When you make a Skill Test and roll a number on the die that is lower than that of the Skill Bonus, you may treat the die as if it had rolled that number instead.
 
-### Level 7: Subclass Feature
-You gain the Level 7 Feature of your chosen Rogue Subclass.
-
-### Level 8: Elusive
+### Level 4: Elusive
 Provided you aren't Blinded, Deafened, or Incapacitated, no Attack made against you can gain Advantage.
 
-### Level 9: Subclass Feature
-You gain the Level 9 Feature of your chosen Rogue Subclass.
-
-### Level 10: Stroke of Luck
+### Level 5: Stroke of Luck
 If you would fail a Test, you may choose to succeed instead. <br>
 You can use this feature once per Rest.
 
@@ -91,15 +76,15 @@ You have Climb Speed equal to your Speed.
 ### Level 1: Swift Fingers? Supreme Sneak?
 When you would make a Finesse Test or Stealth Test on your turn, you may use 1 additional Action to gain Advantage on that Test?
 
-### Level 3: Supreme Sneak?
+### Level 2: Supreme Sneak?
 When you would make a Finesse Test or Stealth Test on your turn, you may use 1 additional Action to gain Advantage on that Test?
 
-### Level 5: Pilferer of Trinkets?
+### Level 3: Pilferer of Trinkets?
 You can use any item as a Focus to cast a Spell regardless of your Proficiencies? (PHRASING? "Any item that is storing the spell you'd cast") <br>
 More attunement slots? Better carrying capacity?
 
-### Level 7: ???
+### Level 4: ???
 ???
 
-### Level 9: Thief's Reflexes
+### Level 5: Thief's Reflexes
 When Combat starts, you may take an extra turn before the start of the first round.

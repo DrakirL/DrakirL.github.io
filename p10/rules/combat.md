@@ -52,8 +52,8 @@ When you score a hit with a Martial Attack, you may do one of the following thin
 #### <br>
 
 *If the Attack is Ranged, it is Interruptible. (PHRASING?)* <br>
-*Range Increments: The lower value is the base range and used as one would expect. The greater value is made with an innately imposed Disadvantage. If the attack also has Disadvantage from external circumstances, the greater value can't be used.*
-*Crits: Add +2 to the Success Grade on a Natural 20?* <br>
+*Extended Range: You can attack any target within the defined range as normal. You can attack a target outside that range by applying a -1 penalty on the Test for each Pace you exceed the range by.*
+*Crits: On a Natural 20, double the result of the Success Grade.* <br>
 *Shove: You can stack distance for a single shove, but it must all be in a single direction.*
 <br><br>
 
@@ -225,10 +225,10 @@ If you lack the Proficiency needed for a given weapon, you gain Disadvantage on 
 #### <br>
 
 **Ranged**
-+ Dart/Shuriken: Base Damage (1 Piercing). Thrown (4/8 paces).
-+ Sling: Base Damage (1 Bludgeoning). Ranged (4/16 paces). Ammunition (Rocks/"Bullets"/"Junk").
-+ Hand? Crossbow: Uses Agility. Base Damage (1 Piercing). Ranged (10/40 paces). Ammunition (Bolts). Loading (1).
-+ Large Crossbow: Uses Agility. Base Damage (2 Piercing). Ranged (20/80 paces). Two-Handed. Ammunition (Bolts). Loading (1).
++ Dart/Shuriken: Base Damage (1 Piercing). Thrown (4 paces).
++ Sling: Base Damage (1 Bludgeoning). Ranged (4 paces). Ammunition (Rocks/"Bullets"/"Junk").
++ Hand? Crossbow: Uses Agility. Base Damage (1 Piercing). Ranged (10 paces). Ammunition (Bolts). Loading (1).
++ Large Crossbow: Uses Agility. Base Damage (2 Piercing). Ranged (20 paces). Two-Handed. Ammunition (Bolts). Loading (1).
 #### <br>
 
 ### Advanced Weapons
@@ -252,17 +252,17 @@ If you lack the Proficiency needed for a given weapon, you gain Disadvantage on 
 <br>
 
 **Ranged**
-+ Shortbow: Uses Agility. Base Damage (2 Piercing). Range (10/40 paces). Ammunition (Arrows).
-+ Longbow: Uses Agility. Base Damage (3 Piercing). Range (20/80 paces). Two-Handed. Ammunition (Arrows).
-+ Pistol: Uses Agility. Base Damage (2 Piercing). Range (10/40 paces). Ammunition (Bullets). Loading (1). Quickfire.
-+ Rifle: Uses Agility. Base Damage (3 Piercing). Range (20/80 paces). Two-Handed. Ammunition (Bullets). Loading (1). Quickfire.
++ Shortbow: Uses Agility. Base Damage (2 Piercing). Ranged (10 paces). Ammunition (Arrows).
++ Longbow: Uses Agility. Base Damage (3 Piercing). Ranged (20 paces). Two-Handed. Ammunition (Arrows).
++ Pistol: Uses Agility. Base Damage (2 Piercing). Ranged (10 paces). Ammunition (Bullets). Loading (1). Quickfire.
++ Rifle: Uses Agility. Base Damage (3 Piercing). Ranged (20 paces). Two-Handed. Ammunition (Bullets). Loading (1). Quickfire.
 #### <br>
 
 ### Weapon Properties
 **Two-Handed:** To make properly use a Heavy weapon to make an Attack, you must be wielding it with both hands.<br>
 **Reach (X):** Your reach for Martial Melee Attacks attacks properly using a Reach weapon extends to become no shorter than the given value. (PHRASING?) *(Double the range for each size increase)*.
-**Thrown (X/Y):** You can throw a Thrown weapon at a target within the given range and it will still count as using it properly. *(Double the range for each size increase)*
-**Ranged (X/Y):** To use a Ranged weapon properly, you must use it to make a Ranged Martial Attack against a target within the given range. *(Double the range for each size increase)*
+**Thrown (X):** You can throw a Thrown weapon at a target using the given range and it will still count as using it properly. *(Double the range for each size increase)*
+**Ranged (X):** To use a Ranged weapon properly, you must use it to make a Ranged Martial Attack against using the given range. *(Double the range for each size increase)*
 **Ammunition (X)** To use an Ammunition weapon properly, you must provide a of the specified type of ammunition. After the attack is made, the used piece of ammunition is lost.
 **Loading (X):** To use a Loading weapon properly, it must've been loaded beforehand. After being loaded, it can be used to make up to the given number of Attacks before it must be loaded again. To load a weapon takes 1 Action. We can assume that all weapons are fully loaded before entering a new combat scene.
 **Quickfire:** Ranged Attacks made properly using a Quickfire weapon are not Interruptible.

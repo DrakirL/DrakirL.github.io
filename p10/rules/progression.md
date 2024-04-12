@@ -30,28 +30,28 @@ Challenge Rating (CR) is a scale used to determine how threatening a monster is 
 If a creature's Level = X >= 1, that means the following:
 + HP = [2 - 7] + X * Size[1 - 5]
 + Defence = X + [5 - 10]
-+ Hit = X + [0 - 5]
++ Hit = 2 * X + [0 - 5]
 + Burst = ~5 + 2 * X
 + DPR? = ~5 + X?
 #### <br>
 
 As a general rule, A level X monster will put up a fair fight against a single level X adventurer.<br>
-The greatest single threat that a trio of level X adventurers could expect to take on, is a level X+5 monster. <br>
-If you want a greater challenge for your party, and/or have a larger party that needs greater threats to be challenged, consider having multiple sets of enemies (3 CR X = 6 CR X/2 = X CR 1) and force the players to spread out their efforts.
+The greatest single threat that a trio of level X adventurers could expect to take on, is a level [2 * X] monster. <br>
+If you want a greater challenge for your party, and/or have a larger party that needs greater threats to be challenged, consider having multiple sets of enemies (1 level 2X = 3 level X = 6 level X/2 = X level 1) and force the players to spread out their efforts? (THIS SCALE WILL DETERMINE THE ENTIRE GAME FEEL)
 
 ### Special CR values
-**0:** Basic cannon fodder, like a commoner or a goblin. Its maximum output in a round is on par with 1 Action from an adventurer, and it could die from a single hit. <br>
+**0:** Basic cannon fodder, like a commoner or a goblin. Its output in a round is on par with 1 Action from an adventurer, and it could die from a single hit. <br>
 + HP = 2 + Size[1 - 5]
-+ Defence = [5 - 10]?
++ Defence = 10
 + Hit = 0
-+ Burst = ~5
++ Burst = ~3
 + DPA = 1
 #### <br>
-**1/2:** The commoners greatest threat, such as a wolf or a LotR orc. As powerful as a Level 0 adventurer. <br>
+**1/2:** The commoners greatest threat, such as a wolf or a LotR orc. As powerful as a "Level 0" adventurer. <br>
 + HP = [2 - 7] + Size[1 - 5]
-+ Defence = ~10
++ Defence = [10 - 15]
 + Hit = [0 - 5]
-+ Burst = ~7?
++ Burst = ~5
 + DPA = ~2
 #### <br>
 

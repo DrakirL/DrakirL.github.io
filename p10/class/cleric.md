@@ -26,8 +26,12 @@ Preachers of ??? <br>
 ## Cleric Class Features
 These are the core features granted for the Cleric Class.
 
-### Level 1: Spellcasting
+### Core: Devotion?
 You learn 9? Divine Spells of your choice.
+
+### Core: Divine/Clerical? Domain/Purpose?
+Each Archetype for the Cleric Class comes with a Core Feature. <br>
+Choose your Archetype and gain its Core Feature.
 
 ### Level 1: Divine Spark
 You can use any Channel Divinity Ability you have once per Rest. *PHRASING?
@@ -39,11 +43,7 @@ In addition, you gain the Channel Divinity Ability: *Divine Spark*.
 You present your holy symbol to a creature within 60 feet of you. It either regains HP equal to a number of d8s equal to your Level or it must make a Charisma Save (your choice). <br>
 A creature takes Radiant or Infernal damage (your choice) equal to equal to a number of d8s equal to your Level on a failed Save, or half as much on a success.
 
-### Level 1: Cleric Subclass
-You choose a Cleric Subclass and gain its Level 1 Features. <br>
-Your subclass comes with a list of Domain Spells. You learn these Spells at the defined levels, and they count as Divine Spells for you, even if they don't normally. (PHRASING?)
-
-### Level 2: Holy Order
+### Level 1: Holy Order
 Choose one of the following benefits:
 <br><br>
 **Crusader** <br>
@@ -60,34 +60,20 @@ After you've dealt this damage, you can't do so again until you regain your Acti
 <br><br>
 The damage dealt this way is either Infernal or Radiant. You choose which when you gain this feature.
 
-### Level 3: Subclass Feature
-You gain the Level 3 Feature of your chosen Cleric Subclass.
-
-### Level 4: Divine Invervention?
-You gain the following Channel Divinity Ability:
-#### Divine Intervention
+### Level 2: Divine Invervention?
 You can use 3 Actions on your turn to say a prayer and try call on your deity to intervene on your behalf. Describe the assistance you seek and roll a d8. <br>
 If you roll a 1, the prayer is immidiately answered as the deity directly intervenes, briefly appearing to provide the assistance you prayed for. <br>
 The GM decides how the intervention takes form. Usually, creating the effects of any one Spell you know or a Divine Spell the GM's choice is appropriate.
 <br><br>
-If your deity does intervene, you cannot use this feature to make it intervene again for remainder of the adventure.
+If your deity does intervene, you cannot use this feature to make it intervene again for remainder of the adventure/until you finish a Rest?
 
-### Level 5: Subclass Feature
-You gain the Level 5 Feature of your chosen Cleric Subclass.
-
-### Level 6: Improved Divine Intervention
+### Level 3: Improved Divine Intervention
 When you use your *Divine Intervention*, you may now roll up to two d8. Your prayer is answered if you roll a 1 on either die.
 
-### Level 7: Subclass Feature
-You gain the Level 7 Feature of your chosen Cleric Subclass.
-
-### Level 8: Improved Divine Intervention
+### Level 4: Improved Divine Intervention
 When you use your *Divine Intervention*, you may now roll up to three d8. Your prayer is answered if you roll a 1 on any of the dice.
 
-### Level 9: Subclass Feature
-You gain the Level 9 Feature of your chosen Cleric Subclass.
-
-### Level 10: Improved Divine Intervention
+### Level 5: Improved Divine Intervention
 When you use your *Divine Intervention*, you may now roll up to four d8. Your prayer is answered if you roll a 1 on any of the dice.
 
 ## Bard Subclass: War Domain.

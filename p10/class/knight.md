@@ -26,7 +26,7 @@ Fierce fighters who could take on armies by themselves. <br>
 ## Knight Class Features
 These are the core features granted for the Knight Class.
 
-### Level 1: Fighting Style
+### Core: Fighting Style
 You gain one of the following benefits of your choice:
 <br><br>
 **Dual Wielding** <br>
@@ -41,45 +41,30 @@ After doing so, you can't do so again until you've regained your Actions.
 After you've used a properly wielded shield to increase Defence or make a Martial Attack, you can regain 1 of the Actions you used. <br>
 After doing so, you can't do so again until you've regained your Actions.
 
-### Level 1: Second Wind
+### Core: Second Wind
 You can use 1 Action on your turn to spend MP, up to double your Mana Spending Limit, and regain 1 HP for each MP spent.
 
-### Level 1: Knight Subclass
-You choose a Knight Subclass and gain its Level 1 Features.
-
-### Level 2: Maneuvers? Martial/Combat/Fighting Prowess?
+### Level 1: Maneuvers? Martial/Combat/Fighting Prowess?
 Learn 3 different Maneuvers. <br>
 Your Maneuver Die is a d4. <br>
 If a Maneuver forces another creature to make a Save, use your Passive Martial Skill as the Difficulty.
 
-### Level 2: Steeled Resolve
+### Level 1: Steeled Resolve
 If you would fail a Save, you can use 1 Action to reroll it and use the new result instead.
 
-### Level 3: Subclass Feature
-You gain the Level 3 Feature of your chosen Knight Subclass.
-
-### Level 4: Improved Maneuvers
+### Level 2: Improved Maneuvers
 You learn one additional Maneuver. <br>
 Your Maneuver Die is now a d6.
 
-### Level 5: Subclass Feature
-You gain the Level 5 Feature of your chosen Knight Subclass.
-
-### Level 6: Improved Maneuvers
+### Level 3: Improved Maneuvers
 You learn one additional Maneuver. <br>
 Your Maneuver Die is now a d8.
 
-### Level 7: Subclass Feature
-You gain the Level 7 Feature of your chosen Knight Subclass.
-
-### Level 8: Improved Maneuvers
+### Level 4: Improved Maneuvers
 You learn one additional Maneuver. <br>
 Your Maneuver Die is now a d10.
 
-### Level 9: Subclass Feature
-You gain the Level 9 Feature of your chosen Knight Subclass.
-
-### Level 10: Improved Maneuvers
+### Level 5: Improved Maneuvers
 You learn one additional Maneuver. <br>
 Your Maneuver Die is now a d12.
 
@@ -137,19 +122,19 @@ Learn maneuvers early, and learn 3 more?
 You gain 1 additional Skill Point this level. <br>
 Increase one of your Attributes by 1, up to 5.
 
+### Level 2: Simply Superior
+You gain 1 additional Skill Point this level. <br>
+Increase one of your Attributes by 1, up to 5.
+
 ### Level 3: Simply Superior
 You gain 1 additional Skill Point this level. <br>
 Increase one of your Attributes by 1, up to 5.
 
+### Level 4: Simply Superior
+You gain 1 additional Skill Point this level. <br>
+Increase one of your Attributes by 1, up to 5.
+
 ### Level 5: Simply Superior
-You gain 1 additional Skill Point this level. <br>
-Increase one of your Attributes by 1, up to 5.
-
-### Level 7: Simply Superior
-You gain 1 additional Skill Point this level. <br>
-Increase one of your Attributes by 1, up to 5.
-
-### Level 9: Simply Superior
 You gain 1 additional Skill Point this level. <br>
 Increase one of your Attributes by 1, up to 5.
 
@@ -165,16 +150,16 @@ Increase your Authority Skill Grade by 1. <br>
 ### Level 1: ???
 ???
 
+### Level 2: ???
+???
+
 ### Level 3: ???
 ???
 
+### Level 4: ???
+???
+
 ### Level 5: ???
-???
-
-### Level 7: ???
-???
-
-### Level 9: ???
 ???
 
 ## Knight Subclass: Cavalier
@@ -186,16 +171,16 @@ Increase your Handling Skill Level by 1. <br>
 ### Level 1: Hold the Line!
 When a creature within your Reach makes an Attack against a creature other than you, you treat the Attack as if it were Interruptible.
 
+### Level 2: ???
+???
+
 ### Level 3: ???
 ???
 
+### Level 4: ???
+???
+
 ### Level 5: ???
-???
-
-### Level 7: ???
-???
-
-### Level 9: ???
 ???
 
 ## Knight Subclass: Paladin
@@ -207,16 +192,16 @@ THEME: Charge into battle before the rest of your party and keep the enemy in pl
 ### Level 1: Divine Smite
 When you hit a creature with an attack, you can expend a Spell Slot to deal it 1d8 Radiant or Infernal damage (your choice) per Rank of the expended Spell Slot.
 
-### Level 3: Sacred Virtue
+### Level 2: Sacred Virtue
+???
+
+### Level 3: ???
+???
+
+### Level 4: ???
 ???
 
 ### Level 5: ???
-???
-
-### Level 7: ???
-???
-
-### Level 9: ???
 ???
 
 ## Knight Subclass: Warmaster?
@@ -230,14 +215,14 @@ You can gague the potential combat abilities of any creature you observe/interac
 ### Level 1: ???
 ???
 
+### Level 2: ???
+???
+
 ### Level 3: ???
 ???
 
+### Level 4: ???
+???
+
 ### Level 5: ???
-???
-
-### Level 7: ???
-???
-
-### Level 9: ???
 ???
