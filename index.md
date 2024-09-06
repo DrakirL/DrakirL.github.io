@@ -10,16 +10,15 @@
 ---
 ## Packaged Projects (Ready for Download)
 [Implico Proelium](/games/implico_proelium) <br>
-<img src="images/IP_2.png?raw=true"/>
-<br>
+<img src="games/images/IP_2.png?raw=true"/>
 <br>
 
 [DOWN](/games/down)<br>
-<img src="images/DOWN_1.png?raw=true"/>
+<img src="games/images/DOWN_1.png?raw=true"/>
 <br>
 
 ["Fantasy Shooter"](/games/fantasy_shooter)<br>
-<img src="images/FS_1.png?raw=true"/>
+<img src="games/images/FS_1.png?raw=true"/>
 <br>
 
 <!--
