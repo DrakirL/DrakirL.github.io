@@ -1,12 +1,5 @@
 # Portfolio
 
-<!--
----
-### Bachelor Thesis
-[Action in Reading Comprehension](/thesis)
-<img src="images/HiS.png?raw=true"/>
--->
-
 ---
 ## Packaged Projects (Ready for Download)
 [Implico Proelium](/games/implico_proelium) <br>
@@ -36,6 +29,11 @@
     A project containing small generic console solutions I've handled in my free time <br>
     [Click here to download](https://drive.google.com/file/d/1AAiH4BnhP6MvRvFwzGZWxhAqMwQgM2ch/view?usp=sharing)
 -->
+
+---
+### Bachelor Thesis
+[Action in Reading Comprehension](/thesis)<br>
+<img src="images/HiS.png?raw=true"/>
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
