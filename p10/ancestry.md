@@ -6,7 +6,7 @@ If your ancestry to belong to more than one race, just pick one and declare it a
 
 ## Humans
 Humans are found everywhere, being the most common and most widespread race by a large margin. <br>
-Their cultures are diverse, but generally value progress and commerce/interaction with other cultures.
+Their cultures are diverse, but generally value developmental progress and free commerce, both of which they'll graciously extend to other cultures, provided there is potential for mutual gain.
 ### Increased Attributes
 +1 to each of your Attributes.
 ### Cultural Ambassador
@@ -22,13 +22,13 @@ Choose one of the following benefits:
 You start with an additional 5 gp worth of equipment and learn a Standard Language of your choice.
 <br><br>
 **Expert** <br>
-You gain 5 additional Skill Point.
+Increase the Grade for one of your Skills by 1.
 <br><br>
 **Mage** <br>
-You learn one Rank 1 Cantrip Spell of your choice from any Spell List.
+You learn one Cantrip Spell of your choice.
 <br><br>
 **Warrior** <br>
-You have one additional Hit Die.
+Increase your Maximum HP by 1.
 
 ## Jotun
 Jotun are known to be tall and muscular with next to no hair, except for lucious locks in the areas of their head where "the gods intended" (Scalp for women, chin for men). <br>
@@ -39,26 +39,27 @@ Today, most Jotun lead a nomadic lives in large wandering herds not too dissimil
 ### Towering Build
 Your Carrying Capacity is doubled.
 ### Great Steps
-Your unaltered base Speed is 35 feet.
+Your unaltered base Speed is 5.
 ### Archetypical Adventurer
 Choose one of the following benefits:
 <br><br>
 **Expert** <br>
-You gain 5 additional Skill Points to spend.
+Increase the Grade for one of your Skills by 1.
 <br><br>
 **Warrior** <br>
-You have one additional Hit Die.
+Increase your Maximum HP by 1.
 
 ## Dwarves
 Dwarves are known to be blocks of thick skin, big bones, and large muscle, covered in long and thick hair. <br>
 Their cities are carved out from the insides of mountains over many generations of continous work, creating stunning halls of grandeur. <br>
-Today, the greatest of these cities operate with fully independent autonomy at scales comparable to whole countries.
+Today, the greatest of these cities operate with autonomy and influence comparable to whole countries, though not as widespread by any means.
 ### Increased Attributes
 +2 to your Strength Attribute.
 ### Darkvision (Eyes of the mountain?)
 You have Darkvision.
 ### Sturdy Guts
-You are Resistant to Poison damage, and you gain Advantage on any Save you make against being Poisoned or contracting a disease.
+You have 1 Resistance to Poison damage<br>
+You gain Advantage on any Save you make against being Poisoned or contracting a disease.
 ### Archetypical Adventurer
 Choose one of the following benefits:
 <br><br>
@@ -66,7 +67,7 @@ Choose one of the following benefits:
 You start with an additional 5 gp worth of equipment and learn a Standard Language of your choice.
 <br><br>
 **Warrior** <br>
-You have one additional Hit Die.
+Increase your Maximum HP by 1.
 
 ## Gnome
 Gnomes are known to be short and ??? <br>
@@ -84,10 +85,10 @@ If you would roll a natural 1 on a Check, you may reroll the die and use the new
 Choose one of the following benefits:
 <br><br>
 **Expert** <br>
-You gain 5 additional Skill Points to spend.
+Increase the Grade for one of your Skills by 1.
 <br><br>
 **Mage** <br>
-You learn one Rank 1 Cantrip Spell of your choice from any Spell List.
+You learn one Cantrip Spell of your choice.
 
 ## Elves
 Elves are known to be fair and have pointed features, including a set of recognizably long ears. <br>
@@ -108,17 +109,17 @@ Choose one of the following benefits:
 You start with an additional 5 gp worth of equipment and learn a Standard Language of your choice.
 <br><br>
 **Mage** <br>
-You learn one Rank 1 Cantrip Spell of your choice from any Spell List.
+Learn one Cantrip Spell of your choice.
 
 ## Changelings
-Changelings, in their true forms, are blank, in every sense of the word. Like a marble statues of the humans they could have been. <br>
+Changelings, in their true forms, are blank in every sense of the word. Like marble statues of the humans they could have been. <br>
 As changelings are rare, they generally live in other cultures by disguising themselves as whatever race is relevant. <br>
 ???
 ### Increased Attributes
-+2 to your Charisma Attribute.
++2 to your Will Attribute.
 ### Change Appearence
-You can use your action to change your looks into that of any Humanoid you choose. <br>
-Your Attributes and Features are unchanged, and your equipment is unaffected. <br>
+You can use your action to change your looks into that of any Humanoid form you choose. <br>
+Your Attributes and Talents are unchanged, and your equipment is unaffected. <br>
 You remain in this form until you die or use this feature again.
 ### ???
 ???
@@ -129,7 +130,7 @@ Choose one of the following benefits:
 You start with an additional 5 gp worth of equipment and learn a Standard Language of your choice.
 <br><br>
 **Expert** <br>
-You gain 5 additional Skill Points to spend.
+Increase the Grade for one of your Skills by 1.
 
 ## Drakkar?
 Drakkar are known to be large and scaley? and what else??? <br>
@@ -140,15 +141,15 @@ Reproduce asexually?
 ### Drake's Eyes?
 You have Perception/Darkvision?
 ### Elemental Heritage
-Choose one of the following Damage types: Acid, Cold, Fire, or Lightning. You gain the following benefits:
-+ You are Resistant to damage of your chosen type.
-+ You can use your Action to exhale a torrent of energy in a 15-foot Blast originating from you. Each creature within the area must make an Agility Save against your Passive Magic Skill, taking to 1d8 damage of the chosen type per Level on a fail, or half as much on a success.
+Choose Acid damage, Cold damage, Fire damage, or Lightning damage. You gain the following benefits:
++ You have 1 Resistance against your chosen damage type.
++ You can use 1 Action to exhale a torrent of energy (Range: Self, Area: Blast 15). Make a Casting Test. Each other creature within the area must make an Agility Save against your Magic Might, taking to damage equal to your Degree on a fail, or half as much on a success. The damage is of your chosen damage type.
 #### <br>
 ### Archetypical Adventurer
 Choose one of the following benefits:
 <br><br>
 **Mage** <br>
-You learn one Rank 1 Cantrip Spell of your choice from any Spell List.
+Learn one Cantrip Spell of your choice.
 <br><br>
 **Warrior** <br>
-You have one additional Hit Die.
+Increase your Maximum HP by 1.

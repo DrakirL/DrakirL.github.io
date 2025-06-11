@@ -4,21 +4,52 @@
 ## Rounds and Turns
 ???
 
-## HP & Damage
-A creature's hardiness is  expressed in the form of Hit Points, or HP for short. A player's Maximum HP is equal to their Strength Attribute plus the size of their Hit Die (determined by their class) times their Level. <br>
-As long as a creature has at least 1 HP, it is healthy enough to stand up and act as normal. <br>
-As long as a creature has HP at least equal to its Death Threshold, it is able to fully recover if given enough rest. *(FYI: At this point we're using negative numbers)* <br>
-A creature with fewer HP than its Death Threshold is *DEAD*.
+## Staying Alive
+A creature's hardiness is expressed in the form of Hit Points, or HP for short. A player's Maximum HP is equal to their Strength Attribute plus their "Hit Points per Level" (determined by their class) times their Level. (PHRASING? Do we need a name for HP/L?)<br>
+As long as a creature has at least 1 HP, it is healthy enough state to stand up and act as normal. If a creature has 0 or fewer HP... Well, we'll get to that later...<br>
+
+### Damage Types & Resistances
+The main way of reducing a creature's HP is by dealing damage. Whenever damage is dealt, the type is specified. This does not inherently come with any drawbacks or benefits, but could be used that way for flavor and fun interactions.<br>
+Creatures can have varying amount of Resistance against certain damage types, either innately or granted by Talents and/or certain circumstances.<br>
+When a creature takes damage of any given type, reduce the damage they take by their Resistance against that type. A "Weakness" is just a negative Resistance, resulting in more damage being taken. An "Immunity" is treated an unlimited Resistance, which always reduces the damage to 0.<br>
+The damage types are sorted into categories for ease of reference. As a design rule, no single roll will deal damage of more than one type from each category.
+<br><br>
+
+**Physical**
++ Bludgeoning
++ Piercing
++ Slashing
+#### <br>
+
+**Discordant? Mental?**
++ Poison? Toxic?
++ Psychic
++ Sonic
+#### <br>
+
+**Elemental**
++ Acid
++ Cold
++ Fire
++ Lightning
+#### <br>
+
+**Spiritual**
++ Infernal? Unholy?
++ Necrotic
++ Radiant? Holy?
+#### <br>
 
 ### Lethal Damage & Death's Door
-If a creature takes damage that reduces its HP to 0 or below, that damage is considered Lethal. When a creature takes Lethal damage, its controller decides whether to relinquish their control (by dying or falling unconcious for an indeterminate amount of time, depending on context and the attacker's intent) or remain active on Death's Door. <br>
-A creature is considered to be on Death's Door as long as it has 0 or fewer HP without being dead or otherwise taken out. <br>
-A creature on Death's Door can't maintain Concentration, ???, and has only 1 Action to take per Round. <br>
+If a creature takes damage that reduces its HP to 0 or below, that damage is considered Lethal. When a creature takes Lethal damage, its controller decides whether to relinquish their control (by dying or falling unconcious for an indeterminate amount of time, depending on context and the attacker's intent) or remain active on Death's Door.<br>
+A creature is considered to be on Death's Door as long as it has 0 or fewer HP without having been taken out.<br>
+A creature on Death's Door can't maintain Concentration and has only 1 Action to take per Round. Entering Death's Door wastes unused Actions first, and being brought back from Death's Door doesn't refresh any Actions.<br>
 
-### Lasting Damage: Exhaustion
-When a creature takes damage that reduces its HP below 0, its Exhaustion is set to reflect it. (PHRASING? -5 HP = 5 Exhaustion. 2 more damage = 7 Exhastion. Healed = still 7 Exhaustion)<br>
-A creature can have an amount of Exhaustion up to their Death Threshold and remain active. *Penalty from having exhaustion? <br>
-If it ever has any more, its controller must relinquish their control (death/unconciousness).
+### Exhaustion
+Whenever a creature's HP is reduced below 0, its Exhaustion is set to the absolute value of its now negative HP, unless the Exhaustion is already greater.<br>
+While a creature has any Exhaustion, subtract is Exhaustion from its Martial Might and Magic Might.<br>
+Whenever a creature that has any Exhaustion makes any kind of Test, subtract its Exhaustion from its roll.<br>
+A creature can have an amount of Exhaustion up to their Death Threshold and remain active. If a creature's Exhaustion EVER exceeds its Death Threshold, it immidiately dies (or falls unconcious for an indeterminate time, if the GM is feeling merciful).<br>
 
 ## Actions
 During combat, every second counts, and it is important to know how every moment of every round is spent. <br>
@@ -26,11 +57,12 @@ To do this, we use Actions. An adventurer gets 3 Actions at the start of a battl
 The details regarding the most common reoccuring options have been pre-defined, but if someone wants to do something not defined, it may still be done, either as part of another action or as an Action on its own. <br>
 You may spend these Actions on your turn for whatever task you decide to spend your time to attempt.
 <br><br>
+
 Here are some guidelines if you need to improvise:
-+ Doing one thing one time = Using one action. It doesn't matter how much the thing could end up affecting down the road.
-+ If a non-Save Test is made, it should use an Action.
++ Doing one thing one time = Using 1 Action. It doesn't matter how great the eventual consequences are down the road.
++ If a non-Save Test must be made, it should use Actions.
 + 1 Action = about a second or two of active effort. If it takes longer than that, it should use more than 1 Action and probably be Interruptible.
-+ Reactions aren’t improvised. Use "Prepared Actions" instead. <br>
++ Reactions aren’t improvised. Use "Prepared Actions" instead.
 #### <br>
 
 Examples:
@@ -44,28 +76,26 @@ Examples:
 **Attack Action** <br>
 Make a Martial Attack, using either your body or an object you are holding in either hand (or drawing/picking up as part of the same action), against a target within your reach or range. <br>
 When you score a hit with a Martial Attack, you may do one of the following things:
-+ Deal 1 damage to the target (Bludgeoning/Piercing/Slashing depending on context)
++ Deal 1* damage to the target. The damage type depends on the nature of the attack, though it is usually Physical.
 + Grapple the target.
-+ Shove the target 1 Pace.
++ Shove the target 1* Pace.
 + Knock Down the target (provided it is no larger than you).
 + Knock an object out of the target's grip. (PHRASING?)
 #### <br>
 
 *If the Attack is Ranged, it is Interruptible. (PHRASING?)* <br>
-*Extended Range: You can attack any target within the defined range as normal. You can attack a target outside that range by applying a -1 penalty on the Test for each Pace you exceed the range by.*
-*Crits: On a Natural 20, double the result of the Success Grade.* <br>
-*Shove: You can stack distance for a single shove, but it must all be in a single direction.*
+*Extended Range: You can attack any target within the defined range as normal. You can attack a target outside that range by increasing the Difficulty by 1 for each pace you exceed the range by.*
 <br><br>
 
 **Brace Action** <br>
 Prepare for the worst and steel your nerves by using any number of Actions. <br>
-Until the start of your next turn, you add a +1 bonus to your Defence, Awareness, and any Save you make. <br>
+Until the start of your next turn, you add a +1 bonus to your Defence, your Awareness, and any Save you make. <br>
 *Yes, this can be stacked with itself.*
 <br><br>
 
 **Care Action** <br>
-Make a Medicine Test to try and mitigate the damage a severly hurt creature has taken (Difficulty = 10 + target's Exhaustion). <br>
-On a success, the creature is regains 1 HP (+1 per Stage), but not over 0. (PHRASING?) <br>
+Make a Test of Medicine to try and mitigate the damage a severly hurt creature has taken (Difficulty = 10 + target's Exhaustion). <br>
+On a success, the creature is regains up to 1* HP. A creature can't be restored above 0 HP this way.<br>
 This Action is Interruptible.
 <br><br>
 
@@ -76,33 +106,34 @@ This Action is Interruptible.
 <br><br>
 
 **Help Action** <br>
-Declare which creature you are helping and what kind of Test you will be aiding them with to gain a d6 Help Die until your next turn. *For roleplay reasons, you have to descibe how you are able to help to do so. Have good reasons, and your declaration could be allowed some room for vagueness or generous interpretation* <br>
-You cannot declare the same creature and Test more than once in a given turn. (PHRASING? At least one must differ. You can help multiple creatures with one Martial Attack each or help one creature with multiple different Tests.)
+If you don't already have a Help Die, declare either "Attack" or the name of a Skill and gain a d6 Help Die until your next turn. *For roleplay reasons, you have to descibe how you are able to help to do so. Have good reasons, and your declaration could be allowed some room for vagueness or generous interpretation*<br>
+If you already have a Help Die, increase its size by one stage instead, up to a d12.
 <br><br>
-When that creature makes a Test of the declared kind whilst within your Reach, roll your prepared Help Die and add it to their total roll. <br>
-Alternatively, if the type of Test you declare is an Attack, when that creature Attacks a target that is within your Reach, you can roll your prepared Help Die and add it to their total roll.
+When another creature within your reach makes a Test using the Skill you declared, roll your prepared Help Die and add it to their total roll. <br>
+Alternatively, if you declared "Attack", when another creature Attacks a target that is within your Reach, you can roll your prepared Help Die and add it to the Attack roll.
 <br><br>
 
 **Hide Action** <br>
-Choose a creature or a group of creatures from which you are fully covered and make a Stealth Test against the highest Awareness amongst them. On a success, none of the creatures you chose will know where you went. <br>
+Choose a creature or a group of creatures from which you are Covered and make a Test of Stealth against the highest Awareness amongst them. On a success, none of the creatures you chose will know where you went. <br>
 Your Hiding can end in a *LOT* of different ways, such as you making a noise louder than a whisper or the cover somehow being left/removed/circumvented. (PHRASING?)
-*If they want to find you with a check, such as Investigation or Intuition, what should the Difficulty be? Passive Martial Skill?* <br>
-*Your Stealth Test is made with Advantage if your target(s) have not yet been made aware of your presence.*
+*If they want to find you with a Test, such as Investigation or Intuition, what should the Difficulty be? Passive Martial Skill?* <br>
+*The Test is made with Disadcantage if the Cover used is only Partial.<br>
+*The Test is made with Advantage if your target(s) have not yet been made aware of your presence at all.*
 <br><br>
 
 **Move Action** <br>
-Pick one of your speeds. Move to an unoccupied space within the distance of your chosen speed. <br>
-You may choose to double the speed as you use it, but doing so limits you to move in a straight line and makes the Action Interruptible.<br>
-Your movement you spend is dynamically affected by difficult terrain etc. (PHRASING? DETAILS?) <br>
-You can also make one Check as part of this action to make a tough jump or push through a blockade. <br>
-*Making tough jumps: Make an Athletics Test. The total roll result determines the maximum distances the jump can cover (1 horizontal pace for every increment of 5 and 1 vertical pace for every increment of 10). If you make the jump from doubled movement, you gain Advantage. If you make the jump from standing, you gain Disadvantage.* <br>
-*Pushing through blockades: Make a Brawn Test against the blockade's Hardness (if it's an inanimate object) or Martial Might (if it's a creature). If it's at least one Size smaller than you, you gain Advantage. If it's at least one Size larger than you, you gain Disadvantage.*
+Pick one of your Speeds. Move to an unoccupied space within the distance of your chosen Speed.<br>
+The movement you spend is dynamically affected by Difficult Terrain etc. (PHRASING? DETAILS?)<br>
+This Action is normally Interruptible, but you can choose to only gain half the normal movement to prevent this.<br>
+You can also make one Check as part of this action to make a tough jump or push through a blockade.<br>
+*Making tough jumps: Make a Difficulty 0 Test of Athletics to determine the maximum distances the jump can cover (1* paces horizontally and half as many verically). If you make the jump from using at least 2 Actions worth of movement, you gain Advantage. If you make the jump from standing or "careful movement", you gain Disadvantage.*<br>
+*Pushing through blockades: Make a Test of Brawn against the blockade's Hardness (if it's an inanimate object) or Martial Might (if it's a creature). If it's smaller than you, you gain Advantage. If it's larger than you, you gain Disadvantage.*
 <br><br>
 
 **Spell Action** <br>
 Begin to cast a Spell you have access to through some means. Casting a Spell requires you putting your whole body into it. It is loud, clear, and obvious when a Spell is cast (and most of the time also what spell it is). <br>
 If the casting time is not measured in Actions, the Spell cannot be used in combat. <br>
-This Action is Interruptible, regardless of what Spell is cast. <br>
+Regardless of which Spell is cast, casting a Spell on your turn is Interruptible. <br>
 <br><br>
 
 ### Pre-Defined Reactions
@@ -115,8 +146,8 @@ If the attack hits, the triggering Action(s) are interrupted at the point when t
 *Note: Grappling and Shoving count as attacks, so you can grab or shove someone to prevent them from running.*
 
 **Spell Contribution Reaction**
-When another creature within your Reach casts a Spell, you can use 1 Action to spend any amount of MP (up to your Mana Spend Limit) and add it to the mana value of that Spell.<br>
-To do so, you must describe what you do to improve their odds. *Just so there is some thematic thinking behind it...*
+When another creature within your Reach casts a Spell you know, you can use 1 Action to sjoin in on the casting.<br>
+*Read the spellcasting rules for details*
 
 ### Reserving/Delaying Actions
 To reserve Actions, you first spend the amount of actions needed on your turn and specify a trigger.
@@ -155,140 +186,162 @@ A Frightened creature is unable to make a move that ends in a space closer to th
 The creature also gains Disadvantage on any Test it makes to socially interact with the source of its fear.
 <br><br>
 **Incapacitated** <br>
-An Incapacitated Creature can't take Actions.
+An Incapacitated Creature can't use its Actions.
 <br><br>
-**Sick/Sickened/Poisoned?** <br>
-A Sick creature gains Disadvantage on any Test (maybe not Saves?) it makes.
+**Poisoned? Sick?** <br>
+A Poisoned creature gains Disadvantage on any Test (maybe not Saves?) it makes.
 <br><br>
 **Stunned** <br>
-A Stunned creature is Incapacitated. Extra penalties?
+A Stunned creature is Blinded, Deafened, and Incapacitated. It also can't regain any of its Actions.
 <br><br>
 **Unconcious** <br>
-An Unconcious creature is Incapacitated. Extra penalties?
+An Unconcious creature is Blinded, Deafened, and Incapacitated. It also can't regain any of its Actions. It also falls down and can't hold on to anything.
 
 ### Other
-**Concentration** <br>
-When a creature begins concentrating, its Stress is set to its Starting Stress. <br>
-When a Concentrating creature takes damage, it must add the damage taken to its Stress and make a Will Save against the new value. <br>
-A creature can maintain Concentration on no more than one thing at a time. <br>
-<br><br>
+
+**Difficult Terrain** <br>
+If at least a quarter of the spaces a creature occupies is within a section of Difficult Terrain, it is affected by said terrain. This can result in a plethora of effects depending on the terrain and the source of its difficulty, but it will at least hinder the creature's movement.<br>
+Each pace a creature moves whilst hindered by Difficult Terrain counts as having moved 2 paces *(which makes it easy to get into and hard to get out of)*.
 
 **Falling** <br>
-If a creature that isn't suspended by standing on solid ground or the ability to fly, it falls. <br>
-A falling creature will reach the first stable point directly below it by the time it regains its Actions. <br>
-Upon landing, the creature takes 1 damage for each pace it fell, ignoring ones that are "covered by a jump". ()<br>
-<br>
-If a falling creature lands on a more cushoning surface, the damage is halved. <br>
-Landing on other creatures counts as landing on a cushioning surface. Each creature involved takes resulting damage.
+If a creature that isn't suspended by standing on solid ground or the ability to fly, it falls. A falling creature will reach the first stable point directly below it at some point.
 <br><br>
 
-**Downed/Knocked Down** <br>
-A creature can "Down itself" as part of any other action. Smaller "Hitbox". Some Partial Cover can become Full Cover. (PHRASING? DETAILS?) <br>
-Whilst a creature is downed, its Speeds are halved. <br>
-A downed creature can use 1 Action to stand up. Taking this Action is Interruptible. <br>
-A flying creature that is forcefully knocked down will fall until it hits the ground. It takes fall damage as normal.
+If the creature fell a distance greater than 1 pace, it takes 1 damage for each pace it fell beyond the first.<br>
+If a falling creature lands on some form of cushioning surface, the falling damage is halved. If a creature lands on a different creature no smaller than itself, it counts as cushioning surface.<br>
+If a creature is landed on by a creature no smaller than itself, the falling damage is dealt to the creature being landed on as well.
 <br><br>
 
-**Pushing/Throwing** <br>
-When a creature is moved by force, it instantly travels the appropriate number of paces in a straight line determined by said force. (PHRASING? horizontal only)<br>
-If the intended path of travel is blocked by an obstacle, the creature stops in the last empty space it occupied before the collision and takes 1 damage for each pace of the intended path it didn't travel.<br>
+**Holding Breath** <br>
+Creatures generally need to breathe. If a creature isn't meeting this need at the end of its turn, it gains 1 Exhaustion.<br>
+If a creature is breathing, it can start holding its breath as part of any other Action by making a Difficulty 0 Test of Endurance, bypassing its need to breathe for up to 1* Minutes.
+<br><br>
+
+**Downed** <br>
+A creature can "down itself" as part of any other action. Smaller "Hitbox". Some Partial Cover can become Full Cover. (PHRASING? DETAILS?)<br>
+Whilst a creature is downed, its Speeds are halved.<br>
+A downed creature can use 1 Action to stand up. Taking this Action is Interruptible.<br>
+An airborne creature that is forcefully knocked down falls to the ground before being downed upon landing, taking falling damage as normal.
+<br><br>
+
+**Forced Movement** <br>
+When a creature is moved by force, it instantly travels the appropriate number of paces in a straight line determined by said force.<br>
+If the intended path of travel is blocked by an obstacle, the creature stops in the last empty space it occupied before the collision and takes 1 damage for each pace of force still untravelled.<br>
 Being forcefully pushed into another creature counts as being blocked by an obstacle, but the damage is halved and dealt to both creatures.
 <br><br>
 
 **Grappling** <br>
-If a creature is grappled by something, it can't move into a new space, and any attack it makes against a target other than its grappler gains Disadvantage. <br>
-Whatever is being used to maintain the grapple (such as a tool or a limb) can't be used for anything else without releasing the grappled creature. <br>
-A creature can use 1 Action on its turn to attempt breaking itself or another creature within its Reach free from a grapple. To do so, it must succeed on a Martial Test against the grappler's Martial Might. <br>
-A creature can use 1 Action on its turn to attempt throwing a creature it is grappling up to its base throwing range. To do so, it must succeed on a Martial Test against the grappled creature's Martial Might (Advantage if thrower is bigger, Disadvantage if thrower is smaller). Each degree of success increases the maximum distance by 1 pace. Successful or not, the creature is released from the grapple.
+If a creature is grappled by something, it can't move into a new space, and any Attack it makes against a target other than its grappler gains Disadvantage. <br>
+Whatever tool or limb is being used to maintain the grapple can't be used for anything else without releasing the grappled creature. <br>
+A creature can use 1 Action on its turn to attempt breaking a creatue within its Reach free from being grappled. To do so, it must succeed on a Martial Test against the grappler's Martial Might. <br>
+A creature can use 1 Action on its turn to attempt throwing a creature it is grappling. To do so, it must succeed on a Martial Test against the grappled creature's Martial Might (Advantage if the thrower is of a greater size than the thrown, Disadvantage if thrower is of a smaller size than the thrown. Difficulty 0 if the thrown is willing). On a success, the creature is thrown in a straight line up to a distance equal to the thrower's reach times 1*.
 <br><br>
 
 # Combat Equipment
 ???
 
 ## Weapons
-Weapons are tools meant for combat and therefore improve any Martial Attack you make were you are using it properly. The exact requirements for what counts as "wielding a weapon properly" are determined by the weapon's properties, but as long as you follow every restriction is followed, you gain all its benefits. <br>
-Most commonly, weapons do state that is uses a specific Attribute, in which case you must use that Attribute to use that weapon Properly. <br>
-If you lack the Proficiency needed for a given weapon, you gain Disadvantage on any Attack you make trying to properly use it.<br>
+Weapons are tools meant for combat and therefore improve any Martial Attack you make were you are using it properly. Most commonly, a weapon will state that is uses a specific Attribute, in which case you aren't using the weapon properly unless you're making an Attack using that Attribute.<br>
+The exact requirements for what counts as "wielding a weapon properly" and the benefits for doing so are determined by the weapon's various properties. You must follow every restriction to gain every benefit. There's no partial credit.<br>
+If you lack the Proficiency associated with a given weapon, using a weapon properly becomes more difficult. You can still follow the restrictions and gain the benefits, but you gain Disadvantage on the Attack.
 
 ### Simple Weapons
 *Damage Range: 1 with some bonus and/or flexibility, or 2*
 <br>
 
 **Melee**
-+ Club/Mace: Uses Strength. Base Damage (2 Bludgeoning).
-+ Spear/Javelin: Uses Strength. Base Damage (2 Piercing). Thrown (6/12)?
-+ Shortsword/Sickle: Uses Strength. Base Damage (2 Slashing).
++ Club/Mace: Uses Strength. Damage (2* Bludgeoning).
++ Spear/Javelin: Uses Strength. Damage (2* Piercing). Thrown (4).
++ Shortsword/Sickle: Uses Strength. Damage (2* Slashing).
 
-+ Hammer: Base Damage (1 Bludgeoning). Thrown (4/8 paces).
-+ Dagger: Base Damage (1 Piercing). Thrown (4/8 paces).
-+ Hatchet: Base Damage (1 Slashing). Thrown (4/8 paces).
++ ???: Damage (1* Bludgeoning). Reach (2).
++ ???: Damage (1* Piercing). Reach (2).
++ ???: Damage (1* Slashing). Reach (2).
+
++ Hammer: Damage (1* Bludgeoning). Thrown (4 paces). Off-Handed.
++ Dagger: Damage (1* Piercing). Thrown (4). Off-Handed.
++ Hatchet: Damage (1* Slashing). Thrown (4). Off-Handed.
 #### <br>
 
 **Ranged**
-+ Dart/Shuriken: Base Damage (1 Piercing). Thrown (4 paces).
-+ Sling: Base Damage (1 Bludgeoning). Ranged (4 paces). Ammunition (Rocks/"Bullets"/"Junk").
-+ Hand? Crossbow: Uses Agility. Base Damage (1 Piercing). Ranged (10 paces). Ammunition (Bolts). Loading (1).
-+ Large Crossbow: Uses Agility. Base Damage (2 Piercing). Ranged (20 paces). Two-Handed. Ammunition (Bolts). Loading (1).
++ Dart/Shuriken: Damage (1* Piercing). Thrown (6 paces). Off-Handed.
++ Sling: Damage (1* Bludgeoning). Ranged (6 paces). Ammunition (Rocks/"Bullets"/"Junk").
++ Hand Crossbow: Uses Agility. Damage (1* Piercing). Ranged (10 paces). Off-Handed. Ammunition (Bolts). Loading (1).
++ Crossbow: Uses Agility. Damage (2* Piercing). Ranged (20 paces). Two-Handed. Ammunition (Bolts). Loading (1).
 #### <br>
 
 ### Advanced Weapons
-*Damage Range: 2 with some bonus, or 3 with some restriction*
+*Damage Range: 2 with some bonus, or 3 with some minor restriction*
 **Melee**
-+ Flail: Base Damage (2 Bludgeoning).
-+ Rapier/Trident/Pick?: Base Damage (2 Piercing).
-+ Longsword: Base Damage (2 Slashing).
++ Flail: Damage (2* Bludgeoning).
++ Rapier/Trident/Pick?: Base Damage (2* Piercing).
++ Longsword: Base Damage (2* Slashing).
 
-+ Maul: Uses Strength. Base Damage (3 Bludgeoning). Two-Handed.
-+ Morningstar?: Uses Strength. Base Damage (3 Piercing). Two-Handed.
-+ Axe: Uses Strength. Base Damage (3 Slashing). Two-Handed.
++ Maul: Uses Strength. Damage (3* Bludgeoning). Two-Handed.
++ Morningstar?: Uses Strength. Damage (3* Piercing). Two-Handed.
++ Axe: Uses Strength. Damage (3* Slashing). Two-Handed.
 
-+ ???: Uses Strength. Base Damage (2 Bludgeoning). Two-Handed. Reach (2 paces).
-+ Pike: Uses Strength. Base Damage (2 Piercing). Two-Handed. Reach (2 paces).
-+ Glaive: Uses Strength. Base Damage (2 Slashing). Two-Handed. Reach (2 paces).
++ ???: Uses Strength. Damage (2* Bludgeoning). Two-Handed. Reach (2 paces).
++ Pike: Uses Strength. Damage (2* Piercing). Two-Handed. Reach (2 paces).
++ Glaive: Uses Strength. Damage (2* Slashing). Two-Handed. Reach (2 paces).
 
-+ Lance: Uses Strength. Base Damage (2 Piercing). Reach (4 paces).
-+ Whip: Base Damage (1 Slashing). Reach (4 paces). On hit, you may also grapple the target.
++ Lance: Uses Strength. Damage (2* Piercing). Reach (4 paces).
++ Whip: Damage (1* Slashing). Reach (4 paces). On hit, you may either grapple or knock down the target.
 #### <br>
 <br>
 
 **Ranged**
-+ Shortbow: Uses Agility. Base Damage (2 Piercing). Ranged (10 paces). Ammunition (Arrows).
-+ Longbow: Uses Agility. Base Damage (3 Piercing). Ranged (20 paces). Two-Handed. Ammunition (Arrows).
-+ Pistol: Uses Agility. Base Damage (2 Piercing). Ranged (10 paces). Ammunition (Bullets). Loading (1). Quickfire.
-+ Rifle: Uses Agility. Base Damage (3 Piercing). Ranged (20 paces). Two-Handed. Ammunition (Bullets). Loading (1). Quickfire.
++ Shortbow: Uses Agility. Damage (1* Piercing). Ranged (10 paces). Ammunition (Arrows).
++ Longbow: Uses Agility. Damage (2* Piercing). Ranged (20 paces). Two-Handed. Ammunition (Arrows).
++ Pistol: Uses Agility. Damage (2* Piercing). Ranged (10 paces). Off-Handed. Ammunition (Bullets). Loading (1).
++ Rifle: Uses Agility. Damage (3* Piercing). Ranged (20 paces). Two-Handed. Ammunition (Bullets). Loading (1).
 #### <br>
 
 ### Weapon Properties
-**Two-Handed:** To make properly use a Heavy weapon to make an Attack, you must be wielding it with both hands.<br>
-**Reach (X):** Your reach for Martial Melee Attacks attacks properly using a Reach weapon extends to become no shorter than the given value. (PHRASING?) *(Double the range for each size increase)*.
-**Thrown (X):** You can throw a Thrown weapon at a target using the given range and it will still count as using it properly. *(Double the range for each size increase)*
-**Ranged (X):** To use a Ranged weapon properly, you must use it to make a Ranged Martial Attack against using the given range. *(Double the range for each size increase)*
+
+**Two-Handed:** To properly use a Two-Handed weapon to make an Attack, you must be wielding it with both hands.
+<br><br>
+
+**Off-Handed:** After you make a Martial Attack on your turn, you can properly use an Off-Handed weapon you're already wielding to make a single Martial Attack, provided that the first attack was not made using it.<br>
+After doing so, you can't do so again until you've regained your Actions.
+<br><br>
+
+**Reach (X):** Your reach for Martial Melee Attacks attacks properly using a Reach weapon extends to become no shorter than the given value. *(If made at larger scales, multiply X by the intended wielder's reach)*.
+<br><br>
+
+**Thrown (X):** You can throw a Thrown weapon at a target using the given range and it will still count as using it properly. *(If made at larger scales, multiply X by the intended wielder's reach)*
+<br><br>
+
+**Ranged (X):** To use a Ranged weapon properly, you must use it to make a Ranged Martial Attack against using the given range. *(If made at larger scales, multiply X by the intended wielder's reach)*
+<br><br>
+
 **Ammunition (X)** To use an Ammunition weapon properly, you must provide a of the specified type of ammunition. After the attack is made, the used piece of ammunition is lost.
-**Loading (X):** To use a Loading weapon properly, it must've been loaded beforehand. After being loaded, it can be used to make up to the given number of Attacks before it must be loaded again. To load a weapon takes 1 Action. We can assume that all weapons are fully loaded before entering a new combat scene.
-**Quickfire:** Ranged Attacks made properly using a Quickfire weapon are not Interruptible.
+<br><br>
+
+**Loading (X):** To use a Loading weapon properly, it must've been loaded beforehand. After being loaded, it can be used to make up to the given number of Attacks before it must be loaded again. To load a weapon takes 1 Action. We can generally assume that all weapons are fully loaded before entering a new Action Scene.
+<br><br>
+
+**Bash:** You may also shove the target up to a number of space away from you equal to the damage dealt. If you do, you may also move up to the same distance along the same path.
+<br><br>
 
 ## Shields
-If you are wielding a shield when an Attack is made against you or a target entirely within your reach, you can use 1 Action to add the Shield's Defence Bonus to the target's Defence against that attack, potentially changing the outcome. <br>
-Each type of shield is categorized as either Small or Large. If you don't have Proficiency with the category of a shield you are wielding, you can't use it to increase Defence in this way. <br>
-You can also use a shield as a weapon, following the rules of weapon usage as normal. *(Disadvantage on if you lack proficiency)* <br>
-A Martial Attack made properly using a shield has the following properties: Uses Strength. Base Damage (1 Bludgeoning). On hit, you may also shove the target 1 pace and move up to 1 pace in the same direction.
+If you are wielding a shield when an Attack is made against you or a target entirely within your reach, you can use 1 Action to Block, adding a bonus to the target's Defence against that attack, potentially changing the outcome. *(NOTE: You will naturally be entirely within your own reach)*<br>
+Each type of shield is categorized as either Small or Large. If you don't have Proficiency with the category of a shield you are wielding, you can't use it to Block.<br>
+You can also use a shield as a weapon, following the rules of weapon usage as normal. *(Disadvantage on if you lack proficiency)*<br>
 
 ### Small
-+ Buckler: +1d6 Defence. [Smooth Bonus?].
-+ Targe: +1d8 Defence.
-+ Heater: +1d10 Defence. Hefty.
++ Buckler: Damage (1* Bludgeoning). Bash. Block (1d6 Defence).
++ Targe: Uses Strength. Damage (2* Bludgeoning). Bash. Block (1d8 Defence).
 #### <br>
 
 ### Large
-+ Kite: +2d6 Defence. Bulky. [Smooth Bonus?].
-+ Pavise: +2d8 Defence. Bulky.
-+ Tower: +2d10 Defence. Bulky. Hefty.
++ Heater: Uses Strength. Damage (2* Bludgeoning). Bash. Block (1d8 Defence). Bulky.
++ Tower: Uses Strength. Damage (3* Bludgeoning). Bash. Block (1d10 Defence). Bulky. Hefty. On Block, creates Cover between the Attacker and its target. Partial for triggering attack, and full therafter. (PHRASING? DETAILS?)
 #### <br>
 
 ### Shield Properties
-**[Smooth Bonus?]:** ?? <br>
-**Hefty:** To use a Hefty shield to Attack or increase Defence takes 2 Actions instead. Also increases the shield's Base Damage by 1.<br>
-**Bulky:** Whilst wielding a Bulky shield, your Speed is reduced by 1. Also increases the shield's Base Damage by 1.
+**Bulky?:** A Bulky shield always adds to the wielder's Defence. When used to Block an Attack aimed at another creature, the Attack is redirected to the wielder instead.<br>
+**Hefty:** To use a Hefty shield to Attack or Block takes 2 Actions instead?<br>
 
 ## Armor
 Each type of armor has a defined Protection Value that you add to the Defence of anyone who is weaing it. <br>
@@ -296,21 +349,20 @@ Characters have an inventory slot for the armor they are wearing. Needless to sa
 Any given set of armor is categorized as either Light or Heavy. If you don't have Proficiency with the category of the armor you are wearing, it Encumbers you.
 
 ### Light
-+ Hide (Novice): 1 Protection, Resistance (One of Bludgeoning, Piercing, or Slashing).
-+ Gambeson (Regular): 3 Protection, Resistance (One of Bludgeoning, Piercing, or Slashing).
-+ Brigandine (Grand): 5 Protection, Resistance (One of Bludgeoning, Piercing, or Slashing).
++ Hide (Novice): 2 Protection
++ Gambeson (Regular): 3 Protection
++ Brigandine (Grand): 4 Protection
 #### <br>
 
 ### Heavy
-+ Chain (Novice): 6 Protection, Restrictive, Cumbersome (-1), Resistance (One of Bludgeoning, Piercing, or Slashing).
-+ Splint (Regular): 8 Protection, Restrictive, Cumbersome (-2), Resistance (One of Bludgeoning, Piercing, or Slashing).
-+ Plate (Grand): 10 Protection, Restrictive, Cumbersome (-3), Resistance (One of Bludgeoning, Piercing, or Slashing).
++ Chain (Novice): 2 Protection, Cumbersome (-1), Resistance (1 one Physical).
++ Splint (Regular): 3 Protection, Cumbersome (-2), Resistance (1 two Physical).
++ Plate (Grand): 4 Protection, Cumbersome (-3), Resistance (1 all Physical).
 #### <br>
 
 ### Armor Properties
-**Resistance (Damage Type):** The wearer has +1 Resistance against the listed damage type.
-**Restrictive:** The wearer doesn't add their Agility to their Defence. <br>
-**Cumbersome (X):** The wearer applies the given penalty to any Test of Agility they make (including Saves, Attacks, and Tests of Skill).
+**Cumbersome (X):** The wearer applies the given penalty to any Test they make using Agility. *(includeas Saves, Attacks, and Skills)*
+**Resistance (X Damage Type):** Increases the wearer's Resistances by the given amount against the given damage type.
 
 ## Senses?
 You use your senses to percieve the world. If you have a special sense, you can use it to determine your total Awareness, along with whatever other perks it brings. <br>

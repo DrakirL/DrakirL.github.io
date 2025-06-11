@@ -6,14 +6,14 @@ The value you have for an attribute determines the basis for your abilities. Whe
 *Note: Your attributes will start off great, much better than any commoner, even at level 0. This is to let you act as a heroic adventurer, even at early levels. They will generally NOT increase. That kind of improvement over time is what Skill Points and Experience are for.*
 <br>
 0 | 1 | 2 | 3 | 4 | 5 | 6+
-:---: | :---: | :---: | :---: | :---: | :---:
-"Not better than average" | "Quite decent" | "Very* good" | "Truly great" | "Amazing" | "Legendary" | "Monstrous" or "Supernatural"
+:---: | :---: | :---: | :---: | :---: 
+"Not better than average" | "Quite decent" | "VERY good" | "Truly great" | "Amazing" | "Legendary"
 
 ## Strength
 Your physical power. Used to lift, damage, and withstand force from physical objects and creatures. <br>
 Skills: Athletics, Brawn, Endurance, and Guts. <br>
 Save: Resist effects that would mess you up, inside or outside, by simply toughing them out.
-Other benefits: Your Strength Value contributes to your carrying capacity, Hit Point Maximum, and Martial Might.
+Other benefits: Your Strength Value contributes to your carrying capacity, Maximum HP, and Martial Might.
 
 ## Agility
 Your motorical coordination. Used to move your body or interact with objects with grace or subtelty. <br>
@@ -24,34 +24,46 @@ Other benefits: Your Agility Value contributes to your Defence and Martial Might
 ## Will
 Your force of personality. Used to influence, manipulate, and inspire friends and foes alike. <br>
 Skills: Authority, Intuition, Performance, Suggestion. <br>
-Save: Push back against detrimental effects through sheer volition. <br>
-Other benefits: Your Will Value contributes to your Attunement capacity, Mana Point Maximum, and Magic Might.
+Save: Push back against detrimental effects through sheer volition. Also to maintain your Concentration.<br>
+Other benefits: Your Will Value contributes to your Attunement capacity, Maximum MP, and Magic Might.
 
 ## Intelligence
 Your sharpness of mind. Used to recall information or solve problems with reason or wisdom. <br>
 Skills: Crafting, Lore, Investigation, Medicine. <br>
 Save: Snap out of effects that alter how you percieve your surroundings or your sense of self. <br>
-Other benefits: Your Intelligence Value contributes to your total Skill Points, Awareness, and Magic Might.
+Other benefits: Your Intelligence Value contributes to your combined Skill Points, "Stress Tolerance", Awareness, and Magic Might.
 
 # Derived Values
-A character's Maximum HP (at level 0 without bonuses) is equal to 5 + Strength. <br>
-A character's Maximum MP (at level 0 without bonuses) is 5 + Will. <br>
-<br>
-A character's Starting Stress is 10 - Intelligence. <br>
-A character's Death Threshold is equal to 0 - Starting HP (5 + STR + background bonus).
+A character's Maximum HP (at level 0 without bonuses) is equal to its Size + Strength.<br>
+A character's Maximum MP (at level 0 without bonuses) is equal to its Size + Will.<br>
+A character's combined Skill Points (at level 0 without bonuses) is equal to 4 + its Intelligence. <br>
+A character's Starting Stress is equal to 10 - its Intelligence.<br>
+A character's Death Threshold is equal to its Size + Strength.
 
 ## Martial & Magic
-A character's *Martial Might* is equal to 10 + Strength + Agility + Level. <br>
-A character's *Magic Might* is equal to 10 + Will + Intelligence + Level.
+A character's *Martial Might* is equal to 5 + Strength + Agility + Combat Mastery.<br>
+A character's *Magic Might* is equal to 5 + Will + Intelligence + Combat Mastery.
 
 ## Defence & Awareness
-A character's Defence is equal to 10 + Agility + Level + Protection. (Protection is gained from specific features or by wearing armor. If you have multiple available values, you must pick one.) <br>
-A character's Awareness is equal to 10 + Intelligence + Level + Perception. (Perception is gained from specific features or by having acute senses? If you have multiple available values, you must pick one.)
+A character's Defence is equal to 5 + Agility + Protection + Combat Mastery. (Protection is granted from specific Talents or by wearing armor. If you have multiple available non-bonus values, you must select one to apply.) <br>
+A character's Awareness is equal to 5 + Intelligence + Perception + Combat Mastery. (Perception is gained from specific talents or by having acute senses? If you have multiple available non-bonus values, you must select one to apply.)
 
-## Based on Size
-A character's base Speed is 4 Paces. <br>
-A character's base Reach is equal to their width on a battle map (1 Pace). <br>
-A character's base Throwing Range is equal to four times their reach (4 Paces). <br>
+## Sizing
+Each creature has a predefined Size that determines how much space it takes up.<br>
+Size | Board Space | Value | Examples
+:---|:---|:---|:---
+Tiny | 1x1 | 1 | A shoe, a cats, Pixies
+Small | 1x1 | 2 | Dogs, and Goblins
+Medium | 1x1 | 3 | Wolves, Humans, and Lesser Demons
+Large | 2x2 | 4 | Horses, Bears, and Trolls
+Huge | 3x3 | 5 | Elephants, Treants, and Giants
+Gargantuan | 4x4 or more | 5 | Krakens, Dragons, and Primordial Titans
+####
+
+A creature's base Reach is equal to their smallest dimension on a battle map.<br>
+A creature's base Throwing Range is equal to four times their reach.<br>
+A player character's base Speed is 4 Paces.<br>
+When a creature or object is used as a weapon without Damage (X) property, its baseline damage is equal to its Size Value.
 
 # Skill Descriptions
 The 16 main skills are meant to be used as flexible reference points, with potential results defined for succeeding and/or failing.

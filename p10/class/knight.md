@@ -6,67 +6,88 @@ Fierce fighters who could take on armies by themselves. <br>
 ## Bonuses
 **Class Group:** Warrior <br>
 **Hit Points per Level:** 3 <br>
-**Mana Points per Level** 3? <br>
-**Skill Points per Level:** 2 <br>
+**Mana Points per Level** 2 <br>
+**Skill Points per Level:** 3 <br>
 
 ## Proficiencies
 **Weapons:** Simple Melee. Simple Ranged. Advanced Melee. Advanced Ranged. <br>
 **Armor:** Light. Heavy. <br>
 **Shields:** Small. Large. <br>
 **Focus:** None. <br>
-**Training:** One vehicle, gaming set, or musical instrument of your choice. <br>
+
+## Starting Knowledge
+**Languages:** One common.<br>
+**Training:** Either one vehicle, one gaming set, one musical instrument, or Law.<br>
+**Spells:** None.<br>
 
 ## Starting Equipment
 + An Advanced Melee Weapon of your choice.
 + An Advanced Ranged Weapon of your choice.
 + A quiver with 20 pieces of ammunition of your choice.
-+ A Small Shield of your choice?
-+ Either Chain Armor or a set of Light Armor of your choice.
++ A Shield of your choice.
++ Either Brigandine Armor or Chain Armor.
 
-## Knight Class Features
-These are the core features granted for the Knight Class.
+## Knight Class Talents
+These are the Talents accessible to the Knight Class.
+
+### Core: Second Wind
+You can use 1 Action on your turn to spend MP, up to double your Mana Spend Limit, and regain 1 HP per MP spent.
 
 ### Core: Fighting Style
 You gain one of the following benefits of your choice:
 <br><br>
+
 **Dual Wielding** <br>
-If you are properly wielding two different weapons, you can use 1 Action on your turn to make 2 Martial Attacks, provided you use a different weapon for each attack. <br>
+You can use 1 Action on your turn to make 2 Martial Attacks, provided you properly use a different weapon for each Attack.<br>
 After doing so, you can't do so again until you've regained your Actions.
 <br><br>
-**Mighty/Hefty/Powerful/Two-Handed? Strikes** <br>
-When you make a Martial Attack using a weapon you are properly wielding using both hands, you can grant yourself Advantage on that attack. <br>
+
+**Mighty Strikes** <br>
+When you make a Martial Attack properly using a weapon wielded in both hands, you can grant yourself Advantage on that attack.<br>
 After doing so, you can't do so again until you've regained your Actions.
 <br><br>
-**Sword and Board? Best Offence?** <br>
-After you've used a properly wielded shield to increase Defence or make a Martial Attack, you can regain 1 of the Actions you used. <br>
+
+**"Sword and Board"** <br>
+After you've properly used a shield to Attack or Block, you can regain 1 used Action.<br>
 After doing so, you can't do so again until you've regained your Actions.
 
-### Core: Second Wind
-You can use 1 Action on your turn to spend MP, up to double your Mana Spending Limit, and regain 1 HP for each MP spent.
+### Level 1: Honorable Duty/Title/Archetype?
+Choose a Knight Subclass. You may count each Talent listed under it count as a Knight Class Talent.<br>
+Your options are the following:
++ Bladesinger
++ Banneret
++ Cavalier
++ Champion
++ Gunslinger
++ Eldritch Knight?
++ Paladin
++ Paragon??
++ Samurai
++ Savage
++ War Master
+#### <br>
 
-### Level 1: Maneuvers? Martial/Combat/Fighting Prowess?
-Learn 3 different Maneuvers. <br>
-Your Maneuver Die is a d4. <br>
-If a Maneuver forces another creature to make a Save, use your Passive Martial Skill as the Difficulty.
+Pick a Level 1 Talent from your chosen Knight Subclass.
 
 ### Level 1: Steeled Resolve
 If you would fail a Save, you can use 1 Action to reroll it and use the new result instead.
 
-### Level 2: Improved Maneuvers
-You learn one additional Maneuver. <br>
-Your Maneuver Die is now a d6.
+### Level 1: Maneuvers?
+Learn 3 different Maneuvers. <br>
+Your Maneuver Die is determined by your level: 1=d4, 2=d6, 3=d8, 4=d10, 5=d12. (PHRASING?)<br>
+If a Maneuver forces another creature to make a Save, use your Martial Might as the Difficulty.
 
-### Level 3: Improved Maneuvers
-You learn one additional Maneuver. <br>
-Your Maneuver Die is now a d8.
+### Level 2: ???
+???
 
-### Level 4: Improved Maneuvers
-You learn one additional Maneuver. <br>
-Your Maneuver Die is now a d10.
+### Level 3: ???
+???
 
-### Level 5: Improved Maneuvers
-You learn one additional Maneuver. <br>
-Your Maneuver Die is now a d12.
+### Level 4: ???
+???
+
+### Level 5: ???
+???
 
 #### Maneuvers
 **Bait and Switch?** <br>
@@ -111,34 +132,15 @@ When you make a Martial Attack, you can use 1 Action to roll your Maneuver Die a
 **Toppling Strike** <br>
 When you make a Martial Attack against a creature standing on solid ground, you can use 1 Action to roll your Maneuver Die and add it to your Test. On a hit, you may also knock down the target, provided it is no larger than you.
 
-## Knight Subclass: Paragon
-THEME: Combat is a simple sport, and you are a world class professional.
+## Knight Subclass: Champion
+THEME: Heroics is a simple sport. You are a world class professional.
 
-### Level 1: Prodigial Combatant? Additional Fighting Style?
-You gain a second benefit of your choice from your *Fighting Style* feature? <br>
-Learn maneuvers early, and learn 3 more?
+### Level 1: Prodigial Combatant
+Your Combat Mastery is equal to 2 + your Level, instead of 1 + your Level.
 
-### Level 1: Simply Superior
-You gain 1 additional Skill Point this level. <br>
+### Level 1: Simply Superior (*Repeatable*)
+Increase your Grade for one Skill by 1. <br>
 Increase one of your Attributes by 1, up to 5.
-
-### Level 2: Simply Superior
-You gain 1 additional Skill Point this level. <br>
-Increase one of your Attributes by 1, up to 5.
-
-### Level 3: Simply Superior
-You gain 1 additional Skill Point this level. <br>
-Increase one of your Attributes by 1, up to 5.
-
-### Level 4: Simply Superior
-You gain 1 additional Skill Point this level. <br>
-Increase one of your Attributes by 1, up to 5.
-
-### Level 5: Simply Superior
-You gain 1 additional Skill Point this level. <br>
-Increase one of your Attributes by 1, up to 5.
-
-# FUTURE SUBCLASSES
 
 ## Knight Subclass: Banneret
 THEME: Lead armies across scarred battlefields with the song of hope and volition in their hearts.

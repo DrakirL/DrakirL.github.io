@@ -13,27 +13,67 @@ Wellsprings of magical potential in its purest form. <br>
 **Weapons:** Simple Melee. <br>
 **Armor:** None. <br>
 **Shields:** None. <br>
-**Focus:** None. <br>
-**Training:** None. <br>
+**Focus:** One of your choice. <br>
+
+## Starting Knowledge
+**Languages:** None.<br>
+**Training:** None.<br>
+**Spells:** Five from any one Spell List.<br>
 
 ## Starting Equipment
-+ ???
++ A Simple Melee Weapon of your choice.
++ A component pouch containing materials worth up to 10 gp.
 
-## Sorcerer Class Features
-These are the core features granted for the Sorcerer Class.
+## Sorcerer Class Talents
+These are the Talents accessible to the Sorcerer Class.
 
-### Core: Font of Magic? Living Focus?
-Choose a Spell List to be your Sorcery List and learn 8? Spells of your choice from that list. <br>
-If you know a Spell from your chosen Sorcery List, you can cast it without using a focus.
+### Core: Living Focus
+Choose a Spell List your have the Proficiency for to be your Sorcery List. If you know a Spell that belongs to your Sorcery List, you can cast it without using a focus.<br>
+If Sorcerer is your main Class, you may also learn 1 Spell from your Sorcery List whenever you pick a Talent.
+
+### Core: Font of Magic
+As you bear an intrinsic link to the weave, you gain one of the following benefits of your choice:
+<br><br>
+
+**Foundational Magic** <br>
+Increase your Maximum MP by 1.<br>
+Add a +1 bonus to any Test of Magic you make, including Attacks.<br>
+Reduce your Starting Stress by 1.<br>
+Your base Magic Might, excluding all modifiers, is now 6 instead of 5.
+<br><br>
+
+**Intuitive Magic** <br>
+Increase your Maximum MP by 2.<br>
+You learn 2 Spells that belong to a given Spell List you have the Proficiency for.
+<br><br>
+
+**Unstable Magic** <br>
+Increase your Maximum MP by 5.<br>
+You have a Chaos value, starting at 0. After you spend any amount of mana, add that amount to your Chaos value and roll a d20.<br>
+If the number rolled is no higher than your current Chaos value, you cause a *Wild Magic Surge*. Then, your Chaos value is set to 0.
 
 ### Core: Sorcerous Origin
-Each Archetype for the Sorcerer Class comes with a Core Feature. <br>
-Choose your Archetype and gain its Core Feature.
+Choose a Sorcerer Subclass. You may count each Talent listed under it count as a Sorcerer Class Talent.<br>
+Your options are the following:
++ Aberrant Mind
++ Chosen One
++ Deathtouched
++ Draconic Ancestry
++ Giant's Soul
++ Greenheart
++ Imperial Bloodline
++ Primordial Conduit
++ Runechild
++ Stormborn
++ *TBD*
+#### <br>
 
-### Level 1: Font of Mana? Recover/Recycle Mana?
-Increase your Maximum MP by 5? MORE? OR... After you cast a Spell, refund some of the spent MP?
+Pick a Level 1 Talent from your chosen Sorcerer Subclass.
 
-### Level 1: Metamagic?
+### Level 1: Pushing the Limits
+Your Mana Spend Limit is now equal to 1 + your Level.
+
+### Level 1: Metamagic *(Repeatable)*
 ???
 
 ### Level 2: "Spammable Sorcery"? Second Nature?
@@ -43,18 +83,21 @@ After doing so, you can't do so again until you've regained your Actions.
 ### Level 3: Metamagic?
 ???
 
+### Level 3: Controlled Chaos
+**Prerequisite: *Font of Magic (Unstable Magic)***
+When you cause a Wild Magic Surge, you may roll on the table twice and choose which result to use.
+
 ### Level 4: Metamagic
 ???
 
 ### Level 5: Metamagic
 ???
 
-## Sorcerer Subclass: Wild Magic? Rune Child? 
-THEME: Magic is an inherantly chaotic force, and most are fortunate enough to not be able to tap into it fully. You are not so lucky... <br>
-**Origin Spells?:** Counterspell/Chaos Bolt?, *Rank 2*, *Rank 3*, *Rank 4*, *Rank 5*.
+## Sorcerer Subclass: Rune Child? 
+THEME: ?? <br>
 
-### Core: Unstable Source
-After you expend a MP, you roll a d20. If you roll a number no higher than the Rank of the expended Spell Slot, you cause a Wild Magic Surge with a Surge Value equal to your roll.
+### Core: Extra Spells? School Attunement?
+You learn 3 new Spells of your choice. All spells learned this way must be of the same spell school. You can cast each spell learned this way as though they were part of your Chosen Sorcery Spell List, even if they aren't.
 ### Level 1: Bend Luck
 When you roll a d20, you may use this feature to reroll it before using its value? <br>
 You can use this feature once per Rest. But if you cause a Wild Magic Surge, you may use it again. (PHRASING?)
@@ -63,7 +106,7 @@ You can use this feature once per Rest. But if you cause a Wild Magic Surge, you
 ???
 
 ### Level 3: Controlled Chaos
-When you cause a Wild Magic Surge, you may roll on the table twice and choose which result to use.
+???
 
 ### Level 4: ???
 ???

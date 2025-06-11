@@ -5,76 +5,87 @@ Heralds of the forces of nature themselves. <br>
 
 ## Bonuses
 **Class Group:** Mage <br>
-**Hit Points per Level:** 2 <br>
+**Hit Points per Level:** 3? <br>
 **Mana Points per Level** 3 <br>
-**Skill Points per Level:** 3 <br>
+**Skill Points per Level:** 2? <br>
 
 ## Proficiencies
 **Weapons:** Simple Melee. Specific (Slings) <br>
 **Armor:** None. <br>
 **Shields:** Small. <br>
 **Focus:** Primal. <br>
-**Training:** Choose one from Herbalism, Survival, Folklore, or Nature. <br>
+
+## Starting Knowledge
+**Languages:** None.<br>
+**Training:** Nature. Either Herbalism, Survival, or Folklore.<br>
+**Spells:** Four Primal.<br>
 
 ## Starting Equipment
 + A Simple Melee Weapon of your choice.
 + Either a small wooden shield or a sling and a bag containing 20 rocks ("sling bullets").
-+ A component pouch containing up to 10 gp worth of materials.
++ A component pouch containing materials worth up to 10 gp.
 + A Primal Focus of your choice. May be merged with the weapon or worn.
 
-## Druid Class Features
-These are the core features granted for the Druid Class.
+## Druid Class Talents
+These are the Talents accessible to the Druid Class.
 
-### Core: Spellcasting
-You learn 9? Primal Spells of your choice.
+### Core: Druidic Secrets? Wisdom Passed Down?
+You learn to read the secret signs of the Druids, which are hidden simple descriptive messages made by shaping glyphs into cracks in stones or the bark of living trees. As most accessable places have been found by an experienced druid at some point throughout history, you can expect places of intrigue to have such messages near their entrance. <br>
+*As GM, I beg of you to ask "are there any Druidic Markings here?" from time to time. I will forget to mention them, but they're supposed to act as a free hint system.*<br>
+If Druid is your main Class, you may also learn 1 Primal Spell whenever you pick a Talent.
 
 ### Core: Wild Shape
-You learn the forms of three different creatures of your choice; One Small or smaller, one Medium, and one Large or larger. <br>
-Each form learned this way must be of a beast with a Level no higher than 1. <br>
-You can use 3 Actions on your turn and spend 1 MP to regain 3 HP and transform into one of the forms you have learned this way.<br>
-<br>
-*After transforming, your actions are now unused! (*PHRASING?) <br>
-*Inventory & Carrying Capacity? <br>
-replacing your attributes, skills, speeds, senses, training, proficiencies, features, and abilities with those of the new form. <br>
-<br>
-Whenever you regain your actions whilst transformed this way, you must either spend 1 MP and reg one use or return to your true form. (*PHRASING?) <br>
-<br>
-*NOTE: Tranformation doesn't affect your HP at all*
-*For this test, the Mountain Owl, Wolf, and Giant Viper have already been prepared and are recommended.*<br>
+You learn the forms of three different creatures of your choice; One Small or smaller, one Medium, and one Large or larger. Each form learned this way must be that of an Unlevelled Beast.<br>
+Provided you have no used Actions, you can spend 1 MP on your turn to shape-shift into one of the forms you've learned. Your inventory melds into the new form and can't be accessed, used, or otherwise benefitted from.<br>
+You can remain in the new form for up to an hour or until you enter Death's Door.<br>
+Whilst transformed in this way, the following rules apply:
++ Your appearance, size, and creature type are that of the form's.
++ You use the form's Attributes instead of your own.
++ You use the form's speeds instead of your own.
++ You use the form's Grade for each Skill instead of your own.
++ You use the form's Defence and Awareness instead of your own.
++ You have only the form's Training and Proficiencies.
++ You have only this Talent and the form's Talents.
++ You have only the form's physical abilities and senses.
++ Any items merged into your form count towards your Carrying Capacity.
+#### <br>
 
-### Level 1: Druidic Secrets
-You learn to read the secret signs of the Druids, which are hidden simple descriptive messages made by shaping glyphs into cracks in stones or the bark of living trees. As most accessable places have been found by an experienced druid at some point throughout history, you can expect places of intrigue to have such messages near their entrance. <br>
-*As GM, I beg of you to ask "are there any Druidic Markings here?" from time to time. I will forget to mention them, but they're supposed to act as a free hint system.*
+When you're about to regain your Actions whilst transformed, you must either return to your true form or spend 1 MP to remain transformed and regain 1 HP.<br>
+*In non-Action Scenes, I guess you should still be able to spend MP to regain HP, but it shouldn't be needed to maintain the transformation*
 
-### Level 1: Greater Shapes
-You learn two new forms for your *Wild Shape*; One Medium or smaller, and one Medium or larger. <br>
-Each form learned this way must be of a beast with a CR no higher than 1. <br>
-*For this test, the Bear has already been prepared and is recommended.*
+### Level 1: Druidic Circle
+Choose a Druid Subclass. You may count each Talent listed under it count as a Druid Class Talent.<br>
+Your options are the following:
++ Circle of Concrete
++ Circle of Dreams
++ Circle of the Elements
++ Circle of Flora? the Florist?
++ Circle of the Land
++ Circle of the Moon
++ Circle of the Shepherd? Fauna?
++ Circle of Spores
++ Circle of Titans
++ Circle of Totems
++ Circle of Twilight
+#### <br>
 
-### Level 2: Greater Shapes
-You learn two new forms for your *Wild Shape*; One Medium or smaller, and one Medium or larger. <br>
-Each form learned this way must be of a beast with a CR no higher than 2.
+Pick a Level 1 Talent from your chosen Druid Subclass.
 
-### Level 3: Greater Shapes
-You learn two new forms for your *Wild Shape*; One Medium or smaller, and one Medium or larger. <br>
-Each form learned this way must be of a beast with a CR no higher than 3.
-
-### Level 4: Greater Shapes
-You learn two new forms for your *Wild Shape*; One Medium or smaller, and one Medium or larger. <br>
-Each form learned this way must be of a beast with a CR no higher than 4.
-
-### Level 5: Greater Shapes
-You learn two new forms for your *Wild Shape*; One Medium or smaller, and one Medium or larger. <br>
-Each form learned this way must be of a beast with a CR no higher than 5.
+### Level 1: Greater Shapes *(Repeatable)*
+**Prerequisite: *Wild Shape***<br>
+You learn two new forms for your *Wild Shape*; One Medium or smaller, and one Medium or larger.<br>
+Each form learned this way must be of a beast with a Level no higher than your own.<br>
 
 ## Druid Subclass: Circle of the Moon
 THEME: Morphin' <br>
 **Circle Spells?:** Cure Wounds?, Alter Self, Stoneskin, Gaseous Form?, Polymorph.
 
-### Level 1: Feral Guardian
-Whilst transformed by your *Wild Shape*, you retain your true form's Martial and Magic Skills.
+### Level 1: Feral Guardian?
+Keep more things during *Wild Shape*? Combat Mastery?
+
 ### Level 1: Rejuvenation
-Whilst transformed by your *Wild Shape*, you can use 1 Action on your turn and expend a Spell Slot to regain HP equal to 1d8 per Rank of the Spell Slot?
+You have this talent whilst transformed by your *Wild Shape* and can't use it otherwise.<br>
+You can use 1 Action on your turn and expend a Spell Slot to regain HP equal to 1d8 per Rank of the Spell Slot?
 
 ### Level 2: Thousand Forms? Evolutionary Leap? Metamorphosis?
 The *Alter Self* Spell counts as a Cantrip for you. <br>

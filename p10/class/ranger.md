@@ -14,7 +14,11 @@ Ruthless hunters that could track down any foe to the edge of the earth. <br>
 **Armor:** Light. <br>
 **Shields:** Small. <br>
 **Focus:** None. <br>
-**Training:** Survival. Herbalism? More? <br>
+
+## Starting Knowledge
+**Languages:** None.<br>
+**Training:** Survival. One occupation.<br>
+**Spells:** None.<br>
 
 ## Starting Equipment
 + A Simple Melee Weapon of your choice.
@@ -24,37 +28,56 @@ Ruthless hunters that could track down any foe to the edge of the earth. <br>
 + An animal companion?
 #### <br>
 
-## Ranger Class Features
-These are the core features granted for the Ranger Class.
+## Ranger Class Talents
+These are the Talents accessible to the Ranger Class.
 
 ### Core: Ranger's Mark
 You can use 1 Action on your turn to focus your attention on a creature you can see. Make a Martial Test against that creature's Defence. <br>
-If you succeed, that creature becomes Marked by you for up to a day, requiring your Concentration. <br>
-When you make a Martial Attack against a creature you have Marked in this way, you roll a a d12? and add it to your total. (PHRASING?)
+On a success, that creature becomes Marked by you for up to a day, requiring your Concentration. <br>
+When you make a Martial Attack against a creature you have Marked in this way, you roll a your Mark Die and add it to your total. (PHRASING?) <br>
+Your Mark Die is determined by your level: 1=d4, 2=d6, 3=d8, 4=d10, 5=d12. (PHRASING?)
 
-### Level 1?: Pathfinder
-As an adept at traversing all types of terrain, you gain the following benefits: <br>
-+ Your Speed increases by 5 feet. <br>
-+ You have Climb Speed and Swim Speed equal to your Speed. <br>
-+ You can ignore the effects of Difficult Terrain while you're moving through it. (PHRASING?) <br>
-#### <br>
-
-### Level 1?: Trailblazer
-While you are travelling, you gain the following benefits:
-+ Your travelling party's pace is not slowed by Difficult Terrain. <br>
+### Core: Trailblazer
+Being trained for partaking in great journeys, you gain the following benefits:
++ Your party's travelling pace is not slowed by Difficult Terrain. <br>
 + You can partake in up to 2 activities whilst travelling. <br>
-+ *Advantage against overexertion? Or just no disadvantage from weather? <br>
++ You gain Advantage on any Test of Endurance you make to avoid gaining Exhaustion.<br>
 + You can't become lost except by magical means. (Enforced how?) <br>
 #### <br>
 
-### Level 1?: Survival of the Fittest? Grit?
-Whenever you finish a Rest, you regain 1 additional HP and MP.
+### Level 1: Pathfinder
+As an adept at traversing all types of terrain, you gain the following benefits: <br>
++ Your Walk Speed increases by 1 Pace.<br>
++ You have Climb Speed and Swim Speed equal to your Walk Speed.<br>
++ You can ignore the effects of Difficult Terrain as you're moving through it.<br>
+#### <br>
+
+### Level 1: Rangers' Conclave
+Choose a Ranger Subclass. You may count each Talent listed under it count as a Ranger Class Talent.<br>
+Your options are the following:
++ Beastmasters' Conclave
++ Commandos' Conclave
++ Explorers' Conclave
++ Hunters' Conclave
++ Monster Slayers' Conclave
++ Nightstalkers' Conclave
++ Nomads' Conclave
++ Primeval Guardians' Conclave
++ Spiritcallers' Conclave
++ Trappers' Conclave
++ Weavewalkers' Conclave
+#### <br>
+
+Pick a Level 1 Talent from your chosen Ranger Subclass.
+
+### Level 1: Survival of the Fittest? Grit?
+Upon finishing a Rest, you regain an additional 1 HP and 1 MP. This bonus is not prevented if you have Exhaustion.
 
 ### Level 2: Informed Preparations? Target Locked?
-After you finish a Rest, you may choose one individual creature (you've seen/interacted with?) and add its name (or at least a name you've chosen for it) amongst your Training. (PHRASING?) <br>
+After you finish a Rest, you may choose one individual creature and add its name (or at least a name you've chosen for it) amongst your Training. (PHRASING?) <br>
 You can only have one individual creature named this way at a time. (PHRASING?) <br>
 *To clarify, you don't have to know a creature's name. As long as you and the GM know what individual you're referring to, it's all good. The point is that only one individual creature is affected.* <br>
-*NOTE: Having training means you can gain Advantage on any Test, except Attacks and Saves, where the training is relevant. The Test you make as part of your *Ranger's Mark* feature is neither an Attack or Save, and training would help when trying to spot a creature's weak points. Hint, hint* <br>
+*NOTE: Having training means you can gain Advantage on any Test, except Attacks and Saves, where the training is relevant. The Test you make as part of your Ranger's Mark feature is neither an Attack or Save, and training would help when trying to spot a creature's weak points. Hint, hint* <br>
 
 ### Level 3: Camouflage? Vanishing Tracks? Nature's Veil? ???
 You can use 1 Action on your turn to become Invisible until you use another Action? <br>
@@ -64,7 +87,7 @@ Resistance to one or more damage types? Advantage against weather and temperatur
 
 ### Level 4: Unwavering Accuracy
 Provided you aren't Blinded, Deafened, or Incapacitated, you have Blindsight. <br>
-No Attack you make against a creature you can see with this Blindsight can gain Disadvantage.
+No Attack you make against a creature you can detect through this Blindsight can gain Disadvantage.
 
 ### Level 5: Lethal Precision
 Whenever you would roll your Mark die, you may roll it twice and choose which result to use. <br>

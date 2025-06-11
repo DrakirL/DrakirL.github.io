@@ -5,27 +5,52 @@
 
 ## Bonuses
 **Class Group:** Expert <br>
-**Hit Points per Level:** 3 <br>
-**Mana Points per Level** 3? <br>
-**Skill Points per Level:** 3 <br>
+**Hit Points per Level:** 2 <br>
+**Mana Points per Level** 2? <br>
+**Skill Points per Level:** 4? <br>
 
 ## Proficiencies
-**Weapons:** Simple Melee. Simple Ranged. Advanced Melee? <br>
-**Armor:** Light. Heavy? <br>
-**Shields:** Small. Large? <br>
+**Weapons:** Simple Melee. Advanced Melee. <br>
+**Armor:** Light. Heavy. <br>
+**Shields:** Small. Large. <br>
 **Focus:** None. <br>
+
+## Starting Knowledge
+**Languages:** None.<br>
 **Training:** ??? <br>
+**Spells:** None?<br>
 
 ## Starting Equipment
 + ???
 
-## Shaman Class Features
-These are the core features granted for the Shaman Class.
+## Shaman Class Talents
+These are the Talents accessible to the Shaman Class.
 
 ### Core: ???
-"Lay on Hands"-esk feature.
+Use 1 Action and spend MP, up to your Mana Spend Limit, to either deal 1 Sonic damage or restore 1 HP to one creature within your reach for each MP spent.
+
 ### Core: ???
 ???
+### Core: ???
+???
+
+### Level 1: Shamanic Calling?
+Choose a Shaman Subclass. You may count each Talent listed under it count as a Shaman Class Talent.<br>
+Your options are the following:
++ 
++ 
++ 
++ 
++ 
++ 
++ 
++ 
++ 
++ 
++ 
+#### <br>
+
+Pick a Level 1 Talent from your chosen Shaman Subclass.
 
 ### Level 1: ???
 ???
