@@ -1,57 +1,76 @@
 # Attributes
-Every creature has four different Attributes; Strength, Agility, Intelligence, and Charisma, expressed as a value between 0 and 10. <br>
-To determine these values for your character, shuffle 16 cards (four 0s, six 1s, four 2s, & two 3s) and divide into them into four piles with four cards in each. Assign the total of each pile to a different Attribute. <br>
-(Alternatively, you may just divinde 20 points as you wish, up to 10 in a stat.) <br>
+Every creature has four different Attributes; Strength, Agility, Will, and Intelligence, expressed as a value between 0 and 5. <br>
+When you create your character, assign each of the following values to a different Attribute: 4, 3, 2, 1 <br>
+(Alternatively, you may just divinde 10 points as you wish (or randomly?), up to 5 in a stat. Or use 4 "d6-1"?) <br>
 The value you have for an attribute determines the basis for your abilities. When comparing creatures' stats to each other, just remember that this system is meant to put "people" and "monstrous creatures" on the same standardized scale. <br>
-*Note: Your attributes will start off great, much better than any commoner, even at level 0. This is to let you act as a heroic adventurer, even at early levels. They will generally NOT increase. That kind of improvement over time, unleashing your full potential, is what Skill Points and Experience are for.*
+*Note: Your attributes will start off great, much better than any commoner, even at level 0. This is to let you act as a heroic adventurer, even at early levels. They will generally NOT increase. That kind of improvement over time is what Skill Points and Experience are for.*
 <br>
 0 | 1 | 2 | 3 | 4 | 5 | 6+
-:---: | :---: | :---: | :---: | :---: | :---:
-"Not better than average" | "Quite decent" | "Very* good" | "Truly great" | "Amazing" | "Legendary" | "Monstrous" or "Supernatural"
+:---: | :---: | :---: | :---: | :---: 
+"Not better than average" | "Quite decent" | "VERY good" | "Truly great" | "Amazing" | "Legendary"
 
-## Strength/Might?
-Your physical might. Used to lift, damage, and withstand force from physical objects and creatures. <br>
-Skills: Athletics, Brawn, Endurance, and Intimidation. <br>
+## Strength
+Your physical power. Used to lift, damage, and withstand force from physical objects and creatures. <br>
+Skills: Athletics, Brawn, Endurance, and Guts. <br>
 Save: Resist effects that would mess you up, inside or outside, by simply toughing them out.
-Other benefits: Your Strength Score contributes to your carrying capacity, Hit Point Maximum, one of your Martial Skills, and your Passive Martial Skill.
+Other benefits: Your Strength Value contributes to your carrying capacity, Maximum HP, and Martial Might.
 
-## Agility/Grance?
+## Agility
 Your motorical coordination. Used to move your body or interact with objects with grace or subtelty. <br>
 Skills: Acrobatics, Finesse, Handling, and Stealth. <br>
 Save: Reflexively evade from harmful effects that pass by or burst out in your vicinity.
-Other benefits: Your Agility Score contributes to your Defence, one of your Martial Skills, and your Passive Martial Skill.
+Other benefits: Your Agility Value contributes to your Defence and Martial Might.
 
-## Charisma/Will?
+## Will
 Your force of personality. Used to influence, manipulate, and inspire friends and foes alike. <br>
 Skills: Authority, Intuition, Performance, Suggestion. <br>
-Save: Push back against detrimental effects through sheer willpower alone. <br>
-Other benefits: Your Charisma Score contributes to your sanity? Attunement? Maximum Hit Points? Something else?, one of your Magic Skills, and your Passive Magic Skill. 
+Save: Push back against detrimental effects through sheer volition. Also to maintain your Concentration.<br>
+Other benefits: Your Will Value contributes to your Attunement capacity, Maximum MP, and Magic Might.
 
-## Intelligence/Intellect?
+## Intelligence
 Your sharpness of mind. Used to recall information or solve problems with reason or wisdom. <br>
 Skills: Crafting, Lore, Investigation, Medicine. <br>
 Save: Snap out of effects that alter how you percieve your surroundings or your sense of self. <br>
-Other benefits: Your Intelligence Score contributes to your Awareness, one of your Magic Skills, and your Passive Magic Skill.
+Other benefits: Your Intelligence Value contributes to your combined Skill Points, "Stress Tolerance", Awareness, and Magic Might.
 
-# Adventuring Skills
-Your Martial Skill and Magic Skill are not directly connected to any one of your Attributes, but your capabilities as an adventurer in general. <br>
-<br>
-Your *Passive Martial Skill* is equal to your 5 + Strength + Agility + your Martial Skill Grade. <br>
-Your *Passive Magic Skill* is equal to your 5 + Charisma + Intelligence + your Magic Skill Grade.
+# Derived Values
+A character's Maximum HP (at level 0 without bonuses) is equal to its Size + Strength.<br>
+A character's Maximum MP (at level 0 without bonuses) is equal to its Size + Will.<br>
+A character's combined Skill Points (at level 0 without bonuses) is equal to 4 + its Intelligence. <br>
+A character's Starting Stress is equal to 10 - its Intelligence.<br>
+A character's Death Threshold is equal to its Size + Strength.
 
-# Other
-A character's base Speed is 20 feet. <br>
-A character's base Reach is equal to their width on a battle map (5 feet). <br>
-A character's base Throwing Range is equal to 4 times their reach, or up to 3 times that with Disadvantage. (20/60 feet). <br>
-A character's Defence is calculated as follows: 10 + its Agility + its Protection. (Protection is boosted by specific features or by wearing armor) <br>
-A character's Awareness is calculated as follows: 10 + its Intelligence + its Perception. (Perception is boosted by specific features or using special equipment/senses?)
+## Martial & Magic
+A character's *Martial Might* is equal to 5 + Strength + Agility + Combat Mastery.<br>
+A character's *Magic Might* is equal to 5 + Will + Intelligence + Combat Mastery.
+
+## Defence & Awareness
+A character's Defence is equal to 5 + Agility + Protection + Combat Mastery. (Protection is granted from specific Talents or by wearing armor. If you have multiple available non-bonus values, you must select one to apply.) <br>
+A character's Awareness is equal to 5 + Intelligence + Perception + Combat Mastery. (Perception is gained from specific talents or by having acute senses? If you have multiple available non-bonus values, you must select one to apply.)
+
+## Sizing
+Each creature has a predefined Size that determines how much space it takes up.<br>
+Size | Board Space | Value | Examples
+:---|:---|:---|:---
+Tiny | 1x1 | 1 | A shoe, a cats, Pixies
+Small | 1x1 | 2 | Dogs, and Goblins
+Medium | 1x1 | 3 | Wolves, Humans, and Lesser Demons
+Large | 2x2 | 4 | Horses, Bears, and Trolls
+Huge | 3x3 | 5 | Elephants, Treants, and Giants
+Gargantuan | 4x4 or more | 5 | Krakens, Dragons, and Primordial Titans
+####
+
+A creature's base Reach is equal to their smallest dimension on a battle map.<br>
+A creature's base Throwing Range is equal to four times their reach.<br>
+A player character's base Speed is 4 Paces.<br>
+When a creature or object is used as a weapon without Damage (X) property, its baseline damage is equal to its Size Value.
 
 # Skill Descriptions
 The 16 main skills are meant to be used as flexible reference points, with potential results defined for succeeding and/or failing.
 
 ## Acrobatics
 Perform gymnastic feats and impressive aerial maneuvers.
-+ A rogue tries to gracefully move through a giants space and past it. He makes a Test of Acrobatics (Difficulty = the giant's Passive Martial Skill). On a fail, the giant blocks the path. On a success, he slips unhindered between its legs. <br>
++ A rogue tries to gracefully move through a giants space and past it. He makes a Test of Acrobatics (Difficulty = the giant's Martial Might). On a fail, the giant blocks the path and stops him. On a success, the giant slips up and he slips by unhindered. <br>
 + A knight runs across an unexpectedly slippery floor. He makes a Test of Acrobatics (Diffuculty = 5) with Disadvantage due to him being surprised. On a fail, he slips and stops moving. On a success, he may continue moving as normal. <br>
 + A monk uses a hanging vine to swing across a pit of spikes. She makes a Test of Acrobatics (Difficulty = 20). On a fail, she falls to her doom. On a success, she makes it to the other side. <br>
 #### <br>
@@ -141,7 +160,7 @@ Herbs, poisons, first aid, anatomy... ???
 #### <br>
 
 ## Performance
-Be the star in captivating shows and believably act out different roles.
+Be the star in captivating shows and believably act out defined roles.
 + A <br>
 + A <br>
 + A <br>
@@ -155,7 +174,7 @@ Evade detection... ???
 #### <br>
 
 ## Suggestion
-Influence the ways people think and how they might act on their thoughts.
+Influence the ways people think and how they decide to act on their thoughts.
 + A <br>
 + A <br>
 + A <br>

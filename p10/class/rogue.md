@@ -3,16 +3,22 @@ Slippery tricksters evading traps and devestation alike. <br>
 Highly capable mercenaries and true masters of their craft. <br>
 Conniving experts that can find and exploit any weakness in a foe or their plans. <br>
 
-## Traits
+## Bonuses
 **Class Group:** Expert <br>
-**Hit Die:** d8 <br>
-**Skill Points:** 6 per level <br>
-<br>
-**Weapons:** Simple Melee. Simple Ranged. <br>
+**Hit Points per Level:** 2 <br>
+**Mana Points per Level** 2 <br>
+**Skill Points per Level:** 4 <br>
+
+## Proficiencies
+**Weapons:** Simple Melee. Simple Ranged. Specific (Pistols)? <br>
 **Armor:** Light. <br>
 **Shields:** None. <br>
 **Focus:** None. <br>
-**Training:** An occupation of your choice. A gaming set or vehicle of your choice. A common language of your choice. <br>
+
+## Starting Knowledge
+**Languages:** Two common.<br>
+**Training:** One occupation. Either one gaming set or one vehicle.<br>
+**Spells:** None.<br>
 
 ## Starting Equipment
 + A Simple Melee Weapon of your choice.
@@ -22,21 +28,14 @@ Conniving experts that can find and exploit any weakness in a foe or their plans
 + A toolset of your choice.
 + A gaming set of your choice.
 
-## Rogue Class Features
-These are the core features granted for the Rogue Class.
+## Rogue Class Talents
+These are the Talents accessible to the Rogue Class.
 
-### Level 1: Expertise
-Choose one of your Skills, other than Martial or Magic. You gain a number of additional Skill Points this level equal to your Grade for that Skill. <br>
-Then, set your Grade for that Skill to 5.
+### Core: Sneak Attack!
+If you hit a creature with a Martial Attack that has Advantage, you can increase the Physical damage dealt by an amount equal to 1 + your Level.<br>
+After doing so, you can't do so again until you've regained your Actions.
 
-### Level 1: Sneak Attack!
-If you hit a creature with a Martial Attack and you have advantage on the roll, you may add a number of d6 equal to 1 + your Level to the damage dealt. <br>
-After you've dealt this extra damage, you can't do so again until you regain your Actions.
-
-### Level 1: Rogue Subclass
-You choose a Rogue Subclass and gain its Level 1 Features.
-
-### Level 2: Opportunist
+### Core: Opportunist
 You gain Advantage on any Attack you make against a creature in one of the following situations:
  + Your Attack is a Sudden Strike.
  + The target creature is Downed.
@@ -44,55 +43,68 @@ You gain Advantage on any Attack you make against a creature in one of the follo
  + You have an allied creature within 5 feet of the target creature on the opposite side from where you are attacking it.
 #### <br>
 
-### Level 2: Uncanny Dodge
-When you are hit by an Attack, you can use 1 Action to reduce any incoming damage by half.
+### Level 1: Specialized Gig
+Choose a Rogue Subclass. You may count each Talent listed under it count as a Rogue Class Talent.<br>
+Your options are the following:
++ Assassin
++ Enforcer
++ Gadgeteer
++ Infiltrator? Mastermind?
++ Inquisitor
++ Magician? Trickster?
++ Medic
++ Paramour
++ Scout
++ Swashbuckler
++ Thief
+#### <br>
 
-### Level 3: Subclass Feature
-You gain the Level 3 Feature of your chosen Rogue Subclass.
+Pick a Level 1 Talent from your chosen Rogue Subclass.
 
-### Level 4: Evasion/Prepared for the Worst/Slippery?
-When you make a Save against incoming damage, you can use 1 Action to instead take half as much damage. <br>
+### Level 1: Multitasking
+Provided you aren't Encumbered, you have 4 Actions to use each Round rather than 3.
+
+### Level 1: Thinking it Through?
+Choose a Skill to be your Mastered Skill.<br>
+When you make a Test that uses your Mastered Skill, you may use 1 additional Action to grant yourself Advantage on that Test.<br>
+If you do so, that Test cannot be Interrupted.
+
+### Level 2: Giving the Slip
+When you are hit by an Attack, you can use 1 Action to reduce the incoming damage by half. <br>
+When you make a Save against taking damage, you can use 1 Action to instead take half as much damage. <br>
 If the damage is already halved by you succeeding on the save, you instead take no damage?
 
-### Level 5: Subclass Feature
-You gain the Level 5 Feature of your chosen Rogue Subclass.
+### Level 3: Reliable Ability
+When you make a Test that uses a Skill and roll a number on the die that is lower than 2 times your Grade for that Skill, you may treat the die as if it had rolled that number instead.<br>
 
-### Level 6: Reliable Talent
-When you make a Skill Test and roll a number on the die that is lower than that of the Skill Bonus, you may treat the die as if it had rolled that number instead.
-
-### Level 7: Subclass Feature
-You gain the Level 7 Feature of your chosen Rogue Subclass.
-
-### Level 8: Elusive
+### Level 4: Elusive
 Provided you aren't Blinded, Deafened, or Incapacitated, no Attack made against you can gain Advantage.
 
-### Level 9: Subclass Feature
-You gain the Level 9 Feature of your chosen Rogue Subclass.
-
-### Level 10: Stroke of Luck
-If you would fail a Check, you may choose to succeed instead. <br>
+### Level 5: Stroke of Luck
+When you make Test, you may choose to treat the die as if it had rolled a 20 instead. <br>
 You can use this feature once per Rest.
 
 ## Rogue Subclass: Thief
 THEME: You have all the tools needed to make a quick entry without being noticed, or even quicker exit if you happen to get noticed anyway. <br>
 RECOMMENDATION: Put your Expertise into either Finesse or Stealth.
 
-### Level 1: Second Story Work? Escape Artist?
-Your Speed increases by 10 feet. <br>
-You have Climb Speed equal to your Speed.
+### Level 1: Escape Artist
+Your Walk Speed increases by 2.<br>
+You have Climb Speed equal to your Walk Speed.
 
-### Level 1: Swift Fingers/Multitasking?
-You now have 4 actions to use each Round rather than 3. (LIMITER? Provided you aren't encumbered = 4 or 2 Actions)
+### Level 1: Supreme Sneak? Underhanded?
+When you would make a Test of Finesse or Stealth on your turn, you may use 1 additional Action to gain Advantage on that Test.
 
-### Level 3: Supreme Sneak?
-When you would make a Finesse Test or Stealth Test on your turn, you may use 1 additional Action to gain Advantage on that Test.
+### Level 2: Loot Hoarder
+Better carrying capacity?<br>
+More attunement slots?<br>
 
-### Level 5: Pilferer of Trinkets?
-You can use any item as a Focus to cast a Spell regardless of your Proficiencies? (PHRASING? "Any item that is storing the spell you'd cast") <br>
-More attunement slots? Better carrying capacity?
+### Level 3: Pilfer Trinkets? Workaround?
+You can cast any Spell you know using any type of focus, regardless of your proficiencies?<br>
+You can use any item as a focus to cast a Spell bound to it, ignoring any normal prerequisites that item would impose.
 
-### Level 7: ???
+### Level 4: ???
 ???
 
-### Level 9: Thief's Reflexes
+### Level 5: Thief's Reflexes
 When Combat starts, you may take an extra turn before the start of the first round.

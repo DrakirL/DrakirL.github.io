@@ -3,16 +3,22 @@ Hardened explorers of all lands and terrains. <br>
 Flexible masters of the adventuring profession. <br>
 Ruthless hunters that could track down any foe to the edge of the earth. <br>
 
-## Traits
+## Bonuses
 **Class Group:** Expert <br>
-**Hit Die:** d10 <br>
-**Skill Points:** 5 per level <br>
-<br>
+**Hit Points per Level:** 3 <br>
+**Mana Points per Level** 2 <br>
+**Skill Points per Level:** 3 <br>
+
+## Proficiencies
 **Weapons:** Simple Melee. Simple Ranged. Advanced Ranged. <br>
 **Armor:** Light. <br>
 **Shields:** Small. <br>
 **Focus:** None. <br>
-**Training:** Survival. Herbalism? More? <br>
+
+## Starting Knowledge
+**Languages:** None.<br>
+**Training:** Survival. One occupation.<br>
+**Spells:** None.<br>
 
 ## Starting Equipment
 + A Simple Melee Weapon of your choice.
@@ -22,68 +28,68 @@ Ruthless hunters that could track down any foe to the edge of the earth. <br>
 + An animal companion?
 #### <br>
 
-## Ranger Class Features
-These are the core features granted for the Ranger Class.
+## Ranger Class Talents
+These are the Talents accessible to the Ranger Class.
 
-### Level 1: Pathfinder
-As an adept at traversing all types of terrain, you gain the following benefits: <br>
-+ Your Speed increases by 5 feet. <br>
-+ You have Climb Speed and Swim Speed equal to your Speed. <br>
-+ You can ignore the effects of Difficult Terrain while you're moving through it. (PHRASING?) <br>
-#### <br>
+### Core: Ranger's Mark
+You can use 1 Action on your turn to focus your attention on a creature you can see. Make a Martial Test against that creature's Defence. <br>
+On a success, that creature becomes Marked by you for up to a day, requiring your Concentration. <br>
+When you make a Martial Attack against a creature you have Marked in this way, you roll a your Mark Die and add it to your total. (PHRASING?) <br>
+Your Mark Die is determined by your level: 1=d4, 2=d6, 3=d8, 4=d10, 5=d12. (PHRASING?)
 
-### Level 1: Ranger's Mark
-You can use 1 Action on your turn to focus your attention on a creature you can see. Make a Martial Check against that creature's Defence. <br>
-If you succeed, that creature becomes Marked by you for up to a day, requiring your Concentration. <br>
-When you make a Martial Attack against a creature you have Marked in this way, you roll a Mark Die (which is a d4) and add the result to both your Attack Roll and to the damage dealt if you hit. (PHRASING?)
-### Level 1: Ranger Subclass
-You choose a Ranger Subclass and gain its Level 1 Features.
-
-### Level 2: Trailblazer
-While you are travelling, you gain the following benefits:
-+ Your travelling party's pace is not slowed by Difficult Terrain. <br>
+### Core: Trailblazer
+Being trained for partaking in great journeys, you gain the following benefits:
++ Your party's travelling pace is not slowed by Difficult Terrain. <br>
 + You can partake in up to 2 activities whilst travelling. <br>
-+ *Advantage against overexertion? Or just no disadvantage from weather? <br>
++ You gain Advantage on any Test of Endurance you make to avoid gaining Exhaustion.<br>
 + You can't become lost except by magical means. (Enforced how?) <br>
 #### <br>
 
-### Level 2: Survival of the Fittest? Grit?
-When you recover HP from a Rest, you may treat a number lower than 5 rolled on your Hit Die as a 5.
+### Level 1: Pathfinder
+As an adept at traversing all types of terrain, you gain the following benefits: <br>
++ Your Walk Speed increases by 1 Pace.<br>
++ You have Climb Speed and Swim Speed equal to your Walk Speed.<br>
++ You can ignore the effects of Difficult Terrain as you're moving through it.<br>
+#### <br>
 
-### Level 3: Subclass Feature
-You gain the Level 3 Feature of your chosen Ranger Subclass. <br>
-In addition, your Mark Die is now a d6.
+### Level 1: Rangers' Conclave
+Choose a Ranger Subclass. You may count each Talent listed under it count as a Ranger Class Talent.<br>
+Your options are the following:
++ Beastmasters' Conclave
++ Commandos' Conclave
++ Explorers' Conclave
++ Hunters' Conclave
++ Monster Slayers' Conclave
++ Nightstalkers' Conclave
++ Nomads' Conclave
++ Primeval Guardians' Conclave
++ Spiritcallers' Conclave
++ Trappers' Conclave
++ Weavewalkers' Conclave
+#### <br>
 
-### Level 4: Informed Preparations? Target Locked?
-After you finish a Rest, you may choose an individual creature (you've seen/interacted with?) and add it amongst your Training. (PHRASING?) <br>
-You also gain Advantage on the Check you make as part of your *Ranger's Mark* feature, provided you are trying to mark that individual creature. <br>
+Pick a Level 1 Talent from your chosen Ranger Subclass.
+
+### Level 1: Survival of the Fittest? Grit?
+Upon finishing a Rest, you regain an additional 1 HP and 1 MP. This bonus is not prevented if you have Exhaustion.
+
+### Level 2: Informed Preparations? Target Locked?
+After you finish a Rest, you may choose one individual creature and add its name (or at least a name you've chosen for it) amongst your Training. (PHRASING?) <br>
 You can only have one individual creature named this way at a time. (PHRASING?) <br>
-*You don't have to know a creature's name. As long as you and the GM know what individual you're referring to, it's all good.* <br>
-*NOTE: Having training means you can gain Advantage on any Skill where training is relevant.* <br>
+*To clarify, you don't have to know a creature's name. As long as you and the GM know what individual you're referring to, it's all good. The point is that only one individual creature is affected.* <br>
+*NOTE: Having training means you can gain Advantage on any Test, except Attacks and Saves, where the training is relevant. The Test you make as part of your Ranger's Mark feature is neither an Attack or Save, and training would help when trying to spot a creature's weak points. Hint, hint* <br>
 
-### Level 5: Subclass Feature
-You gain the Level 5 Feature of your chosen Ranger Subclass. <br>
-In addition, your Mark Die is now a d8.
-
-### Level 6: Camouflage? Vanishing Tracks? Nature's Veil? ???
+### Level 3: Camouflage? Vanishing Tracks? Nature's Veil? ???
 You can use 1 Action on your turn to become Invisible until you use another Action? <br>
 Can't be tracked unless you choose to leave a trail. (Enforced how?) <br>
 Resistance to one or more damage types? Advantage against weather and temperatures? <br>
 *THIS FEATURE NEEDS TO BE UPDATED OR REPLACED!*
 
-### Level 7: Subclass Feature
-You gain the Level 7 Feature of your chosen Ranger Subclass. <br>
-In addition, your Mark Die is now a d10.
-
-### Level 8: Unvavering Accuracy
+### Level 4: Unwavering Accuracy
 Provided you aren't Blinded, Deafened, or Incapacitated, you have Blindsight. <br>
-No Attack you make against a creature you can see with this Blindsight can gain Disadvantage.
+No Attack you make against a creature you can detect through this Blindsight can gain Disadvantage.
 
-### Level 9: Subclass Feature
-You gain the Level 9 Feature of your chosen Ranger Subclass. <br>
-In addition, your Mark Die is now a d12.
-
-### Level 10: Lethal Precision
+### Level 5: Lethal Precision
 Whenever you would roll your Mark die, you may roll it twice and choose which result to use. <br>
 In addition, your Concentration on your *Ranger's Mark* cannot be broken by damage.
 
@@ -105,22 +111,22 @@ Both you and your Companion gains the following feature:
 + When an ally that is entirely within your reach takes damage, you can use 1 Action to reduce that damage by half. If you do so, you must also take the resulting damage.
 #### <br>
 
-### Level 3: Encourange Frenzy? Let Loose?
+### Level 2: Encourange Frenzy? Let Loose?
 Both you and your Companion gains the following feature:
 + *Use ALL actions to AOE?
 #### <br>
 
-### Level 5: ???
+### Level 3: ???
 Both you and your Companion gains the following feature:
 + ???
 #### <br>
 
-### Level 7: ???
+### Level 4: ???
 Both you and your Companion gains the following feature:
 + ???
 #### <br>
 
-### Level 9: Soulbound Companion?
+### Level 5: Soulbound Companion?
 Both you and your Companion gains the following feature:
 + *You learn a list of healing spells? You can cast them for free, provided you target your Animal Companion? DETAILS?
 #### <br>
@@ -129,20 +135,20 @@ Both you and your Companion gains the following feature:
 THEME: You've always/never belonged nowhere/everywhere/somewhere nearby/somewhere far away. You *exist*, in the most pure sense of the word.
 
 ### Level 1: Unknown Knowledge? Unearned/Unleared/Hidden Wisdom?
-You learn 1 Language, gain any one Training of your choice, and learn a Rank 1 Cantrip spell. Mark them all as "Unknown". (PHRASING? NAMING??) <br>
-After you finish a Rest, you may replace your Unknown Language with another language, your Unknown Training with some other Training, and your Unknown Spell with a different Cantrip Spell of a Rank no higher than your Level.
+You learn 1 Language, gain any one Training of your choice, and learn any one Spell. Mark them all as "Unknown". (PHRASING? NAMING??) <br>
+After you finish a Rest, you may replace your Unknown Language with another language, your Unknown Training with some other Training, and your Unknown Spell with a different Spell. You can cast your current "Unknown" Spell without using a Focus.
 
 ### Level 1: Unseen Watcher? Uninvited Guest?
 ???
 
-### Level 3: Take the Unmade Roads?
+### Level 2: Take the Unmade Roads?
 ???
 
-### Level 5: Take the Unmade Roads? Hidden Paths?
+### Level 3: Take the Unmade Roads? Hidden Paths?
 You can use 1 Action on your turn to make a Magic Check and teleport to an unoccupied space you can see no further away in feet than your result.
 
-### Level 7: ???
+### Level 4: ???
 ???
 
-### Level 9: ???
+### Level 5: ???
 ???
