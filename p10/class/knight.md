@@ -5,16 +5,19 @@ Fierce fighters who could take on armies by themselves. <br>
 
 ## Bonuses
 **Class Group:** Warrior <br>
-**Hit Points per Level:** 3 <br>
-**Mana Points per Level** 3? <br>
-**Skill Points per Level:** 2 <br>
+**Action Dice:** d10/d8/d6
 
-## Proficiencies
+## Starting Proficiencies
 **Weapons:** Simple Melee. Simple Ranged. Advanced Melee. Advanced Ranged. <br>
 **Armor:** Light. Heavy. <br>
 **Shields:** Small. Large. <br>
 **Focus:** None. <br>
 **Training:** One vehicle, gaming set, or musical instrument of your choice. <br>
+
+## Starting Talents
++ *Combat Maneuvers*
++ *Second Wind*
++ *Fighting Style*
 
 ## Starting Equipment
 + An Advanced Melee Weapon of your choice.
@@ -23,38 +26,47 @@ Fierce fighters who could take on armies by themselves. <br>
 + A Small Shield of your choice?
 + Either Chain Armor or a set of Light Armor of your choice.
 
-## Knight Class Features
-These are the core features granted for the Knight Class.
+## Knight Class Talents
+These are the Talents accessible to the Knight Class.
 
-### Core: Fighting Style
-You gain one of the following benefits of your choice:
-<br><br>
-**Dual Wielding** <br>
-If you are properly wielding two different weapons, you can use 1 Action on your turn to make 2 Martial Attacks, provided you use a different weapon for each attack. <br>
-After doing so, you can't do so again until you've regained your Actions.
-<br><br>
-**Mighty/Hefty/Powerful/Two-Handed? Strikes** <br>
-When you make a Martial Attack using a weapon you are properly wielding using both hands, you can grant yourself Advantage on that attack. <br>
-After doing so, you can't do so again until you've regained your Actions.
-<br><br>
-**Sword and Board? Best Offence?** <br>
-After you've used a properly wielded shield to increase Defence or make a Martial Attack, you can regain 1 of the Actions you used. <br>
-After doing so, you can't do so again until you've regained your Actions.
-
-### Core: Second Wind
-You can use 1 Action on your turn to spend MP, up to double your Mana Spending Limit, and regain 1 HP for each MP spent.
+### Level 1: Honorable Title
+Choose a Knight Subclass. You may count each Talent listed under it count as a Knight Class Talent.<br>
+Your options are the following:
++ Bladesinger
++ Banneret
++ Cavalier
++ Champion
++ Gunslinger
++ Eldritch Knight?
++ Paladin
++ Paragon??
++ Samurai
++ Savage
++ War Master
+#### <br>
 
 ### Level 1: Maneuvers? Martial/Combat/Fighting Prowess?
 Learn 3 different Maneuvers. <br>
 Your Maneuver Die is a d4. <br>
 If a Maneuver forces another creature to make a Save, use your Passive Martial Skill as the Difficulty.
 
-### Level 1: Steeled Resolve
-If you would fail a Save, you can use 1 Action to reroll it and use the new result instead.
+### Level 1: Combat Maneuvers
+Learn 2 different Maneuvers.<br>
+If a Maneuver forces another creature to make a Save, use your Martial Might as the Difficulty.<br>
+You can't use more than 1 Maneuver at a time. (PHRASING?)
 
-### Level 2: Improved Maneuvers
-You learn one additional Maneuver. <br>
-Your Maneuver Die is now a d6.
+### Level 1: Second Wind
+On your turn, you can choose to make a Difficulty 0 Strength Save and gain 1* Temporary HP. This Save is unaffected by Exhaustion.<br>
+If your current HP is less than 0, you may convert any amount of Temporary HP gained this way to regular HP. You can't restore your HP above 0 this way.<br>
+Once you've made this Save, you can't do so again until you've finished a Rest.
+
+### Level 1: Steeled Resolve
+When you make a Save, you can use this talent to reroll your Dice Pool.<br>
+After doing so, you can't reroll this way again until you've either finished a Rest or entered a new Action Scene.
+
+### Level 1: Additional Maneuvers *(Repeatable)*
+**Prerequisite: *Combat Maneuvers***<br>
+Learn 3 new Maneuvers.
 
 ### Level 3: Improved Maneuvers
 You learn one additional Maneuver. <br>
@@ -68,75 +80,52 @@ Your Maneuver Die is now a d10.
 You learn one additional Maneuver. <br>
 Your Maneuver Die is now a d12.
 
-#### Maneuvers
-**Bait and Switch?** <br>
-*Swap places with a creature within your reach. Add your Maneuver Die to its Defence for a round?
-<br><br>
+### Maneuvers
+#### Bait and Switch
+Use 1 Action at any point to swap places with an allied creature within your reach.<br>
+That creature adds your Action Die to its Defence against the next attack made against it during the current turn.
 
-**Commander's Strike** <br>
-You can use 1 Action on your turn to direct an allied creature to strike. If it can see or hear you, it may immidiately use 1 Action to make a Martial Attack. You roll your Maneuver Die and add it to any Test your ally makes this way.
+#### Commander's Strike
+You can use 1 Action on your turn to direct an allied creature to strike. If it can see or hear you, it may immidiately use 1 Action to make a Martial Attack. If it does, add your Action Die to that creature's Dice Pool.
 
-**Disarming Strike** <br>
-When you make a Martial Attack, you can use 1 additional Action to roll your Maneuver Die and add it to your Test. On a hit, you may also knock one object out of the target's grip.
-<br><br>
+#### Disarming Strike
+When you make a Martial Attack against a creature, you can use 1 Action to add your Action Die to your Dice Pool. On a hit, you may also knock one object out of the target's grip.
 
-**Distracting Strike** <br>
+#### Distracting Strike
 When you make a Martial Attack on your turn, you can use 1 additional Action to roll your Maneuver Die and add it to your Test. The next time an ally creature makes an Attack against the same target before your next turn, roll your Maneuver Die again and add it to their Test. (PHRASING?)
-<br><br>
 
-**Grappling Strike** <br>
+#### Grappling Strike
 When you make a Martial Attack, you can use 1 additional Action to roll your Maneuver Die and add it to your Test. On a hit, you may also grapple the target.
-<br><br>
 
-**Lunging Strike** <br>
+#### Lunging Strike
 When you make a Martial Melee Attack, you can use 1 additional Action to increase your Reach for that Attack by 1 pace. When you do so, roll your Maneuver Die and add it to your Test.
+
+#### Parry
+When a creature makes an Melee Attack against you, you can use 1 Action to block it with a melee weapon you are wielding and add your Action Die to your Defence against that Attack, provided you are proficient with the weapon.
+
+#### Precise Strike
+When you make a Martial Attack on your turn, you can use 1 Action to add your Action die and a d4 to your Dice Pool.
 <br><br>
 
-**Parry** <br>
-When a creature within your Reach makes an Attack against you, you can use 1 Action to block it with a weapon you are wielding. When you do so, roll your Maneuver Die and add it to your Defence against that attack.
-<br><br>
-
-**Precise Strike** <br>
-When you make a Martial Attack on your turn, you can use 1 additional Action to roll your Maneuver Die twice and add both rolls to your Test.
-<br><br>
-
-**Pushing Strike** <br>
+#### Pushing Strike?
 When you make a Martial Attack, you can use 1 Action to roll your Maneuver Die and add it to your Test. On a hit, you may also shove the targets up to 2 paces away from you.
-<br><br>
 
-**Riposte?** <br>
+**Riposte?**<br>
 *Interrupt an incoming attack?
 <br><br>
 
-**Toppling Strike** <br>
-When you make a Martial Attack against a creature standing on solid ground, you can use 1 Action to roll your Maneuver Die and add it to your Test. On a hit, you may also knock down the target, provided it is no larger than you.
+#### Toppling Strike
+When you make a Martial Attack against a creature standing on solid ground, you can use 1 Action to add your Action Die to your Dice Pool. On a hit, you may also knock down the target, provided it is no larger than you.
 
 ## Knight Subclass: Paragon
 THEME: Combat is a simple sport, and you are a world class professional.
 
-### Level 1: Prodigial Combatant? Additional Fighting Style?
-You gain a second benefit of your choice from your *Fighting Style* feature? <br>
-Learn maneuvers early, and learn 3 more?
+### Level 1: Prodigial Combatant
+Whenever you add your Combat Skill Die to a Test, add a +1 bonus to its result.
 
-### Level 1: Simply Superior
-You gain 1 additional Skill Point this level. <br>
-Increase one of your Attributes by 1, up to 5.
-
-### Level 2: Simply Superior
-You gain 1 additional Skill Point this level. <br>
-Increase one of your Attributes by 1, up to 5.
-
-### Level 3: Simply Superior
-You gain 1 additional Skill Point this level. <br>
-Increase one of your Attributes by 1, up to 5.
-
-### Level 4: Simply Superior
-You gain 1 additional Skill Point this level. <br>
-Increase one of your Attributes by 1, up to 5.
-
-### Level 5: Simply Superior
-You gain 1 additional Skill Point this level. <br>
-Increase one of your Attributes by 1, up to 5.
+### Level 1: Simply Superior (*Repeatable*)?
+Increase the size of either your Strength die or your Agility die by 2.<br>
+Assign a d8? to a Skill listed under Strength or Agility.
 
 # FUTURE SUBCLASSES
 
@@ -144,8 +133,8 @@ Increase one of your Attributes by 1, up to 5.
 THEME: Lead armies across scarred battlefields with the song of hope and volition in their hearts.
 
 ### Level 1: Diplomat? Ambassador? Carry the Flag?
-Increase your Authority Skill Grade by 1. <br>
-*MORE BONUSES RELATED TO BEING INSPIRING/IMPOSING!
+Assign a d8 to Authority.<br>
+Whenever you would roll your Authority die during an Action Scene, you do so with Advantage?
 
 ### Level 1: ???
 ???
@@ -166,8 +155,9 @@ Increase your Authority Skill Grade by 1. <br>
 THEME: Charge into battle before the rest of your party and keep the enemy in place until it ends.
 
 ### Level 1: Born for the Saddle
-Increase your Handling Skill Level by 1. <br>
-*MORE BONUSES SPECIFICALLY RELATED TO MOUNTED COMBAT!
+Assign a d8 to Handling.<br>
+Whenever you would roll your Handling die during an Action Scene, you do so with Advantage? (Is this enough? Better resistance against being knocked off?)
+
 ### Level 1: Hold the Line!
 When a creature within your Reach makes an Attack against a creature other than you, you treat the Attack as if it were Interruptible.
 
@@ -186,23 +176,58 @@ When a creature within your Reach makes an Attack against a creature other than 
 ## Knight Subclass: Paladin
 THEME: Charge into battle before the rest of your party and keep the enemy in place until it ends.
 
-### Level 1: Spellcasting
-*Half caster, Get Divine Focus proficiency
+### Level 1: Oathsworn Warrior
+Swearing to lend your power and skills to the aid of a divine cause, you gain the following benefits:
++ You gain Proficiency with Divine Foci.
++ You learn 2 Divine Spells of your choice.
 
 ### Level 1: Divine Smite
-When you hit a creature with an attack, you can expend a Spell Slot to deal it 1d8 Radiant or Infernal damage (your choice) per Rank of the expended Spell Slot.
+When you hit a creature with a Martial Attack, you can spend MP, up to an amount equal to your Level.<br>
+The damage dealt this way is either Corruption? or Smite? damage. You choose which when you gain this talent.
 
 ### Level 2: Sacred Virtue
-???
+Choose one of the following benefits:
 
-### Level 3: ???
-???
+#### Courage
+You are Immune to the Frightened condition.
+
+#### Fortitude?
+*You gain Advantage on any Death Roll you make???*
+
+#### Prudence?
+*You gain Advantage on any Initiative Roll you make???*
+
+#### Temperence
+You are Immune to the Charmed condition.
+
+### Level 3: Aura of Virtue?
+**Prerequisite:** *Sacred Virtue*.<br>
+Provided you are not Incapacitated, you eminate an unseeable aura of intent up to 5 paces away.<br>
+Any other creature you choose gains the same benefit as you do from your *Sacred Virtue* whilst entirely within your aura.
 
 ### Level 4: ???
-???
+*THEME? “taking on an appearance you choose. For example, your eyes could shine with holy radiance, spectral wings appear on your back or a halo above your head or your hair, or skin could turn golden and shiny”?<br>
+When you regain your Actions, you may magically assume your Avatar Form for a minute. After you lose the from, you can't assume it again until you've finished a Long Rest.<br>
+Choose one of the following benefits:
 
-### Level 5: ???
-???
+#### Divine Influence
+When you assume your Avatar Form, each creature you choose within 100 paces of you must make an Intelligence Save against your Magic Might or become either Frightened or Charmed (your choice) by you for as long as you are in that form. A creature can repeat its Save at the end of each of its turns, ending the condition for itself on a success.
+
+#### Godlike Resilience
+While you are in your Avatar Form, all damage you take is halved.
+
+#### Higher Presence
+While you are in your Avatar Form, you emit bright light. If a creature starts/ends? its turn in the bright light and entirely within 5 paces of you, you can deal that creature 1 damage.<br>
+The damage dealt this way is either ??? or ??? damage. You choose which when you gain this talent.
+
+#### Otherworldly Grace
+While you are in your Avatar Form, you have 8 Fly Speed.
+
+
+### Level 5: True Saint?
+**Prerequisite:** *Sacred Virtue*. *Avatar of Divinity*.<br>
+Choose an additional option for your *Sacred Virtue*. (PHRASING?)<br>
+Choose an additional option for your *Avatar of Divinity*. (PHRASING?)
 
 ## Knight Subclass: Warmaster?
 THEME: Charge into battle before the rest of your party and keep the enemy in place until it ends.

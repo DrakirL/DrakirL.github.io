@@ -5,16 +5,23 @@ Preachers of ??? <br>
 
 ## Bonuses
 **Class Group:** Mage <br>
-**Hit Points per Level:** 2 <br>
-**Mana Points per Level** 4? <br>
-**Skill Points per Level:** 2 <br>
+**Action Dice:** d10/d10/d4
 
-## Proficiencies
+## Starting Proficiencies
 **Weapons:** Simple Melee. Simple Ranged. <br>
 **Armor:** Light. <br>
 **Shields:** Small. Large. <br>
 **Focus:** Divine. <br>
-**Training:** None. <br>
+
+## Starting Knowledge
+**Languages:** None.<br>
+**Training:** Religion.<br>
+**Spells:** Four Divine.<br>
+
+## Starting Talents
++ *Godly Domain*
++ *Sacred Order*
++ *Divine Spark*? *Divine Intervention*?
 
 ## Starting Equipment
 + A Simple Melee Weapon of your choice.
@@ -26,12 +33,50 @@ Preachers of ??? <br>
 ## Cleric Class Features
 These are the core features granted for the Cleric Class.
 
-### Core: Devotion?
-You learn 9? Divine Spells of your choice.
+### Level 1: Godly Domain
+Choose a Cleric Subclass. You may count each Talent listed under it count as a Cleric Class Talent.<br>
+Your options are the following:
++ Domain of Art
++ Domain of Death
++ Domain of Knowledge
++ Domain of Life
++ Domain of Light
++ Domain of Magic
++ Domain of Nature
++ Domain of Night
++ Domain of Storms
++ Domain of Trickery
++ Domain of War
+#### <br>
 
-### Core: Divine/Clerical? Domain/Purpose?
-Each Archetype for the Cleric Class comes with a Core Feature. <br>
-Choose your Archetype and gain its Core Feature.
+Pick a Level 1 Talent from your chosen Cleric Subclass.
+
+### Level 1: Sacred Order
+**Prerequisite:** Proficiency (Divine Focus).<br>
+Embracing the purpose of carrying out the gods' will in their name, you've learned how you can best do so.<br>
+Choose one of the following benefits:
+
+#### Crusader
+You can perform a 1 minute ritual to summon an Advanced Weapon of your choice into your hands. You can use it as a Divine Focus.<br>
+A weapon you have summoned this way is visibly magical in nature, and will be unsummoned if you perform this ritual again, the weapon stays outside your Reach for more than an hour, or if you die.<br><br>
+
+If Cleric is your main Class, you also gain Proficiency with Advanced Melee Weapons, Advanced Ranged Weapons, and Heavy Armor.
+
+#### Herald
+You learn 2 Spells of your choice. You can cast each spell learned this way as though they were Divine Spells, even if they aren't.
+
+### Level 1: Divine Invervention
+You have a Miracle Value, starting at 1.<br>
+You can use 3 Actions on your turn to say a prayer and try call on your deity to intervene on your behalf.<br>
+Describe the assistance you seek and roll a d20. If the number rolled is no higher than your Miracle Value, the prayer is immidiately answered as the deity directly intervenes, briefly appearing to provide the assistance you prayed for. <br>
+The GM decides how the intervention takes form, usually by creating the effects of any one Divine Spell without requiring any MP or materials. *(Guideline: You'd roll with the player's Magic so damage scaling isn't an issue. Give God unlimited resources to spend!)*
+<br><br>
+If your deity does intervene, you can't call for its aid this way again until you've finished a Long Rest.
+
+### Level 1: Devotion (*Repeatable*)
+**Prerequisite:** *Divine Intervention*.<br>
+You learn 1 Divine Spell of your choice.<br>
+Increase your Miracle Value by 1.
 
 ### Level 1: Divine Spark
 You can use any Channel Divinity Ability you have once per Rest. *PHRASING?
@@ -60,43 +105,27 @@ After you've dealt this damage, you can't do so again until you regain your Acti
 <br><br>
 The damage dealt this way is either Infernal or Radiant. You choose which when you gain this feature.
 
-### Level 2: Divine Invervention?
-You can use 3 Actions on your turn to say a prayer and try call on your deity to intervene on your behalf. Describe the assistance you seek and roll a d8. <br>
-If you roll a 1, the prayer is immidiately answered as the deity directly intervenes, briefly appearing to provide the assistance you prayed for. <br>
-The GM decides how the intervention takes form. Usually, creating the effects of any one Spell you know or a Divine Spell the GM's choice is appropriate.
-<br><br>
-If your deity does intervene, you cannot use this feature to make it intervene again for remainder of the adventure/until you finish a Rest?
+## Cleric Subclass: Domain of War.
+THEME: Combat. Battle. Warfare. Sport. All are variations of the concept of conflict and the resolution thereof - a fundamental part of any world with more than one thinking mind.<br>
+**Recommended Herald Spells:** *Weapon Construct*, *Shield of Faith*, *Enchant Weapon*.
 
-### Level 3: Improved Divine Intervention
-When you use your *Divine Intervention*, you may now roll up to two d8. Your prayer is answered if you roll a 1 on either die.
-
-### Level 4: Improved Divine Intervention
-When you use your *Divine Intervention*, you may now roll up to three d8. Your prayer is answered if you roll a 1 on any of the dice.
-
-### Level 5: Improved Divine Intervention
-When you use your *Divine Intervention*, you may now roll up to four d8. Your prayer is answered if you roll a 1 on any of the dice.
-
-## Bard Subclass: War Domain.
-THEME: Combat. Battle. Warfare. All are variations of the concept of conflict and the resolution therof - a fundamental part of any world with more than one thinking mind. <br>
-**Domain Spells:** *Weapon Construct*, *Shield of Faith*, *Rank 3*, *Rank 4*, *Rank 5*.
-
-### Level 1: War Priest?
-After casting a Spell, you may make a single Martial Attack as part of the same action? <br>
-Once per round? Only on your turn? Up to CHA times per Rest?
-
-### Level 1: Improved Channel Divinity???
+### Level 1: Guided Strike
 You gain the following Channel Divinity Ability:
 #### Guided Strike?
 When a creature you can see within 20 feet of you misses an Attack, you can use 1 Action and use of your *Divine Spark* to add a +10 bonus to its roll, potentially changing the outcome.
 
-### Level 3: ???
+### Level 1: War Priest?
+After you successfully cast a Divine Spell, you can make a single Martial Attack using your Bonus Action Die.<br>
+After doing so, you can't do so again until you've regained your Actions.
+
+### Level 2: ???
 ???
 
-### Level 5: Improved Divine Wrath?
+### Level 3: Improved Divine Wrath?
 The damage dealt by your *Divine Wrath* feature is now 2d8.
 
-### Level 7: ???
+### Level 4: ???
 ???
 
-### Level 9: Avatar of Battle?
-You are resistant to all damage dealt to you by a Martial Attack.
+### Level 5: Avatar of Battle?
+Whenever you are dealt damage by a Martial Attack, halve it.

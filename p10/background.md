@@ -2,10 +2,10 @@
 A character's background is the road they've taken in life since before the call of adventure. <br>
 It is usually defined as an occupation or a state of being such as "Refugee", "Hero among orcs", or "Woke up with no memories". <br>
 The benefits gained from your background customizable, as long as you follow this template: <br>
-+ You learn one language (of any rarity).
-+ You gain Training in any one area.
-+ Starting Skills: You put set your Grade for 4 different Skills, one for each attribute, to 1.
-+ You gain one of the three starting bonuses (+5 max HP, +1 Grade to one Starting Skill, or learn a Rank 1 Cantrip from any list).
++ You learn any one language.
++ You gain any one Training.
++ Starting Skills: For each Attribute, assign a d4 to one Skill listed under it.
++ You gain one of the three starting bonuses (+1 max HP, Increase one Starting Skill, or learn a Spell).
 + You start with equipment and/or coinage worth a total of 25 gp (A good amount for a level 0 or 1 character).
 + Bonus Equipment: A thematically appropriate set of clothes. You can buy spare sets if you want, but being naked is NOT the default.
 <br><br>
@@ -16,8 +16,8 @@ Below follows some pre-made example backgrounds made using these guidelines. <br
 You come from the dark underbelly of society *INSERT MORE DETAILS HERE* <br>
 <br><br>
 You learn a language spoken by the commoners in your territory and gain Training in "Thievery". <br>
-Starting Skills: Brawn, Finesse, Investigation, and Performance. <br>
-Increase your Grade for one of your Starting Skills by 1.
+Starting Skills: Brawn, Finesse, Investigation, and Suggestion. <br>
+Increase the die for one of your Starting Skills to a d6.
 <br><br>
 Your equipment consists of:
 + ???
@@ -29,8 +29,8 @@ Suggested Personality Traits: ??? <br>
 You come from a place of great privilege *INSERT MORE DETAILS HERE* <br>
 <br><br>
 You learn an old traditional language of your domain and gain Training in "History". <br>
-You gain 2 Skill Points in Athletics, Handling, Lore, and Authority. <br>
-Learn one Rank 1 Cantrip Spell of your choice.
+Starting Skills: Athletics, Handling, Lore, and Authority. <br>
+Learn any one 1 Spell.
 <br><br>
 Your equipment consists of:
 + A scroll of pedigree in a scroll case.
@@ -59,7 +59,7 @@ You come from a travelling posse, spreading joy and wonder *INSERT MORE DETAILS 
 <br><br>
 You learn a traditional language of your domain and gain Training in "Dice Games". <br>
 Starting Skills: Guts, Acrobatics, Lore, and Performance. <br>
-Increase your Grade for one of your Starting Skills by 1.
+Increase the die for one of your Starting Skills to a d6.
 <br><br>
 Your equipment consists of:
 + ???

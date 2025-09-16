@@ -1,123 +1,59 @@
 # Character Progression
-After you finish an Adventure, your character should be rewarded with significantly refreshing downtime and have gained significant experience, depending of the "level" of the adventure. <br>
-At the very least, everyone should get a "long rest" where they regain all or their lost HP and expended resources, including things like Spell Slots that can be used X times per Adventure. <br>
-Then, the GM decides whether your characters should progress to a greater Level, or if there are more stories to tell on the current scale. <br>
-Either way, each participant may jot down the finished adventure as an Experience/Saga/Tale/Memory/Feat?
+Alongside their character sheet, each player is given a second page to describe the person being played and note down their escapades.<br>
+After a challenge has been overcome, jot it down as a named Feat and assign it a value of 1 to 5 Experience Points, or EXP. After a Feat has been named, it cannot be named again.<br>
+Commonly, defeating a new kind of monster is a Feat worth EXP equal to its Level, and finishing a multi-step quest is a Feat worth EXP equal to the highest EXP value among the challenges that were overcome as part of the process, including anything that has already been named a Feat.
+<br><br>
 
-## Party Sheet
-Some stories need not to be drawn out. In such cases it is enough to have the players fill out their character sheets at the given level. <br>
-Other times, the story needs to show real growth of ability and experience gained. In those cases, the party are also given a Party Sheet. <br>
-On the Party Sheet, the party write down the tenets of a chosen Oath (suggestions are at the buttom of this page). After each session, take the time to review and see if the party has fulfilled the tenets of their Oath. For each tenet filled, the party gains 1 XP *(up to 5)*. The XP-track on the sheet can hold up to 10 without the party levelling up.
-
-## Tales
-On your sheet, you have space enough to write down what adventures your character has completed in the form of Tales. A newly made character starts with one; their backstory. <br>
-If you make a Check and fail, you may explain to the GM how the moment relates to one of your noted Tales and why you MUST succeed. With the GM's permission, you may cross out the Tale to succeed on that Check instead. <br>
-*How should used tales be regained? Per Adventure? Even less often? Special conditions?*
+With every 5 EXP gained, you may pick one new Talent and either assign a d4 to a Skill with no die assigned to it or increase the size of a die assigned to a Skill by 2, up to 12.<br>
+Every 20 EXP gained, your level is increased by 1, up to 5.
 
 # Grading Adventures: Levels
-Your experience as an adventurer is represented by your Level; A rough scale meant to show how dangerous of an adventure you could handle and how great the stakes could be if you fail. <br>
-You can expect your party to have to fight at least 1 creature with a CR equal to your level by the time an adventure is finished. <br>
+Your experience as an adventurer is represented by your Level; A rough scale meant to show how dangerous of an adventure you could handle and how great the stakes could be if you fail.<br><br>
 
-<br><br>
-1 | 2 | 3 | 4 | 5
-:---: | :---: | :---: | :---: | :---:
-Personal | Local | National | Global | Universal 
-Your family! | Your village! | Your country! | Your world! | Everything!
-The whole building! | The whole city! | The whole Kingdom! | Civilization as you know it! | Existence as you know it!
-
-## Challenge Rating? "Monster Attributes"?
-Challenge Rating (CR) is a scale used to determine how threatening a monster is to an adventuring party. <br>
-If a creature's Level = X >= 1, that means the following:
-+ HP = [2 - 7] + X * Size[1 - 5]
-+ Defence = X + [5 - 10]
-+ Hit = 2 * X + [0 - 5]
-+ Burst = ~5 + 2 * X
-+ DPR? = ~5 + X?
-#### <br>
+Unleveled | Level 1 | Level 2 | Level 3 | Level 4 | Level 5 | Beyond Levels
+:---: | :---: | :---: | :---: | :---: | :---: | :---:
+1 EXP | 1 EXP | 2 EXP | 3 EXP | 4 EXP | 5 EXP | 5 EXP
+Personal Stakes | Local Stakes | Building Stakes | Town Stakes | Regional Stakes | National Stakes | Global Stakes
+Bandits or Wolves | Trained Soldiers or Bears | Elite Mercenaries or Elephants | Death Knights or Dinosaurs | Runesark Giants or Greater Demons | Archangels or Anchient Dragons | Literal Gods or Primordial Titans
+Could pair up to take down an adventurer | Could defeat two guards at once | Could fight back a room full of people | Could take down a squad of mercenaries at once | Could defeat a military fort by itself | Could fight back an entire army | Could take over or destroy the world
+####
 
 As a general rule, A level X monster will put up a fair fight against a single level X adventurer.<br>
-The greatest single threat that a trio of level X adventurers could expect to take on, is a level [2 * X] monster. <br>
+Together, two level X adventurers can take down a single level X+1 monster.<br>
 If you want a greater challenge for your party, and/or have a larger party that needs greater threats to be challenged, consider having multiple sets of enemies (1 level 2X = 3 level X = 6 level X/2 = X level 1) and force the players to spread out their efforts? (THIS SCALE WILL DETERMINE THE ENTIRE GAME FEEL)
 
-### Special CR values
-**0:** Basic cannon fodder, like a commoner or a goblin. Its output in a round is on par with 1 Action from an adventurer, and it could die from a single hit. <br>
-+ HP = 2 + Size[1 - 5]
-+ Defence = 10
-+ Hit = 0
-+ Burst = ~3
-+ DPA = 1
-#### <br>
-**1/2:** The commoners greatest threat, such as a wolf or a LotR orc. As powerful as a "Level 0" adventurer. <br>
-+ HP = [2 - 7] + Size[1 - 5]
-+ Defence = [10 - 15]
-+ Hit = [0 - 5]
-+ Burst = ~5
-+ DPA = ~2
-#### <br>
+### Approximate Level-Grading???
+If a creature's Level is X, that implies the following about its power:
++ Maximum HP = Att/2 * HP Bonus + X
++ Maximum MP = Att/2 * MP Bonus + X
++ Defence = Att + ~2X
++ Actions = d8/"Proficiency Die"/"Between d8 and Prof. Die"
+####
 
-# OATHS
-Everyone around the table should be on board with the chosen Oath, beacuse its purpose is to set the tone for a campaign. <br>
-The tenets usually follow a general pattern of "Did you gain info?", "Did you beat something?", "Did you help someone?", followed by two universal tenets of "being true to your character(s)".
+### Improvised Damage??? (WRONG SCALING!)
+We can use Level Dice to determine the power of situational damage dealt by the environment.<br>
+1 for Mundane/Unlevelled -> d4 -> d6 -> d8 -> d10 - d12 -> d20 for Cataclysmic/Beyond Levels.
+<br><br>
 
-## Oath of Adventure
-An Oath befit those who adventure purely for the sake of enjoying every moment of the journey itself.
-+ Did you visit a place you've never been to before?
-+ Did you conquer an imposing challenge?
-+ Did you make a new friend who'll never forget you?
-+ Did someone fulfill all their personal tenets?
-+ Did EVERYONE fulfill all their personal tenets?
-#### <br>
+One die is minor. Use for repeated stuff, like "breathing the posing" or "standing in the fire". Such effects could be of a lower Level than the party.
 
-## Oath of Destiny
-An Oath befit those whose adventure is not a choice, but an irrefutable duty, determined by fate.
-+ Did you find a new clue about your ultimate destiny?
-+ Did you ???
-+ Did you ???
-+ Did someone fulfill all their personal tenets?
-+ Did EVERYONE fulfill all their personal tenets?
-#### <br>
+Two dice is a big setback. Use for one-time events, like "exploding the barrel" or ???. Such effects should be of the same Level as the party.
 
-## Oath of Exploration
-An Oath befit those who adventure to find and reveal places and things that are as of yet undiscovered.
-+ Did you learn something new about your surroundings?
-+ Did you aquire an item of significance?
-+ Did you share a story from your adventures with someone who weren't there?
-+ Did someone fulfill all their personal tenets?
-+ Did EVERYONE fulfill all their personal tenets?
-#### <br>
+Three dice is a potentially lethal ordeal. Use it for catastrophic one-time events to avoid, like "bringing down the building" or "falling into the acid". Such effects could be of a higher Level than the party and saved as "the consequence of failure".<br><br>
 
-## Oath of Glory
-An Oath befit those who adventure for the simple rights of bragging about their deeds.
-+ Did you ???
-+ Did you ???
-+ Did you ???
-+ Did someone fulfill all their personal tenets?
-+ Did EVERYONE fulfill all their personal tenets?
-#### <br>
+Regardless of the scale or severity, allow each target to make an appropriate Save to take half as much damage on a success. The Difficulty of such a Save should be equal to 10 + 2 * X.
 
-## Oath of Heroism
-An Oath befit those who adventure not for their own sake, but to help others who need a hero's presence.
-+ Did you gain something that improves your powers?
-+ Did you contain or destroy the root of some evil?
-+ Did you save someone else from an immidiate danger?
-+ Did someone fulfill all their personal tenets?
-+ Did EVERYONE fulfill all their personal tenets?
-#### <br>
+## Tutiledge
+*Intended to be a BIG money sink*
++ Find teacher
++ Spend money & time
++ Roll it!
++ On success, congrats! Otherwise, back to step 1 or 2!
 
-## Oath of Redemption
-An Oath befit those whose adventure is to atone for past mistakes and become better people.
-+ Did you ???
-+ Did you lay a remnant of someones past to rest?
-+ Did you comfort or support someone else in their time of need.
-+ Did someone fulfill all their personal tenets?
-+ Did EVERYONE fulfill all their personal tenets?
-#### <br>
+### Gain Training
+Spend money and time with a teacher that already has the desired training.
+The Difficulty is equal to 10 + 5 times the amount of Training you already have.
 
-## Oath of Vengeance
-An Oath befit those whose adventure is done with the single purpose to bring down a foe.
-+ Did you learn something new about your nemesis?
-+ Did you ruin something that is of importance to your nemesis?
-+ Did you aid someone else who has also suffered at the hands of your nemesis?
-+ Did someone fulfill all their personal tenets?
-+ Did EVERYONE fulfill all their personal tenets?
-#### <br>
+### Learn a Spell
+Spend money and time with a document describing the Spell or a teacher that already knows it.<br>
+End by succeeding on a Test of Magic. The Difficulty is equal to 10 + 5 times the Spell's base cost.

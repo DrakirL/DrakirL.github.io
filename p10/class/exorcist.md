@@ -5,16 +5,19 @@
 
 ## Bonuses
 **Class Group:** Warrior <br>
-**Hit Points per Level:** 4 <br>
-**Mana Points per Level** 2 <br>
-**Skill Points per Level:** 2 <br>
+**Action Dice:** d12/d6/d6
 
-## Proficiencies
+## Starting Proficiencies
 **Weapons:** Simple Melee. Simple Ranged. Advanced Melee. Advanced Ranged. <br>
 **Armor:** Light. Heavy. <br>
 **Shields:** None. <br>
 **Focus:** None. <br>
 **Training:** An exotic language of your choice. <br>
+
+## Starting Talents
++ *Sworn Enemy*
++ *Baleful Brand*
++ *???*
 
 ## Starting Equipment
 + Either an Advanced Melee Weapon and Chain Armor?, or an Advanced Ranged Weapon, a quiver with 20 pieces of ammunition, and Gambeson armor.
@@ -24,21 +27,40 @@
 ## Exorcist Class Features
 These are the core features granted for the Exorcist Class.
 
-### Core: Sworn Enemy
+### Level 1: Profane Order
+Choose an Exorcist Subclass. You may count each Talent listed under it count as a Exorcist Class Talent.<br>
+Your options are the following:
++ Order of Ancients
++ Order of Collectors
++ Order of Calamity? the Deluge? Nexus?
++ Order of Dragonborne
++ Order of the Fallen Star
++ Order of Heretics
++ Order of the Lost
++ Order of Lycanthropes
++ Order of Mutants
++ Order of the Ordning
++ Order of Slayers
+#### <br>
+
+Pick a Level 1 Talent from your chosen Exorcist Subclass.
+
+### Level 1: Sworn Enemy
 Choose a creature type. Add it among your Training. (PHRASING?) <br>
 *Note: This means that you should get Advantage on Tests that relates to your chosen creature type. You have lots of experience/knowledge to draw from.*
 <br><br>
-If a creature is of the type you chose, it counts as a Sworn Enemy for you. When you hit one of your Sworn Enemies with a Martial Attack, you raise the Attack's Degree of success by 1.
+If a creature is of the type you chose, you may treat it as a Sworn Enemy.<br>
+Whenever you would make an Attack against a Sworn Enemy and roll your Proficiency Die, you may instead roll it twice and pick one of the two values to count. (PHRASING?).
 
-### Core: Baleful Brand
-When you hit a creature with a Martial Attack, you can spend 1 MP to Brand it before causing any of the attack's effects. (PHRASING?) <br>
-While a creature is Branded by you, you can treat that creature as if it were your Sworn Enemy regardless of its creature type. <br>
+### Level 1: Baleful Brand
+When you target a creature with a Martial Attack, you can spend 1 MP to Brand it before attempting the Test.<br>
+While a creature is Branded by you, you may treat it as a Sworn Enemy.<br>
 You also know the direction towards the Branded creature’s location at all times, provided it is on the same plane of existence as you.
 <br><br>
-Your Brand remains until you Brand a different creature, you use 1 Action on your turn to touch the creature and remove your Brand, or your Brand is dispelled (as if it were a spell with a Rank equal to your Level).
+Your Brand remains for up to a day, until you Brand a different creature, you use 1 Action on your turn to touch the creature and remove your Brand, or your Brand is dispelled (as if it were a Spell you casted).
 
-### Level 1: Weapon Bond? Rite of Enhancement?
-You can use 1 Action on your turn and spend 1 MP to enhance a weapon you are holding. You can use a weapon you have enhanced this way as a focus to cast any spell you know. The enhancement lasts for up to a minute, until you let go of the weapon, or use this feature again. <br>
+### Level 1: Enhancement Rite
+You can use 1 Action on your turn and spend 1 MP to enhance a weapon you are holding. You can use a weapon you have enhanced this way as a focus to cast any Spell you know. The enhancement remains for a minute, until you let go of the weapon, or use this feature again. <br>
 When you enhance the weapon, choose one of the following damage types: Sonic, Acid, Cold, Fire, Lightning, Infernal, Radiant, or Necrotic. When you deal damage with the enhaced weapon, you may change the damage dealt to the type you chose.
 
 ### Level 1: Sixth Sense?
@@ -53,11 +75,11 @@ On a failed Save, the attempt to change its form fails and the creature is Stunn
 You gain Advantage on any Save that one of your Sworn Enemies forces you to make.
 
 ### Level 4: Brand of Binding/Tethering? Nowhere to Run?
-While a creature is Branded by you, any Speed it has is reduced to 1 pace, it can’t sprint as part of the Move Action, and if it attempts to teleport or leave its current plane by any means, it must make a Will Save against your Magic Might. <br>
+While a creature is Branded by you, any Speed it has is reduced to 1 pace, it can’t sprint as part of the Move Action, and if it attempts to teleport or leave its current plane by any means, it must make a Will Save against your Magic Might.<br>
 On a failed Save, the attempt to teleport or leave the plane fails and the creature is Stunned until the end of your next turn.
 
 ### Level 5: Sealed Fate
-When you make a Martial Attack against one of your *Sworn Enemies* and miss, you may still deal half damage. (DETAILS? PHRASING? More?)
+When you make a Martial Attack against a Sworn Enemy and roll your Combat Skill Die, you may do so with Advantage.
 
 ## Exorcist Subclass: Order of Slayers
 THEME: ???

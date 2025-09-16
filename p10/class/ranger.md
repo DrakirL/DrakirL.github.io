@@ -5,16 +5,19 @@ Ruthless hunters that could track down any foe to the edge of the earth. <br>
 
 ## Bonuses
 **Class Group:** Expert <br>
-**Hit Points per Level:** 3 <br>
-**Mana Points per Level** 2 <br>
-**Skill Points per Level:** 3 <br>
+**Action Dice:** d10/d10/d4
 
-## Proficiencies
+## Starting Proficiencies
 **Weapons:** Simple Melee. Simple Ranged. Advanced Ranged. <br>
 **Armor:** Light. <br>
 **Shields:** Small. <br>
 **Focus:** None. <br>
 **Training:** Survival. Herbalism? More? <br>
+
+## Starting Talents
++ *Ranger's Mark*
++ *Trailblazer*
++ Either *Area of Expertise?* or *Fighting Style*?
 
 ## Starting Equipment
 + A Simple Melee Weapon of your choice.
@@ -22,33 +25,48 @@ Ruthless hunters that could track down any foe to the edge of the earth. <br>
 + A quiver containing 20 pieces of ammunition of your choice.
 + Hide Armor.
 + An animal companion?
-#### <br>
 
 ## Ranger Class Features
 These are the core features granted for the Ranger Class.
 
-### Core: Ranger's Mark
-You can use 1 Action on your turn to focus your attention on a creature you can see. Make a Martial Test against that creature's Defence. <br>
-If you succeed, that creature becomes Marked by you for up to a day, requiring your Concentration. <br>
-When you make a Martial Attack against a creature you have Marked in this way, you roll a a d12? and add it to your total. (PHRASING?)
-
-### Level 1?: Pathfinder
-As an adept at traversing all types of terrain, you gain the following benefits: <br>
-+ Your Speed increases by 5 feet. <br>
-+ You have Climb Speed and Swim Speed equal to your Speed. <br>
-+ You can ignore the effects of Difficult Terrain while you're moving through it. (PHRASING?) <br>
+### Level 1: Professional Conclave
+Choose a Ranger Subclass. You may count each Talent listed under it count as a Ranger Class Talent.<br>
+Your options are the following:
++ Beastmasters' Conclave
++ Commandos' Conclave
++ Explorers' Conclave
++ Hunters' Conclave
++ Monster Slayers' Conclave
++ Nightstalkers' Conclave
++ Nomads' Conclave
++ Primeval Guardians' Conclave
++ Spiritcallers' Conclave
++ Trappers' Conclave
++ Weavewalkers' Conclave
 #### <br>
 
-### Level 1?: Trailblazer
-While you are travelling, you gain the following benefits:
-+ Your travelling party's pace is not slowed by Difficult Terrain. <br>
-+ You can partake in up to 2 activities whilst travelling. <br>
-+ *Advantage against overexertion? Or just no disadvantage from weather? <br>
-+ You can't become lost except by magical means. (Enforced how?) <br>
-#### <br>
+Pick a Level 1 Talent from your chosen Ranger Subclass.
 
-### Level 1?: Survival of the Fittest? Grit?
-Whenever you finish a Rest, you regain 1 additional HP and MP.
+### Level 1: Ranger's Mark
+You can use 1 Action on your turn to focus your attention on a creature you can see.<br>
+Make a Martial Test against that creature's Defence. On a success, that creature becomes Marked by you for up to a day, requiring your Concentration.<br>
+When you make a Martial Attack against a creature you have Marked in this way, you may add a d10 to your Dice Pool.
+
+### Level 1: Trailblazer
+Being trained for partaking in great journeys, you gain the following benefits:
++ Your party's travelling pace is not slowed by Difficult Terrain.
++ You can partake in up to 2 activities whilst travelling.
++ You gain Advantage on any Test of Endurance you make to avoid gaining Exhaustion.
++ You can't become lost except by magical means. (Enforced how?)
+
+### Level 1: Pathfinder
+As an adept at traversing all types of terrain, you gain the following benefits:
++ Your Walk Speed increases by 1 Pace.
++ You have Climb Speed and Swim Speed equal to your Walk Speed.
++ You can ignore the effects of Difficult Terrain as you're moving through it.
+
+### Level 1: Survival of the Fittest? Grit?
+Upon finishing a Rest, you regain an additional 1 HP and 1 MP. This bonus is not prevented if you have Exhaustion.
 
 ### Level 2: Informed Preparations? Target Locked?
 After you finish a Rest, you may choose one individual creature (you've seen/interacted with?) and add its name (or at least a name you've chosen for it) amongst your Training. (PHRASING?) <br>

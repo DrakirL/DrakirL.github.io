@@ -3,18 +3,25 @@ Slippery tricksters evading traps and devestation alike. <br>
 Highly capable mercenaries and true masters of their craft. <br>
 Conniving experts that can find and exploit any weakness in a foe or their plans. <br>
 
-## Bonuses
+## Class Properties
 **Class Group:** Expert <br>
-**Hit Points per Level:** 2 <br>
-**Mana Points per Level** 2 <br>
-**Skill Points per Level:** 4 <br>
+**Action Dice:** d8/d6/d6/d4
 
-## Proficiencies
-**Weapons:** Simple Melee. Simple Ranged. Specific (Pistols)? <br>
+## Starting Proficiencies
+**Weapons:** Simple Melee. Simple Ranged. Specific (Pistols). <br>
 **Armor:** Light. <br>
 **Shields:** None. <br>
 **Focus:** None. <br>
-**Training:** An occupation of your choice. A gaming set or vehicle of your choice. A common language of your choice. <br>
+
+## Starting Talents
++ *Sneak Attack!*
++ *Oppertunist*
++ *Area of Expertise*
+
+## Starting Knowledge
+**Languages:** Two common.<br>
+**Training:** One occupation. Either one gaming set or one vehicle.<br>
+**Spells:** None.<br>
 
 ## Starting Equipment
 + A Simple Melee Weapon of your choice.
@@ -27,28 +34,29 @@ Conniving experts that can find and exploit any weakness in a foe or their plans
 ## Rogue Class Features
 These are the core features granted for the Rogue Class.
 
-### Core?: Sneak Attack!
-If you hit a creature with a Martial Attack and you have Advantage on the roll, you can double the damage you deal. <br>
-After doing so, you can't do so again until you regained your Actions.
+### Level 1: Sneak Attack!
+When you hit a creature with a Martial Attack, you can increase any Physical damage dealt by an amount equal to the number of dice in the Dice Pool.<br>
+After doing so, you can't do so against the same creature again until you've either finished a Rest or entered a new Action Scene.
 
-### Core?: Opportunist
-You gain Advantage on any Attack you make against a creature in one of the following situations:
- + Your Attack is a Sudden Strike.
- + The target creature is Downed.
- + The target creature is Grappled.
+### Level 1: Opportunist
+When you make a Martial Attack against a creature, you may add a d4 to your Dice Pool, provided that at least one of the following conditions is being met:
+ + The targeted creature is Downed.
+ + The targeted creature is Grappled.
+ + The targeted creature was unaware of your position.
+ + Your Attack against the target creature is a Sudden Strike.
  + You have an allied creature within 5 feet of the target creature on the opposite side from where you are attacking it.
-#### <br>
 
-### Level 1?: Expertise
-Choose one of your Skills, other than Martial or Magic. You gain a number of additional Skill Points this Level equal to your Grade for that Skill. <br>
-Then, set your Grade for that Skill to 5.
+### Level 1: ???
+???
 
-### Level 1?: Multitasking? Cunning Action?
-You now have 4 Actions to use each Round rather than 3. (LIMITER? Provided you aren't encumbered = 4 or 2 Actions)
+### Level 1: Thinking it Through?
+Choose a Skill to be your Mastered Skill.<br>
+When you make a Test that uses your Mastered Skill, you may use 1 additional Action to grant yourself Advantage on that Test.<br>
+If you do so, that Test cannot be Interrupted.
 
-### Level 2: Uncanny Dodge? Evasion? Prepared for the Worst? Slippery?
-When you are hit by an Attack, you can use 1 Action to reduce any incoming damage by half. <br>
-When you make a Save against incoming damage, you can use 1 Action to instead take half as much damage. <br>
+### Level 2: Giving the Slip
+When you are hit by an Attack, you can use 1 Action to reduce the incoming damage by half. <br>
+When you make a Save against taking damage, you can use 1 Action to instead take half as much damage. <br>
 If the damage is already halved by you succeeding on the save, you instead take no damage?
 
 ### Level 3?: Easy Does It? Measure Twice? Careful Deliberation?

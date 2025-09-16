@@ -5,16 +5,23 @@ Paragons of talent exploring all kinds of fields in all kinds of ways. <br>
 
 ## Bonuses
 **Class Group:** Expert <br>
-**Hit Points per Level:** 2 <br>
-**Mana Points per Level** 2 <br>
-**Skill Points per Level:** 4 <br>
+**Action Dice:** d8/d8/d8
 
-## Proficiencies
+## Starting Proficiencies
 **Weapons:** Simple Melee. Simple Ranged. <br>
 **Armor:** Light. <br>
 **Shields:** None. <br>
 **Focus:** None. <br>
-**Training:** An occupation or education of your choice. A musical instrument of your choice. <br>
+
+## Starting Knowledge
+**Languages:** One common.<br>
+**Training:** Two musical instruments. One occupation or education.<br>
+**Spells:** Any three.<br>
+
+## Starting Talents
++ *The Art of Magic*
++ *Inspiring Flair*
++ Either *Area of Expertise?* or *Expanded Incantabulary*?
 
 ## Starting Equipment
 + A Simple Melee Weapon of your choice.
@@ -25,36 +32,42 @@ Paragons of talent exploring all kinds of fields in all kinds of ways. <br>
 ## Bard Class Features
 These are the core features granted for the Bard Class.
 
-### Core: "Spellcasting Core"? Talented Troubadour? Magical Secrets?
-You learn any 6 Spells of your choice. <br>
-If you have Training with a musical instrument, you can use such an instrument as a focus to cast any Spell you know. <br>
+### Level 1: Bardic College
+Choose a Bard Subclass. You may count each Talent listed under it count as a Bard Class Talent.<br>
+Your options are the following:
++ College of Ambience
++ College of Blades
++ College of Eloquence
++ College of Glamour
++ College of Hymns
++ College of Metal
++ College of the Quill
++ College of Song
++ College of Tomfoolery
++ College of Valor
++ College of Whispers
+#### <br>
 
-### Core: Inspiring Flair
-When another creature within 10 paces of you makes a Test, you can use 1 Action (and spend 1 MP?) to roll a Flair Die (which is a d6). <br>
-Provided that the creature can either see or hear you, add your Flair Die to their total roll, potentially changing the outcome. <br>
+Pick a Level 1 Talent from your chosen Bard Subclass.
 
-### Level 1: Versatile Virtuoso
-After you finish a Rest, you learn any 1 Spell of your choice until you finish another Rest. (PHRASING? Restriction?)
+### Level 1: The Art of Magic
+If you have Training with a musical instrument, you can use such an instrument as a focus to cast any Spell you know.
 
-### Level 1: Song of Rest?
+### Level 1: Inspiring Flair
+You can use the Assist Action to aid a creature within 10 paces of you, provided it can either see or hear you.
+
+### Level 1: Jack of all Trades (*Repeatable*)
+**Prerequisite:** *The Art of Magic*?<br>
+You learn any 1 Spell.<br>
+Increase the size of a die assigned to a Skill by 2, up to 12.
+
+### Level 1: Song of Rest? The Spirit of Adventure?
 During a Rest, you may soothe yourself or your party through entertainment or artistry. (PHRASING?) <br>
 After you finish the Rest, each rested creature regains 1 additional MP (or HP? your choice?).
 
-### Level 2: Jack of All Trades
-You gain the following benefits:
-+ Your Flair Die is now a d8.
-+ Increase your Maximum HP and MP by 1.
-+ You gain 1 additional Skill Point this level. <br>
-+ You gain Training with a musical instrument or a gaming set of your choice. <br>
-#### <br>
-
-### Level 3: Jack of All Trades
-You gain the following benefits:
-+ Your Flair Die is now a d10.
-+ Increase your Maximum HP and MP by 1.
-+ You gain 1 additional Skill Point this level. <br>
-+ You gain Training with a musical instrument or a gaming set of your choice. <br>
-#### <br>
+### Level 2: Versatile Virtuoso
+Learn 1 Spell of your choice and mark it as your Versatile Spell.<br>
+Upon finishing a Rest, you may replace your Versatile Spell with any other Spell you don't already know.
 
 ### Level 4: Jack of All Trades
 You gain the following benefits:

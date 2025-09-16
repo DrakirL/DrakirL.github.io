@@ -2,87 +2,84 @@
 The game is determined by the GM narrating consequences of the actions the player's decide their character should take. <br>
 If it is uncertain whether an attempted action should result in success or failure, a Test is made to determine the result.
 <br><br>
-To make a Test, first determine the Difficulty of the task being attempted as a value no higher than 35, often predetermined and noted on some involved character's sheet. <br>
-In cases where a value has not been determined, the GM can pick a value on the spot, typically 10, 15, or 20. <br>
-5 | 10 | 15 | 20 | 25 | 30 | 35 
-:---|:---|:---|:---|:---|:---|:---
-Trivial | Easy | Moderate | Challenging | Formidable | Legendary | Impossible (NOT FOR USE)
+To make a Test, first determine the Difficulty of the task, often by picking a predetermined value noted on some involved character's sheet. <br>
+In cases where a value has not been determined, the GM can pick a value on the spot, typically 10 or 15.<br>
+5 | 10 | 15 | 20 | 25
+:---|:---|:---|:---|:---|:---
+Easy | Moderate | Challenging | Formidable | Legendary
 
 #### <br>
-Then, the creature being tested rolls a d20 and add any relevant modifiers. If the total for the roll matches or exceeds the Difficulty, the attempt is a success. Otherwise, it's a failure. You can also decline to make Test without if so wish. Doing so counts as an automatic failure
-<br><br>
-Because Tests are made when either a success or failure would be an acceptable outcome, rolling a natural 1 is always a failure and a natural 20 is always a success. <br>
+Then, the creature being tested may dynimically assemble a collection of rolled dice, henceforth referred to as a Dice Pool.<br>
+If the combined total of all values in the Dice Pool matches or exceeds the defined Difficulty, the attempt is a success. Otherwise, it's a failure.<br>
+A creature can also decline to make Test when given the opportunity. Doing so is treated as automatically failing the Test.
 
-## Grades/Degrees? of Success
-There are situations where a successful result is graded. In there situations, the grade is increased by 1 for each increment of 5 the result exceeds the difficulty (For example: 23 on an attack against 10 defence is a "grade 2" success, because 23 - 10 = 13 and 13/5 = 2, the remainer is ignored).
+## Assembling Dice Pools
+A player should never be asked to "make a Test" without any relevant context or comprehensible instructions.<br>
+The words used when a Test is asked for normally specify more details regarding which dice can be included in a Dice Pool using established quick-reference terminology. (For example: "Test of Acrobatics", "Magic Attack", or "Intelligence Save")<br>
+Every Test must at least imply that a specific Attribute is being tested. The first die added to the Dice Pool is the one the tested creature has assigned to the implied attribute.<br>
+Beyond that, there are several ways to add more.
 
-## Relevant Modifiers
-You will essentially never be asked to just "make a Test" without any additional information. <br>
-Instead, the instructions will specify more information regarding the Check's Attribute or Skill. For example: "Test of Might", "Test of Acrobatics", "Magic Attack", or "Intelligence Save".
-<br><br>
-If you make a Check where a specific Attribute is implied, you add the value you have for that Attribute to your roll.
+### Actions
+Each creature has a number of Actions it can use, each with an assigned die.<br>
+Whenever a creature makes a Test, it may use any of its currently unused Actions to add their assigned dice to the rolled Dice Pool.<br>
+During a, when
 
-### Skills & Skill Grades?
-There are 16 Skills, 4 assigned under each Attribute. When you make a Test of Skill (for example a "Test of Brawn", "Test of Lore", or "Test of Intuition"), you treat the Attribute the given Skill is assigned under as the specified Attribute and add it to the result as normal.
-<br><br>
-You have a defined Grade for each of your Skills. When you make a Test of Skill you add a modifier equal to two times your Grade for the given Skill. <br>
-At each level, you gain a number of Skill Points determined by your Class. You can use each point to increase your Grade for a given Skill by 1, up to a maxmimum of 5. You cannot use more than 1 Skill Point on the same Skill at any given Level.
+#### The Bonus Action Die
+Depending on their equipment and abilities, an adventurer may be able to take "bonus actions" in addition to the actions they can use up. When this happens,<br>
 
-### Attacks & Saves
-Tests can be referred to with other names to designate a specific type, but all types of Tests are performed in the exact same way: Roll a d20, add modifiers, compare to difficulty. <br>
-These names do not affect the Test's function, but is only meant to explain the context where certain Checks are often made. There are however certain features/benefits that exclude or excludingly include which Tests they apply to based on these names.
+### Skills
+There are 16 Skills, 4 listed under each Attribute. Any Test of Skill also counts as a Test of the Attribute that Skill is listed under. For example: A "Test of Brawn" counts as a Test of Strength, which means that the Strength Die should be the first that was added to the Dice Pool.
 <br><br>
-**Attacks**<br>
-An Attack is a Test made to "score a hit" on a target. They are declared as either Martial or Magic attacks, letting your choose one of two Attributes to add.  <br>
-The Difficulty of the Test is generally determined by target's Defence (or "Hardness" if it's inanimate).<br>
-On a success, you land a decent hit on the target, dealing damage and/or triggering any effects that occur on a hit. On greater degrees of success, increase the damage/effects. (DETAILS? PHRASING?) <br>
-There is no Skill associated with Attacks. Instead, you add your Level to any Attack you make.
+Each Skill may have a die assigned to it. When a Test of Skill is made using a Skill with an assigned die, the tested creature may also add that die to its Dice Pool.
+
+#### The Combat Skill Die
+The life of an adventurer is a rough one and fighting is a learned "skill" all on its own. As such, any creature with a Level also has an assigned Combat Skill Die, the size of which is determined by its Level.<br>
+A creature can add its Combat Skill Die to the Dice Pool for any Attack or Save it makes, as these are specific types of Tests heavily associated with the whole "risking your life"-business.
 <br><br>
-**Saves**<br>
-A Save is a Test that you are *forced* to make by some external influence. As such, you don't decide when to attempt them and you don't need to use any Actions to do so.<br>
-The Difficulty of the Test is often pre-determined by the source's Martial Might or Magic Might, but may also be improvised by the GM on occation. <br>
-On a success, the incoming effect may be negated (or at least partially mitigated). On a fail, you suffer the full extend of the effect. <br>
-There is no Skill associated with Saves. Instead, you add your Level to any Save you make.
-<br><br>
-*(Should it be ANY, or should there be a need for proficiency? For now, we allow ANY)*
+**Combat Skill Die Size at each Level:**
+Unlevelled | Level 1 | Level 2 | Level 3 | Level 4 | Level 5 | Beyond Levels
+:---: | :---: | :---: | :---: | :---: | :---: | :---:
+No die | d4 | d6 | d8 | d10 | d12 | d20
+
+#### Attacks
+An Attack is a Test made to "score a hit" on a target, the Difficulty of which is equal to its Defence (or Hardness if it's an inanimate object).<br>
+A "Martial Attack" is one made using either a weapon, improvised or otherwise, or the attacker's own body. When a creature makes a Martial Attack, it decides whether it counts as a Test of Strength or Agility, unless one is specifically demanded by the weapon being used.<br>
+A "Magic Attack" is one made through casting a spell or using some unique supernatural ability. When a creature makes a Magic Attack, it decides whether it counts as a Test of Will or Intelligence, unless one is specifically demanded by the spell being used.
+
+#### Saves
+A Save is a Test a creature is *forced* to make by some external influence. When a creature makes a Save, it uses its Bonus Action Die, its Combat Skill Die, and the relevent Attribute Die.<br>
+When the reason a Save is being forced is caused by a creature, either its Martial Might or its Magic Might will normally be used as the Difficulty.
+
+## Degrees of Success
+There are situations where the Degree of the result's effectiveness is measured. In these situations, the Degree starts at 0 and is increased by 1 for each increment of 5 the result exceeds the given Difficulty by.<br>
+(For example: rolling a total of 12 on an attack against 10 Defence only counts as a "Baseline" or "1st Degree" hit. Rolling 16 instead would count as a "2nd Degree" hit, because 16 - 10 = 6 and 6/5 = 1 when the remainer is ignored. 3rd would be at 20, 4th at 25, and so on and so forth)<br>
+These documents will henceforth use an asterisk to make values scaled by degrees of success more convenient. For example: "2*" means the same as "2 for a Baseline Success, and increased by 1 for each Degree above that".
 
 ## Advantage & Disadvantage
-When a Test is made, the surrounding context and circumstances may be either helpful or hurtful to it. This is represented by giving the roll either Advantage or Disadvantage. <br>
-If a Test is made in circumstances that could reasonably increase the chance of success, it is made with Advantage: Roll the d20 twice and use the *higher* of the two rolls as the natural result. <br>
-If a Test is made in circumstances that could reasonably reduce the chance of success, it is made with Disadvantage: Roll the d20 twice and use the *lower* of the two rolls as the natural result. <br>
-There are no additional effects if a Test could use multiple sources of Advantage or Disadvantage. Only one of each counts. <br>
-If a Test is made with both Advantage and Disadvantage, roll the d20 once, as though it had neither.
+There are certain conditions or abilities that make an individual die be "rolled with Advantage" or "rolled with Disadvantage".<br>
+If a die would be rolled with Advantage, roll it twice and use the higher of the two results as its final rolled value.<br>
+If a die would be rolled with Disadvantage, roll it twice and use the lower of the two results as its final rolled value.<br>
+If a die would be rolled with both Advantage and Disadvatange as the same time, roll it once as normal. Neither will stack with itself, and both cancel each other out.
 
-## Proficiency & Training
-Sometimes you can be more than just skilled, and sometimes merely being skilled is not enough to gain a benefit or avoid a penalty.
-### Proficiency: Weapons, Shields, & Armor.
-If you lack Proficiency with a type of weapon, you gain Disadvantage on any Test made to properly use a weapon of that type. <br>
-If you lack Proficiency with a type of armor, you are Encumbered whilst wearing armor of that type. <br>
-If you lack Proficiency with a type of shield, you can't use a shield of that type to increase Defence. <br>
-If you lack Proficiency with a type of focus, you can't use a focus of that type to cast any Spell. <br>
-### Training: Occupations, Educations, Vehicles, Games, and Instruments.
-If you have any Training in some area, ham it up! If you can describe how your training should let you be better at making a Test, you gain Advantage on that Test for free! You need only ask the GM to make sure :) <br>
-*Examples: Gain adventage on a Performance Test by playing an instrument you've practiced, on a Handling Test for controlling a machine you've worked with regularily, or on a Lore Test regarding a subject you are educated in.* <br>
+## Rerolls
+There are certain abilities that give creatures (mainly players) the chance to "reroll its Dice Pool" under certain conditions.<br>
+When rerolling a Dice Pool, select any of the dice in them and roll them again, following whatever rules apply when rolling each of those particular dice.<br>
+The new result override the previous ones.
 
-# Spellcasting
-To cast a Spell, you need to be holding a focus. If the Spell is contained within an item (like a scroll or magic weapon), that item doubles as the focus. <br>
-If you know a Spell by yourself, you must use a special item that works as a focus for one of the Spell Lists the Spell in question belongs to. To use such a focus this way, you must be Proficient with its type. <br>
-If a Spell forces a Save to be made, the Difficulty for that Save is equal to the caster's Passive Magic Skill.
-
-## Spell Slots
-If you know a Spell, you can cast it by expending a Spell Slot of a Rank no lower that the Spell's Rank. <br>
-If you cast a Spell by expending a Spell Slot of a greater Rank than is needed, the casted Spell's Rank increases to match the Slot (which matters for Counterspell etc). A lot of Spells also have additional benefits if cast at greater Ranks, keep an eye out for those! <br>
-You regain any expended Spell Slots after you finish an adventure (aka Long Rest?).
-
-### Cantrips
-If a Spell has the "Cantrip"-tag, it is really simple and non-taxing to cast compared to other spells of that Rank. <br>
-If you know a Cantrip Spell, you can cast that Spell without using a focus or expending a Spell Slot.
+### Training: Occupations, Educations, Vehicles, Games, & Instruments
+Training is one of few ways to gain Advantage reliably.<br>
+If you have any Training in some area, ham it up! If you can describe how your training should let you be better at a Test of Skill, you may roll Advantage on that Test for free! You need only ask the GM to make sure :) <br>
+*Only non-Attack non-Save Tests are allegible.*
+*Examples: Gain Advantage on a Test of Performance by playing an instrument you've practiced, on a Test of Handling for controlling a machine you've worked with regularily, or on a Test of Lore regarding a subject you are educated in.* <br>
 
 # Timescales
 To reduce the need for calculations of interpretations, we often measure time in abstract terms:<br>
-+ X Action(s): About 1-3 seconds. The time it takes to do something in the heat of the moment. This is the only timescale we regularily use varying amounts of at a time.
-+ A Round: About 10 seconds of real time. It's the time it takes for everyone in a scene to both act and process what just happened.
-+ A Minute: Long enough to last for a Combat Scene, but not beyond that. If you have to count Rounds as a timer, 1 Minute = 6 rounds, including the one when the counting starts.
-+ An Hour: Long enough to last through multiple Combat Scenes, one entire travelling scene, or one otherwise extended period of time.
-+ A Day: 24 hours. The time you have until you have finished your next rest (or the point where you really *should* have rested if you didn't).
-+ A Year: Hundreds of days. Enough to not end until well after an adventure is wrapped up, or even multiple adventures.
++ **An Action:** About 1-3 seconds of real time. The time it takes to do something in the heat of the moment. During an Action Scene, the time partaking creatures takes to use their actions is overlapped.
++ **A Round:** About 10 seconds of real time. It's the time it takes for everyone in an Action Scene to both act on their own and process everything everyone else did.
++ **A Minute:** Long enough to last all the way through an Action Scene, but not much beyond that. If you have reasonly to strictly count the time passed in an Action Scene, 1 Minute = 6 rounds, including the one when the counting starts.
++ **An Hour:** Long enough to last through multiple Action Scenes, one entire Travelling Scene, a Rest, or an otherwise extended period of time.
++ **A Day:** 24 hours. The time you have until you have finished your next Rest (or a point where you really *should* have rested if you didn't).
++ **A Year:** Hundreds of days. Enough to not end until well after an adventure is wrapped up, or maybe even multiple adventures.
+
+# Other Math/"Don't know where else to put this"
+Whenever an odd number is halved the result is rounded up, EXCEPT when the number is 1. Treat half of 1 as though it was 0.
