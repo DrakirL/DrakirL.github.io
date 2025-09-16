@@ -4,21 +4,23 @@ Heralds of the forces of nature themselves. <br>
 ??? <br>
 
 ## Bonuses
-**Class Group:** Mage <br>
-**Hit Points per Level:** 3? <br>
-**Mana Points per Level** 3 <br>
-**Skill Points per Level:** 2? <br>
+**Class Group:** Mage
 
-## Proficiencies
-**Weapons:** Simple Melee. Specific (Slings) <br>
-**Armor:** None. <br>
-**Shields:** Small. <br>
-**Focus:** Primal. <br>
+## Starting Proficiencies
++ **Weapons:** Simple Melee. Specific (Slings).
++ **Armor:** None.
++ **Shields:** Small.
++ **Focus:** Primal.
 
 ## Starting Knowledge
-**Languages:** None.<br>
-**Training:** Nature. Either Herbalism, Survival, or Folklore.<br>
-**Spells:** Four Primal.<br>
++ **Languages:** One Common and One Exotic? "Beast" *(You can speak to animals, though they can't speak back)*?
++ **Training:** Nature. Either Herbalism, Survival, or Folklore.
++ **Spells:** Four Primal.
+
+## Starting Talents
++ *Wisdom Passed Down*
++ *Wild Shape*
++ Either *Strong Heart* or *Strong Mind*?
 
 ## Starting Equipment
 + A Simple Melee Weapon of your choice.
@@ -28,30 +30,6 @@ Heralds of the forces of nature themselves. <br>
 
 ## Druid Class Talents
 These are the Talents accessible to the Druid Class.
-
-### Core: Druidic Secrets? Wisdom Passed Down?
-You learn to read the secret signs of the Druids, which are hidden simple descriptive messages made by shaping glyphs into cracks in stones or the bark of living trees. As most accessable places have been found by an experienced druid at some point throughout history, you can expect places of intrigue to have such messages near their entrance. <br>
-*As GM, I beg of you to ask "are there any Druidic Markings here?" from time to time. I will forget to mention them, but they're supposed to act as a free hint system.*<br>
-If Druid is your main Class, you may also learn 1 Primal Spell whenever you pick a Talent.
-
-### Core: Wild Shape
-You learn the forms of three different creatures of your choice; One Small or smaller, one Medium, and one Large or larger. Each form learned this way must be that of an Unlevelled Beast.<br>
-Provided you have no used Actions, you can spend 1 MP on your turn to shape-shift into one of the forms you've learned. Your inventory melds into the new form and can't be accessed, used, or otherwise benefitted from.<br>
-You can remain in the new form for up to an hour or until you enter Death's Door.<br>
-Whilst transformed in this way, the following rules apply:
-+ Your appearance, size, and creature type are that of the form's.
-+ You use the form's Attributes instead of your own.
-+ You use the form's speeds instead of your own.
-+ You use the form's Grade for each Skill instead of your own.
-+ You use the form's Defence and Awareness instead of your own.
-+ You have only the form's Training and Proficiencies.
-+ You have only this Talent and the form's Talents.
-+ You have only the form's physical abilities and senses.
-+ Any items merged into your form count towards your Carrying Capacity.
-#### <br>
-
-When you're about to regain your Actions whilst transformed, you must either return to your true form or spend 1 MP to remain transformed and regain 1 HP.<br>
-*In non-Action Scenes, I guess you should still be able to spend MP to regain HP, but it shouldn't be needed to maintain the transformation*
 
 ### Level 1: Druidic Circle
 Choose a Druid Subclass. You may count each Talent listed under it count as a Druid Class Talent.<br>
@@ -71,10 +49,33 @@ Your options are the following:
 
 Pick a Level 1 Talent from your chosen Druid Subclass.
 
-### Level 1: Greater Shapes *(Repeatable)*
-**Prerequisite: *Wild Shape***<br>
-You learn two new forms for your *Wild Shape*; One Medium or smaller, and one Medium or larger.<br>
-Each form learned this way must be of a beast with a Level no higher than your own.<br>
+### Level 1: Wisdom Passed Down
+You learn to read the secret signs of the Druids, which are hidden simple descriptive messages made by shaping glyphs into cracks in stones or the bark of living trees. As most accessable places have been found by an experienced druid at some point throughout history, you can expect places of intrigue to have such messages near their entrance or somewhere on the way leading up to it.<br>
+*As GM, I beg of you to ask "are there any Druidic Markings here?" from time to time. I will forget to mention them, but they're supposed to be all around and act as a free hint system.*
+
+### Level 1: Wild Shape
+You learn the forms of three different creatures of your choice; One Small or smaller, one Medium, and one Large or larger. Each form learned this way must be that of an Unlevelled Beast.<br>
+Provided you have no used Actions, you can spend 1 MP on your turn to shape-shift into one of the forms you've learned. Your inventory melds into the new form and can't be accessed, used, or otherwise benefitted from.<br>
+You can remain in the new form for up to an hour or until you enter Death's Door.<br>
+Whilst transformed in this way, the following rules apply:
++ Your appearance, size, and creature type are that of the form's.
++ You use the form's Attributes instead of your own.
++ You use the form's speeds instead of your own.
++ You use the form's Grade for each Skill instead of your own.
++ You use the form's Defence and Awareness instead of your own.
++ You have only the form's Training and Proficiencies.
++ You have only this Talent and the form's Talents.
++ You have only the form's physical abilities and senses.
++ Any items merged into your form count towards your Carrying Capacity.
+#### <br>
+
+When you're about to regain your Actions whilst transformed, you must either return to your true form or spend 1 MP to remain transformed and regain 1 HP.<br>
+*In non-Action Scenes, I guess you should still be able to spend MP to regain HP, but it shouldn't be needed to maintain the transformation*
+
+### Level 1: Connection *(Repeatable)*
+**Prerequisite:** *Wild Shape*<br>
+You learn 1 Primal Spell of your choice.<br>
+You learn a new form for your *Wild Shape*. It must be of a beast with a Level no higher than your own.
 
 ## Druid Subclass: Circle of the Moon
 THEME: Morphin' <br>

@@ -4,21 +4,23 @@
 ??? <br>
 
 ## Bonuses
-**Class Group:** Warrior <br>
-**Hit Points per Level:** 3 <br>
-**Mana Points per Level** 3 <br>
-**Skill Points per Level:** 2 <br>
+**Class Group:** Warrior
 
-## Proficiencies
-**Weapons:** Simple Melee. Specific: Darts/Shuriken.<br>
-**Armor:** None. <br>
-**Shields:** None. <br>
-**Focus:** None. <br>
+## Starting Proficiencies
++ **Weapons:** Simple Melee. Specific: Darts/Shuriken.
++ **Armor:** None.
++ **Shields:** None.
++ **Focus:** None.
 
 ## Starting Knowledge
-**Languages:** Any one.<br>
-**Training:** Any one.<br>
-**Spells:** None.<br>
++ **Languages:** Any one.
++ **Training:** Any one.
++ **Spells:** None.
+
+## Starting Talents
++ *Martial Arts*
++ *Magic Discipline*
++ Either *Parkour* or *Balance?*?
 
 ## Starting Equipment
 + A simple Melee Weapon of your choice.
@@ -26,24 +28,6 @@
 
 ## Monk Class Talents
 These are the Talents accessible to the Monk Class.
-
-### Core: Martial Arts
-Through the understanding and control you have over your physical body, you gain the following benefits:
- + You may use your Martial Might in place of your Defence.
- + You may use your Magic Might in place of your Awareness.
- + You can use 1 Action on your turn to make up to two Improvised Martial Attacks.
- + Your Improvised Martial Attacks inherently have the "*Off-Handed*" property.
- + Your Improvised Martial Attacks can have the "*Reach (X)*" or "*Thrown (X)*" properties, provided you make the Attack using a weapon with those properties and are Proficient with that weapon.
-#### <br>
-
-### Core: Magic Discipline
-Through the understanding and control you have over your spiritual self, granting you the following abilities:
-<br><br>
-
-**Stance of the Mountain:** When you take the Brace Action, you can spend 1 MP to double the bonus granted by the Action. If you do so, you also gain 2 Temporary HP that remain until that bonus is lost.
-<br><br>
-
-**Step of the Wind:** When you take the Move Action, you can spend 1 MP to double the movement granted by the Action. If you do so, that movement is unaffected by Difficult Terrain.
 
 ### Level 1: Monastic Tradition
 Choose a Monk Subclass. You may count each Talent listed under it count as a Monk Class Talent.<br>
@@ -53,7 +37,7 @@ Your options are the following:
 + Way of the Dumpling
 + Way of the Four Elements
 + Way of the Kensei
-+ Way of the Mantra? Forbidden Words?
++ Way of the Mantra
 + Way of the Open Palm
 + Way of the Shadow
 + Way of the Sun Soul
@@ -62,6 +46,20 @@ Your options are the following:
 #### <br>
 
 Pick a Level 1 Talent from your chosen Monk Subclass.
+
+### Level 1: Martial Arts
+Through the understanding and control you have over your physical body, you gain the following benefits:
+ + Your Improvised Martial Attacks inherently have the "*Off-Handed*" property, and you can make an improvised off-handed stike after taking any type of Action on your turn.
+ + Your Improvised Martial Attacks can have the "*Reach (X)*" or "*Thrown (X)*" properties, provided you make the Attack using a weapon with those properties and are Proficient with that weapon.
+
+### Level 1: Magic Discipline
+Through the understanding and control you have over your spiritual self, granting you the following abilities:
+
+#### Stance of the Mountain
+When you take the Brace Action, you can spend 1 MP to double the bonus granted by the Action. If you do so, you also gain 1 Temporary HP that remains until that bonus is lost.
+
+#### Step of the Wind
+When you take the Move Action, you can spend 1 MP to double the movement granted by the Action. If you do so, that movement is unaffected by Difficult Terrain.
 
 ### Level 1: Deflection
 When you would be dealt Physical damage by a Martial Attack, you can use 1 Action to halve any Physical damage it deals. When you do so, you can also spend MP, up to your Mana Spend Limit, to further reduce the Physical damage by 1 per MP spent.<br>

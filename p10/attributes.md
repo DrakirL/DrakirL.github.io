@@ -1,13 +1,21 @@
-# Attributes
+# Predefined Properties
+Each creature has some arbitrarily decided values to describe what they are.<br>
+These are then used to determine other, less arbitrary values.
+
+## Attributes
 Every creature has four different Attributes; Strength, Agility, Will, and Intelligence, expressed as a value between 0 and 5. <br>
-When you create your character, assign each of the following values to a different Attribute: 4, 3, 2, 1 <br>
-(Alternatively, you may just divinde 10 points as you wish (or randomly?), up to 5 in a stat. Or use 4 "d6-1"?) <br>
-The value you have for an attribute determines the basis for your abilities. When comparing creatures' stats to each other, just remember that this system is meant to put "people" and "monstrous creatures" on the same standardized scale. <br>
-*Note: Your attributes will start off great, much better than any commoner, even at level 0. This is to let you act as a heroic adventurer, even at early levels. They will generally NOT increase. That kind of improvement over time is what Skill Points and Experience are for.*
-<br>
-0 | 1 | 2 | 3 | 4 | 5 | 6+
-:---: | :---: | :---: | :---: | :---: 
-"Not better than average" | "Quite decent" | "VERY good" | "Truly great" | "Amazing" | "Legendary"
+0 | 1 | 2 | 3 | 4 | 5 
+:---: | :---: | :---: | :---: | :---: | :---: 
+"Normal" | "Good" | "Impressive" | "Significant" | "Amazing" | "Legendary"
+#### <br>
+
+When you create your character, use one of the following methods to determine its Attributes:
++ Assign each of the following values to a different Attribute of choice: 1, 2, 3, 4.
++ For each Attribute, roll a d20 and set its value to the result divided by 4 (rounded down).
++ Use 20 cards, 10 "zeros" and 10 "ones". Divide into four piles of 5 cards and assign the sum of each pile to a different Attribute.
+#### <br>
+
+*Note: Your attributes will start off great, much better than any commoner, even at "level 0". This is to let you act as a heroic adventurer from the get-go! They will generally NOT increase. That kind of improvement over time is what Experience is for.*<br>
 
 ## Strength
 Your physical power. Used to lift, damage, and withstand force from physical objects and creatures. <br>
@@ -15,55 +23,66 @@ Skills: Athletics, Brawn, Endurance, and Guts. <br>
 Save: Resist effects that would mess you up, inside or outside, by simply toughing them out.
 Other benefits: Your Strength Value contributes to your carrying capacity, Maximum HP, and Martial Might.
 
-## Agility
-Your motorical coordination. Used to move your body or interact with objects with grace or subtelty. <br>
-Skills: Acrobatics, Finesse, Handling, and Stealth. <br>
-Save: Reflexively evade from harmful effects that pass by or burst out in your vicinity.
+### Agility
+Your motorical coordination. Used to move your body or interact with objects with grace or subtelty.<br>
+Skills: Acrobatics, Finesse, Handling, and Stealth.<br>
+Save: Evade threats that suddenly surge past or burst out by dodging out of harms way.<br>
 Other benefits: Your Agility Value contributes to your Defence and Martial Might.
 
-## Will
-Your force of personality. Used to influence, manipulate, and inspire friends and foes alike. <br>
-Skills: Authority, Intuition, Performance, Suggestion. <br>
-Save: Push back against detrimental effects through sheer volition. Also to maintain your Concentration.<br>
-Other benefits: Your Will Value contributes to your Attunement capacity, Maximum MP, and Magic Might.
+### Will
+Your force of personality. Used to influence, manipulate, and inspire friends and foes alike.<br>
+Skills: Authority, Intuition, Performance, Suggestion.<br>
+Save: Push back against being overwhelmed through sheer volition. Also used to maintain Concentration.<br>
+Other benefits: Your Will Value contributes to your attunement capacity, Maximum MP, and Magic Might.
 
-## Intelligence
-Your sharpness of mind. Used to recall information or solve problems with reason or wisdom. <br>
-Skills: Crafting, Lore, Investigation, Medicine. <br>
-Save: Snap out of effects that alter how you percieve your surroundings or your sense of self. <br>
-Other benefits: Your Intelligence Value contributes to your combined Skill Points, "Stress Tolerance", Awareness, and Magic Might.
+### Intelligence
+Your sharpness of mind. Used to recall information or solve problems with reason or wisdom.<br>
+Skills: Crafting, Lore, Investigation, Medicine.<br>
+Save: Snap out of having your senses or your self being altered through realizing something is wrong.<br>
+Other benefits: Your Intellect Value contributes to your Awareness, and Magic Might.
 
-# Derived Values
-A character's Maximum HP (at level 0 without bonuses) is equal to its Size + Strength.<br>
-A character's Maximum MP (at level 0 without bonuses) is equal to its Size + Will.<br>
-A character's combined Skill Points (at level 0 without bonuses) is equal to 4 + its Intelligence. <br>
-A character's Starting Stress is equal to 10 - its Intelligence.<br>
-A character's Death Threshold is equal to its Size + Strength.
-
-## Martial & Magic
-A character's *Martial Might* is equal to 5 + Strength + Agility + Combat Mastery.<br>
-A character's *Magic Might* is equal to 5 + Will + Intelligence + Combat Mastery.
-
-## Defence & Awareness
-A character's Defence is equal to 5 + Agility + Protection + Combat Mastery. (Protection is granted from specific Talents or by wearing armor. If you have multiple available non-bonus values, you must select one to apply.) <br>
-A character's Awareness is equal to 5 + Intelligence + Perception + Combat Mastery. (Perception is gained from specific talents or by having acute senses? If you have multiple available non-bonus values, you must select one to apply.)
-
-## Sizing
+## Size
 Each creature has a predefined Size that determines how much space it takes up.<br>
+A player should be Medium.<br>
 Size | Board Space | Value | Examples
 :---|:---|:---|:---
-Tiny | 1x1 | 1 | A shoe, a cats, Pixies
-Small | 1x1 | 2 | Dogs, and Goblins
-Medium | 1x1 | 3 | Wolves, Humans, and Lesser Demons
-Large | 2x2 | 4 | Horses, Bears, and Trolls
-Huge | 3x3 | 5 | Elephants, Treants, and Giants
-Gargantuan | 4x4 or more | 5 | Krakens, Dragons, and Primordial Titans
+Tiny | 1x1 | 1 | Shoes, Cats, Pixies
+Small | 1x1 | 2 | Backpacks, Dogs, and Goblins
+Medium | 1x1 | 3 | Coffins, Wolves, and Humans
+Large | 2x2 | 4 | Carriges, Bears, and Trolls
+Huge | 3x3 | 5 | Trees, Elephants, and Giants
+Gargantuan | 4x4 or more | 5 | Houses, Dragons, and Avatars of Dieties
 ####
 
 A creature's base Reach is equal to their smallest dimension on a battle map.<br>
 A creature's base Throwing Range is equal to four times their reach.<br>
 A player character's base Speed is 4 Paces.<br>
 When a creature or object is used as a weapon without Damage (X) property, its baseline damage is equal to its Size Value.
+
+## Sentience
+Each creature has a predefined level of Sentience, mostly for funsies :)<br>
+A player should be Cognizant.
+*(For non-players it correlates with the number of Actions the creature has)*<br>
+Sentience | Value | Examples
+:---|:---|:---
+Reactive | 1 | Carnivorous Plants
+Primitive | 2 | Mundane Animals
+Cognizant | 3 | Ordinary People 
+Enhanced | 4 | Great Sages?
+Ascendant | 5 | Beings of a higher existance.
+
+# Derived Values
+A creature's Maximum HP (without bonuses) is equal to its Strength + its Size Value.<br>
+A creature's Maximum MP (without bonuses) is equal to its Will + its Sentience Value.<br>
+A creature's Initial Stress is equal to 10 - its Intelligence.
+
+## Might: Martial & Magic
+A creature's *Martial Might* is equal to its Size Value + its Strength + its Agility + its Combat Mastery.<br>
+A creature's *Magic Might* is equal to its Sentience Value + its Will + its Intelligence + its Combat Mastery.
+
+## Defence & Awareness
+A creature's Defence is equal to 10 + the size of its Agility + its Protection + its Level. (Protection is granted from specific Talents or by wearing armor. If you have multiple available non-bonus values, you must select one to apply.)<br>
+A creature's Awareness is equal to 10 + the size of its Intelligence + its Perception + its Level. (Perception is gained from specific talents or by having acute senses? If you have multiple available non-bonus values, you must select one to apply.)
 
 # Skill Descriptions
 The 16 main skills are meant to be used as flexible reference points, with potential results defined for succeeding and/or failing.

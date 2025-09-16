@@ -4,7 +4,6 @@ A Talent may have one or more prerequisites. If your character does not meet all
 Your options to pick from must be one of the follwing:
 + Listed below and of a Level no higher that yours.
 + Listed under "Class Talents" for your main Class and of a Level no higher than yours.
-+ Listed under "Class Talents" for any Class and marked as "Core".
 + Listed under "Class Talents" for any Class and of a Level *lower* than yours.
 
 ## Level 1
@@ -17,12 +16,12 @@ Increase one of your attributes by 1, up to 5.
 Increase your Grade for two different Skills by 1 each, up to 5.
 
 ### Strong Heart
-Increase your Maximum HP by 3.<br>
-Raise your Death Threshold by 2.
+Increase your Maximum HP by 2.<br>
+"gain 1 extra healthbar"? (PHRASING? DETAILS? TOO MUCH?)
 
 ### Strong Mind
-Increase your Maximum MP by 3.<br>
-Lower your Starting Stress by 2.
+Increase your Maximum MP by 2.<br>
+Reduce your Starting Stress by 2.
 
 ### Proficient? *(Repeatable)*
 Gain one new Proficiency, following the restrictions below:<br>
@@ -31,32 +30,60 @@ Gain one new Proficiency, following the restrictions below:<br>
 + To gain "Heavy Armor", you must already have "Light Armor".
 + To gain "Large Shields", you must already have "Small Shields".
 
-### Mage/Magic Initiate?
-Learn 2 Spells and mark them down as Initiate Spells.<br>
-You can cast your Initiate Spells using a focus associated with any Spell List they belong to, even if you aren't proficient with it (PHRASING?).
-
-### Expert Initiate?
-???
-
-### Warrior/Martial Initiate?
+### Martial Initiate
 Choose one type of Advanced Melee Weapon and one type of Advanced Ranged Weapon to mark down as Initiate Weapons.<br>
 You can freely use your Initiate Weapons as though you were Proficient with them, even if you aren't.
 
-### ???
+### Magic Initiate
+Learn any 2 Spells and mark them as Initiate Spells.<br>
+You can freely use focuses to cast your Initiate Spells as though you were proficient with them, even if you aren't.
+
+### Fighting Style
 **Prerequisite:** Class Group (Warrior).<br>
-??? Some form of MP-sink?
+You gain one of the following benefits of your choice:
 
-### Area of Expertise
+#### Dual Wielding
+You can use 1 Action on your turn to make up 2 Martial Attacks, provided each attack properly uses a different weapon.<br>
+After doing so, you can't do so again until you've regained your Actions.
+
+#### Mighty Strikes
+When you make a Martial Attack properly using a weapon wielded in both hands, you can do so with Advantage.<br>
+After doing so, you can't do so again until you've regained your Actions.
+
+#### Sword and Board
+After you've properly used a shield to Attack or Block, you can regain 1 used Action.<br>
+After doing so, you can't do so again until you've regained your Actions.
+
+### Warrior's Spirit
+**Prerequisite:** Class Group (Warrior).<br>
+When you take Physical or Dissonant damage during an Action Scene, you can choose to lose MP instead of HP. (PHRASING? DETAILS?)
+
+### Area of Expertise?
 **Prerequisite:** Class Group (Expert).<br>
-Increase the Grade you have for one Skill to the highest Grade available.<br>
-For each Grade you already had for that Skill, increase your Grade for different Skill by 1. (PHRASING? The intent is to max out one and thinly spread out the overhead across the board)
+Choose one Skill to be your Expertise. The bonus you gain from each Skill Grade for that Skill becomes +3. (PHRASING? DETAILS?)
 
-### Expanded Incantabulary
+### Multitasking?
+**Prerequisite:** Class Group (Expert).<br>
+Provided you are not Encumbered or Burdened, you have an additional Action.
+
+### Expanded Incantabulary *(Repeatable?)*
 **Prerequisite:** Class Group (Mage).<br>
 Learn 3 Spells that all belong to a given Spell List.
 
 ## Level 2
-Moving on up in the world! At this Level, Talents are generally meant to let you enter and capitalize on a specific nieche you're already fit for.
+Moving on up in the world! At this Level, Talents are generally meant to let you enter and capitalize on a specific niche you're already fit for.
+
+### Crushing Blows
+**Prerequisite:** Proficiency (Advanced Melee Weapons).<br>
+When you deal 3 or more? Bludgeoning damage to a creature with a Martial Melee Attack, ???
+
+### Serrating Cuts
+**Prerequisite:** Proficiency (Advanced Melee Weapons).<br>
+When you deal 3 or more? Slashing damage to a creature with a Martial Melee Attack, ???
+
+### Skewering? Stabs
+**Prerequisite:** Proficiency (Advanced Melee Weapons).<br>
+When you deal 3 or more? Piercing damage to a creature with a Martial Melee Attack, ???
 
 ### Light Armor Mastery?
 **Prerequisite:** Proficiency (Light Armor).
@@ -66,12 +93,28 @@ Moving on up in the world! At this Level, Talents are generally meant to let you
 **Prerequisite:** Proficiency (Heavy Armor).
 ???
 
+### Sharpshooter
+**Prerequisite:** Proficiency (Advanced Ranged Weapons).<br>
+When you make a Martial Range Attack properly using a weapon with the *Ranged (X)* property, add a +X/2 bonus to the Test. (PHRASING? DETAILS?)
+
 ### Trigger-Happy
 **Prerequisite:** Proficiency (Advanced Ranged Weapons).<br>
-Your Ranged Martial Attack made properly using a weapon with the "*Loaded (X)*" property are no longer Interruptible.<br>
-You can Interrupt at range by properly using a weapon with the "*Loaded (X)*" property. (PHRASING? DETAILS?)
+Your Martial Range Attack made properly using a weapon with the "*Loaded (X)*" property are no longer Interruptible.<br>
+You can Interrupt at range by properly using a weapon with the "*Ranged (X)*" and "*Loaded (X)*" properties. (PHRASING? DETAILS?)
+
+### ???
+**Prerequisite:** Class Group (Warrior).<br>
+???
+
+### ???
+**Prerequisite:** Class Group (Mage).<br>
+???
 
 ## Level 3
+
+### Controlled Chaos
+**Prerequisite:** You've caused a *Wild Magic Surge* before.
+When you cause a Wild Magic Surge, you may roll on the table twice and choose which result to use.
 
 ## Level 4
 

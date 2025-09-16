@@ -3,22 +3,24 @@ Slippery tricksters evading traps and devestation alike. <br>
 Highly capable mercenaries and true masters of their craft. <br>
 Conniving experts that can find and exploit any weakness in a foe or their plans. <br>
 
-## Bonuses
-**Class Group:** Expert <br>
-**Hit Points per Level:** 2 <br>
-**Mana Points per Level** 2 <br>
-**Skill Points per Level:** 4 <br>
+## Class Properties
+**Class Group:** Expert
 
-## Proficiencies
-**Weapons:** Simple Melee. Simple Ranged. Specific (Pistols)? <br>
-**Armor:** Light. <br>
-**Shields:** None. <br>
-**Focus:** None. <br>
+## Starting Proficiencies
++ **Weapons:** Simple Melee. Simple Ranged. Specific (Pistols).
++ **Armor:** Light.
++ **Shields:** None.
++ **Focus:** None.
+
+## Starting Talents
++ *Sneak Attack!*
++ *Opportunist*
++ *Multitasking* (EARLY?)
 
 ## Starting Knowledge
-**Languages:** Two common.<br>
-**Training:** One occupation. Either one gaming set or one vehicle.<br>
-**Spells:** None.<br>
++ **Languages:** Two common.
++ **Training:** One occupation. Either one gaming set or one vehicle.
++ **Spells:** None.
 
 ## Starting Equipment
 + A Simple Melee Weapon of your choice.
@@ -30,18 +32,6 @@ Conniving experts that can find and exploit any weakness in a foe or their plans
 
 ## Rogue Class Talents
 These are the Talents accessible to the Rogue Class.
-
-### Core: Sneak Attack!
-If you hit a creature with a Martial Attack that has Advantage, you can increase the Physical damage dealt by an amount equal to 1 + your Level.<br>
-After doing so, you can't do so again until you've regained your Actions.
-
-### Core: Opportunist
-You gain Advantage on any Attack you make against a creature in one of the following situations:
- + Your Attack is a Sudden Strike.
- + The target creature is Downed.
- + The target creature is Grappled.
- + You have an allied creature within 5 feet of the target creature on the opposite side from where you are attacking it.
-#### <br>
 
 ### Level 1: Specialized Gig
 Choose a Rogue Subclass. You may count each Talent listed under it count as a Rogue Class Talent.<br>
@@ -61,8 +51,17 @@ Your options are the following:
 
 Pick a Level 1 Talent from your chosen Rogue Subclass.
 
-### Level 1: Multitasking
-Provided you aren't Encumbered, you have 4 Actions to use each Round rather than 3.
+### Level 1: Sneak Attack!
+If you hit a creature with a Martial Attack was made with Advantage, you can increase the Physical damage dealt by an amount equal to 1 + your Level.<br>
+After doing so, you can't do so against the same creature again until you've either finished a Rest or entered a new Action Scene.
+
+### Level 1: Opportunist
+When you make a Martial Attack against a creature, you can do so with Advantage, provided that at least one of the following conditions is being met:
+ + The targeted creature is Downed.
+ + The targeted creature is Grappled.
+ + The targeted creature was unaware of your position.
+ + Your Attack against the target creature is a Sudden Strike.
+ + You have an allied creature within 5 feet of the target creature on the opposite side from where you are attacking it.
 
 ### Level 1: Thinking it Through?
 Choose a Skill to be your Mastered Skill.<br>
