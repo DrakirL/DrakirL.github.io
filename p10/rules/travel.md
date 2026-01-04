@@ -10,22 +10,20 @@ Difficult terrain is a thing. What takes 1 hour to do in normal terrain takes 2 
 Weather might be bad, especially extreme temperatures. This imposes disadvantage on any test made to avoid Exhaustion from overexertion.<br>
 
 ## Mounts & Vehicles
-The number of leagues a creature or vehicle can cover per hour is increased by 1 for each Size it is over Medium. (PHRASING?) <br>
-When a party consisting of travellers of various Sizes, it must stick to the pace of its smallest member. This can be circumvented by riding the larger creatures. (PHRASING?)
+The number of leagues a creature or vehicle can cover per hour is increased by 1 for each Size it is over Medium. (PHRASING?)<br>
+When a party consisting of travellers of various Sizes, it must stick to the pace of its smallest member. This can be circumvented by riding on larger creatures or vehicles. (PHRASING?)
 
 # Carrying Capacity
-Every creature has room to carry equipment with them in an Inventory, which is kept track of through "slots" (PHRASING?). The amount of inventory space a creature has is based on its size (Tiny = 1 Column. Small = 2 Columns. Medium = 3 Columns. Large = 4 Columns. Huge = 5 Columns). A miniscule creature has no "slots". A colossal creature has unlimited slots. <br>
-*Each column has 6 Spaces. The first is free, the rest are numbered 1-5.<br>
-*Each space can only carry 1 item that could be reasonably carried, or up to 10 "petty" items in a single slot.
-<br><br>
-In addition to these general spaces, every creature has 5 additional spaces reserved for the items it is currently wearing.<br>
-Each of these slots is restricted to items of a certain type: Clothes, Armor, Accessories, Containers, and Coins.<br>
+Every creature has room to carry equipment with them in an Inventory, which is kept track of through "slots" placed in a grid with dimensions determined by the creature's Size. A miniscule creature has no slots in its grid, and a colossal creature has unlimited slots. For all other sizes, it has 6 rows and a number of columns equal to the creature's Size Value<br>
+*Each slot can only carry 1 item that could be reasonably carried, or up to 10 "petty" items in a single slot.<br><br>
+
+In addition to these general spaces, every creature has 3 additional spaces reserved for items of a certain type: Clothes, Accessories, and Coins.<br>
 Coins are a special case. You can carry as many as you want in this dedicated slot, provided they are of the "standardized currency".
 
 ## Encumberence
-If a creature is carrying more things than its Strength would allow for, it is Encumbered.<br>
-When an Encumbered creature regains its actions in combat, it must drop enough of its inventory for it to no longer be encumbered and/or use 1 Action to keep its bearings.<br>
-Whilst travelling, an Encumbered creature can't partake in any travelling activities (and/or automatically fail if it tries anyways).
+Each row in a creature's Inventory has a number. If it carries an item in a slot on a row with a number greater than its Strength, it is Encumbered.<br>
+When an Encumbered creature regains its actions in an Action Scene, it must drop enough of its inventory for it to no longer be encumbered and/or use 1 Action to keep its bearings.<br>
+Whilst travelling, an Encumbered creature can't partake in any travelling activities (or automatically fail if it tries anyways).
 
 ## "Used Hands"
 It doesn't matter if or how you are using an item. If it comes with you as you move, it is in your inventory and needs to be accounted for.<br>
