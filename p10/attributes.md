@@ -74,11 +74,12 @@ Ascendant | 5 | Beings of a higher existance.
 # Derived Values
 A creature's Maximum HP (without bonuses) is equal to its Strength + its Size Value.<br>
 A creature's Maximum MP (without bonuses) is equal to its Will + its Sentience Value.<br>
-A creature's Initial Stress is equal to 10 - its Intelligence.
+A creature's Death Threshold is equal to its Level + its Size Value.
+A creature's Standard Stress is equal to 10 - its Sentience Value.
 
 ## Might: Martial & Magic
-A creature's *Martial Might* is equal to its Size Value + its Strength + its Agility + its Combat Mastery.<br>
-A creature's *Magic Might* is equal to its Sentience Value + its Will + its Intelligence + its Combat Mastery.
+A creature's *Martial Might* is equal to 5 + its Size Value + its Skill Bonus + its Strength + its Agility + its Skill Bonus.<br>
+A creature's *Magic Might* is equal to 5 + its Sentience Value + its Skill Bonus + its Will + its Intelligence + its Skill Bonus.
 
 ## Defence & Awareness
 A creature's Defence is equal to 10 + the size of its Agility + its Protection + its Level. (Protection is granted from specific Talents or by wearing armor. If you have multiple available non-bonus values, you must select one to apply.)<br>

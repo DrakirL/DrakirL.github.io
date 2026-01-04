@@ -4,17 +4,16 @@ In situations where we might want to skim over the details, allowing characters 
 
 ## Rests
 A Rest is a prolonged period of time when there are no straineous activities going on that a creature can take no more than once per day.<br>
-After a non-Exhausted creature has rested for at least 1 hour, it regains 1 HP and 1 MP.
+After a creature has rested for at least 1 hour, its Stress is set to equal its Standard Stress. If that creature has no exhaustion, it also regains HP equal to its HP Bonus and MP equal to its MP Bonus.
 
 ### Breaking a Rest
 Taking a Rest is an active choice and if one ends before a benefit can be gained, the opportunity to do so is lost.<br>
 A creature doing any of the following will end its Rest:
 + Making an Attack
 + Making a Save
-+ Making any Test using more than 1 Action? "Boosted" Test?
 + Taking any damage
 + Spending any MP
-+ Travelling a mile, unless fully carried by another creature or vehicle (without driving or steering it).
++ Travelling a league of distance, unless fully carried by another creature or vehicle (without driving or steering it)
 
 ### Long Rests
 If a given Rest lasts for a full day, it counts as a "Long Rest".<br>
@@ -24,9 +23,9 @@ After an Exhausted creature finishes a Long Rest, reduce its Exhaustion by 1.
 ## Food, Water, & Sleep
 Creatures need food, water, and sleep to live properly.<br>
 For each full day that passes for a creature, it should fulfill all of the following criteria:
-+ Eat a ration's worth of food (~5 cc - 5 sc).<br>
-+ Drink a flask's worth of water (~1 cc).<br>
-+ Sleep a night's worth of sleep.<br>
++ Eat a ration's worth of food (~5 cc - 5 sc).
++ Drink a flask's worth of water (~1 cc).
++ Sleep a night's worth of sleep.
 #### <br>
 
 For each of these criteria a creature fails to fulfill for a day, it must succeed on a Difficulty 10 Test of Endurance or gain 1 Exhaustion.

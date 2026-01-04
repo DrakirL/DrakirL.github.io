@@ -4,7 +4,9 @@
 ??? <br>
 
 ## Class Properties
-**Class Group:** Expert
++ **Class Group:** Expert
++ **HP Bonus:** 3
++ **MP Bonus:** 2
 
 ## Starting Proficiencies
 + **Weapons:** Simple Melee. Advanced Melee.
@@ -13,6 +15,7 @@
 + **Focus:** None. <br>
 
 ## Starting Knowledge
++ **Skills:** ???
 + **Languages:** One exotic.
 + **Training:** One education. Either one gaming set or one instrument.
 + **Spells:** None.
@@ -32,17 +35,17 @@ These are the Talents accessible to the Shaman Class.
 ### Level 1: Shamanic Calling?
 Choose a Shaman Subclass. You may count each Talent listed under it count as a Shaman Class Talent.<br>
 Your options are the following:
-+ 
-+ 
-+ 
-+ 
-+ 
-+ 
-+ 
-+ 
-+ 
-+ 
-+ 
++ ?
++ ?
++ ?
++ ?
++ ?
++ ?
++ ?
++ ?
++ ?
++ ?
++ ?
 #### <br>
 
 Pick a Level 1 Talent from your chosen Shaman Subclass.
@@ -52,26 +55,6 @@ Use 1 Action and spend MP, up to your Mana Spend Limit, to either deal 1 Sonic d
 
 ### Level 1: ???
 ???
-### Core: ???
-???
-
-### Level 1: Shamanic Calling?
-Choose a Shaman Subclass. You may count each Talent listed under it count as a Shaman Class Talent.<br>
-Your options are the following:
-+ 
-+ 
-+ 
-+ 
-+ 
-+ 
-+ 
-+ 
-+ 
-+ 
-+ 
-#### <br>
-
-Pick a Level 1 Talent from your chosen Shaman Subclass.
 
 ### Level 1: ???
 ???

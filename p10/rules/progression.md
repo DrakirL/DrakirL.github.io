@@ -4,11 +4,12 @@ After a challenge has been overcome, jot it down as a named Feat and assign it a
 Commonly, defeating a new kind of monster is a Feat worth EXP equal to its Level, and finishing a multi-step quest is a Feat worth EXP equal to the highest EXP value among the challenges that were overcome as part of the process, including anything that has already been named a Feat.
 <br><br>
 
-With every 5 EXP gained, you may pick one new Talent and increase their Grade for one Skill by 1.<br>
-Every 20 EXP gained, your level is increased by 1, up to 5.
+With every 5 EXP gained, you may pick one new Talent.<br>
+After picking 4 talents this way, your level is increased by 1, up to 5.
 
 # Grading Adventures: Levels
-Your experience as an adventurer is represented by your Level; A rough scale meant to show how dangerous of an adventure you could handle and how great the stakes could be if you fail.<br><br>
+Your experience as an adventurer is represented by your Level; A rough scale meant to show how dangerous of an adventure you could handle and how great the stakes could be if you fail.<br>
+(THIS SCALE WILL DETERMINE THE ENTIRE GAME FEEL)<br><br>
 
 Unleveled | Level 1 | Level 2 | Level 3 | Level 4 | Level 5 | Beyond Levels
 :---: | :---: | :---: | :---: | :---: | :---: | :---:
@@ -19,37 +20,36 @@ Could pair up to take down an adventurer | Could defeat two guards at once | Cou
 ####
 
 As a general rule, A level X monster will put up a fair fight against a single level X adventurer.<br>
-Together, two level X adventurers can take down a single level X+1 monster.<br>
-If you want a greater challenge for your party, and/or have a larger party that needs greater threats to be challenged, consider having multiple sets of enemies (1 level 2X = 3 level X = 6 level X/2 = X level 1) and force the players to spread out their efforts? (THIS SCALE WILL DETERMINE THE ENTIRE GAME FEEL)
+Together, two level X adventurers can, with some effort, take down a single level X+1 monster.<br>
+If you want a greater challenge for your party, and/or have a larger party that needs greater threats to be challenged, consider having multiple sets of enemies (1 level X+1 = 3 level X = 5 level X-1) and force the players to expend their efforts through multiple fights or between multiple objectives.
 
-If all actions are used to successfully deal damage, such a fight could easily be over in two rounds.<br>
+If all actions are used to successfully deal damage, such a fight could easily be over in a round or two.<br>
 If you want a greater challenge for your adventuring party, and/or have a larger party that needs greater threats to be challenged, consider having multiple sets of enemies and force the players to spread out their efforts over multiple fights and/or as separate targets in a single fight.
 
 ### Approximate Level-Grading
 If a creature's Level is X, that implies the following about its power:
 + Maximum HP = Size + Att. + HP Bonus * X
 + Maximum MP = Size + Att. + MP Bonus * X
-+ Attack Bonus = ~4 + X
++ Attack Bonus = ~3 + X
 + Defence = ~12 + X
 + Baseline DPR = ~3 + 3 * X
 ####
 
 The HP Bonus is determined by the manner in which creature fights.<br>
 If it relies entirely on its instincts to fight, like most beasts do, the bonus is equal to the value of its Size.<br>
-If it has *learned* how to fight, the bonus is determined by how used they are to feeling pain. Examples: 1 for a child, 2 for a commoner, 3 for a trained guard, 4 for a wild savage, 5 for someone who can't feel pain at all.
-<br><br>
+If it has *learned* how to fight, the bonus is determined by how used they are to feeling pain. Examples: 1 for a child, 2 for a commoner, 3 for a trained guard, 4 for a wild savage, 5 for someone who can't feel pain at all.<br><br>
 
 The MP Bonus is determined by the how in tune the creature is the magic around and within them.<br>
 Examples: 1 for a beast, 2 for a commoner, 3 for a trained caster, 4 for a scholar of magic, 5 for a someone who is intrisicly linked with the weave.
 
 ### "Bosses": Worthy Foes? (APPROPRIATE? BALANCED? NEEDED?)
 Sometimes you have a named opponent with enough narrative importance that you don't want them to go down too fast, even going against a balanced party by itself.<br>
-When you want a single creature alone to be a good challenge for a regular 2-4 player party, you can give it the Aura of a Worthy Foe.
+When you want a single creature alone to be a good challenge for a regular 2-4 player party, you can give it the *"Aura of a Worthy Foe"*.
 <br><br>
 
 The Aura of a Worthy Foe grants it the following benefits:
 + It gains 10 Temporary HP for each player it is opposing when it enters an Action Scene.
-+ While it has no allies in the current Action Scene, it takes two turns each round instead of one.
++ It takes a full turn after each player it is opposing does, refreshed Actions and all.
 
 ### Improvised Damage
 We can use Level Dice to determine the power of situational damage dealt by the environment.<br>
@@ -74,10 +74,14 @@ Regardless of the scale or severity, allow each target to make an appropriate Sa
 + Roll it!
 + On success, congrats! Otherwise, back to step 1 or 2!
 
+### Master a Language
+Spend money and time with a teacher that is fluid with the desired language.
+The Difficulty is equal to 5 times the number of languages you already know.
+
 ### Gain Training
 Spend money and time with a teacher that already has the desired training.
-The Difficulty is equal to 10 + 5 times the amount of Training you already have.
+The Difficulty is equal to 5 times the number of things you already have listed as Training.
 
 ### Learn a Spell
 Spend money and time with a document describing the Spell or a teacher that already knows it.<br>
-End by succeeding on a Test of Magic. The Difficulty is equal to 10 + 5 times the Spell's base cost.
+End by succeeding on a Test of Magic. The Difficulty is equal to 10 + 2 times the Spell's base cost.

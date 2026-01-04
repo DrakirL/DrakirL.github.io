@@ -17,23 +17,23 @@ A player should never be asked to "make a Test" without any relevant context or 
 The words used when a Test is asked for normally specify more details regarding which bonuses are added to the total using established quick-reference terminology (For example: "Test of Acrobatics", "Magic Attack", or "Intelligence Save"), as well as which abilities may interact with it.<br>
 At the very least, every type of Test must imply that a specific Attribute is being tested. You add the value of the tested Attribute to the result.<br>
 
-### Skills
-There are 16 Skills, 4 listed under each Attribute. When you make a Test of Skill (for example a "Test of Brawn", "Test of Lore", or "Test of Intuition"), you treat the Attribute the given Skill is listed under as the specified Attribute and add it to the result as normal.<br>
-You also have a defined Grade for each of your Skills, ranging from 0 to 3. When you make a Test using a given Skill, you add 2 times that Skill Grade to your result.<br>
+### The Skill Bonus
+Every creature has a defined Skill Bonus, normally equal to 1 + its Level.<br>
+There are various situations where is applied is various
 
-### Combat Mastery
-The life of an adventurer is a rough one and fighting is a learned "skill" all on its own. As such, every creature also has a defined Combat Mastery ???<br>
-A creature's Combat Mastery is normally equal to 1 + its Level.
+#### Learned Skills
+There are 16 Skills, 4 listed under each Attribute. When you make a Test of Skill (for example a "Test of Brawn", "Test of Lore", or "Test of Intuition"), you treat the Attribute the given Skill is listed under as the specified Attribute and add it to the result as normal.<br>
+For each creature, each Skill may be marked as "Learned". When you make a Test using a Learned Skill, you add your Skill Bonus to your result.<br>
 
 #### Attacks
 An Attack is a Test made to "score a hit" on a target, the Difficulty of which is equal to its Defence (or Hardness if it's an inanimate object).<br>
-They are declared as either Martial or Magic attacks, letting you choose one of two Attributes to add. Regardless of which attribute is tested, you also add your Combat Mastery to your roll.<br>
+They are declared as either Martial or Magic attacks, letting you choose one of two Attributes to add. Regardless of which attribute is tested, you also add your Skill Bonus to your result.<br>
 A "Martial Attack" is one made using either a weapon, improvised or otherwise, or the attacker's own body. When a creature makes a Martial Attack, it decides whether it counts as a Test of Strength or Agility, unless one is specifically demanded by the weapon being used.<br>
 A "Magic Attack" is one made through casting a spell or using some unique supernatural ability. When a creature makes a Magic Attack, it decides whether it counts as a Test of Will or Intelligence, unless one is specifically demanded by the spell being used.
 
 #### Saves
 A Save is a Test that you are *forced* to make by some external influence. When this "external influence" is a creature, the Difficulty is equal to either its Martial Might or its Magic Might.<br>
-Regardless of which Attribute is tested, you add your Combat Mastery to your roll.
+Regardless of which Attribute is tested, you add your Skill Bonus to your roll.
 
 ## Degrees of Success
 There are situations where the Degree of the result's effectiveness is measured. In these situations, the Degree starts at 1 and is increased by 1 for each increment of 5 the result exceeds the given Difficulty by.<br>
@@ -48,15 +48,15 @@ If a Test would be rolled with both Advantage and Disadvatange as the same time,
 
 ### Training: Occupations, Educations, Vehicles, Games, & Instruments
 Training is one way to easily gain Advantage. If you have any Training in some area, ham it up!<br>
-If you can describe how your training should let you be better at a Test of Skill, you gain Advantage on that Test for free! You need only ask the GM to make sure :) <br>
+If you can describe how your training should let you be better at any Test other than an Attack or Save, you gain Advantage on that Test for free! You need only ask the GM to make sure :) <br>
 *Examples: Gain Advantage on a Test of Performance by playing an instrument you've practiced, on a Test of Handling for controlling a machine you've worked with regularily, or on a Test of Lore regarding a subject you are educated in.*
 
 ## Proficiency
 Sometimes you can be more than just skilled, and sometimes merely being skilled is not enough to gain a benefit or avoid a penalty.
-+ If you lack Proficiency with a of weapon, you can't add your Combat Mastery to any Attack trying to use its properties.
-+ If you lack Proficiency with a of armor, you are Encumbered whilst wearing armor of that type.
-+ If you lack Proficiency with a of shield, you can't use a shield of that type to Block?
-+ If you lack Proficiency with a of focus, you can't add your Combat Mastery to any Spells you cast through that focus.
++ If you lack Proficiency with a weapon, you can't add your Skill Bonus to any Attack trying to use its properties.
++ If you lack Proficiency with a set of armor, you are Encumbered whilst wearing armor of that type.
++ If you lack Proficiency with a shield, you can't use a shield of that type to Block.
++ If you lack Proficiency with a focus, you can't use a focus of that type to cast any Spell.
 
 # Timescales
 To reduce the need for calculations of interpretations, we often measure time in abstract terms:<br>

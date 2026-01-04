@@ -4,29 +4,32 @@ Heralds of the forces of nature themselves. <br>
 ??? <br>
 
 ## Bonuses
-**Class Group:** Mage
++ **Class Group:** Mage
++ **HP Bonus:** 2
++ **MP Bonus:** 3
 
 ## Starting Proficiencies
 + **Weapons:** Simple Melee. Specific (Slings).
 + **Armor:** None.
-+ **Shields:** Small.
++ **Shields:** None.
 + **Focus:** Primal.
 
 ## Starting Knowledge
-+ **Languages:** One Common and One Exotic? "Beast" *(You can speak to animals, though they can't speak back)*?
++ **Skills:** Two of the following: ???
++ **Languages:** "Beast" *(You can speak to animals, though they can't speak back)*.
 + **Training:** Nature. Either Herbalism, Survival, or Folklore.
 + **Spells:** Four Primal.
 
 ## Starting Talents
-+ *Wisdom Passed Down*
++ *Traditional Wisdom*
 + *Wild Shape*
-+ Either *Strong Heart* or *Strong Mind*?
++ Either *Strong Heart* or *Strong Mind*
 
 ## Starting Equipment
 + A Simple Melee Weapon of your choice.
-+ Either a small wooden shield or a sling and a bag containing 20 rocks ("sling bullets").
++ A sling and a bag containing 20 rocks ("sling bullets").
 + A component pouch containing materials worth up to 10 gp.
-+ A Primal Focus of your choice. May be merged with the weapon or worn.
++ A Primal Focus of your choice. May be worn or merged with the weapon.
 
 ## Druid Class Talents
 These are the Talents accessible to the Druid Class.
@@ -49,68 +52,100 @@ Your options are the following:
 
 Pick a Level 1 Talent from your chosen Druid Subclass.
 
-### Level 1: Wisdom Passed Down
-You learn to read the secret signs of the Druids, which are hidden simple descriptive messages made by shaping glyphs into cracks in stones or the bark of living trees. As most accessable places have been found by an experienced druid at some point throughout history, you can expect places of intrigue to have such messages near their entrance or somewhere on the way leading up to it.<br>
+### Level 1: Traditional Wisdom
+You learn to spot and read the secret druidic signs, which are hidden simple descriptive messages made by shaping glyphs out of cracks in stones or the lines in the bark of living trees. As most accessable places of interest have been found by an experienced druid at some point throughout history, you can expect to find such messages near their entrance or somewhere on the way leading up to it.<br>
 *As GM, I beg of you to ask "are there any Druidic Markings here?" from time to time. I will forget to mention them, but they're supposed to be all around and act as a free hint system.*
 
 ### Level 1: Wild Shape
 You learn the forms of three different creatures of your choice; One Small or smaller, one Medium, and one Large or larger. Each form learned this way must be that of an Unlevelled Beast.<br>
 Provided you have no used Actions, you can spend 1 MP on your turn to shape-shift into one of the forms you've learned. Your inventory melds into the new form and can't be accessed, used, or otherwise benefitted from.<br>
-You can remain in the new form for up to an hour or until you enter Death's Door.<br>
 Whilst transformed in this way, the following rules apply:
 + Your appearance, size, and creature type are that of the form's.
 + You use the form's Attributes instead of your own.
-+ You use the form's speeds instead of your own.
-+ You use the form's Grade for each Skill instead of your own.
++ You use the form's Speeds instead of your own.
++ You use the form's Learned Skills instead of your own.
 + You use the form's Defence and Awareness instead of your own.
 + You have only the form's Training and Proficiencies.
 + You have only this Talent and the form's Talents.
-+ You have only the form's physical abilities and senses.
-+ Any items merged into your form count towards your Carrying Capacity.
++ You have only the form's physical capabilities and senses.
++ Any items merged into your form counts towards your Carrying Capacity.
 #### <br>
 
-When you're about to regain your Actions whilst transformed, you must either return to your true form or spend 1 MP to remain transformed and regain 1 HP.<br>
-*In non-Action Scenes, I guess you should still be able to spend MP to regain HP, but it shouldn't be needed to maintain the transformation*
+When you end your turn whilst transformed, you regain 1 HP. Then, you must either return to your true form or spend 1 MP to remain transformed. You must make this choice before you regain any Actions.<br>
+You are also forced to return to your true form if you either enter Death's Door or die outright.
+
+### Level 1: Safari
+**Prerequisite:** *Wild Shape*.<br>
+If you can see a Beast with a Level no higher than your own, you can learn its species' form for your *Wild Shape*, marking it as an Observed Form.<br>
+You can have up to 3 Observed Forms at a time. If you already have 3, you can replace one to learn a new one.
 
 ### Level 1: Connection *(Repeatable)*
-**Prerequisite:** *Wild Shape*<br>
+**Prerequisite:** *Wild Shape*.<br>
 You learn 1 Primal Spell of your choice.<br>
 You learn a new form for your *Wild Shape*. It must be of a beast with a Level no higher than your own.
 
+## Level 2: Speak With Plants?
+**Prerequisite:** *Traditional Wisdom*
+???
+
+## Level 4: Feel it in the winds?
+**Prerequisite:** *Traditional Wisdom*
+???
+
+### Level 5: One with the Wilds
+**Prerequisite:** *Wild Shape* (Known Forms 10+).<br>
+Whilst tranformed by your *Wild Shape*, you can cast any Primal Spell you know without using a Focus.<br>
+You can activate and maintain *Wild Shape* without spending MP. Each round you do so, you regain no HP. (PHRASING?)
+
+## Druid Subclass: Circle of the Elements
+THEME: ???
+
+### Level 1: ???
+Choose an Elemental damage type. Become immune to it?
+
+### Level 2: Primordial Passage?
+Regardless of your form, when you take the Move Action on your turn you can choose to pass through an element to gain one of the following benefits (PHRASING? DETAILS? What are the limits? Time? Distance?):
++ Pass Through Air: You have Fly Speed equal to your Walk Speed.
++ Pass Through Earth: You have Burrow Speed equal to your Walk Speed. Also tremorsense?
++ Pass Through Fire: Your Walk Speed is doubled and your movement can't be Interrupted.
++ Pass Through Water: You have Swim Speed equal to your Walk Speed and can breathe underwater.
+
+### Level 3: One with the Wilds
+**Prerequisite:** *Wild Shape*
+You learn 4 new forms for your *Wild Shape*: an "Air Elemental", an "Earth Elemental", a "Fire Elemental", and a "Water Elemental". (Are these forms Level 3? If they are, that's perfect.)
+
 ## Druid Subclass: Circle of the Moon
-THEME: Morphin' <br>
-**Circle Spells?:** Cure Wounds?, Alter Self, Stoneskin, Gaseous Form?, Polymorph.
+THEME: Morphin'
 
 ### Level 1: Feral Guardian?
-Keep more things during *Wild Shape*? Combat Mastery?
+**Prerequisite:** *Wild Shape*.<br>
+Whenever you spend non-Excess MP to activate or extend your *Wild Shape*, you gain 1 Excess MP?
 
-### Level 1: Rejuvenation
-You have this talent whilst transformed by your *Wild Shape* and can't use it otherwise.<br>
-You can use 1 Action on your turn and expend a Spell Slot to regain HP equal to 1d8 per Rank of the Spell Slot?
+### Level 1: Rejuvenation?
+**Prerequisite:** *Wild Shape*.<br>
+Whenever you spend non-Excess MP to activate or extend your *Wild Shape*, you gain 1 Excess MP?
 
-### Level 2: Thousand Forms? Evolutionary Leap? Metamorphosis?
-The *Alter Self* Spell counts as a Cantrip for you. <br>
-You can even cast it as a Cantrip whilst transformed by your *Wild Shape*. 
+### Level 2: Thousand Forms? Metamorphosis?
+Learn the *Alter Self* Spell. It counts as a Primal Spell for you.
+When you cast the *Alter Self* Spell, its Base Cost is 0.<br>
+You can cast the *Alter Self* Spell whilst transformed by your *Wild Shape*. 
 
 ### Level 3: Elemental Wild Shape? Primordial Shape/Form/Infusion?
-When you use your *Wild Shape*, your may choose one damage type from Acid, Cold, Fire, or Lightning and infuse its energy into the form you assume. <br>
-Your form is Resistant to damage of the type it is infused with. <br>
-When you would deal Bludgeoning, Piercing, or Slashing damage with one of your form's Martial Attacks, you may replace that damage type with the one the form is infused with.
+When you use your *Wild Shape*, your may choose one Elemental damage type and infuse its energy into the form you assume, giving you the following benefits:
++ Any damage you take of the damage type infused into your form is halved.
++ When you deal damage with a Martial Attack, you may change any Physical damage dealt to the type your form is infused with.
 
-### Level 4: Thousand Forms?
-The *???* Spell counts as a Cantrip for you. <br>
-You can even cast it as a Cantrip whilst transformed by your *Wild Shape*. <br>
-<br>
-OR...<br>
-<br>
-Transform into *any* beast with a low enough CR?
+### Level 4: Thousand Forms? Evolutionary Leap?
+???
 
-### Level 5: Herald of the Wilds? True Inner Beast?
-You can use your *Wild Shape* feature an unlimited number of times.
+### Level 5: Inner Beast?
+???
 
 ## Druid Subclass: Circle of the Land
-THEME: Though every land is different, "the Land" is everything we see and know. Why not know it better? <br>
-**Circle Spells?:** Longstrider, Pass without Trace, Speak with Plants, Revelation, Commune with Nature.
+THEME: Though every land is different, "the Land" is everything we see and know. Why not know it better?
+
+### Inherent Properties?
++ **Circle Spells:** The following Spells count as Primal Spells for you: Longstrider, Pass without Trace, Speak with Plants, Revelation, Commune with Nature.
 
 ### Level 1: Land's Champion?
 Choose the kind of land you herald. You gain additional Circle Spells to learn depending on your choice according to the table below:
@@ -135,14 +170,14 @@ No Spell Slot regained this way may be of a Rank higher than half your Level (mi
 You can ignore the effects of Difficult Terrain whilst you are moving through it. <br>
 In addition, ???
 
-### Level 3: Nature's/Natural/Primal Ward?
-When a Beast ot Plant creature would make an Attack against you, it must make a Charisma Save against your Passive Magic Skill. <br>
-On a failed Save, the attacking creature must choose a different target, or the attack automatically misses. <br>
+### Level 3: Warden's Ward
+Whenever a Beast ot Plant creature would make an Attack against you, it must make a Will Save against your Passive Magic Skill.<br>
+On a failed Save, the attacking creature must choose a different target, or the attack automatically misses.<br>
 On a successful Save, the creature is immune to this effect for the day. <br>
 The creature is aware of this effect as soon as it is aware of you.
 
 ### Level 4: Gift of the Wild?
-You may at any point call to mind one Spell from the *Land's Champion* table and cast it as if you knew it as a Circle Spell, expending a Spell Slot as normal. <br>
+You may at any time call to mind one Spell from the *Land's Champion* table and cast it as if you knew it as a Circle Spell, expending a Spell Slot as normal. <br>
 You can use this feature once per Adventure. (PHRASING?)
 
 ### Level 5: Gift of the Wild? Beast Spells? Archdruid?

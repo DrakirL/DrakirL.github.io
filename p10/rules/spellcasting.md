@@ -26,8 +26,8 @@ For Example: *Spectral Weapon* belongs to the Conjuration Spell School, the Arca
 ### Using a Focus
 In order to attempt casting a Spell they know, the caster must use an item recognized as focus for at least one Spell List that the given Spell belongs to.<br><br>
 
-In order to attempt casting a Spell bound to magic item (such as a spell-scroll), the item in question can be used as a focus to do so, provided the item allows it. Whether there are any prerequisites the caster must meet and what those are is determined entirely by the item in question. If you're allowed, your focus proficiencies don't matter.<br>
-Most commonly, a magic item will already have prerequisites defined for if a creature can attune to it and allow only an attuned wielder to use it as a focus to cast its bound Spells.
+In order to attempt casting a Spell bound to magic item (such as a spell-scroll), the item in question can be used as a focus to do so, provided the item allows it. Whether there are any standards the caster must meet and what those are is determined entirely by the item in question. If you're allowed, your focus proficiencies don't matter.<br>
+Most commonly, a magic item will already have its standards defined for if a creature can attune to it and allow only an attuned wielder to use it as a focus to cast its bound Spells.
 
 ## Materials
 If a Spell has a material component, the caster must have access to the listed items in order to begin their attempt to cast that Spell. If the listed items have a defined price, it reflects the combined quality and quantity needed for the material to qualify.<br>
@@ -44,12 +44,17 @@ Each Spell has a defined Base Cost. To successfully complete casting a Spell, an
 If an attempted casting fails for any reason, including if the MP spent on it isn't enough to cover its Base Cost, no MP is spent. Refunds!
 
 ### Casting Together
-If a Spell is being cast within the Reach of a different creature that knows that Spell, it can use 1 Action at any point to join in on the casting. A creature stops being joined in it is Interrupted, following the normal rules for Interrupting the casting of a Spell, or if the caster is ever outside its reach. This does *NOT* Interrupt the original caster.<br>
+If a Spell is being cast within the Reach of a different creature that knows that Spell, it can use 1 Action to join in on the casting at any time before it is finished. A creature stops being joined in it is Interrupted, following the normal rules for Interrupting the casting of a Spell, or if the caster is ever outside its Reach. This does *NOT* Interrupt the original caster.<br>
 When the Casting time is finished, each creature joined in the casting can spend MP in the same way as the caster does, but only the original caster decides the details of how the spell used.
 
 ### Empowerments
 If more MP is spent on casting a Spell, the excess can be used on improving the spell through one or more or its available Empowerments. To use an Empowerment, simply add its listed Cost to the Spell's Base Cost and apply each of their defined modifications to the Spell's effects.<br>
 If an Empowerment has an "X" in its cost, you must choose a whole number value for X when you use the empowerment and use the same value for X in the description of its effect.
+
+## Casting Test
+A "Casting Test" is a Magic Test of Intelligence, only made as part of casting a Spell.<br>
+If a Casting Test fails, the Spell that had it be made fails to resolve, sparing any materials and MP from being used or spent.<br>
+A "Casting Attack" counts as both a Magic Attack (made against defence, affected by range and reach), and a Casting Test (Must use Intelligence, prevents the Spell from resolving on fail).
 
 ## Selecting Targets: Range & Area
 (EXPLANATION PHRASING?)
@@ -69,6 +74,5 @@ After having successfuly cast a Spell, its effects linger for the given duration
 If the spell requires your Concentration to maintain, you start concentrating at the moment the duration starts. If your Concentration on the Spell breaks for any reason, the Spell ends, along with any effects that last for its duration.
 
 ### Concentration
-When a creature begins concentrating on a new thing, whether or not it is a Spell, its current Stress is set to equal its Starting Stress.<br>
-When a Concentrating creature takes any amount of damage, it must add that much to its Stress and make a Will Save against the new value.<br>
-A creature can maintain Concentration on no more than one thing at a time.
+A creature can maintain Concentration on no more than one thing at a time, whether it is a Spell or some other ability.<br>
+After a Concentrating creature takes any amount of damage, it must make a Will Save against its Stress. On a failed Save, the duration of the thing the Concentration is maintained for immidiately ends.

@@ -10,13 +10,13 @@ Difficult terrain is a thing. What takes 1 hour to do in normal terrain takes 2 
 Weather might be bad, especially extreme temperatures. This imposes disadvantage on any test made to avoid Exhaustion from overexertion.<br>
 
 ## Mounts & Vehicles
-The number of leagues a creature or vehicle can cover per hour is increased by 1 for each Size it is over Medium. (PHRASING?) <br>
-When a party consisting of travellers of various Sizes, it must stick to the pace of its smallest member. This can be circumvented by riding the larger creatures. (PHRASING?)
+The number of leagues a creature or vehicle can cover per hour is increased by 1 for each Size it is over Medium. (PHRASING?)<br>
+When a party consisting of travellers of various Sizes, it must stick to the pace of its smallest member. This can be circumvented by riding on larger creatures or vehicles. (PHRASING?)
 
 # Carrying Capacity
 Every creature has room to carry equipment with them in an Inventory, which is kept track of through "slots" placed in a grid with dimensions determined by the creature's Size. A miniscule creature has no slots in its grid, and a colossal creature has unlimited slots. For all other sizes, it has 6 rows and a number of columns equal to the creature's Size Value<br>
-*Each slot can only carry 1 item that could be reasonably carried, or up to 10 "petty" items in a single slot.
-<br><br>
+*Each slot can only carry 1 item that could be reasonably carried, or up to 10 "petty" items in a single slot.<br><br>
+
 In addition to these general spaces, every creature has 3 additional spaces reserved for items of a certain type: Clothes, Accessories, and Coins.<br>
 Coins are a special case. You can carry as many as you want in this dedicated slot, provided they are of the "standardized currency".
 
