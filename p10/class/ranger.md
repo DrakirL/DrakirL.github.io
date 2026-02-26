@@ -40,7 +40,7 @@ Choose a Ranger Subclass. You may count each Talent listed under it count as a R
 Your options are the following:
 + Beastmasters' Conclave
 + Explorers' Conclave
-+ Guerillas' Conclave (Commando?)
++ Guerillas' Conclave
 + Hunters' Conclave
 + Monster Slayers' Conclave
 + Nightstalkers' Conclave
@@ -64,14 +64,14 @@ Level 1 | Level 2 | Level 3 | Level 4 | Level 5
 d4 | d6 | d8 | d10 | d12
 
 ### Level 1: Trailblazer
-Being trained for partaking in great journeys, you gain the following benefits:
-+ Your party's travelling pace is not slowed by Difficult Terrain.
-+ You can partake in up to 2 activities whilst travelling.
-+ You gain Advantage on any Test of Endurance you make to avoid gaining Exhaustion.
-+ You can't become lost except by magical means. (Enforced how?)
+Provided you are nor Encumbered or Burdened whilst travelling, you can do one of the following things as part of your journey:
++ Focus on finding the least cumbersome route, letting party ignore the effects of Difficult Terrain as you're travelling through it.
++ Properly preparing for the outside conditions, granting yourself and up to two other members of your party Advantage on any Test of Endurance made to avoid gaining Exhaustion.
++ Partaking in an Activity no longer than 1 hour. *(Scouting, Foraging, or Researching are suggested, as they would make sense in any outdoors environment and/or on any journey towards a specific destination.)*
 
 ### Level 1: Pathfinder
-As an adept at traversing all types of terrain, you gain the following benefits:
+**Prerequisite:** *Trailblazer*.<br>
+Provided you are not Encumbered or Burdened, you gain the following benefits:
 + Your Walk Speed increases by 1 Pace.
 + You have Climb Speed and Swim Speed equal to your Walk Speed.
 + You can ignore the effects of Difficult Terrain as you're moving through it.
@@ -80,22 +80,20 @@ As an adept at traversing all types of terrain, you gain the following benefits:
 Choose one individual creature to be your Priority Target. You can use its name (or at least a name you've chosen for it) as though it was Training.<br>
 Upon finishing a Rest, you may select a different creature as your Priority Target. You can only have one Priority Target at a time.<br>
 *To clarify, you don't have to know a creature's name. As long as you and the GM know what individual you're referring to, it's all good. The point is that only one individual creature is affected.*<br>
-*NOTE: Having training means you can gain Advantage on Test of Skill, which excludes Attacks and Saves, where the training is relevant. The Test you make as part of your Ranger's Mark feature is neither an Attack or Save, and training would help when trying to spot a creature's weak points. Hint, hint*<br>
+*NOTE: Having training means you can gain Advantage on Tests of Skill, which excludes Attacks and Saves, where the training is relevant. The Test you make as part of your Ranger's Mark feature is neither an Attack or Save, and training would help when trying to spot a creature's weak points. Hint, hint*<br>
 
 ### Level 2: Survival of the Fittest
-**Prerequisite:** *Trailblazer?*.<br>
+**Prerequisite:** *Trailblazer*.<br>
 Upon finishing a Rest while Exhausted, you still regain HP as normal.<br>
 Upon finishing a Rest while not Exhausted, you regain twice as much HP.
 
-### Level 3: Camouflage? Vanishing Tracks? Nature's Veil? ???
-You can use 1 Action on your turn to become Invisible until you use another Action? <br>
-Can't be tracked unless you choose to leave a trail. (Enforced how?) <br>
-Resistance to one or more damage types? Advantage against weather and temperatures? <br>
-*THIS FEATURE NEEDS TO BE UPDATED OR REPLACED!*
+### Level 3: Target Locked?
+**Prerequisite:** *Ranger's Mark*.<br>
+After you successfully Mark a creature with your *Ranger's Mark*, you can regain 1 used Action.
 
 ### Level 4: Unwavering Accuracy
 Provided you aren't Blinded, Deafened, or Incapacitated, you have Blindsight.<br>
-No Attack you make against a creature you detect with this Blindsight can gain Disadvantage.
+If you can detect a target with this Blindsight, no attack you make against it can gain Disadvantage.
 
 ### Level 5: Lethal Precision
 **Prerequisite:** *Ranger's Mark*.<br>
@@ -114,13 +112,19 @@ After doing so, you can't do so again until you've regained your Actions?
 
 ### Level 1: Loyal Friend
 Both you and your Companion gains the following ability:
-+ When an ally that is entirely within your reach takes damage, you can use 1 Action to reduce that damage by half. If you do so, you must also take the resulting damage.
++ When an ally that is entirely within your reach takes damage, you can use 1 Action to reduce that damage by half by taking it in their stead. (PHRASING?)
 
 ### Level 2: Encourange Frenzy? Let Loose?
 ???
 
-### Level 3: ???
-???
+### Level 3: Team Tactics?
+You gain one of the following benefits of your choice:
+
+#### Guardian
+When a creature entirely within your Companion's Reach makes an Attack against you, that attack gains Disadvantage.
+
+#### Pursuer
+When you make an Attack against a creature entirely within your Companion's Reach, that Attack gains Advantage.
 
 ### Level 4: ???
 ???
@@ -129,6 +133,20 @@ Both you and your Companion gains the following ability:
 You and your Companion both learn the *Cure Wounds* and *Restoration* Spells? For each Spell you already knew, you learn any other Spell of your choice.<br>
 Both you and your Companion can Cast the *Cure Wounds* and *Restoration* Spells without using a focus or providing any materials?<br>
 When you cast *Cure Wounds* or *Restoration* on your Companion, its Base Cost is 0.
+
+## Ranger Subclass: Explorer
+THEME: A **TRUE** wanderer.
+
+### Level 1: Favored Terrain? Land Rover?
+You gain one of the following benefits of your choice:
++ Arctic: You gain resistance to Cold damage?
++ Coastal: You have a Swim Speed equal to your Speed?
++ Desert: You gain resistance to Fire damage?
++ Forest: Your awareness is increased by 2.
++ Grassland: Your speed is increased by 1.
++ Mountain: You have a Climb Speed equal to your Speed?
++ Swamp: Moving through non-magical difficult terrain costs you no extra movement?
++ Underdark: You gain Darkvision?
 
 ## Ranger Subclass: Nomad
 THEME: You've always/never belonged nowhere/everywhere/somewhere nearby/somewhere far away. You *exist*, in the most pure sense of the word.

@@ -80,7 +80,6 @@ When you make a Save against taking damage, you can use 1 Action to instead take
 ???
 
 ### Level 4: Elusive
-**Prerequisite:** *Giving the Slip*?<br>
 Provided you aren't Blinded, Deafened, or Incapacitated, no Attack made against you can be made with Advantage.
 
 ### Level 5: Stroke of Luck

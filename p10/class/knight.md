@@ -64,7 +64,7 @@ After you regain HP this way, you can't do so again until you've either finished
 
 ### Level 1: Steeled Resolve
 When you make a Save, you can use any number of Actions to roll a d6 for each used Action and add them to your total.<br>
-If you have a Maneuver Die, you can roll it instead of the d6.
+If you have a Maneuver Die, you may roll that die instead of the d6.
 
 ### Level 1: "More Maneuvers"? *(Repeatable)*
 **Prerequisite:** *Combat Maneuvers*.<br>
@@ -87,7 +87,7 @@ Your Maneuver Die is now a d12.
 
 ### Level 5: Survivor
 **Prerequisite:** *Second Wind*.<br>
-Your Second Wind can be triggered an unlimited number of times. (PHRASING?)
+You can now regain HP using *Second Wind* an unlimited number of times, but no more than once per instance of damage you take.
 
 ### Maneuvers
 
@@ -151,7 +151,7 @@ Modification! Choose an Elemental damage type. The modified weapon now deals dam
 ???
 
 ### Level 2: Quickdraw
-You can use 1 Action on your turn to stow a weapon you're wielding and draw a different weapon. If a weapon drawn this way has the "Loaded (X)" property, you may properly use it to make a Martial Attack as part of the same Action.
+You can use 1 Action on your turn to stow a weapon you're wielding, draw a different weapon, and make a Martial Attack properly using the drawn weapon.
 
 ## Knight Subclass: Banneret
 THEME: Lead armies across scarred battlefields with the song of hope and volition in their hearts.

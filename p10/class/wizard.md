@@ -60,15 +60,15 @@ Choose one Arcane Spell you know and select it as your Signature Spell. Whenever
 Upon finishing a Rest, you may select a different Arcane Spell you know. You can only have one signature Spell at a time.
 
 ### Level 1: Arcane Sigil?
-**Prerequisite:** Proficiency (Arcane Focus)<br>
+**Prerequisite:** Proficiency (Arcane Focus).<br>
 As you cast an Arcane Spell with a Casting Time no longer than a Minute, you can set its Casting Time to a Minute and store its effect in a glyph?
 
 ### Level 1: Research *(Repeatable)*
 **Prerequisite:** *Frugal Student*.<br>
 You learn 2 Arcane Spells.
 
-### Level 2: Focused Intent?
-During a Rest, you can ???<br>
+### Level 2: Focused Intent
+During a Rest, you can focus you mind to intentionally draw strength from the ambiant mana of your surroundings.<br>
 Upon finishing the Rest, you gain Excess MP equal to your MP Bonus.
 
 ### Level 3: Improved Spell Mastery
@@ -78,7 +78,7 @@ Whenever you cast your First Signature Spell, its Base Cost is reduced by 1.<br>
 Whenever you cast your Second Signature Spell, its Base Cost is reduced by 2.
 
 ### Level 3: Improved Arcane Sigil?
-**Prerequisite:** *Arcane Sigil*<br>
+**Prerequisite:** *Arcane Sigil*.<br>
 ???
 
 ### Level 5: Perfected Spell Mastery

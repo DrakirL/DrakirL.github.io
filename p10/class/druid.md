@@ -111,7 +111,7 @@ Regardless of your form, when you take the Move Action on your turn you can choo
 + Pass Through Water: You have Swim Speed equal to your Walk Speed and can breathe underwater.
 
 ### Level 3: One with the Wilds
-**Prerequisite:** *Wild Shape*
+**Prerequisite:** *Wild Shape*.
 You learn 4 new forms for your *Wild Shape*: an "Air Elemental", an "Earth Elemental", a "Fire Elemental", and a "Water Elemental". (Are these forms Level 3? If they are, that's perfect.)
 
 ## Druid Subclass: Circle of the Moon

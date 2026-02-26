@@ -64,7 +64,8 @@ To reduce the need for calculations of interpretations, we often measure time in
 + **A Round:** About 10 seconds of real time. It's the time it takes for everyone in an Action Scene to both act on their own and process everything everyone else did.
 + **A Minute:** Long enough to last all the way through an Action Scene, but not much beyond that. If you have reason to strictly count the time passed in an Action Scene, 1 Minute = 6 rounds, including the one when the counting starts.
 + **An Hour:** Long enough to last through multiple Action Scenes, one entire Travelling Scene, a Rest, or an otherwise extended period of time.
-+ **A Day:** 24 hours. The time you have until you have finished your next Rest (or a point where you really *should* have rested if you didn't).
++ **A Shift:** Long enough to last through several hours. Large scale changes in the environment, such as the weather or the "time of day"-lighting condition may change between Shifts. If you have to strictly count the time passed, 1 Shift = 6 hours.
++ **A Day:** About 24 hours of real time. It's the time it takes for a full day-night-cycle to repeat itself and the maximum amount of time until you finish your next Rest (or pass a point where you really *should* have rested if you didn't).
 + **A Year:** Hundreds of days. Enough to not end until well after an adventure is wrapped up, or maybe even multiple adventures.
 
 # Other Math/"Don't know where else to put this"

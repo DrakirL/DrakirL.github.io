@@ -72,30 +72,29 @@ Examples:
 ### Pre-Defined Actions
 
 #### Attack Action
-Make a Martial Attack, using either your body or an object you are holding in either hand (or drawing/picking up as part of the same action).<br>
-It must be either a Melee Attack against a target within your reach, or a Range Attack (which is interruptible).<br>
-When you score a hit with a Martial Attack, you may do one of the following things:
-+ Deal 1* damage to the target. The (normally Physical) type of damage dealt depends is decided based on vibes.
-+ Grapple the target.
-+ Shove the target 1* Pace.
-+ Knock Down the target (provided it is no larger than you).
-+ Knock an object out of the target's grip. (PHRASING?)
-##### <br>
+Make a Martial Attack, using either a part of your body or an object you are holding in either hand (or drawing/picking up as part of the same action).<br>
+It must be either a Melee Attack against a target within your reach, or an Interruptible Range Attack.<br>
+*Extended Range: You can attack any target within the given range (your Throwing Range unless otherwise specified) as normal. You can attack a target outside that range by increasing the Difficulty by 1 for each pace the distance exceeds the range by.*<br><br>
 
-*Extended Range: You can attack any target within the given range (your Throwing Range unless otherwise specified) as normal. You can attack a target outside that range by increasing the Difficulty by 1 for each pace the distance exceeds the range by.*<br>
-*Mix n' Match: You can split degrees of success to perform multiple attack options at once. With a 2nd Degree hit, for example, would let you do TWO of the listed things, provided you don't increase the damage or push distance.*
+When you score a hit with a Martial Attack, you may do one of the following things:
++ Deal X* damage to the target, where X is the Size Value of the **weapon** used. The type of damage dealt is decided contextually, and will thus be Physical most of the time.
++ Shove the target up to X* Paces away from you, where X is your Reach.
++ Knock up to 1* objects out of the target's grip. (PHRASING?)
++ Grapple a target creature with a Size Value no higher than X*, where X is your Size Value.
++ Knock down a target creature with a Size Value no higher than X*, where X is your Size Value.
+##### <br>
+For each additional Degree of Success, you may either cause an additional effect of those listed above, or increase the Degree of Success for **one** of the effects being used. (PHRASING?)
 
 #### Brace Action
 Prepare for the worst and steel your nerves by using any number of Actions.<br>
-Until you've regained the Action, you add a +1 bonus to your Defence, your Awareness, and any Save you make.<br>
-*Yes, this can be stacked with itself.*
+Until the start of your next turn, you add a bonus to your Defence, your Awareness, and any Save you make equal to the number of Actions used.
 
 #### Care Action
-Make a Test of Medicine to try and mitigate the damage a severly hurt creature has taken (Difficulty = 10 + target's Exhaustion). <br>
+Make a Test of Medicine to try and mitigate the damage a severly hurt creature has taken (Difficulty = 10 + target's Exhaustion).<br>
 On a success, the creature is regains up to 1* HP. A creature can't be restored above 0 HP this way.<br>
 This Action is Interruptible.
 
-#### Fetch/Search/Equip/Inventory/Sort? Action
+#### Fetch/Equip/Inventory/Sort? Action
 Stow away and/or grab hold of any number of items you want.<br>
 You may reach into one bag or similar container to stow items into/access items from.
 This Action is Interruptible.
@@ -107,7 +106,7 @@ Your Hiding can end in a *LOT* of different ways, such as you making a noise lou
 *The Test is made with Advantage if your target(s) have not yet been made aware of your presence at all.*
 
 #### Move Action
-Use any number of Actions and pick one of your Speeds. Move through a number of spaces using the properties of your chosen Speed, up to a distance equal to the value of that speed for each Action used. (PHRASING?)<br>
+Use any number of Actions and pick one of your Speeds. Move through a number of spaces using the properties of your chosen Speed, up to a distance (measured in paces) equal to the value of that speed for each Action used. (PHRASING?)<br>
 The movement you spend is dynamically affected by Difficult Terrain etc. (PHRASING? DETAILS?)<br>
 This Action is normally Interruptible, but you can choose to only gain half the normal movement to prevent this.<br>
 You can also make one Test as part of this action to make a tough jump or push through a blockade.<br>
@@ -196,8 +195,8 @@ An Unconcious creature is Blinded, Deafened, and Incapacitated. It also can't re
 
 #### Difficult Terrain
 If at least a quarter of the spaces a creature occupies is within a section of Difficult Terrain, it is affected by said terrain. This can result in a plethora of effects depending on the terrain and the source of its difficulty, but it will at least hinder the creature's movement.<br>
-In order for a creature to move whilst hindered by Difficult Terrain, it must use 2 paces of movement, which may be done over multiple Actions. (PHRASING?)<br>
-*(To clarify: Getting into Difficult Terrain is supposed to be easy. It has no effect until you're already in.)*
+In order for a creature to move whilst hindered by Difficult Terrain, it must use 2 paces of movement to move 1 pace.<br>
+*(To clarify: Getting into Difficult Terrain is supposed to be easy. It has no effect until you're already in. But once you're in, the effects are applied mid movement.)*
 
 #### Falling
 If a creature that isn't suspended by standing on solid ground or the ability to fly, it falls. A falling creature will reach the first stable point directly below it at some point before its turn ends.<br>
@@ -207,7 +206,7 @@ If a creature is landed on by a creature no smaller than itself, the falling dam
 
 #### Holding Breath
 Creatures generally need to breathe. If a creature isn't meeting this need at the end of its turn, it gains 1 Exhaustion.<br>
-If a creature is breathing, it can start holding its breath as part of any other Action by making a Difficulty 0 Test of Endurance, bypassing its need to breathe for up to 1* Rounds (including this one).
+If a creature is breathing, it can start holding its breath as part of any other Action by making a Difficulty 0 Test of Endurance, bypassing its need to breathe for up to 2* Rounds.
 
 #### Downed
 A creature can "down itself" as part of any other action. Smaller "Hitbox". Some Partial Cover can become Full Cover. (PHRASING? DETAILS?)<br>
@@ -230,6 +229,11 @@ Whatever tool or limb is being used to maintain the grapple can't be used for an
 A creature can use 1 Action on its turn to attempt breaking a creatue within its Reach free from being grappled. To do so, it must succeed on a Martial Test against the grappler's Martial Might.<br><br>
 
 A creature can use 1 Action on its turn to attempt throwing a creature it is grappling. To do so, it must succeed on a Martial Test against the grappled creature's Martial Might (Advantage if the thrower is of a greater size than the thrown, Disadvantage if thrower is of a smaller size than the thrown. Difficulty 0 if the thrown is willing). On a success, the creature is thrown in a straight line up to a distance equal to the thrower's Reach times 1*.
+
+#### Riding
+If a creature is riding on another creature, it will move with the ridden creature in whatever ways it moves. The rider can let go/jump off at any time.<br>
+If a ridden creature willingly accepts its rider, the rider can command the ridden creature to use its to act on their turn, usually to move. The Actions are refreshed at the end of the ridden creature's turn as normal.<br>
+A creature cannot ride a creature smaller than itself.
 
 # Combat Equipment
 ???

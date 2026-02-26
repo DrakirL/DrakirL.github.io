@@ -143,7 +143,7 @@ When you make a Martial Range Attack properly using a weapon on your turn, you c
 
 ### Multitasking
 **Prerequisite:** Class Group (Expert).<br>
-Provided you are not Encumbered or Burdened, you have an additional Action.
+Provided you are not Encumbered or Burdened during an Action Scene, you have an additional Action each round.
 
 ### ???
 **Prerequisite:** Class Group (Mage).<br>
@@ -211,7 +211,7 @@ When you cast a Primal Spell you know, you can summon any materials it requires 
 **Prerequisite:** Class Group (Warrior).<br>
 Your maximum HP is doubled.
 
-### Pre-Planning? Preparation Time? Fast Actor?
+### Preparation Time? Fast Actor?
 **Prerequisite:** Class Group (Expert).<br>
 Provided you aren't Incapacitated or on Death's Door when an Action Scene starts, you can take an extra turn before the start of the first Round.
 

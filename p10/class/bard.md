@@ -64,7 +64,7 @@ Whenever you make a Test of Skill using a Skill you haven't learned, you may add
 ### Level 1: The Spirit of Adventure
 **Prerequisite:** Training (Any Musical Instrument).<br>
 During a Rest, you can entertain your party and yourself through music, oration, or some other form of artistic expression.<br>
-Upon finishing the Rest, allies that listened, watched, or partook in your act regain 1 HP and 1 MP. The number of allies that can gain this benefit is equal to your Skill Bonus.
+Upon finishing the Rest, you restore 1 HP and 1 MP to multiple creatures, up to a number equal to your Skill Bonus.
 
 ### Level 2: Greater Aide?
 **Prerequisite:** *The Art of Magic*.<br>

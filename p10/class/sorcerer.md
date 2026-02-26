@@ -93,7 +93,7 @@ After you cast a Spell you know without using a Focus, you gain Excess MP equal 
 ???
 
 ### Level 5: Nexus of Power
-**Prerequisite:** Maximum MP (30+)<br>
+**Prerequisite:** Maximum MP (30+).<br>
 On your turn, you can restore X HP to yourself and gain X MP, where X is equal to half your Maximum MP.<br>
 If this brings you out of Death's Door, you regain any Actions that you had lost because of it. (PHRASING?)<br>
 If this brings you above your Maximum MP, you gain the excess as Excess MP. (PHRASING?)<br>
@@ -107,7 +107,7 @@ THEME: You've been gifted since birth. And so have your forefathers? ???
 
 ### Level 1: Royal Decree?
 You learn the *Command* Spell and can cast it without using a Focus.<br>
-When you cast the *Command* Spell, your order can be up to 3 words long, and any creature will understand your intent as long as it can hear you speak.
+When you cast the *Command* Spell, your order can be up to 3 words long, and a targeted creature will understand your intent as long as it can hear you speak.
 
 ### Level 1: Majestic Presence?
 You can either Charm or Frighten a creature you socially interact with at no cost? (DETAILS? PHRASING?)
@@ -123,7 +123,7 @@ You can either Charm or Frighten a creature you socially interact with at no cos
 ### Level 4: ???
 ???
 
-### Level 5: Ancestral/Ancient? Title
+### Level 5: Ancestral/Ancient Title? Great and Terrible?
 Adopting a title befit a legendary monarch, your regalious aura can be felt by all creatures in your vicinity.<br>
 Choose one of the following benefits:
 
@@ -135,7 +135,7 @@ Creatures are aware of this effect before they target you.
 You are immune to the Charmed and Frightened conditions.<br>
 If a creature is either Charmed or Frightened of you, any Casting Test? you make against it gains Advantage, and any Save it makes against a Spell you cast gains Disadvantage.
 
-## Sorcerer Subclass: Runechilds
+## Sorcerer Subclass: Runechild
 THEME: The weave just sticks to you? ???
 
 ### Inherent Properties

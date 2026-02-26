@@ -11,13 +11,16 @@ After picking 4 talents this way, your level is increased by 1, up to 5.
 Your experience as an adventurer is represented by your Level; A rough scale meant to show how dangerous of an adventure you could handle and how great the stakes could be if you fail.<br>
 (THIS SCALE WILL DETERMINE THE ENTIRE GAME FEEL)<br><br>
 
-Unleveled | Level 1 | Level 2 | Level 3 | Level 4 | Level 5 | Beyond Levels
-:---: | :---: | :---: | :---: | :---: | :---: | :---:
-1 EXP | 1 EXP | 2 EXP | 3 EXP | 4 EXP | 5 EXP | 5 EXP
-Personal Stakes | Local Stakes | Building Stakes | Town Stakes | Regional Stakes | National Stakes | Global Stakes
-Bandits or Wolves | Trained Soldiers or Bears | Elite Mercenaries or Elephants | Death Knights or Dinosaurs | Runesark Giants or Greater Demons | Archangels or Anchient Dragons | Literal Gods or Primordial Titans
-Could pair up to take down an adventurer | Could defeat two guards at once | Could fight back a room full of people | Could take down a squad of mercenaries at once | Could defeat a military fort by itself | Could fight back an entire army | Could take over or destroy the world
-####
+Level | EXP Award | Example Creatures | Scale of the Adventure
+:---|:---|:---|:---
+Unleveled | 1 EXP | Bandits or Wolves | Your life or something personal is at stake!
+Level 1  | 1 EXP | Trained Soldiers or Bears | The lives of you and your party are at stake!
+Level 2  | 2 EXP | Elite Mercenaries or Elephants | A building and the lives of everyone in it are at stake!
+Level 3 | 3 EXP | Death Knights or Dinosaurs | A small village or even a town is at stake!
+Level 4  | 4 EXP | Runesark Giants or Greater Demons | A large city or even an island is at stake!
+Level 5  | 5 EXP | Archangels or Anchient Dragons | A country or even a continent is at stake!
+Beyond Levels | 5 EXP | Literal Gods or Primordial Titans | The world or existance as a whole is at stake!
+#### <br>
 
 As a general rule, A level X monster will put up a fair fight against a single level X adventurer.<br>
 Together, two level X adventurers can, with some effort, take down a single level X+1 monster.<br>
